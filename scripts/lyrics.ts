@@ -1,4 +1,5 @@
-import "dotenv/config";
+// @ts-ignore
+import 'dotenv/config';
 
 interface LyricsResult {
   lyrics: string;
@@ -187,6 +188,10 @@ async function getFromGenius(
     lyrics,
     source: "genius",
   };
+}
+
+async function saveLyricInFile() {
+  //
 }
 
 export async function getLyrics(
