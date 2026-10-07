@@ -194,7 +194,7 @@ async function saveLyricInFile() {
   //
 }
 
-export async function getLyrics(
+export async function requireLyrics(
   songName: string,
 ): Promise<LyricsResult | null> {
   console.log(`Procurando: por ${songName}`);
@@ -230,11 +230,11 @@ export async function getLyrics(
 const songName = process.argv.slice(2).join(" ");
 
 if (!songName) {
-  console.error("Uso: npx tsx lyrics.ts \"Artista - Música\"",);
+  console.error("Uso: npx tsx require-lyrics.ts \"Artista - Música\"",);
   process.exit(1);
 }
 
-const result = await getLyrics(songName);
+const result = await requireLyrics(songName);
 if (!result) process.exit(1);
 
 console.log()
