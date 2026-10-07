@@ -1,100 +1,209 @@
-A Minha Menina
-É Proibido Fumar - Versão remasterizada
-Agora Só Falta Você
-Sangue latino
-É Preciso Dar Um Jeito, Meu Amigo
-Tempo Perdido
-Pro Dia Nascer Feliz
-Tente Outra Vez
-Viagem (Radio Edit)
-Infinita Highway
-Olhar 43
-Mulher de fases
-Proibida Pra Mim (Grazon)
-Malandragem
-Me Chama (feat. Os Ronaldos)
-Veraneio Vascaina
-Balada Do Louco
-O Vagabundo (Giramondo)
-Mestre Jonas
-Alegria, Alegria
-Será
-Anna Júlia
-Camila, Camila
-Metamorfose Ambulante
-Envelheço na cidade
-O Tempo Não Pára
-Assim assado
-Sujeito De Sorte
-Vapor Barato (Ao Vivo)
-Festa de Arromba
-Cavaleiro De Aruanda
-Um Girassol Da Cor Do Seu Cabelo
-Velha roupa colorida
-Bichos escrotos
-Fullgás
-Amor Meu Grande Amor
-Gita
-Ouro De Tolo
-Nós vamos invadir sua praia - Remix
-Envelheço na cidade
-Tédio
-Carta aos Missionários
-Regina Let's Go!
-Pânico em S.P.
-Eu Não Matei Joana d'Arc
-Santa Sampa
-Clube Dos Canalhas
-Me Odeie
-Sinceramente
-Até Quando Esperar
-You Don't Know Me
-Ovelha Negra
-Surreal
-Lanterna Dos Afogados
-Equalize
-Toda Forma De Poder
-Podres Poderes
-É uma Partida de Futebol
-Revanche
-Nosso Louco Amor
-Geração Coca-Cola
-Que Pais É Este
-Um Sonho
-Da Lama ao Caos
-Vambora
-Despedida
-Tempos Modernos
-Por Que a Gente é Assim?
-Faroeste Caboclo
-1997
-Respeito É a Lei
-Razões E Emoções
-Morada
-O Anjo Mais Velho (Ao Vivo)
-Luz Dos Olhos
-Surfista Calhorda
-Mundo Animal
-Dia especial
-Meu Sol
-Não Espero Mais
-Minha alma (A paz que eu não quero)
-Mantenha o Respeito
-Lágrimas de Crocodilo
-Eva
-Menina Veneno
-Primeiros Erros (Chove)
-Uma Velha Canção Rock N'Roll
-Vou Morar No Ar
-Bixo da seda
-Panis Et Circenses
-Barrados No Baile - Ao Vivo
-Canção Pra Você Viver Mais
-Roots Bloody Roots
-Como Eu Quero - Live
-Minha Vida E Rock 'N' Roll
-Abre Essas Pernas Pra Mim
-Tempos Difíceis
-Hoje Nós
-I Saw You Saying - That You Say That You Saw
-Aluga-Se
+1. A Minha Menina
+2. É Proibido Fumar - Versão remasterizada
+3. Agora Só Falta Você
+4. Sangue latino
+5. É Preciso Dar Um Jeito, Meu Amigo
+6. Tempo Perdido
+7. Pro Dia Nascer Feliz
+8. Tente Outra Vez
+9. Viagem (Radio Edit)
+10. Infinita Highway
+11. Olhar 43
+12. Mulher de fases
+13. Proibida Pra Mim (Grazon)
+14. Malandragem
+15. Me Chama (feat. Os Ronaldos)
+16. Veraneio Vascaina
+17. Balada Do Louco
+18. O Vagabundo (Giramondo)
+19. Mestre Jonas
+20. Alegria, Alegria
+21. Será
+22. Anna Júlia
+23. Camila, Camila
+24. Metamorfose Ambulante
+25. Envelheço na cidade
+26. O Tempo Não Pára
+27. Assim assado
+28. Sujeito De Sorte
+29. Vapor Barato (Ao Vivo)
+30. Festa de Arromba
+31. Cavaleiro De Aruanda
+32. Um Girassol Da Cor Do Seu Cabelo
+33. Velha roupa colorida
+34. Bichos escrotos
+35. Fullgás
+36. Amor Meu Grande Amor
+37. Gita
+38. Ouro De Tolo
+39. Nós vamos invadir sua praia - Remix
+40. Tédio
+41. Carta aos Missionários
+42. Regina Let's Go!
+43. Pânico em S.P.
+44. Eu Não Matei Joana d'Arc
+45. Santa Sampa
+46. Clube Dos Canalhas
+47. Me Odeie
+48. Sinceramente
+49. Até Quando Esperar
+50. You Don't Know Me
+51. Ovelha Negra
+52. Surreal
+53. Lanterna Dos Afogados
+54. Equalize
+55. Toda Forma De Poder
+56. Podres Poderes
+57. É uma Partida de Futebol
+58. Revanche
+59. Nosso Louco Amor
+60. Geração Coca-Cola
+61. Que Pais É Este
+62. Um Sonho
+63. Da Lama ao Caos
+64. Vambora
+65. Despedida
+66. Tempos Modernos
+67. Por Que a Gente é Assim?
+68. Faroeste Caboclo
+69. 1997
+70. Respeito É a Lei
+71. Razões E Emoções
+72. Morada
+73. O Anjo Mais Velho (Ao Vivo)
+74. Luz Dos Olhos
+75. Surfista Calhorda
+76. Mundo Animal
+77. Dia especial
+78. Meu Sol
+79. Não Espero Mais
+80. Minha alma (A paz que eu não quero)
+81. Mantenha o Respeito
+82. Lágrimas de Crocodilo
+83. Eva
+84. Menina Veneno
+85. Primeiros Erros (Chove)
+86. Uma Velha Canção Rock N'Roll
+87. Vou Morar No Ar
+88. Bixo da seda
+89. Panis Et Circenses
+90. Barrados No Baile - Ao Vivo
+91. Canção Pra Você Viver Mais
+92. Roots Bloody Roots
+93. Como Eu Quero - Live
+94. Minha Vida E Rock 'N' Roll
+95. Abre Essas Pernas Pra Mim
+96. Tempos Difíceis
+97. Hoje Nós
+98. I Saw You Saying - That You Say That You Saw
+99. Aluga-Se
+100. Eu Não Gosto de Ninguém
+101. Ela Roubou Meu Caminhão
+102. Bom É Quando Faz Mal
+103. Meio Psicopata
+104. Tempo Ruim
+105. Pé Na Porta, Soco Na Cara
+106. A mais pedida (feat. Érika Martins)
+107. Me lambe
+108. Eu quero ver o oco
+109. A Mais Pedida - Ao Vivo | Acústico
+110. Reggae do manero - Ao vivo
+111. Aquela
+112. Puteiro em João Pessoa (Roda Viva)
+113. Lugar Ao Sol - Ao Vivo | Acústico
+114. Tora Tora
+115. Opa! Peraí, Caceta
+116. O pão da minha prima
+117. Pitando no Kombão
+118. Bestinha
+119. Esporrei na manivela
+120. Tá querendo desquitar (Ela tá dando)
+121. Sereia da pedreira
+122. Cabeça de bode
+123. Herbocinética
+124. Epitáfio
+125. Pra Dizer Adeus - Ao Vivo
+126. Os Cegos do Castelo - Ao Vivo
+127. É preciso saber viver
+128. Enquanto Houver Sol
+129. Marvin - Ao vivo
+130. Sonífera ilha
+131. Porque Eu Sei Que É Amor
+132. Epitáfio (Trio Acústico)
+133. Porque Eu Sei Que É Amor - Acústico
+134. Nós Estamos Bem
+135. Você é Minha
+136. Gina Superstar
+137. Kgb
+138. Livres Para Escolher
+139. Eu Não Sou Um Bom Lugar
+140. Pra Você Ficar
+141. Esperando para Atravessar a Rua
+142. Provas de Amor
+143. Ser Estranho
+144. Vou Duvidar
+145. Pelo Avesso
+146. A Guerra É Aqui
+147. As Aventuras Do Guitarrista Gourmet Atrás Da Refeição Ideal
+148. Ciúme
+149. Nós vamos invadir sua praia - Avenida
+150. Ciúme - Ao Vivo
+151. Inútil
+152. Rebelde sem causa
+153. Nós Vamos Invadir Sua Praia
+154. Zoraide - Acústico
+155. Ah, Se Eu Fosse Homem... - Acústico
+156. Filha da Puta - Acústico
+157. Inútil - Acústico
+158. Independente Futebol Clube - Acústico
+159. Cada um por Si - Acústico
+160. Jesse Go - Acústico
+161. Rebelde Sem Causa - Acústico
+162. Me Dá um Olá - Acústico
+163. Mim Quer Tocar - Acústico
+164. Maximillian Sheldon - Acústico
+165. Ponto de Ônibus - Ao Vivo
+166. Agora É Tarde - Ao Vivo
+167. Eu Não Sei (Can't Explain) - Ao Vivo
+168. Nada a Declarar - Ao Vivo
+169. Eu Gosto de Mulher - Ao Vivo
+170. Pelado - Ao Vivo
+171. Giselda - Ao Vivo
+172. Nós Vamos Invadir Sua Praia - Ao Vivo
+173. O Mundo Não Para De Girar! (Por Isso Eu Estou Tonto!!)
+174. Mancha
+175. Apresento Mi Amigo!
+176. Boris Ieltsin (Depois de 2 ou 3 Garrafas)
+177. Expulsos Do Bar
+178. O Que Eu Vou Ser Quando Crescer?
+179. Skinhead Girl
+180. Arriba!...Arriba...!
+181. Zé Ninguém
+182. Garoto Podre
+183. Anarkia Oi!
+184. Papai Noel, Velho Batuta
+185. Subúrbio Operário
+186. Amazônia Nunca Mais
+187. Retrocesso
+188. Aids, Pop, Repressão
+189. Lei do Silêncio
+190. SOS País Falido
+191. Gil Goma
+192. Beber Até Morrer
+193. Plano Furado, Pt. 2
+194. Heroína Suicida
+195. Crianças Sem Futuro
+196. Farsa Nacionalista
+197. Só Os Loucos Sabem
+198. Sobremesa
+199. Vamos Fugir
+200. Rádio Love Nacional
+
+https://open.spotify.com/playlist/5Me9UnTwWnPA2FuTgUKzIy
+https://open.spotify.com/intl-pt/album/0HU62E1P8fLUxiFLn1gajG
+https://open.spotify.com/intl-pt/artist/3CfJckVRuukdJSvK3r89yJ
+https://open.spotify.com/intl-pt/artist/3CfJckVRuukdJSvK3r89yJ
+https://open.spotify.com/intl-pt/artist/2euX7vCVnJy3TVEGfc0RCl
+https://open.spotify.com/intl-pt/album/7ftWvjc9Gq6xC5d19lrFqZ
+https://open.spotify.com/playlist/7aa4ympuQrplm0T7vbY9xd
+https://open.spotify.com/intl-pt/artist/5OlITTCPCIxWOa3TEpemuF
