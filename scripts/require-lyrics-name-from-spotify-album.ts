@@ -13,12 +13,14 @@ function extractAlbumId(url: string) {
       throw new Error("A URL não é do Spotify.");
     }
     
-    const [, type, id] = parsedUrl.pathname.split("/");
+    const parts = parsedUrl.pathname.split("/");
+    const albumIndex = parts.indexOf("album");
     
-    if (type !== "album" || !id) {
+    if (albumIndex === -1 || albumIndex === parts.length - 1) {
       throw new Error("A URL precisa apontar para um álbum do Spotify.");
     }
     
+    const id = parts[albumIndex + 1];
     return id;
   } catch {
     throw new Error("URL de álbum do Spotify inválida.");
@@ -56,7 +58,7 @@ async function main() {
     const tracks = await getAlbumTracks(albumId);
     
     for (const track of tracks) {
-      console.log(`${track.title} — ${track.artists.join(", ")}`);
+      console.log(`${track.title.trim()} - ${track.artists.join(", ").trim()}`);
     }
   } catch (error) {
     console.error(`Erro: ${error}`);
