@@ -1,78 +1,60 @@
-# Diretrizes de Definição de Banco de Dados
+# Diretrizes de Banco de Dados
 
-Este documento fornece diretrizes de implementação para o banco de dados do projeto.
+## Padrões de Nomenclatura
 
-## Padrões de Nomenclatura (Naming Conventions)
-
-Todas as entidades físicas devem ser nomeadas em inglês e utilizar o padrão `camelCase`.
+Nomeie entidades físicas em inglês usando `camelCase`.
 
 ### Tabelas e Colunas
 
-* Tabelas: Devem ser substantivos no singular.
+* Tabelas: Substantivos no singular.
 * *Correto:* `user`, `purchaseOrder`, `paymentMethod`
 * *Incorreto:* `users`, `PurchaseOrders`, `payment_methods`
 
-* Colunas: Devem descrever o dado de forma clara, sem repetir o nome da tabela desnecessariamente.
+* Colunas: Descreva o dado de forma clara sem repetir o nome da tabela.
 * *Correto:* `firstName`, `birthDate`, `documentNumber`
 
-* Chaves Primárias (PK): A coluna deve se chamar simplesmente `id`. O nome da *constraint* (restrição física) no
-  banco deve seguir o prefixo `pk` + NomeDaTabela com a primeira letra maiúscula.
-* *Coluna:* `id`
+* Chaves Primárias (PK): A coluna chama-se `id`. A *constraint* usa o prefixo `pk` + NomeDaTabela.
 * *Constraint:* `pkUser`, `pkPurchaseOrder`
 
-* Chaves Estrangeiras (FK): A coluna deve conter o nome da tabela de destino (no singular) com o sufixo `Id`. A
-  *constraint* deve seguir o prefixo `fk` + TabelaOrigem + TabelaDestino.
+* Chaves Estrangeiras (FK): A coluna usa o nome da tabela destino no singular + `Id`. A *constraint* usa o prefixo `fk` + TabelaOrigem + TabelaDestino.
 * *Coluna:* `userId`, `purchaseOrderId`
-* *Constraint:* `fkOrderUser`, `fkPaymentPurchaseOrder`
+* *Constraint:* `fkOrderUser`
 
 ### Índices e Restrições
 
-* Índices (Indexes): Prefixo `idx` + NomeDaTabela + Coluna(s).
-* *Exemplo:* `idxUserEmail`, `idxOrderCreatedAt`
-
-* Restrições Únicas (Unique): Prefixo `uq` + NomeDaTabela + Coluna.
-* *Exemplo:* `uqUserEmail`, `uqProductSku`
-
-* Validações (Check): Prefixo `chk` + NomeDaTabela + Regra.
-* *Exemplo:* `chkOrderTotalAmount` (para garantir que o valor seja > 0).
+* Índices (Indexes): `idx` + NomeDaTabela + Coluna. Ex: `idxUserEmail`.
+* Restrições Únicas (Unique): `uq` + NomeDaTabela + Coluna. Ex: `uqUserEmail`.
+* Validações (Check): `chk` + NomeDaTabela + Regra. Ex: `chkOrderTotalAmount`.
 
 ## Padrões de Auditoria e Rastreabilidade
 
-Para manter um histórico confiável e auditável, o modelo físico deve implementar rastreabilidade em duas camadas: *
-*colunas padrão por tabela e tabelas de log/histórico.
+Implemente rastreabilidade em duas camadas para manter um histórico confiável.
 
-### Camada 1: Colunas Padrão de Auditoria (Em todas as tabelas)
+### Camada 1: Colunas de Auditoria 
 
-Toda tabela que armazena dados transacionais ou de negócio deve conter as seguintes colunas de metadados:
+Toda tabela com dados de negócio deve ter as seguintes colunas:
 
-| Coluna      | Tipo de Dado (Genérico) | Descrição                                                                                                                                |
-|-------------|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| `createdAt` | `TIMESTAMP`             | Data e hora exatas da inserção do registro.                                                                                              |
-| `updatedAt` | `TIMESTAMP`             | Data e hora da última alteração. Deve ser atualizada automaticamente via *Trigger* ou pelo ORM.                                          |
-| `createdBy` | `UUID` ou `INT`         | ID do usuário ou sistema que criou o registro (FK opcional para a tabela `user`).                                                        |
-| `updatedBy` | `UUID` ou `INT`         | ID do usuário ou sistema que modificou o registro pela última vez.                                                                       |
-| `isActive`  | `BOOLEAN`               | Define se o registro está ativo. *Nunca faça Hard Delete (DELETE) em tabelas auditadas, use Soft Delete alterando esta flag para false.* |
-| `deletedAt` | `TIMESTAMP` (Nulo)      | Preenchido apenas quando `isActive` se torna falso, marcando o exato momento da exclusão lógica.                                         |
+| Coluna      | Tipo | Descrição |
+|-------------|------|-----------|
+| `createdAt` | `TIMESTAMP` | Data/hora da inserção. |
+| `updatedAt` | `TIMESTAMP` | Data/hora da última alteração. Atualizada por *Trigger* ou ORM. |
+| `createdBy` | `UUID/INT` | ID de quem criou (FK para `user`). |
+| `updatedBy` | `UUID/INT` | ID de quem modificou. |
+| `isActive`  | `BOOLEAN` | Define se o registro está ativo. Use Soft Delete (alterando esta flag) no lugar de `DELETE`. |
+| `deletedAt` | `TIMESTAMP` | Marcador da exclusão lógica. Preenchido apenas quando `isActive` fica falso. |
 
-### Camada 2: Tabela Central de Logs (Audit Trail)
+### Camada 2: Tabela de Logs (Audit Trail)
 
-Para sistemas que exigem auditoria rigorosa (LGPD/GDPR, sistemas financeiros), as colunas padrão não são suficientes,
-pois você perde o histórico de "como o dado era antes da alteração".
-
-Crie uma tabela central chamada `auditLog` (ou tabelas de histórico separadas, como `userHistory`). A abordagem
-centralizada costuma ser mais fácil de escalar:
+Para sistemas financeiros ou com exigências da LGPD/GDPR, crie uma tabela central `auditLog` ou tabelas de histórico separadas para registrar o estado dos dados antes das alterações.
 
 Estrutura da tabela `auditLog`:
-
 * `id` (PK)
 * `tableName` (Nome da tabela afetada, ex: "purchaseOrder")
-* `recordId` (ID do registro afetado na tabela de origem)
-* `action` (Tipo de ação: "INSERT", "UPDATE", "DELETE")
-* `oldData` (Coluna JSON/JSONB contendo o estado completo do registro ANTES da alteração)
-* `newData` (Coluna JSON/JSONB contendo o estado completo do registro DEPOIS da alteração)
-* `performedBy` (ID do usuário que executou a ação)
-* `performedAt` (Timestamp da ocorrência)
+* `recordId` (ID do registro afetado)
+* `action` ("INSERT", "UPDATE", "DELETE")
+* `oldData` (Estado do registro ANTES da alteração - JSON)
+* `newData` (Estado do registro DEPOIS da alteração - JSON)
+* `performedBy` (ID de quem executou a ação)
+* `performedAt` (Timestamp)
 
-Regra de Ouro da Auditoria: A inserção na tabela `auditLog` deve ser feita, preferencialmente, por meio de *Triggers* (
-Gatilhos) no próprio banco de dados, e não na camada de aplicação (PHP, Java, JS). Isso garante que, mesmo que alguém
-acesse o banco via terminal e faça um `UPDATE` manual, o log será gerado incondicionalmente.
+**Regra de Auditoria**: Insira no `auditLog` preferencialmente via *Triggers* no banco de dados. Isso garante a geração incondicional de logs, independentemente da camada de aplicação.

@@ -1,13 +1,10 @@
 # Regras de Commit
 
-Este documento descreve as regras de commit para o projeto.
-
 ## Padrão de Commits
 
-Utilizamos o padrão [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) para as mensagens de commit. Isso nos ajuda a ter um histórico de commits mais legível e a automatizar a geração de changelogs.
+Utilizamos o padrão [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) para manter o histórico legível e gerar changelogs automaticamente.
 
-O formato geral de uma mensagem de commit é:
-
+Formato:
 ```
 <tipo>[escopo opcional]: <descrição>
 
@@ -16,22 +13,20 @@ O formato geral de uma mensagem de commit é:
 [rodapé opcional]
 ```
 
-### Tipos de Commit
+### Tipos Permitidos
 
-Os seguintes tipos são permitidos:
-
-*   **feat**: Uma nova feature
-*   **fix**: Uma correção de bug
+*   **feat**: Nova feature
+*   **fix**: Correção de bug
 *   **docs**: Mudanças na documentação
-*   **style**: Mudanças que não afetam o significado do código (espaçamento, formatação, etc)
-*   **refactor**: Uma mudança de código que não corrige um bug nem adiciona uma feature
-*   **perf**: Uma mudança de código que melhora a performance
-*   **test**: Adicionando testes ou corrigindo testes existentes
-*   **chore**: Mudanças em build, dependências, etc.
+*   **style**: Mudanças que não afetam o código (espaçamento, formatação)
+*   **refactor**: Mudança que não corrige bug nem adiciona feature
+*   **perf**: Melhoria de performance
+*   **test**: Adição ou correção de testes
+*   **chore**: Mudanças em build, dependências
 
 ## Hooks de Pré-Commit
 
-Antes de cada commit, os seguintes hooks são executados:
+O projeto executa os seguintes hooks antes de cada commit:
 
-1.  **Testes**: Todos os testes do projeto são executados para garantir que nenhuma regressão foi introduzida.
-2.  **Linting da Mensagem de Commit**: A mensagem de commit é validada para garantir que ela segue o padrão Conventional Commits.
+1.  **Testes**: Roda todos os testes para garantir que não há regressões.
+2.  **Linting**: Valida se a mensagem de commit segue o padrão Conventional Commits.
