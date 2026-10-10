@@ -1,54 +1,47 @@
-export interface SpotifyTrack {
-  title: string;
-  artists: string[];
-}
+import {SpotifyApiClient} from '../lib/spotify-api-client.js';
 
 export class SpotifyAlbumService {
-  #extractAlbumId(url: string): string {
-    try {
-      const parsedUrl = new URL(url);
-      
-      if (parsedUrl.hostname !== "open.spotify.com") {
-        throw new Error("A URL não é do Spotify.");
-      }
-      
-      const parts = parsedUrl.pathname.split("/");
-      const albumIndex = parts.indexOf("album");
-      
-      if (albumIndex === -1 || albumIndex === parts.length - 1) {
-        throw new Error("A URL precisa apontar para um álbum do Spotify.");
-      }
-      
-      return parts[albumIndex + 1];
-    } catch {
+  private client = new SpotifyApiClient();
+  
+  public async getAlbumTracks(albumUrl: string) {
+    const albumId = this.client.extractSpotifyId(albumUrl, 'album');
+    if (!albumId) {
       throw new Error("URL de álbum do Spotify inválida.");
     }
-  }
-  
-  public async getAlbumTracks(albumUrl: string): Promise<SpotifyTrack[]> {
-    const albumId = this.#extractAlbumId(albumUrl);
     
-    const response = await fetch(
-      `https://spotify.xwolf.space/api/album/${albumId}`
-    );
-    
-    if (!response.ok) {
-      throw new Error(
-        `Erro na API: ${response.status} ${response.statusText}`
-      );
-    }
-    
-    const data = await response.json();
-    
-    if (!data.success || !data.album?.tracks) {
+    const tracks = await this.client.fetchAlbumTracks(albumId);
+    if (tracks.length === 0) {
       throw new Error("A API não retornou as faixas do álbum.");
     }
     
-    return data.album.tracks.map((track: { title: string, artist: string }) => ({
-      title: track.title.trim(),
-      artists: track.artist
-        .split(",")
-        .map((artist: string) => artist.trim())
-    }));
+    return tracks;
   }
+}
+
+async function main() {
+  const albumUrl = process.argv[2];
+  if (!albumUrl) {
+    console.error("Uso: npx tsx scripts/spotify-album-service.ts <url-do-album>");
+    process.exit(1);
+  }
+  
+  try {
+    const service = new SpotifyAlbumService();
+    const tracks = await service.getAlbumTracks(albumUrl);
+    
+    for (const track of tracks) {
+      console.log(`${track.title} - ${track.artists.join(", ")}`);
+    }
+  } catch (error) {
+    console.error(`Erro: ${error}`);
+    process.exit(1);
+  }
+}
+
+import {fileURLToPath} from 'url';
+
+const isCLI = typeof process !== 'undefined' && process.argv && process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1];
+
+if (isCLI) {
+  main().then();
 }

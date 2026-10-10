@@ -1,6 +1,7 @@
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import {fileURLToPath} from 'url';
+import {SpotifyApiClient} from '../lib/spotify-api-client.js';
 
 interface LyricItem {
   id: number | string;
@@ -17,55 +18,10 @@ interface LyricsListFile {
 }
 
 export class PopulateArtistsService {
+  private client = new SpotifyApiClient();
+  
   private async delay(ms: number) {
     return new Promise(resolve => setTimeout(resolve, ms));
-  }
-  
-  private extractSpotifyId(url: string, type: 'album' | 'playlist'): string | null {
-    try {
-      const parsedUrl = new URL(url);
-      if (parsedUrl.hostname !== "open.spotify.com") return null;
-      const parts = parsedUrl.pathname.split("/");
-      const typeIndex = parts.indexOf(type);
-      if (typeIndex === -1 || typeIndex === parts.length - 1) return null;
-      return parts[typeIndex + 1];
-    } catch {
-      return null;
-    }
-  }
-  
-  private async fetchAlbumTracks(albumId: string): Promise<{ title: string, artists: string }[]> {
-    try {
-      const response = await fetch(`https://spotify.xwolf.space/api/album/${albumId}`);
-      if (!response.ok) return [];
-      const data = await response.json();
-      if (!data.success || !data.album?.tracks) return [];
-      
-      return data.album.tracks.map((track: any) => ({
-        title: track.title.trim(),
-        artists: track.artist.split(",").map((a: string) => a.trim()).join(", ")
-      }));
-    } catch (e) {
-      console.error(`Falha ao buscar álbum ${albumId}:`, e);
-      return [];
-    }
-  }
-
-  private async fetchPlaylistTracks(playlistId: string): Promise<{ title: string, artists: string }[]> {
-    try {
-      const response = await fetch(`https://spotify.xwolf.space/api/playlist/${playlistId}`);
-      if (!response.ok) return [];
-      const data = await response.json();
-      if (!data.success || !data.playlist?.tracks) return [];
-      
-      return data.playlist.tracks.map((track: any) => ({
-        title: track.title.trim(),
-        artists: track.artist.split(",").map((a: string) => a.trim()).join(", ")
-      }));
-    } catch (e) {
-      console.error(`Falha ao buscar playlist ${playlistId}:`, e);
-      return [];
-    }
   }
   
   public async run(directoryPath: string) {
@@ -99,23 +55,23 @@ export class PopulateArtistsService {
           console.log(`Encontrados ${albumUrls.length} álbuns e ${playlistUrls.length} playlists. Iniciando download com delay de 10s...`);
           
           for (const url of albumUrls) {
-            const albumId = this.extractSpotifyId(url, 'album');
+            const albumId = this.client.extractSpotifyId(url, 'album');
             if (albumId) {
               console.log(`Buscando álbum ID: ${albumId}`);
-              const tracks = await this.fetchAlbumTracks(albumId);
-              pool.push(...tracks);
+              const tracks = await this.client.fetchAlbumTracks(albumId);
+              pool.push(...tracks.map(t => ({title: t.title, artists: t.artists.join(", ")})));
               
               console.log(`Aguardando 10 segundos...`);
               await this.delay(10000);
             }
           }
-
+          
           for (const url of playlistUrls) {
-            const playlistId = this.extractSpotifyId(url, 'playlist');
+            const playlistId = this.client.extractSpotifyId(url, 'playlist');
             if (playlistId) {
               console.log(`Buscando playlist ID: ${playlistId}`);
-              const tracks = await this.fetchPlaylistTracks(playlistId);
-              pool.push(...tracks);
+              const tracks = await this.client.fetchPlaylistTracks(playlistId);
+              pool.push(...tracks.map(t => ({title: t.title, artists: t.artists.join(", ")})));
               
               console.log(`Aguardando 10 segundos...`);
               await this.delay(10000);
