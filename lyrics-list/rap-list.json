@@ -15,803 +15,1003 @@
     "lyrics": [
       {
         "id": 98201,
-        "name": "RPB"
+        "name": "RPB",
+        "artists": ""
       },
       {
         "id": 98202,
-        "name": "It's Fine (Luz)"
+        "name": "It's Fine (Luz)",
+        "artists": ""
       },
       {
         "id": 98203,
-        "name": "O QUE SEPARA OS HOMENS DOS MENINOS 2"
+        "name": "O QUE SEPARA OS HOMENS DOS MENINOS 2",
+        "artists": ""
       },
       {
         "id": 98204,
-        "name": "Donas do Plaque"
+        "name": "Donas do Plaque",
+        "artists": ""
       },
       {
         "id": 98205,
-        "name": "DEFENSORES DA ARTE DO GUETO"
+        "name": "DEFENSORES DA ARTE DO GUETO",
+        "artists": ""
       },
       {
         "id": 98206,
-        "name": "PREDESTINADA"
+        "name": "PREDESTINADA",
+        "artists": ""
       },
       {
         "id": 98207,
-        "name": "Poesia Acústica #6 Era uma Vez"
+        "name": "Poesia Acústica #6 Era uma Vez",
+        "artists": ""
       },
       {
         "id": 98208,
-        "name": "Quem é você?"
+        "name": "Quem é você?",
+        "artists": ""
       },
       {
         "id": 98209,
-        "name": "NOVA: Procedimento da rua"
+        "name": "NOVA: Procedimento da rua",
+        "artists": ""
       },
       {
         "id": 98210,
-        "name": "Frágil"
+        "name": "Frágil",
+        "artists": ""
       },
       {
         "id": 98211,
-        "name": "Máquina do Tempo"
+        "name": "Máquina do Tempo",
+        "artists": ""
       },
       {
         "id": 98212,
-        "name": "CAÇA DO TESOURO"
+        "name": "CAÇA DO TESOURO",
+        "artists": ""
       },
       {
         "id": 98213,
-        "name": "Rap da Lealdade"
+        "name": "Rap da Lealdade",
+        "artists": ""
       },
       {
         "id": 98214,
-        "name": "Eliantte"
+        "name": "Eliantte",
+        "artists": ""
       },
       {
         "id": 98215,
-        "name": "Maturidade"
+        "name": "Maturidade",
+        "artists": ""
       },
       {
         "id": 98216,
-        "name": "Beatriz"
+        "name": "Beatriz",
+        "artists": ""
       },
       {
         "id": 98217,
-        "name": "THE BOX MEDLEY 14 (feat. Dudu)"
+        "name": "THE BOX MEDLEY 14 (feat. Dudu)",
+        "artists": ""
       },
       {
         "id": 98218,
-        "name": "Hong Kong"
+        "name": "Hong Kong",
+        "artists": ""
       },
       {
         "id": 98219,
-        "name": "Poesia Acústica #2: Sobre Nós"
+        "name": "Poesia Acústica #2: Sobre Nós",
+        "artists": ""
       },
       {
         "id": 98220,
-        "name": "BACKSTAGE"
+        "name": "BACKSTAGE",
+        "artists": ""
       },
       {
         "id": 98221,
-        "name": "Dum Dum"
+        "name": "Dum Dum",
+        "artists": ""
       },
       {
         "id": 98222,
-        "name": "HATER"
+        "name": "HATER",
+        "artists": ""
       },
       {
         "id": 98223,
-        "name": "Estrela Cadente"
+        "name": "Estrela Cadente",
+        "artists": ""
       },
       {
         "id": 98224,
-        "name": "Segredos e Defeitos"
+        "name": "Segredos e Defeitos",
+        "artists": ""
       },
       {
         "id": 98225,
-        "name": "333"
+        "name": "333",
+        "artists": ""
       },
       {
         "id": 98226,
-        "name": "Talvez você precise de mim"
+        "name": "Talvez você precise de mim",
+        "artists": ""
       },
       {
         "id": 98227,
-        "name": "Músicas de amor nunca mais"
+        "name": "Músicas de amor nunca mais",
+        "artists": ""
       },
       {
         "id": 98228,
-        "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)"
+        "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+        "artists": ""
       },
       {
         "id": 98229,
-        "name": "Poesia Acústica #9 Melhor Forma"
+        "name": "Poesia Acústica #9 Melhor Forma",
+        "artists": ""
       },
       {
         "id": 98230,
-        "name": "Joga Bonito"
+        "name": "Joga Bonito",
+        "artists": ""
       },
       {
         "id": 98231,
-        "name": "Ballena"
+        "name": "Ballena",
+        "artists": ""
       },
       {
         "id": 98232,
-        "name": "Poetas no Topo 5"
+        "name": "Poetas no Topo 5",
+        "artists": ""
       },
       {
         "id": 98233,
-        "name": "War"
+        "name": "War",
+        "artists": ""
       },
       {
         "id": 98234,
-        "name": "Saudade"
+        "name": "Saudade",
+        "artists": ""
       },
       {
         "id": 98235,
-        "name": "Gorilla Roxo"
+        "name": "Gorilla Roxo",
+        "artists": ""
       },
       {
         "id": 98236,
-        "name": "Imprevisto"
+        "name": "Imprevisto",
+        "artists": ""
       },
       {
         "id": 98237,
-        "name": "Cacos De Vidro (sample: Esperar pra Ver)"
+        "name": "Cacos De Vidro (sample: Esperar pra Ver)",
+        "artists": ""
       },
       {
         "id": 98238,
-        "name": "F* F* M*"
+        "name": "F* F* M*",
+        "artists": ""
       },
       {
         "id": 98239,
-        "name": "Gangstar"
+        "name": "Gangstar",
+        "artists": ""
       },
       {
         "id": 98240,
-        "name": "Crack com Mussilon"
+        "name": "Crack com Mussilon",
+        "artists": ""
       },
       {
         "id": 98241,
-        "name": "THE BOX MEDLEY 6"
+        "name": "THE BOX MEDLEY 6",
+        "artists": ""
       },
       {
         "id": 98242,
-        "name": "PENSANDO EM MIM"
+        "name": "PENSANDO EM MIM",
+        "artists": ""
       },
       {
         "id": 98243,
-        "name": "Melhor Agora"
+        "name": "Melhor Agora",
+        "artists": ""
       },
       {
         "id": 98244,
-        "name": "Amina"
+        "name": "Amina",
+        "artists": ""
       },
       {
         "id": 98245,
-        "name": "Planos"
+        "name": "Planos",
+        "artists": ""
       },
       {
         "id": 98246,
-        "name": "Foi assim"
+        "name": "Foi assim",
+        "artists": ""
       },
       {
         "id": 98247,
-        "name": "Isso é Sério"
+        "name": "Isso é Sério",
+        "artists": ""
       },
       {
         "id": 98248,
-        "name": "NEM ERA PRA EU TÁ AQUI (Deus Que Me Escolheu)"
+        "name": "NEM ERA PRA EU TÁ AQUI (Deus Que Me Escolheu)",
+        "artists": ""
       },
       {
         "id": 98249,
-        "name": "SOLTO"
+        "name": "SOLTO",
+        "artists": ""
       },
       {
         "id": 98250,
-        "name": "Kenny G"
+        "name": "Kenny G",
+        "artists": ""
       },
       {
         "id": 98251,
-        "name": "Fuso"
+        "name": "Fuso",
+        "artists": ""
       },
       {
         "id": 98252,
-        "name": "Te Encontrar na Lapa"
+        "name": "Te Encontrar na Lapa",
+        "artists": ""
       },
       {
         "id": 98253,
-        "name": "Acima De Mim Só Deus"
+        "name": "Acima De Mim Só Deus",
+        "artists": ""
       },
       {
         "id": 98254,
-        "name": "Amanhecer"
+        "name": "Amanhecer",
+        "artists": ""
       },
       {
         "id": 98255,
-        "name": "777-666"
+        "name": "777-666",
+        "artists": ""
       },
       {
         "id": 98256,
-        "name": "Van Cleef"
+        "name": "Van Cleef",
+        "artists": ""
       },
       {
         "id": 98257,
-        "name": "Extraordinária"
+        "name": "Extraordinária",
+        "artists": ""
       },
       {
         "id": 98258,
-        "name": "Ilusão"
+        "name": "Ilusão",
+        "artists": ""
       },
       {
         "id": 98259,
-        "name": "NOITE PERFEITA"
+        "name": "NOITE PERFEITA",
+        "artists": ""
       },
       {
         "id": 98260,
-        "name": "Vampiro"
+        "name": "Vampiro",
+        "artists": ""
       },
       {
         "id": 98261,
-        "name": "Deusa"
+        "name": "Deusa",
+        "artists": ""
       },
       {
         "id": 98262,
-        "name": "Imagina esse Cenário"
+        "name": "Imagina esse Cenário",
+        "artists": ""
       },
       {
         "id": 98263,
-        "name": "20 Ligações"
+        "name": "20 Ligações",
+        "artists": ""
       },
       {
         "id": 98264,
-        "name": "Mitsubishi"
+        "name": "Mitsubishi",
+        "artists": ""
       },
       {
         "id": 98265,
-        "name": "Além do Dinheiro"
+        "name": "Além do Dinheiro",
+        "artists": ""
       },
       {
         "id": 98266,
-        "name": "TENTAR SER BREVE 🤷🏾‍♀️"
+        "name": "TENTAR SER BREVE 🤷🏾‍♀️",
+        "artists": ""
       },
       {
         "id": 98267,
-        "name": "É Sal"
+        "name": "É Sal",
+        "artists": ""
       },
       {
         "id": 98268,
-        "name": "Coração de Gelo"
+        "name": "Coração de Gelo",
+        "artists": ""
       },
       {
         "id": 98269,
-        "name": "Poesia Acústica #3: Capricorniana"
+        "name": "Poesia Acústica #3: Capricorniana",
+        "artists": ""
       },
       {
         "id": 98270,
-        "name": "Só me ligar"
+        "name": "Só me ligar",
+        "artists": ""
       },
       {
         "id": 98271,
-        "name": "Luxúria"
+        "name": "Luxúria",
+        "artists": ""
       },
       {
         "id": 98272,
-        "name": "Não Temos Medo"
+        "name": "Não Temos Medo",
+        "artists": ""
       },
       {
         "id": 98273,
-        "name": "Antes"
+        "name": "Antes",
+        "artists": ""
       },
       {
         "id": 98274,
-        "name": "Veterano"
+        "name": "Veterano",
+        "artists": ""
       },
       {
         "id": 98275,
-        "name": "Felina"
+        "name": "Felina",
+        "artists": ""
       },
       {
         "id": 98276,
-        "name": "JAPONÊS"
+        "name": "JAPONÊS",
+        "artists": ""
       },
       {
         "id": 98277,
-        "name": "Da Onde Eu Venho"
+        "name": "Da Onde Eu Venho",
+        "artists": ""
       },
       {
         "id": 98278,
-        "name": "Amor de Fim de Noite"
+        "name": "Amor de Fim de Noite",
+        "artists": ""
       },
       {
         "id": 98279,
-        "name": "XTRANHO"
+        "name": "XTRANHO",
+        "artists": ""
       },
       {
         "id": 98280,
-        "name": "Poesia Acústica 13"
+        "name": "Poesia Acústica 13",
+        "artists": ""
       },
       {
         "id": 98281,
-        "name": "Só Quero Ver"
+        "name": "Só Quero Ver",
+        "artists": ""
       },
       {
         "id": 98282,
-        "name": "TÁ TARDE"
+        "name": "TÁ TARDE",
+        "artists": ""
       },
       {
         "id": 98283,
-        "name": "Quer Voar"
+        "name": "Quer Voar",
+        "artists": ""
       },
       {
         "id": 98284,
-        "name": "Enigma"
+        "name": "Enigma",
+        "artists": ""
       },
       {
         "id": 98285,
-        "name": "Fim de Semana no Rio"
+        "name": "Fim de Semana no Rio",
+        "artists": ""
       },
       {
         "id": 98286,
-        "name": "Artista Genérico"
+        "name": "Artista Genérico",
+        "artists": ""
       },
       {
         "id": 98287,
-        "name": "1993"
+        "name": "1993",
+        "artists": ""
       },
       {
         "id": 98288,
-        "name": "100 Mili"
+        "name": "100 Mili",
+        "artists": ""
       },
       {
         "id": 98289,
-        "name": "LEAL"
+        "name": "LEAL",
+        "artists": ""
       },
       {
         "id": 98290,
-        "name": "Amor Livre - Ao Vivo"
+        "name": "Amor Livre - Ao Vivo",
+        "artists": ""
       },
       {
         "id": 98291,
-        "name": "MEU CEMITÉRIO"
+        "name": "MEU CEMITÉRIO",
+        "artists": ""
       },
       {
         "id": 98292,
-        "name": "Horas Iguais"
+        "name": "Horas Iguais",
+        "artists": ""
       },
       {
         "id": 98293,
-        "name": "Te Amo Disgraça"
+        "name": "Te Amo Disgraça",
+        "artists": ""
       },
       {
         "id": 98294,
-        "name": "Poesia Acústica #11 Nada Mudou"
+        "name": "Poesia Acústica #11 Nada Mudou",
+        "artists": ""
       },
       {
         "id": 98295,
-        "name": "Good Vibe"
+        "name": "Good Vibe",
+        "artists": ""
       },
       {
         "id": 98296,
-        "name": "Conexões de Máfia (feat. Rich The Kid)"
+        "name": "Conexões de Máfia (feat. Rich The Kid)",
+        "artists": ""
       },
       {
         "id": 98297,
-        "name": "Celine"
+        "name": "Celine",
+        "artists": ""
       },
       {
         "id": 98298,
-        "name": "Champagne"
+        "name": "Champagne",
+        "artists": ""
       },
       {
         "id": 98299,
-        "name": "Qual é seu desejo?"
+        "name": "Qual é seu desejo?",
+        "artists": ""
       },
       {
         "id": 98300,
-        "name": "Paypal"
+        "name": "Paypal",
+        "artists": ""
       },
       {
         "id": 98301,
-        "name": "Mun Rá"
+        "name": "Mun Rá",
+        "artists": ""
       },
       {
         "id": 98302,
-        "name": "Rap É Compromisso"
+        "name": "Rap É Compromisso",
+        "artists": ""
       },
       {
         "id": 98303,
-        "name": "Canão Foi Tão Bom"
+        "name": "Canão Foi Tão Bom",
+        "artists": ""
       },
       {
         "id": 98304,
-        "name": "Um Bom Lugar"
+        "name": "Um Bom Lugar",
+        "artists": ""
       },
       {
         "id": 98305,
-        "name": "Respeito É pra Quem Tem"
+        "name": "Respeito É pra Quem Tem",
+        "artists": ""
       },
       {
         "id": 98306,
-        "name": "No Brooklin"
+        "name": "No Brooklin",
+        "artists": ""
       },
       {
         "id": 98307,
-        "name": "Na Zona Sul"
+        "name": "Na Zona Sul",
+        "artists": ""
       },
       {
         "id": 98308,
-        "name": "Cocaína"
+        "name": "Cocaína",
+        "artists": ""
       },
       {
         "id": 98309,
-        "name": "Love Song (A Maior Dor de um Homem)"
+        "name": "Love Song (A Maior Dor de um Homem)",
+        "artists": ""
       },
       {
         "id": 98310,
-        "name": "O Gatilho"
+        "name": "O Gatilho",
+        "artists": ""
       },
       {
         "id": 98311,
-        "name": "Doce Veneno"
+        "name": "Doce Veneno",
+        "artists": ""
       },
       {
         "id": 98312,
-        "name": "The Cypher Deffect - Damassaclan"
+        "name": "The Cypher Deffect - Damassaclan",
+        "artists": ""
       },
       {
         "id": 98313,
-        "name": "Nada Bom"
+        "name": "Nada Bom",
+        "artists": ""
       },
       {
         "id": 98314,
-        "name": "Dás Arábia"
+        "name": "Dás Arábia",
+        "artists": ""
       },
       {
         "id": 98315,
-        "name": "Miss"
+        "name": "Miss",
+        "artists": ""
       },
       {
         "id": 98316,
-        "name": "Se Essa Bunda"
+        "name": "Se Essa Bunda",
+        "artists": ""
       },
       {
         "id": 98317,
-        "name": "Vago"
+        "name": "Vago",
+        "artists": ""
       },
       {
         "id": 98318,
-        "name": "155"
+        "name": "155",
+        "artists": ""
       },
       {
         "id": 98319,
-        "name": "Mãos Ao Alto!"
+        "name": "Mãos Ao Alto!",
+        "artists": ""
       },
       {
         "id": 98320,
-        "name": "Irmão DQbrada!"
+        "name": "Irmão DQbrada!",
+        "artists": ""
       },
       {
         "id": 98321,
-        "name": "Eu Já Era Trap"
+        "name": "Eu Já Era Trap",
+        "artists": ""
       },
       {
         "id": 98322,
-        "name": "Vida Loka, Pt. 1"
+        "name": "Vida Loka, Pt. 1",
+        "artists": ""
       },
       {
         "id": 98323,
-        "name": "Dharma"
+        "name": "Dharma",
+        "artists": ""
       },
       {
         "id": 98324,
-        "name": "Se Eu Pudesse"
+        "name": "Se Eu Pudesse",
+        "artists": ""
       },
       {
         "id": 98325,
-        "name": "penumbra"
+        "name": "penumbra",
+        "artists": ""
       },
       {
         "id": 98326,
-        "name": "Sem Graça"
+        "name": "Sem Graça",
+        "artists": ""
       },
       {
         "id": 98327,
-        "name": "Subirusdoistiozin"
+        "name": "Subirusdoistiozin",
+        "artists": ""
       },
       {
         "id": 98328,
-        "name": "Vida Loka, Pt. 2"
+        "name": "Vida Loka, Pt. 2",
+        "artists": ""
       },
       {
         "id": 98329,
-        "name": "KGL's"
+        "name": "KGL's",
+        "artists": ""
       },
       {
         "id": 98330,
-        "name": "Ficar Rico Esse Ano"
+        "name": "Ficar Rico Esse Ano",
+        "artists": ""
       },
       {
         "id": 98331,
-        "name": "Melhor Dia V - Inesquecível"
+        "name": "Melhor Dia V - Inesquecível",
+        "artists": ""
       },
       {
         "id": 98332,
-        "name": "Vivência Maldita"
+        "name": "Vivência Maldita",
+        "artists": ""
       },
       {
         "id": 98333,
-        "name": "Levanta e Anda"
+        "name": "Levanta e Anda",
+        "artists": ""
       },
       {
         "id": 98334,
-        "name": "Pipa Voada (feat. Emicida)"
+        "name": "Pipa Voada (feat. Emicida)",
+        "artists": ""
       },
       {
         "id": 98335,
-        "name": "A Vida É Desafio"
+        "name": "A Vida É Desafio",
+        "artists": ""
       },
       {
         "id": 98336,
-        "name": "Disposição e Atividade"
+        "name": "Disposição e Atividade",
+        "artists": ""
       },
       {
         "id": 98337,
-        "name": "BOOMBAP PERFEITO"
+        "name": "BOOMBAP PERFEITO",
+        "artists": ""
       },
       {
         "id": 98338,
-        "name": "Agora Sim"
+        "name": "Agora Sim",
+        "artists": ""
       },
       {
         "id": 98339,
-        "name": "Canto Alto"
+        "name": "Canto Alto",
+        "artists": ""
       },
       {
         "id": 98340,
-        "name": "Q SE FODA"
+        "name": "Q SE FODA",
+        "artists": ""
       },
       {
         "id": 98341,
-        "name": "Mainstreet"
+        "name": "Mainstreet",
+        "artists": ""
       },
       {
         "id": 98342,
-        "name": "Negro Drama"
+        "name": "Negro Drama",
+        "artists": ""
       },
       {
         "id": 98343,
-        "name": "Desigualdade Social"
+        "name": "Desigualdade Social",
+        "artists": ""
       },
       {
         "id": 98344,
-        "name": "até sua alma"
+        "name": "até sua alma",
+        "artists": ""
       },
       {
         "id": 98345,
-        "name": "De Novo"
+        "name": "De Novo",
+        "artists": ""
       },
       {
         "id": 98346,
-        "name": "Peso do Mundo"
+        "name": "Peso do Mundo",
+        "artists": ""
       },
       {
         "id": 98347,
-        "name": "Monstro Invisível"
+        "name": "Monstro Invisível",
+        "artists": ""
       },
       {
         "id": 98348,
-        "name": "O Trem"
+        "name": "O Trem",
+        "artists": ""
       },
       {
         "id": 98349,
-        "name": "Krabi"
+        "name": "Krabi",
+        "artists": ""
       },
       {
         "id": 98350,
-        "name": "Parabellum"
+        "name": "Parabellum",
+        "artists": ""
       },
       {
         "id": 98351,
-        "name": "Linhas de Soco"
+        "name": "Linhas de Soco",
+        "artists": ""
       },
       {
         "id": 98352,
-        "name": "Aquário"
+        "name": "Aquário",
+        "artists": ""
       },
       {
         "id": 98353,
-        "name": "Vivência"
+        "name": "Vivência",
+        "artists": ""
       },
       {
         "id": 98354,
-        "name": "Linda e Doida"
+        "name": "Linda e Doida",
+        "artists": ""
       },
       {
         "id": 98355,
-        "name": "O Invasor"
+        "name": "O Invasor",
+        "artists": ""
       },
       {
         "id": 98356,
-        "name": "Acredite em Você"
+        "name": "Acredite em Você",
+        "artists": ""
       },
       {
         "id": 98357,
-        "name": "Se Ela Soubesse..."
+        "name": "Se Ela Soubesse...",
+        "artists": ""
       },
       {
         "id": 98358,
-        "name": "Sintoniza"
+        "name": "Sintoniza",
+        "artists": ""
       },
       {
         "id": 98359,
-        "name": "Conexão Jamaica"
+        "name": "Conexão Jamaica",
+        "artists": ""
       },
       {
         "id": 98360,
-        "name": "Gangorra"
+        "name": "Gangorra",
+        "artists": ""
       },
       {
         "id": 98361,
-        "name": "Marginais Boombap 1"
+        "name": "Marginais Boombap 1",
+        "artists": ""
       },
       {
         "id": 98362,
-        "name": "Marginais Boombap 2"
+        "name": "Marginais Boombap 2",
+        "artists": ""
       },
       {
         "id": 98363,
-        "name": "Não Há"
+        "name": "Não Há",
+        "artists": ""
       },
       {
         "id": 98364,
-        "name": "Praya"
+        "name": "Praya",
+        "artists": ""
       },
       {
         "id": 98365,
-        "name": "Minha Dama"
+        "name": "Minha Dama",
+        "artists": ""
       },
       {
         "id": 98366,
-        "name": "Como Deus É Bom"
+        "name": "Como Deus É Bom",
+        "artists": ""
       },
       {
         "id": 98367,
-        "name": "Salmo 23"
+        "name": "Salmo 23",
+        "artists": ""
       },
       {
         "id": 98368,
-        "name": "Somos Nos (feat. Pedro Qualy)"
+        "name": "Somos Nos (feat. Pedro Qualy)",
+        "artists": ""
       },
       {
         "id": 98369,
-        "name": "Referências"
+        "name": "Referências",
+        "artists": ""
       },
       {
         "id": 98370,
-        "name": "Desestressa"
+        "name": "Desestressa",
+        "artists": ""
       },
       {
         "id": 98371,
-        "name": "Qdo Ce Me Vê"
+        "name": "Qdo Ce Me Vê",
+        "artists": ""
       },
       {
         "id": 98372,
-        "name": "Santa Marta"
+        "name": "Santa Marta",
+        "artists": ""
       },
       {
         "id": 98373,
-        "name": "Infame, Parte II"
+        "name": "Infame, Parte II",
+        "artists": ""
       },
       {
         "id": 98374,
-        "name": "Estilo Vagabundo 3"
+        "name": "Estilo Vagabundo 3",
+        "artists": ""
       },
       {
         "id": 98375,
-        "name": "Rj"
+        "name": "Rj",
+        "artists": ""
       },
       {
         "id": 98376,
-        "name": "O Tempo (Under Sesh #7)"
+        "name": "O Tempo (Under Sesh #7)",
+        "artists": ""
       },
       {
         "id": 98377,
-        "name": "Muleque Zika"
+        "name": "Muleque Zika",
+        "artists": ""
       },
       {
         "id": 98378,
-        "name": "Mais uma Semana"
+        "name": "Mais uma Semana",
+        "artists": ""
       },
       {
         "id": 98379,
-        "name": "Dança Menina"
+        "name": "Dança Menina",
+        "artists": ""
       },
       {
         "id": 98380,
-        "name": "Só Eu Sei"
+        "name": "Só Eu Sei",
+        "artists": ""
       },
       {
         "id": 98381,
-        "name": "Continuação de um sonho"
+        "name": "Continuação de um sonho",
+        "artists": ""
       },
       {
         "id": 98382,
-        "name": "BENÇA"
+        "name": "BENÇA",
+        "artists": ""
       },
       {
         "id": 98383,
-        "name": "Flow Kill Bill"
+        "name": "Flow Kill Bill",
+        "artists": ""
       },
       {
         "id": 98384,
-        "name": "Envolvidão"
+        "name": "Envolvidão",
+        "artists": ""
       },
       {
         "id": 98385,
-        "name": "Piratas Do Universo"
+        "name": "Piratas Do Universo",
+        "artists": ""
       },
       {
         "id": 98386,
-        "name": "Que Nem o Meu Cachorro"
+        "name": "Que Nem o Meu Cachorro",
+        "artists": ""
       },
       {
         "id": 98387,
-        "name": "Aniversário de Sobriedade"
+        "name": "Aniversário de Sobriedade",
+        "artists": ""
       },
       {
         "id": 98388,
-        "name": "Isso Vale Minha Vida"
+        "name": "Isso Vale Minha Vida",
+        "artists": ""
       },
       {
         "id": 98389,
-        "name": "Sitio do Tio Harry"
+        "name": "Sitio do Tio Harry",
+        "artists": ""
       },
       {
         "id": 98390,
-        "name": "O Casamento"
+        "name": "O Casamento",
+        "artists": ""
       },
       {
         "id": 98391,
-        "name": "Eu(S)"
+        "name": "Eu(S)",
+        "artists": ""
       },
       {
         "id": 98392,
-        "name": "The Cypher Deffect 2"
+        "name": "The Cypher Deffect 2",
+        "artists": ""
       },
       {
         "id": 98393,
-        "name": "Click Clack Bum"
+        "name": "Click Clack Bum",
+        "artists": ""
       },
       {
         "id": 98394,
-        "name": "Personnalite"
+        "name": "Personnalite",
+        "artists": ""
       },
       {
         "id": 98395,
-        "name": "Gatinha"
+        "name": "Gatinha",
+        "artists": ""
       },
       {
         "id": 98396,
-        "name": "Oh Shit"
+        "name": "Oh Shit",
+        "artists": ""
       },
       {
         "id": 98397,
-        "name": "Flow Flaflu"
+        "name": "Flow Flaflu",
+        "artists": ""
       },
       {
         "id": 98398,
-        "name": "Bandido da Luz Vermelha"
+        "name": "Bandido da Luz Vermelha",
+        "artists": ""
       },
       {
         "id": 98399,
-        "name": "Quit Cat - Acústico"
+        "name": "Quit Cat - Acústico",
+        "artists": ""
       },
       {
         "id": 98400,
-        "name": "Safadinha"
+        "name": "Safadinha",
+        "artists": ""
       }
     ]
   }

@@ -13,803 +13,1003 @@
     "lyrics": [
       {
         "id": 98950,
-        "name": "VENOM"
+        "name": "VENOM",
+        "artists": ""
       },
       {
         "id": 98951,
-        "name": "OURO ROSE"
+        "name": "OURO ROSE",
+        "artists": ""
       },
       {
         "id": 98952,
-        "name": "ZONA DE PERIGO"
+        "name": "ZONA DE PERIGO",
+        "artists": ""
       },
       {
         "id": 98953,
-        "name": "Cê foi embora"
+        "name": "Cê foi embora",
+        "artists": ""
       },
       {
         "id": 98954,
-        "name": "Promessas de Amor"
+        "name": "Promessas de Amor",
+        "artists": ""
       },
       {
         "id": 98955,
-        "name": "RAUL SEIIIXAS"
+        "name": "RAUL SEIIIXAS",
+        "artists": ""
       },
       {
         "id": 98956,
-        "name": "Desde Mais Novo"
+        "name": "Desde Mais Novo",
+        "artists": ""
       },
       {
         "id": 98957,
-        "name": "Lace"
+        "name": "Lace",
+        "artists": ""
       },
       {
         "id": 98958,
-        "name": "Estrela Cadente"
+        "name": "Estrela Cadente",
+        "artists": ""
       },
       {
         "id": 98959,
-        "name": "VILA MENCK, OSASCO"
+        "name": "VILA MENCK, OSASCO",
+        "artists": ""
       },
       {
         "id": 98960,
-        "name": "BLUNT DE GOIABA"
+        "name": "BLUNT DE GOIABA",
+        "artists": ""
       },
       {
         "id": 98961,
-        "name": "MUN RÁ"
+        "name": "MUN RÁ",
+        "artists": ""
       },
       {
         "id": 98962,
-        "name": "Será"
+        "name": "Será",
+        "artists": ""
       },
       {
         "id": 98963,
-        "name": "Instinto - A COLORS SHOW"
+        "name": "Instinto - A COLORS SHOW",
+        "artists": ""
       },
       {
         "id": 98964,
-        "name": "WARZONE"
+        "name": "WARZONE",
+        "artists": ""
       },
       {
         "id": 98965,
-        "name": "BUG NA MATRIX"
+        "name": "BUG NA MATRIX",
+        "artists": ""
       },
       {
         "id": 98966,
-        "name": "FÉRIAS"
+        "name": "FÉRIAS",
+        "artists": ""
       },
       {
         "id": 98967,
-        "name": "Santo"
+        "name": "Santo",
+        "artists": ""
       },
       {
         "id": 98968,
-        "name": "EDUARDA"
+        "name": "EDUARDA",
+        "artists": ""
       },
       {
         "id": 98969,
-        "name": "Stalker"
+        "name": "Stalker",
+        "artists": ""
       },
       {
         "id": 98970,
-        "name": "BACKSTAGE"
+        "name": "BACKSTAGE",
+        "artists": ""
       },
       {
         "id": 98971,
-        "name": "Gangstar"
+        "name": "Gangstar",
+        "artists": ""
       },
       {
         "id": 98972,
-        "name": "Gabriela"
+        "name": "Gabriela",
+        "artists": ""
       },
       {
         "id": 98973,
-        "name": "NOITE PERFEITA"
+        "name": "NOITE PERFEITA",
+        "artists": ""
       },
       {
         "id": 98974,
-        "name": "Princípios de um Campeão"
+        "name": "Princípios de um Campeão",
+        "artists": ""
       },
       {
         "id": 98975,
-        "name": "TENTAR SER BREVE 🤷🏾‍♀️"
+        "name": "TENTAR SER BREVE 🤷🏾‍♀️",
+        "artists": ""
       },
       {
         "id": 98976,
-        "name": "Sem Sentimento"
+        "name": "Sem Sentimento",
+        "artists": ""
       },
       {
         "id": 98977,
-        "name": "BOM E NOVO"
+        "name": "BOM E NOVO",
+        "artists": ""
       },
       {
         "id": 98978,
-        "name": "Não Temos Medo - Remix"
+        "name": "Não Temos Medo - Remix",
+        "artists": ""
       },
       {
         "id": 98979,
-        "name": "TUDO DE NOVO"
+        "name": "TUDO DE NOVO",
+        "artists": ""
       },
       {
         "id": 98980,
-        "name": "Yeezy Slide REMIX"
+        "name": "Yeezy Slide REMIX",
+        "artists": ""
       },
       {
         "id": 98981,
-        "name": "Amiri"
+        "name": "Amiri",
+        "artists": ""
       },
       {
         "id": 98982,
-        "name": "Só Você"
+        "name": "Só Você",
+        "artists": ""
       },
       {
         "id": 98983,
-        "name": "Talvez você precise de mim"
+        "name": "Talvez você precise de mim",
+        "artists": ""
       },
       {
         "id": 98984,
-        "name": "VAI DESCE BABY"
+        "name": "VAI DESCE BABY",
+        "artists": ""
       },
       {
         "id": 98985,
-        "name": "LOBO MAU"
+        "name": "LOBO MAU",
+        "artists": ""
       },
       {
         "id": 98986,
-        "name": "MÉNAGE"
+        "name": "MÉNAGE",
+        "artists": ""
       },
       {
         "id": 98987,
-        "name": "Isso é Sério"
+        "name": "Isso é Sério",
+        "artists": ""
       },
       {
         "id": 98988,
-        "name": "Só Rock 3"
+        "name": "Só Rock 3",
+        "artists": ""
       },
       {
         "id": 98989,
-        "name": "6X1"
+        "name": "6X1",
+        "artists": ""
       },
       {
         "id": 98990,
-        "name": "THE BOX MEDLEY 12"
+        "name": "THE BOX MEDLEY 12",
+        "artists": ""
       },
       {
         "id": 98991,
-        "name": "REI DOS CAMAROTE"
+        "name": "REI DOS CAMAROTE",
+        "artists": ""
       },
       {
         "id": 98992,
-        "name": "FLORES 💐"
+        "name": "FLORES 💐",
+        "artists": ""
       },
       {
         "id": 98993,
-        "name": "Drive-In"
+        "name": "Drive-In",
+        "artists": ""
       },
       {
         "id": 98994,
-        "name": "Discreto"
+        "name": "Discreto",
+        "artists": ""
       },
       {
         "id": 98995,
-        "name": "MEDICINA"
+        "name": "MEDICINA",
+        "artists": ""
       },
       {
         "id": 98996,
-        "name": "Animais Traidores 2"
+        "name": "Animais Traidores 2",
+        "artists": ""
       },
       {
         "id": 98997,
-        "name": "Van Cleef"
+        "name": "Van Cleef",
+        "artists": ""
       },
       {
         "id": 98998,
-        "name": "Artista Genérico"
+        "name": "Artista Genérico",
+        "artists": ""
       },
       {
         "id": 98999,
-        "name": "LUZ, CAMA E AÇÃO"
+        "name": "LUZ, CAMA E AÇÃO",
+        "artists": ""
       },
       {
         "id": 99000,
-        "name": "YES OR NO"
+        "name": "YES OR NO",
+        "artists": ""
       },
       {
         "id": 99001,
-        "name": "Grama Verde"
+        "name": "Grama Verde",
+        "artists": ""
       },
       {
         "id": 99002,
-        "name": "THE BOX MEDLEY 10"
+        "name": "THE BOX MEDLEY 10",
+        "artists": ""
       },
       {
         "id": 99003,
-        "name": "JAPONÊS"
+        "name": "JAPONÊS",
+        "artists": ""
       },
       {
         "id": 99004,
-        "name": "BRENDA"
+        "name": "BRENDA",
+        "artists": ""
       },
       {
         "id": 99005,
-        "name": "Selvagem"
+        "name": "Selvagem",
+        "artists": ""
       },
       {
         "id": 99006,
-        "name": "ISSO AQUI É BRASIL"
+        "name": "ISSO AQUI É BRASIL",
+        "artists": ""
       },
       {
         "id": 99007,
-        "name": "5ª DIMENSÃO"
+        "name": "5ª DIMENSÃO",
+        "artists": ""
       },
       {
         "id": 99008,
-        "name": "MEU CEMITÉRIO"
+        "name": "MEU CEMITÉRIO",
+        "artists": ""
       },
       {
         "id": 99009,
-        "name": "KEN CARSON"
+        "name": "KEN CARSON",
+        "artists": ""
       },
       {
         "id": 99010,
-        "name": "Fuso - Remix"
+        "name": "Fuso - Remix",
+        "artists": ""
       },
       {
         "id": 99011,
-        "name": "escalade"
+        "name": "escalade",
+        "artists": ""
       },
       {
         "id": 99012,
-        "name": "Me Deixe Leve"
+        "name": "Me Deixe Leve",
+        "artists": ""
       },
       {
         "id": 99013,
-        "name": "POETA ROCKSTAR"
+        "name": "POETA ROCKSTAR",
+        "artists": ""
       },
       {
         "id": 99014,
-        "name": "LIDO COM CRISES"
+        "name": "LIDO COM CRISES",
+        "artists": ""
       },
       {
         "id": 99015,
-        "name": "XTRANHO"
+        "name": "XTRANHO",
+        "artists": ""
       },
       {
         "id": 99016,
-        "name": "COMPASSO"
+        "name": "COMPASSO",
+        "artists": ""
       },
       {
         "id": 99017,
-        "name": "Belieber"
+        "name": "Belieber",
+        "artists": ""
       },
       {
         "id": 99018,
-        "name": "Pente 270!"
+        "name": "Pente 270!",
+        "artists": ""
       },
       {
         "id": 99019,
-        "name": "ÁREA DE RISCO"
+        "name": "ÁREA DE RISCO",
+        "artists": ""
       },
       {
         "id": 99020,
-        "name": "CAM"
+        "name": "CAM",
+        "artists": ""
       },
       {
         "id": 99021,
-        "name": "100% MOLHO"
+        "name": "100% MOLHO",
+        "artists": ""
       },
       {
         "id": 99022,
-        "name": "TaTaTa - Spotify Sessions"
+        "name": "TaTaTa - Spotify Sessions",
+        "artists": ""
       },
       {
         "id": 99023,
-        "name": "MOTIVO"
+        "name": "MOTIVO",
+        "artists": ""
       },
       {
         "id": 99024,
-        "name": "Armamento Russo"
+        "name": "Armamento Russo",
+        "artists": ""
       },
       {
         "id": 99025,
-        "name": "I Just Wanna Go"
+        "name": "I Just Wanna Go",
+        "artists": ""
       },
       {
         "id": 99026,
-        "name": "PRÊMIO MULTISHOW"
+        "name": "PRÊMIO MULTISHOW",
+        "artists": ""
       },
       {
         "id": 99027,
-        "name": "LEVEL UP"
+        "name": "LEVEL UP",
+        "artists": ""
       },
       {
         "id": 99028,
-        "name": "Diva Pop"
+        "name": "Diva Pop",
+        "artists": ""
       },
       {
         "id": 99029,
-        "name": "pela família"
+        "name": "pela família",
+        "artists": ""
       },
       {
         "id": 99030,
-        "name": "Sabor da Mulher Brasileira"
+        "name": "Sabor da Mulher Brasileira",
+        "artists": ""
       },
       {
         "id": 99031,
-        "name": "ROCKSTAR, GANGSTAR"
+        "name": "ROCKSTAR, GANGSTAR",
+        "artists": ""
       },
       {
         "id": 99032,
-        "name": "Empire PDF 1 - Sacolas de Grife"
+        "name": "Empire PDF 1 - Sacolas de Grife",
+        "artists": ""
       },
       {
         "id": 99033,
-        "name": "B Dior"
+        "name": "B Dior",
+        "artists": ""
       },
       {
         "id": 99034,
-        "name": "Zóio"
+        "name": "Zóio",
+        "artists": ""
       },
       {
         "id": 99035,
-        "name": "SLIME FALA CMG"
+        "name": "SLIME FALA CMG",
+        "artists": ""
       },
       {
         "id": 99036,
-        "name": "Regra Nº 5"
+        "name": "Regra Nº 5",
+        "artists": ""
       },
       {
         "id": 99037,
-        "name": "Blindado"
+        "name": "Blindado",
+        "artists": ""
       },
       {
         "id": 99038,
-        "name": "AMIGA DE VERDADE"
+        "name": "AMIGA DE VERDADE",
+        "artists": ""
       },
       {
         "id": 99039,
-        "name": "BAPE ROSA"
+        "name": "BAPE ROSA",
+        "artists": ""
       },
       {
         "id": 99040,
-        "name": "Sozinho"
+        "name": "Sozinho",
+        "artists": ""
       },
       {
         "id": 99041,
-        "name": "Relíkia do Malucão"
+        "name": "Relíkia do Malucão",
+        "artists": ""
       },
       {
         "id": 99042,
-        "name": "Boladão Escutando Orochi"
+        "name": "Boladão Escutando Orochi",
+        "artists": ""
       },
       {
         "id": 99043,
-        "name": "MUNDÃO ESTRANHO"
+        "name": "MUNDÃO ESTRANHO",
+        "artists": ""
       },
       {
         "id": 99044,
-        "name": "O bonde tá no levan"
+        "name": "O bonde tá no levan",
+        "artists": ""
       },
       {
         "id": 99045,
-        "name": "ARMADILHA"
+        "name": "ARMADILHA",
+        "artists": ""
       },
       {
         "id": 99046,
-        "name": "Princesa Minimalista"
+        "name": "Princesa Minimalista",
+        "artists": ""
       },
       {
         "id": 99047,
-        "name": "EFEITO REFLEXO"
+        "name": "EFEITO REFLEXO",
+        "artists": ""
       },
       {
         "id": 99048,
-        "name": "Questão de Tempo"
+        "name": "Questão de Tempo",
+        "artists": ""
       },
       {
         "id": 99049,
-        "name": "Eu sou mais louco que todos vocês"
+        "name": "Eu sou mais louco que todos vocês",
+        "artists": ""
       },
       {
         "id": 99050,
-        "name": "Ambatukam!"
+        "name": "Ambatukam!",
+        "artists": ""
       },
       {
         "id": 99051,
-        "name": "Diss pra Stefany do Lote XV"
+        "name": "Diss pra Stefany do Lote XV",
+        "artists": ""
       },
       {
         "id": 99052,
-        "name": "Teoria da Terra Cumbuca"
+        "name": "Teoria da Terra Cumbuca",
+        "artists": ""
       },
       {
         "id": 99053,
-        "name": "EXO FREESTYLE"
+        "name": "EXO FREESTYLE",
+        "artists": ""
       },
       {
         "id": 99054,
-        "name": "A moderação"
+        "name": "A moderação",
+        "artists": ""
       },
       {
         "id": 99055,
-        "name": "Ageplayer"
+        "name": "Ageplayer",
+        "artists": ""
       },
       {
         "id": 99056,
-        "name": "Mina, eu já gozei"
+        "name": "Mina, eu já gozei",
+        "artists": ""
       },
       {
         "id": 99057,
-        "name": "Pai de Família no Brega Funk"
+        "name": "Pai de Família no Brega Funk",
+        "artists": ""
       },
       {
         "id": 99058,
-        "name": "Ralucagem"
+        "name": "Ralucagem",
+        "artists": ""
       },
       {
         "id": 99059,
-        "name": "Shermie do KOF"
+        "name": "Shermie do KOF",
+        "artists": ""
       },
       {
         "id": 99060,
-        "name": "A Trindade do Shittrap (Macaco Engraçado)"
+        "name": "A Trindade do Shittrap (Macaco Engraçado)",
+        "artists": ""
       },
       {
         "id": 99061,
-        "name": "Aniversário Guanabara"
+        "name": "Aniversário Guanabara",
+        "artists": ""
       },
       {
         "id": 99062,
-        "name": "A inevitável morte do meu pau"
+        "name": "A inevitável morte do meu pau",
+        "artists": ""
       },
       {
         "id": 99063,
-        "name": "Joias da Família"
+        "name": "Joias da Família",
+        "artists": ""
       },
       {
         "id": 99064,
-        "name": "Primavera"
+        "name": "Primavera",
+        "artists": ""
       },
       {
         "id": 99065,
-        "name": "Prefiro Morrer"
+        "name": "Prefiro Morrer",
+        "artists": ""
       },
       {
         "id": 99066,
-        "name": "PROTEÇÃO DIVINA"
+        "name": "PROTEÇÃO DIVINA",
+        "artists": ""
       },
       {
         "id": 99067,
-        "name": "Tomodachi"
+        "name": "Tomodachi",
+        "artists": ""
       },
       {
         "id": 99068,
-        "name": "Máquina do Tempo"
+        "name": "Máquina do Tempo",
+        "artists": ""
       },
       {
         "id": 99069,
-        "name": "Nunca Paro"
+        "name": "Nunca Paro",
+        "artists": ""
       },
       {
         "id": 99070,
-        "name": "Corrida"
+        "name": "Corrida",
+        "artists": ""
       },
       {
         "id": 99071,
-        "name": "Memórias"
+        "name": "Memórias",
+        "artists": ""
       },
       {
         "id": 99072,
-        "name": "AMIGA DA MINHA MULHER"
+        "name": "AMIGA DA MINHA MULHER",
+        "artists": ""
       },
       {
         "id": 99073,
-        "name": "Au Revoir"
+        "name": "Au Revoir",
+        "artists": ""
       },
       {
         "id": 99074,
-        "name": "Carruagem"
+        "name": "Carruagem",
+        "artists": ""
       },
       {
         "id": 99075,
-        "name": "Agradeço"
+        "name": "Agradeço",
+        "artists": ""
       },
       {
         "id": 99076,
-        "name": "Lost in Translation"
+        "name": "Lost in Translation",
+        "artists": ""
       },
       {
         "id": 99077,
-        "name": "Let Me See The Sun"
+        "name": "Let Me See The Sun",
+        "artists": ""
       },
       {
         "id": 99078,
-        "name": "Adeus"
+        "name": "Adeus",
+        "artists": ""
       },
       {
         "id": 99079,
-        "name": "Deixa Doer"
+        "name": "Deixa Doer",
+        "artists": ""
       },
       {
         "id": 99080,
-        "name": "Não Me Faça Falar"
+        "name": "Não Me Faça Falar",
+        "artists": ""
       },
       {
         "id": 99081,
-        "name": "Gostosa Posturada"
+        "name": "Gostosa Posturada",
+        "artists": ""
       },
       {
         "id": 99082,
-        "name": "Poesia Acústica 15"
+        "name": "Poesia Acústica 15",
+        "artists": ""
       },
       {
         "id": 99083,
-        "name": "Oompa Loompa"
+        "name": "Oompa Loompa",
+        "artists": ""
       },
       {
         "id": 99084,
-        "name": "Potranca"
+        "name": "Potranca",
+        "artists": ""
       },
       {
         "id": 99085,
-        "name": "8x5"
+        "name": "8x5",
+        "artists": ""
       },
       {
         "id": 99086,
-        "name": "Malvadeza"
+        "name": "Malvadeza",
+        "artists": ""
       },
       {
         "id": 99087,
-        "name": "Eles São Fracos"
+        "name": "Eles São Fracos",
+        "artists": ""
       },
       {
         "id": 99088,
-        "name": "SALA VERMELHA #31 - Slipmami"
+        "name": "SALA VERMELHA #31 - Slipmami",
+        "artists": ""
       },
       {
         "id": 99089,
-        "name": "PALHAÇADA"
+        "name": "PALHAÇADA",
+        "artists": ""
       },
       {
         "id": 99090,
-        "name": "geada"
+        "name": "geada",
+        "artists": ""
       },
       {
         "id": 99091,
-        "name": "Vai, Slip"
+        "name": "Vai, Slip",
+        "artists": ""
       },
       {
         "id": 99092,
-        "name": "E.P.A.M."
+        "name": "E.P.A.M.",
+        "artists": ""
       },
       {
         "id": 99093,
-        "name": "Sacrifícios de Sangue"
+        "name": "Sacrifícios de Sangue",
+        "artists": ""
       },
       {
         "id": 99094,
-        "name": "Velotrol"
+        "name": "Velotrol",
+        "artists": ""
       },
       {
         "id": 99095,
-        "name": "Cruzadas"
+        "name": "Cruzadas",
+        "artists": ""
       },
       {
         "id": 99096,
-        "name": "Botei a V.U Na Boca Do Povo"
+        "name": "Botei a V.U Na Boca Do Povo",
+        "artists": ""
       },
       {
         "id": 99097,
-        "name": "Vai Tomando"
+        "name": "Vai Tomando",
+        "artists": ""
       },
       {
         "id": 99098,
-        "name": "Dureza Assaltar Uma Loja de Armas"
+        "name": "Dureza Assaltar Uma Loja de Armas",
+        "artists": ""
       },
       {
         "id": 99099,
-        "name": "Não Gosto"
+        "name": "Não Gosto",
+        "artists": ""
       },
       {
         "id": 99100,
-        "name": "Eu Gosto"
+        "name": "Eu Gosto",
+        "artists": ""
       },
       {
         "id": 99101,
-        "name": "Penélope Charmosa"
+        "name": "Penélope Charmosa",
+        "artists": ""
       },
       {
         "id": 99102,
-        "name": "Groupies"
+        "name": "Groupies",
+        "artists": ""
       },
       {
         "id": 99103,
-        "name": "Capa de Revista"
+        "name": "Capa de Revista",
+        "artists": ""
       },
       {
         "id": 99104,
-        "name": "Doutora 3"
+        "name": "Doutora 3",
+        "artists": ""
       },
       {
         "id": 99105,
-        "name": "Não Me Sinto Mal Mais"
+        "name": "Não Me Sinto Mal Mais",
+        "artists": ""
       },
       {
         "id": 99106,
-        "name": "Porsche"
+        "name": "Porsche",
+        "artists": ""
       },
       {
         "id": 99107,
-        "name": "V V S"
+        "name": "V V S",
+        "artists": ""
       },
       {
         "id": 99108,
-        "name": "Pijama"
+        "name": "Pijama",
+        "artists": ""
       },
       {
         "id": 99109,
-        "name": "Qq cê tá insinuando"
+        "name": "Qq cê tá insinuando",
+        "artists": ""
       },
       {
         "id": 99110,
-        "name": "Eu Imagino Tu Dentro da Minha Casa"
+        "name": "Eu Imagino Tu Dentro da Minha Casa",
+        "artists": ""
       },
       {
         "id": 99111,
-        "name": "Causando Acidente"
+        "name": "Causando Acidente",
+        "artists": ""
       },
       {
         "id": 99112,
-        "name": "Tt"
+        "name": "Tt",
+        "artists": ""
       },
       {
         "id": 99113,
-        "name": "Acelerando"
+        "name": "Acelerando",
+        "artists": ""
       },
       {
         "id": 99114,
-        "name": "Tá Onde, Vida?"
+        "name": "Tá Onde, Vida?",
+        "artists": ""
       },
       {
         "id": 99115,
-        "name": "Você Sabe"
+        "name": "Você Sabe",
+        "artists": ""
       },
       {
         "id": 99116,
-        "name": "Avião"
+        "name": "Avião",
+        "artists": ""
       },
       {
         "id": 99117,
-        "name": "Aeromoça de Favela"
+        "name": "Aeromoça de Favela",
+        "artists": ""
       },
       {
         "id": 99118,
-        "name": "For Real"
+        "name": "For Real",
+        "artists": ""
       },
       {
         "id": 99119,
-        "name": "Oh Shit"
+        "name": "Oh Shit",
+        "artists": ""
       },
       {
         "id": 99120,
-        "name": "Eu Hoje"
+        "name": "Eu Hoje",
+        "artists": ""
       },
       {
         "id": 99121,
-        "name": "Jordan"
+        "name": "Jordan",
+        "artists": ""
       },
       {
         "id": 99122,
-        "name": "Cogulândia"
+        "name": "Cogulândia",
+        "artists": ""
       },
       {
         "id": 99123,
-        "name": "Damn"
+        "name": "Damn",
+        "artists": ""
       },
       {
         "id": 99124,
-        "name": "Astro Nauta"
+        "name": "Astro Nauta",
+        "artists": ""
       },
       {
         "id": 99125,
-        "name": "Chanel"
+        "name": "Chanel",
+        "artists": ""
       },
       {
         "id": 99126,
-        "name": "Big Big"
+        "name": "Big Big",
+        "artists": ""
       },
       {
         "id": 99127,
-        "name": "Manda Esperar"
+        "name": "Manda Esperar",
+        "artists": ""
       },
       {
         "id": 99128,
-        "name": "I Just Wanna Lo-Fi"
+        "name": "I Just Wanna Lo-Fi",
+        "artists": ""
       },
       {
         "id": 99129,
-        "name": "Qual é seu desejo?"
+        "name": "Qual é seu desejo?",
+        "artists": ""
       },
       {
         "id": 99130,
-        "name": "Tenho Que Me Decidir"
+        "name": "Tenho Que Me Decidir",
+        "artists": ""
       },
       {
         "id": 99131,
-        "name": "Loucura"
+        "name": "Loucura",
+        "artists": ""
       },
       {
         "id": 99132,
-        "name": "10 Carros"
+        "name": "10 Carros",
+        "artists": ""
       },
       {
         "id": 99133,
-        "name": "Novo Balanço"
+        "name": "Novo Balanço",
+        "artists": ""
       },
       {
         "id": 99134,
-        "name": "Mesma História"
+        "name": "Mesma História",
+        "artists": ""
       },
       {
         "id": 99135,
-        "name": "Vida Rasa"
+        "name": "Vida Rasa",
+        "artists": ""
       },
       {
         "id": 99136,
-        "name": "Amor Livre - Ao Vivo"
+        "name": "Amor Livre - Ao Vivo",
+        "artists": ""
       },
       {
         "id": 99137,
-        "name": "Segredo"
+        "name": "Segredo",
+        "artists": ""
       },
       {
         "id": 99138,
-        "name": "Engana Dizendo Que Ama"
+        "name": "Engana Dizendo Que Ama",
+        "artists": ""
       },
       {
         "id": 99139,
-        "name": "Para de Mentir"
+        "name": "Para de Mentir",
+        "artists": ""
       },
       {
         "id": 99140,
-        "name": "Conexões de Máfia (feat. Rich The Kid)"
+        "name": "Conexões de Máfia (feat. Rich The Kid)",
+        "artists": ""
       },
       {
         "id": 99141,
-        "name": "Ballena"
+        "name": "Ballena",
+        "artists": ""
       },
       {
         "id": 99142,
-        "name": "carta aberta"
+        "name": "carta aberta",
+        "artists": ""
       },
       {
         "id": 99143,
-        "name": "zumzumzum"
+        "name": "zumzumzum",
+        "artists": ""
       },
       {
         "id": 99144,
-        "name": "Foto da Unha"
+        "name": "Foto da Unha",
+        "artists": ""
       },
       {
         "id": 99145,
-        "name": "Preferida"
+        "name": "Preferida",
+        "artists": ""
       },
       {
         "id": 99146,
-        "name": "Lenda"
+        "name": "Lenda",
+        "artists": ""
       },
       {
         "id": 99147,
-        "name": "Nois é Nois"
+        "name": "Nois é Nois",
+        "artists": ""
       },
       {
         "id": 99148,
-        "name": "Coração de Gelo"
+        "name": "Coração de Gelo",
+        "artists": ""
       },
       {
         "id": 99149,
-        "name": "Mandona (Se eu te dissesse)"
+        "name": "Mandona (Se eu te dissesse)",
+        "artists": ""
       }
     ]
   }
