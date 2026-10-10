@@ -1,7 +1,7 @@
 [
   {
     "id": "Lista de Músicas do gênero Rock",
-    "complete": false,
+    "complete": true,
     "source": [
       "https://open.spotify.com/playlist/5Me9UnTwWnPA2FuTgUKzIy",
       "https://open.spotify.com/intl-pt/album/0HU62E1P8fLUxiFLn1gajG",
@@ -516,42 +516,42 @@
       {
         "id": 98501,
         "name": "Ela Roubou Meu Caminhão",
-        "artists": ""
+        "artists": "Matanza"
       },
       {
         "id": 98502,
         "name": "Bom É Quando Faz Mal",
-        "artists": ""
+        "artists": "Matanza"
       },
       {
         "id": 98503,
         "name": "Meio Psicopata",
-        "artists": ""
+        "artists": "Matanza"
       },
       {
         "id": 98504,
         "name": "Tempo Ruim",
-        "artists": ""
+        "artists": "Matanza"
       },
       {
         "id": 98505,
         "name": "Pé Na Porta, Soco Na Cara",
-        "artists": ""
+        "artists": "Matanza"
       },
       {
         "id": 98506,
         "name": "A mais pedida (feat. Érika Martins)",
-        "artists": ""
+        "artists": "Raimundos"
       },
       {
         "id": 98507,
         "name": "Me lambe",
-        "artists": ""
+        "artists": "Raimundos"
       },
       {
         "id": 98508,
         "name": "Eu quero ver o oco",
-        "artists": ""
+        "artists": "Raimundos"
       },
       {
         "id": 98509,
@@ -561,72 +561,72 @@
       {
         "id": 98510,
         "name": "Reggae do manero - Ao vivo",
-        "artists": ""
+        "artists": "Raimundos"
       },
       {
         "id": 98511,
         "name": "Aquela",
-        "artists": ""
+        "artists": "Raimundos"
       },
       {
         "id": 98512,
         "name": "Puteiro em João Pessoa (Roda Viva)",
-        "artists": ""
+        "artists": "Raimundos"
       },
       {
         "id": 98513,
         "name": "Lugar Ao Sol - Ao Vivo | Acústico",
-        "artists": ""
+        "artists": "Raimundos"
       },
       {
         "id": 98514,
         "name": "Tora Tora",
-        "artists": ""
+        "artists": "Raimundos"
       },
       {
         "id": 98515,
         "name": "Opa! Peraí, Caceta",
-        "artists": ""
+        "artists": "Raimundos"
       },
       {
         "id": 98516,
         "name": "O pão da minha prima",
-        "artists": ""
+        "artists": "Ultraje a Rigor"
       },
       {
         "id": 98517,
         "name": "Pitando no Kombão",
-        "artists": ""
+        "artists": "Raimundos"
       },
       {
         "id": 98518,
         "name": "Bestinha",
-        "artists": ""
+        "artists": "Raimundos"
       },
       {
         "id": 98519,
         "name": "Esporrei na manivela",
-        "artists": ""
+        "artists": "Raimundos"
       },
       {
         "id": 98520,
         "name": "Tá querendo desquitar (Ela tá dando)",
-        "artists": ""
+        "artists": "Raimundos"
       },
       {
         "id": 98521,
         "name": "Sereia da pedreira",
-        "artists": ""
+        "artists": "Raimundos"
       },
       {
         "id": 98522,
         "name": "Cabeça de bode",
-        "artists": ""
+        "artists": "Vitorin"
       },
       {
         "id": 98523,
         "name": "Herbocinética",
-        "artists": ""
+        "artists": "Raimundos"
       },
       {
         "id": 98524,
@@ -636,17 +636,17 @@
       {
         "id": 98525,
         "name": "Pra Dizer Adeus - Ao Vivo",
-        "artists": ""
+        "artists": "Edu Lobo, Romero Lubambo & Mauro Senise"
       },
       {
         "id": 98526,
         "name": "Os Cegos do Castelo - Ao Vivo",
-        "artists": ""
+        "artists": "Pitty & Nando Reis"
       },
       {
         "id": 98527,
         "name": "É preciso saber viver",
-        "artists": ""
+        "artists": "Lulu Santos"
       },
       {
         "id": 98528,
@@ -656,107 +656,107 @@
       {
         "id": 98529,
         "name": "Marvin - Ao vivo",
-        "artists": ""
+        "artists": "Jeito Moleque"
       },
       {
         "id": 98530,
         "name": "Sonífera ilha",
-        "artists": ""
+        "artists": "Titãs"
       },
       {
         "id": 98531,
         "name": "Porque Eu Sei Que É Amor",
-        "artists": ""
+        "artists": "Titãs"
       },
       {
         "id": 98532,
         "name": "Epitáfio (Trio Acústico)",
-        "artists": ""
+        "artists": "Titãs"
       },
       {
         "id": 98533,
         "name": "Porque Eu Sei Que É Amor - Acústico",
-        "artists": ""
+        "artists": "Titãs"
       },
       {
         "id": 98534,
         "name": "Nós Estamos Bem",
-        "artists": ""
+        "artists": "Titãs"
       },
       {
         "id": 98535,
         "name": "Você é Minha",
-        "artists": ""
+        "artists": "Titãs"
       },
       {
         "id": 98536,
         "name": "Gina Superstar",
-        "artists": ""
+        "artists": "Titãs"
       },
       {
         "id": 98537,
         "name": "Kgb",
-        "artists": ""
+        "artists": "ADÉLA"
       },
       {
         "id": 98538,
         "name": "Livres Para Escolher",
-        "artists": ""
+        "artists": "Titãs"
       },
       {
         "id": 98539,
         "name": "Eu Não Sou Um Bom Lugar",
-        "artists": ""
+        "artists": "Titãs"
       },
       {
         "id": 98540,
         "name": "Pra Você Ficar",
-        "artists": ""
+        "artists": "Titãs"
       },
       {
         "id": 98541,
         "name": "Esperando para Atravessar a Rua",
-        "artists": ""
+        "artists": "Titãs"
       },
       {
         "id": 98542,
         "name": "Provas de Amor",
-        "artists": ""
+        "artists": "Titãs"
       },
       {
         "id": 98543,
         "name": "Ser Estranho",
-        "artists": ""
+        "artists": "Titãs"
       },
       {
         "id": 98544,
         "name": "Vou Duvidar",
-        "artists": ""
+        "artists": "Titãs"
       },
       {
         "id": 98545,
         "name": "Pelo Avesso",
-        "artists": ""
+        "artists": "Titãs"
       },
       {
         "id": 98546,
         "name": "A Guerra É Aqui",
-        "artists": ""
+        "artists": "Titãs"
       },
       {
         "id": 98547,
         "name": "As Aventuras Do Guitarrista Gourmet Atrás Da Refeição Ideal",
-        "artists": ""
+        "artists": "Titãs"
       },
       {
         "id": 98548,
         "name": "Ciúme",
-        "artists": ""
+        "artists": "Ultraje a Rigor"
       },
       {
         "id": 98549,
         "name": "Nós vamos invadir sua praia - Avenida",
-        "artists": ""
+        "artists": "Ultraje a Rigor"
       },
       {
         "id": 98550,
@@ -766,17 +766,17 @@
       {
         "id": 98551,
         "name": "Inútil",
-        "artists": ""
+        "artists": "Ultraje a Rigor"
       },
       {
         "id": 98552,
         "name": "Rebelde sem causa",
-        "artists": ""
+        "artists": "Ultraje a Rigor"
       },
       {
         "id": 98553,
         "name": "Nós Vamos Invadir Sua Praia",
-        "artists": ""
+        "artists": "Ultraje a Rigor"
       },
       {
         "id": 98554,
@@ -876,67 +876,67 @@
       {
         "id": 98573,
         "name": "O Mundo Não Para De Girar! (Por Isso Eu Estou Tonto!!)",
-        "artists": ""
+        "artists": "Garotos Podres"
       },
       {
         "id": 98574,
         "name": "Mancha",
-        "artists": ""
+        "artists": "Garotos Podres"
       },
       {
         "id": 98575,
         "name": "Apresento Mi Amigo!",
-        "artists": ""
+        "artists": "Garotos Podres"
       },
       {
         "id": 98576,
-        "name": "Boris Ieltsin (Depois de 2 ou 3 Garrafas)",
-        "artists": ""
+        "name": "Pelados em Santos",
+        "artists": "Mamonas Assassinas"
       },
       {
         "id": 98577,
         "name": "Expulsos Do Bar",
-        "artists": ""
+        "artists": "Garotos Podres"
       },
       {
         "id": 98578,
-        "name": "O Que Eu Vou Ser Quando Crescer?",
-        "artists": ""
+        "name": "Vira-Vira",
+        "artists": "Mamonas Assassinas"
       },
       {
         "id": 98579,
-        "name": "Skinhead Girl",
-        "artists": ""
+        "name": "1406",
+        "artists": "Mamonas Assassinas"
       },
       {
         "id": 98580,
-        "name": "Arriba!...Arriba...!",
-        "artists": ""
+        "name": "Joelho",
+        "artists": "Mamonas Assassinas"
       },
       {
         "id": 98581,
         "name": "Zé Ninguém",
-        "artists": ""
+        "artists": "Biquini Cavadão"
       },
       {
         "id": 98582,
         "name": "Garoto Podre",
-        "artists": ""
+        "artists": "Garotos Podres"
       },
       {
         "id": 98583,
         "name": "Anarkia Oi!",
-        "artists": ""
+        "artists": "Garotos Podres"
       },
       {
         "id": 98584,
         "name": "Papai Noel, Velho Batuta",
-        "artists": ""
+        "artists": "Garotos Podres"
       },
       {
         "id": 98585,
         "name": "Subúrbio Operário",
-        "artists": ""
+        "artists": "Garotos Podres"
       },
       {
         "id": 98586,

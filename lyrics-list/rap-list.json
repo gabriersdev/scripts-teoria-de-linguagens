@@ -1,7 +1,7 @@
 [
   {
     "id": "Lista de Músicas do gênero RAP",
-    "complete": false,
+    "complete": true,
     "source": [
       "https://open.spotify.com/intl-pt/artist/4zP89WNloauEX8v8JdZbxP",
       "https://open.spotify.com/intl-pt/artist/5rohxv1cRfQwpG8W9uxSle",
@@ -506,7 +506,7 @@
       {
         "id": 98299,
         "name": "Qual é seu desejo?",
-        "artists": ""
+        "artists": "TZ da Coronel"
       },
       {
         "id": 98300,
@@ -556,7 +556,7 @@
       {
         "id": 98309,
         "name": "Love Song (A Maior Dor de um Homem)",
-        "artists": ""
+        "artists": "Sabotage & Mano Brown"
       },
       {
         "id": 98310,
@@ -976,17 +976,17 @@
       {
         "id": 98393,
         "name": "Click Clack Bum",
-        "artists": ""
+        "artists": "Kant, Nog & Spinard"
       },
       {
         "id": 98394,
-        "name": "Personnalite",
-        "artists": ""
+        "name": "Dás Arábia",
+        "artists": "Costa Gold"
       },
       {
         "id": 98395,
         "name": "Gatinha",
-        "artists": ""
+        "artists": "Marcynho Sensação"
       },
       {
         "id": 98396,
@@ -1006,7 +1006,7 @@
       {
         "id": 98399,
         "name": "Quit Cat - Acústico",
-        "artists": ""
+        "artists": "Duzz"
       },
       {
         "id": 98400,

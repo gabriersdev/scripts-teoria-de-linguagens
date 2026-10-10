@@ -1,10 +1,13 @@
 [
   {
     "id": "Lista de Músicas do gênero Funk",
-    "complete": false,
+    "complete": true,
     "source": [
       "https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB",
-      "https://open.spotify.com/playlist/0m28smFsaxFLcUloEASxTX"
+      "https://open.spotify.com/playlist/0m28smFsaxFLcUloEASxTX",
+      "https://open.spotify.com/playlist/1GuTtTLwxAS1MEEtNhGxJr",
+      "https://open.spotify.com/playlist/6FGvr539Nmi6w7LZUkSCjL",
+      "https://open.spotify.com/playlist/3nQI2cbJdUGlsRYxmpmkss"
     ],
     "lyrics": [
       {
@@ -74,8 +77,8 @@
       },
       {
         "id": 98014,
-        "name": "PIRANHA CONHECIDA",
-        "artists": "DJ MIAC"
+        "name": "Cachorrão Sem Dono",
+        "artists": "Bonde R300"
       },
       {
         "id": 98015,
@@ -569,8 +572,8 @@
       },
       {
         "id": 98113,
-        "name": "The Boss",
-        "artists": ""
+        "name": "Século XXI",
+        "artists": "Mc Davi, MC Hariel"
       },
       {
         "id": 98114,
@@ -579,8 +582,8 @@
       },
       {
         "id": 98115,
-        "name": "Super Freak",
-        "artists": ""
+        "name": "Passa Devagar",
+        "artists": "MC Hariel"
       },
       {
         "id": 98116,
@@ -589,8 +592,8 @@
       },
       {
         "id": 98117,
-        "name": "Get Down On It - Single Version",
-        "artists": ""
+        "name": "Ninguém Me Segura",
+        "artists": "MC Hariel"
       },
       {
         "id": 98118,
@@ -599,48 +602,48 @@
       },
       {
         "id": 98119,
-        "name": "LUZ ROJA - Slowed",
-        "artists": ""
+        "name": "Mundão Girou 2",
+        "artists": "MC Hariel"
       },
       {
         "id": 98120,
-        "name": "PASSO BEM SOLTO - Slowed",
-        "artists": ""
+        "name": "Jogo de Palavras 2",
+        "artists": "Mc Kevin, MC Hariel"
       },
       {
         "id": 98121,
-        "name": "MONTAGEM ECLIPSE",
-        "artists": ""
+        "name": "Tempo Perdido",
+        "artists": "MC Hariel"
       },
       {
         "id": 98122,
-        "name": "GOZALO",
-        "artists": ""
+        "name": "Embarca no Sorriso",
+        "artists": "MC Hariel, DJ R7"
       },
       {
         "id": 98123,
-        "name": "FUNK SIGILO - SLOWED",
-        "artists": ""
+        "name": "Chefe É Chefe",
+        "artists": "MC Hariel"
       },
       {
         "id": 98124,
-        "name": "MONTAGEM URANIUM - Super Slowed",
-        "artists": ""
+        "name": "Sabote o Malote",
+        "artists": "MC Hariel"
       },
       {
         "id": 98125,
-        "name": "3 Dias Virado",
-        "artists": ""
+        "name": "Fácil Dizer Que Me Ama",
+        "artists": "Mc João, MC Hariel"
       },
       {
         "id": 98126,
-        "name": "EL CONTROL - Slowed",
-        "artists": ""
+        "name": "Bala Perdida",
+        "artists": "MC Hariel"
       },
       {
         "id": 98127,
-        "name": "Boogie Wonderland (with The Emotions)",
-        "artists": ""
+        "name": "Vai Toma",
+        "artists": "Mc Pikachu, MC Fioti, Novo Império"
       },
       {
         "id": 98128,
@@ -649,133 +652,133 @@
       },
       {
         "id": 98129,
-        "name": "NO BATIDÃO - Slowed",
-        "artists": ""
+        "name": "Vo da Choque No",
+        "artists": "Mc Pikachu, DJ NWT"
       },
       {
         "id": 98130,
-        "name": "Raya - Super Slowed",
-        "artists": ""
+        "name": "Kika uma Vez",
+        "artists": "Brendow, Kelven Barbosa, Mc Pikachu, Mc Pedrinho"
       },
       {
         "id": 98131,
-        "name": "MONTAGEM PEGADORA",
-        "artists": ""
+        "name": "5 mentes",
+        "artists": "MC Davi"
       },
       {
         "id": 98132,
-        "name": "SEM DEMORA - Slowed",
-        "artists": ""
+        "name": "É Piru nas Meninas - Medley das Antigas",
+        "artists": "Mc Pikachu, DJ Arana, DJ Victor Falcão"
       },
       {
         "id": 98133,
-        "name": "BAILA LENTO",
-        "artists": ""
+        "name": "Cadê o Plug",
+        "artists": "Mc Pikachu, Prod Brunin, PRODUTORA THE KING MUSIC"
       },
       {
         "id": 98134,
-        "name": "MONTAGEM TOMADA - Slowed",
-        "artists": ""
+        "name": "Vai Mamar",
+        "artists": "Mc Pikachu, Iraqui ZL, Konddrake"
       },
       {
         "id": 98135,
-        "name": "MONTAGEM RITMADA",
-        "artists": ""
+        "name": "Toma Piru",
+        "artists": "Mc Pikachu"
       },
       {
         "id": 98136,
-        "name": "FUNK ABNORMAL - ULTRA SLOWED",
-        "artists": ""
+        "name": "Vou Te Rasgar",
+        "artists": "Mc Pikachu"
       },
       {
         "id": 98137,
-        "name": "Até Quebrar a Cama 2.0",
-        "artists": ""
+        "name": "O Meu Pau Não Luta Box",
+        "artists": "DJ LK Da VB, Mc Pikachu, FLUXO DE RUA MUSIC"
       },
       {
         "id": 98138,
-        "name": "MATADORA",
-        "artists": ""
+        "name": "Red Bull",
+        "artists": "Mc Pikachu"
       },
       {
         "id": 98139,
-        "name": "Montagem Supersonic",
-        "artists": ""
+        "name": "Vai Safada",
+        "artists": "Mc Pikachu, DJ R7, Mc Brinquedo"
       },
       {
         "id": 98140,
-        "name": "LOUCURA LETAL - Slowed",
-        "artists": ""
+        "name": "Tava no Fluxo - Mandelão",
+        "artists": "DJ Blakes, Mc Pikachu"
       },
       {
         "id": 98141,
-        "name": "Daddy Cool",
-        "artists": ""
+        "name": "Pura Putaria",
+        "artists": "Mc Fopi, Mc Pikachu, ZKzin, Love Funk"
       },
       {
         "id": 98142,
-        "name": "If You Want Me to Stay",
-        "artists": ""
+        "name": "Tava na Rua",
+        "artists": "MC Pikachu"
       },
       {
         "id": 98143,
-        "name": "FUNK DO BOUNCE (Slowed)",
-        "artists": ""
+        "name": "Novinha Quer Mamar",
+        "artists": "MC Kevin"
       },
       {
         "id": 98144,
-        "name": "FUNK CRIMINAL - SLOWED",
-        "artists": ""
+        "name": "Veracruz",
+        "artists": "MC Kevin"
       },
       {
         "id": 98145,
-        "name": "MONTAGEM URANIUM - Ultra Slowed",
-        "artists": ""
+        "name": "Aquariano Nato",
+        "artists": "MC Saci"
       },
       {
         "id": 98146,
-        "name": "NEXT!",
-        "artists": ""
+        "name": "Oi Rua",
+        "artists": "MC Saci"
       },
       {
         "id": 98147,
-        "name": "AL NACER! - Slowed",
-        "artists": ""
+        "name": "Lei do Retorno",
+        "artists": "MC Hariel, MC Don Juan"
       },
       {
         "id": 98148,
-        "name": "Amor de Chocolate",
-        "artists": ""
+        "name": "Terminei Com A Ex",
+        "artists": "MC Rick"
       },
       {
         "id": 98149,
-        "name": "O Baile Todo",
-        "artists": ""
+        "name": "Xia Pia Brota",
+        "artists": "MC Rick"
       },
       {
         "id": 98150,
-        "name": "Ela Só Pensa Em Beijar",
-        "artists": ""
+        "name": "Sentadão",
+        "artists": "MC Rick"
       },
       {
         "id": 98151,
-        "name": "Quem Mando Tu Terminar? (To Bonito To Né?)",
-        "artists": ""
+        "name": "Leite Moça",
+        "artists": "MC Rick"
       },
       {
         "id": 98152,
-        "name": "Redes Sociais",
-        "artists": ""
+        "name": "Lá no PPG",
+        "artists": "MC Rick"
       },
       {
         "id": 98153,
-        "name": "Beijinho no Ombro",
-        "artists": ""
+        "name": "Dá Oi Pras Solteiras",
+        "artists": "MC Rick"
       },
       {
         "id": 98154,
-        "name": "Só Quer Vrau",
-        "artists": ""
+        "name": "Video Não",
+        "artists": "MC Rick"
       },
       {
         "id": 98155,
@@ -784,28 +787,28 @@
       },
       {
         "id": 98156,
-        "name": "Agora Tô Solteira",
-        "artists": ""
+        "name": "Coisas Leves",
+        "artists": "MC Rick"
       },
       {
         "id": 98157,
-        "name": "O Bebê",
-        "artists": ""
+        "name": "Alguém Tem Isqueiro",
+        "artists": "MC Rick"
       },
       {
         "id": 98158,
-        "name": "To Gostando Tanto de Você",
-        "artists": ""
+        "name": "Evoque Azul",
+        "artists": "MC Pedrinho, MC Davi"
       },
       {
         "id": 98159,
-        "name": "Me Leva",
-        "artists": ""
+        "name": "Dom Dom Dom",
+        "artists": "MC Pedrinho"
       },
       {
         "id": 98160,
-        "name": "Cheguei",
-        "artists": ""
+        "name": "Plaque de 100",
+        "artists": "MC Guimê"
       },
       {
         "id": 98161,
@@ -814,18 +817,18 @@
       },
       {
         "id": 98162,
-        "name": "Tchu Tchuca",
-        "artists": ""
+        "name": "Os Mlk É Liso",
+        "artists": "MC Rodolfinho"
       },
       {
         "id": 98163,
-        "name": "Dança Sensual",
-        "artists": ""
+        "name": "Mais Amor Menos Recalque",
+        "artists": "MC Daleste"
       },
       {
         "id": 98164,
-        "name": "Estrada Da Posse",
-        "artists": ""
+        "name": "Passinho do Romano",
+        "artists": "MC Bin Laden"
       },
       {
         "id": 98165,
@@ -834,28 +837,28 @@
       },
       {
         "id": 98166,
-        "name": "Tudo É Festa - ao vivo",
-        "artists": ""
+        "name": "Amiga Talarica",
+        "artists": "MC Rick"
       },
       {
         "id": 98167,
-        "name": "Rap Do Salgueiro (A Curtição Do Funk)",
-        "artists": ""
+        "name": "Aquecimento do Anjim",
+        "artists": "MC Anjim"
       },
       {
         "id": 98168,
-        "name": "Tira a Camisa",
-        "artists": ""
+        "name": "Bala Love",
+        "artists": "MC Anjim"
       },
       {
         "id": 98169,
-        "name": "Tô Tranquilão",
-        "artists": ""
+        "name": "Água Rosa",
+        "artists": "MC Anjim"
       },
       {
         "id": 98170,
-        "name": "Uh Papai Chegou / O Simpático (Ao Vivo)",
-        "artists": ""
+        "name": "Abusadamente",
+        "artists": "MC Gustta"
       },
       {
         "id": 98171,
@@ -864,148 +867,148 @@
       },
       {
         "id": 98172,
-        "name": "Mel da Sua Boca",
-        "artists": ""
+        "name": "Depois Que Eu Terminei",
+        "artists": "GORDÃO DO PC, Mc Lele JP, MC Rick, Mc Leozin"
       },
       {
         "id": 98173,
-        "name": "De Segunda a Sexta",
-        "artists": ""
+        "name": "Pegando Ela",
+        "artists": "MC Don Juan, MC Pikachu"
       },
       {
         "id": 98174,
-        "name": "Endereço Dos Bailes",
-        "artists": ""
+        "name": "Amar Amei",
+        "artists": "MC Don Juan"
       },
       {
         "id": 98175,
-        "name": "Conquista",
-        "artists": ""
+        "name": "A Gente Brigou",
+        "artists": "MC Don Juan"
       },
       {
         "id": 98176,
-        "name": "Só Voce",
-        "artists": ""
+        "name": "Beat do Megatron",
+        "artists": "MC Kitinho, MC Lustosa"
       },
       {
         "id": 98177,
-        "name": "Não Me Deixe Sozinho",
-        "artists": ""
+        "name": "Nova Geração da Putaria",
+        "artists": "MC Kitinho"
       },
       {
         "id": 98178,
-        "name": "Que Tiro Foi Esse",
-        "artists": ""
+        "name": "Roça Roça",
+        "artists": "MC Brinquedo"
       },
       {
         "id": 98179,
-        "name": "Rap do Apaixonado",
-        "artists": ""
+        "name": "Os Opostos Se Atraem",
+        "artists": "MC Don Juan"
       },
       {
         "id": 98180,
-        "name": "Eu Vou",
-        "artists": ""
+        "name": "Oh novinha",
+        "artists": "MC Don Juan"
       },
       {
         "id": 98181,
-        "name": "Adulterio - Ao Vivo",
-        "artists": ""
+        "name": "Boca de Pêlo",
+        "artists": "MC Don Juan"
       },
       {
         "id": 98182,
-        "name": "Rap da Cidade Alta | Estrada da Posse - Ao Vivo",
-        "artists": ""
+        "name": "O Verão Está Chegando",
+        "artists": "MC Davi"
       },
       {
         "id": 98183,
-        "name": "Está Escrito",
-        "artists": ""
+        "name": "Pé Direito",
+        "artists": "MC Davi"
       },
       {
         "id": 98184,
-        "name": "Quero Você (N.F. Mix)",
-        "artists": ""
+        "name": "Pé Direito",
+        "artists": "MC Davi"
       },
       {
         "id": 98185,
-        "name": "Só Zueira",
-        "artists": ""
+        "name": "Destino No Waze",
+        "artists": "Mc Leo da Baixada"
       },
       {
         "id": 98186,
-        "name": "Ô simpatico",
-        "artists": ""
+        "name": "Evoque Azul",
+        "artists": "Mc Pedrinho, Mc Davi"
       },
       {
         "id": 98187,
-        "name": "Dako É Bom",
-        "artists": ""
+        "name": "Obsessão",
+        "artists": "MC Hariel"
       },
       {
         "id": 98188,
-        "name": "Popozuda Rock 'N' Roll",
-        "artists": ""
+        "name": "Fácil Demais",
+        "artists": "MC Hariel, Mc Davi"
       },
       {
         "id": 98189,
-        "name": "Garota Nota 100 - ao vivo",
-        "artists": ""
+        "name": "Maresias",
+        "artists": "MC Hariel, DJ Jorgin"
       },
       {
         "id": 98190,
-        "name": "Ziriguidum",
-        "artists": ""
+        "name": "Avisa Lá 2",
+        "artists": "Mc Kelvinho, MC Hariel"
       },
       {
         "id": 98191,
-        "name": "Arrasa Nem (Dennis 2010)",
-        "artists": ""
+        "name": "Amassa a Placa",
+        "artists": "Mc Kevin"
       },
       {
         "id": 98192,
-        "name": "Feira de Acari",
-        "artists": ""
+        "name": "Solteirinha",
+        "artists": "MC Laranjinha"
       },
       {
         "id": 98193,
-        "name": "Tá Tranquilo, Tá Favorável",
-        "artists": ""
+        "name": "Intimidade",
+        "artists": "MC Laranjinha"
       },
       {
         "id": 98194,
-        "name": "Dança da Motinha",
-        "artists": ""
+        "name": "Adoleta",
+        "artists": "Bonde R300"
       },
       {
         "id": 98195,
-        "name": "Envolvimento",
-        "artists": ""
+        "name": "Oh nanana",
+        "artists": "Bonde R300"
       },
       {
         "id": 98196,
-        "name": "Eu Sou a Diva Que Você Quer Copiar",
-        "artists": ""
+        "name": "Maldita de Ex",
+        "artists": "MC Leozin"
       },
       {
         "id": 98197,
-        "name": "Atoladinha",
-        "artists": ""
+        "name": "Dona Cleusa 2",
+        "artists": "MC Rick"
       },
       {
         "id": 98198,
-        "name": "Rap Do Salgueiro",
-        "artists": ""
+        "name": "Novinha",
+        "artists": "Mc Leozin, Mc Menor DN, DJ ARTHUZIIN"
       },
       {
         "id": 98199,
-        "name": "Sequência do Pente",
-        "artists": ""
+        "name": "Maldita Dose",
+        "artists": "DJ ARTHUZIIN"
       },
       {
         "id": 98200,
-        "name": "Copo De Vinho",
-        "artists": ""
+        "name": "Cenas Obscenas",
+        "artists": "Mc Anjim"
       }
     ]
   }
