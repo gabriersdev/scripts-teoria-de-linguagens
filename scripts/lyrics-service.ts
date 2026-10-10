@@ -192,7 +192,7 @@ export class LyricsService {
   }
   
   public async getLyrics(
-    songName: string,
+    songName: string, p0: string,
   ): Promise<LyricsResult | null> {
     const lrclib = await this.#getFromLrclib(songName);
     if (lrclib) return lrclib;

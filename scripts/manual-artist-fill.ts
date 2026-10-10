@@ -110,9 +110,9 @@ async function main() {
             suggestions.forEach((s, idx) => {
               console.log(`  ${idx + 1}. ${s}`);
             });
-          } else {
-            console.log("Nenhuma sugestao automatica encontrada para essa faixa.");
           }
+          //
+          else console.log("Nenhuma sugestao automatica encontrada para essa faixa.");
           
           const prompt = suggestions.length > 0
             ? `Artistas (1-${suggestions.length} para escolher | Texto para digitar | Enter para pular | :q sair): `
@@ -130,12 +130,10 @@ async function main() {
             const num = parseInt(answer.trim(), 10);
             
             // Verifica se o usuario digitou um numero e se ele eh valido nas sugestoes
-            if (!isNaN(num) && num >= 1 && num <= suggestions.length) {
-              lyric.artists = suggestions[num - 1];
-            } else {
-              // Se nao for numero valido, assume que ele digitou o texto na mao
-              lyric.artists = answer.trim();
-            }
+            if (!isNaN(num) && num >= 1 && num <= suggestions.length) lyric.artists = suggestions[num - 1];
+            
+            // Se nao for numero valido, assume que ele digitou o texto na mao
+            else lyric.artists = answer.trim();
             
             // SALVAMENTO A QUENTE (Garante persistencia imediata apos resposta)
             await fs.writeFile(filePath, JSON.stringify(data, null, 2), 'utf-8');

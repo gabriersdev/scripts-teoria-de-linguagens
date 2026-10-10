@@ -6,9 +6,12 @@ Este documento define as regras lógicas e os critérios inegociáveis de extra�
 Scripts e rotinas automatizadas (como o `populate-artists.ts`) NUNCA devem sobrescrever um campo `artists` que já possua texto. A automação só tem permissão para atuar e escrever se o campo for nulo, indefinido ou possuir uma string vazia (`""`). Isso garante que o trabalho manual humano ou curadorias passadas nunca sejam destruídas por atualizações em massa.
 
 ## 2. O Poder e Escopo da Flag `"complete"`
-A flag booleana `"complete"` atua como mecanismo primordial de controle de processamento:
-- **Nível de Faixa:** Se marcada como `true` no objeto da música, a música está finalizada e imutável. Os scripts não podem gastar processamento com ela.
-- **Nível Raiz (Lista):** Atua como uma chave mestra (*master switch*). Se marcada como `true` na raiz de um JSON (ex: `rock-list.json`), significa que aquele gênero e todo o seu conteúdo interno já foram consolidados. TODOS os scripts (seja automação em massa ou assistente manual) devem abortar a leitura e pular o arquivo inteiro para economizar CPU e proteger a integridade da lista.
+A flag `"complete"` possui funções distintas dependendo de onde está aplicada:
+- **Nível Raiz (Lista):** Indica se a curadoria inicial (títulos e artistas) da lista inteira já foi finalizada. Se `true`, scripts de povoamento (`populate-artists.ts` e assistente manual) devem pular o arquivo. Não afeta a etapa final de pipeline (metadados).
+- **Nível de Faixa (Música):** Controla a extração pesada de metadados e letras (`pipeline-extractor.ts`).
+  - `true`: Sucesso total (Metadados e Letra extraídos).
+  - `1`: Sucesso parcial (Metadados extraídos, letra não encontrada).
+  - `false`: Falha total ou pendência geral.
 
 ## 3. Estratégia de APIs em Cascata (*Fallback / Merge*)
 Nenhum metadado musical complexo (no `track-metadata-service.ts`) deve ser descartado em caso de falha de um único provedor. A extração segue um modelo de fusão progressiva em ordem técnica estrita:

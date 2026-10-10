@@ -7,7 +7,7 @@ interface LyricItem {
   id: number | string;
   name: string;
   artists?: string;
-  complete?: boolean;
+  complete?: boolean | number;
 }
 
 interface LyricsListFile {
@@ -42,7 +42,7 @@ export class PopulateArtistsService {
         if (!list.lyrics || !Array.isArray(list.lyrics)) continue;
         
         // Verifica se há faixas que precisam de processamento (não completas e sem artista preenchido)
-        const hasIncomplete = list.lyrics.some(lyric => lyric.complete !== true && (!lyric.artists || lyric.artists.trim() === ""));
+        const hasIncomplete = list.lyrics.some(lyric => !lyric.complete && (!lyric.artists || lyric.artists.trim() === ""));
         if (!hasIncomplete) continue;
         
         const pool: { title: string, artists: string }[] = [];
@@ -84,7 +84,7 @@ export class PopulateArtistsService {
         let unmatchedCount = 0;
         
         for (const lyric of list.lyrics) {
-          if (lyric.complete === true) continue;
+          if (lyric.complete) continue;
           
           // Só processa se o artista ainda não foi criado/preenchido no JSON
           if (!lyric.artists || lyric.artists.trim() === "") {
