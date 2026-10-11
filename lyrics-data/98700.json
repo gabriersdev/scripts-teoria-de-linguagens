@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98700,
+    "metadata": {
+      "title": "Largado Às Traças - Ao Vivo",
+      "artists": [
+        "Zé Neto & Cristiano"
+      ],
+      "album": "Esquece o Mundo Lá Fora (Ao Vivo) - Deluxe",
+      "releaseDate": "2012-01-01T12:00:00Z",
+      "durationMs": 234961,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1800130",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/27/73/1427732e-521b-fe86-e72a-fb742ca6b592/7891430284176.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/largado-%C3%A0s-tra%C3%A7as-ao-vivo/1408564288?i=1408565911&uo=4",
+        "deezer": "https://www.deezer.com/track/524693132"
+      }
+    },
+    "lyricPath": "/lyrics/98700.txt"
+  }
+]

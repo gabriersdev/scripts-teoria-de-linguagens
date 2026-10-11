@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99118,
+    "metadata": {
+      "title": "For Real",
+      "artists": [
+        "Derek"
+      ],
+      "album": "For Real - Single",
+      "releaseDate": "2022-02-14T12:00:00Z",
+      "durationMs": 99500,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG2071004",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9e/6e/ca/9e6ecaf5-5018-7c15-952b-d99e9a3b3ec7/192641971242_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/for-real/1613440746?i=1613440751&uo=4",
+        "deezer": "https://www.deezer.com/track/3467718451"
+      }
+    },
+    "lyricPath": "/lyrics/99118.txt"
+  }
+]

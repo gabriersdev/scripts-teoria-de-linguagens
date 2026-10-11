@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98702,
+    "metadata": {
+      "title": "Cê Tá Preparada - Ao Vivo",
+      "artists": [
+        "Tayrone, Marília Mendonça"
+      ],
+      "album": "Cê tá preparada?",
+      "releaseDate": "2021-07-16",
+      "durationMs": 213000,
+      "genres": [],
+      "isrc": "BRUM72100017",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cb69631a42871b9faba227b3a4a67dcf/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d0c7158a-3949-4ad1-9ed6-909ea2c0f96b",
+        "deezer": "https://www.deezer.com/track/1428851272"
+      }
+    },
+    "lyricPath": "/lyrics/98702.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99128,
+    "metadata": {
+      "title": "I Just Wanna Lo-Fi",
+      "artists": [
+        "jonaveliz"
+      ],
+      "album": "Trombones and Flute",
+      "releaseDate": "1992",
+      "durationMs": 558466,
+      "genres": [
+        "jazz"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/1e/e9/141ee96d-2ff9-4b7d-bdca-702c78509ff4/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ff0be17e-60e2-4909-9a28-3f16b4d18e90",
+        "itunes": "https://music.apple.com/us/album/i-just-wanna-lo-fi/6791914773?i=6791914777&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/99128.txt"
+  }
+]

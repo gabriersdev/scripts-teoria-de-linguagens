@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98469,
+    "metadata": {
+      "title": "1997",
+      "artists": [
+        "Hateen"
+      ],
+      "album": "Toyshop, Man or Astroman? + 9 Guitar Bands",
+      "releaseDate": "2016-11-24T12:00:00Z",
+      "durationMs": 120800,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRMSU0500113",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b8/6a/6e/b86a6eaf-22ab-e0a8-f8a0-d9b6be737c06/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f7b16a1b-f49c-4390-9c47-a55342ce8127",
+        "itunes": "https://music.apple.com/us/album/1997-ao-vivo/1434720101?i=1434720112&uo=4",
+        "deezer": "https://www.deezer.com/track/44393641"
+      }
+    },
+    "lyricPath": "/lyrics/98469.txt"
+  }
+]

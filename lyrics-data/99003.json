@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99003,
+    "metadata": {
+      "title": "JAPONÊS",
+      "artists": [
+        "Brandão85, Matuê"
+      ],
+      "album": "Japonês",
+      "releaseDate": "2025-11-30",
+      "durationMs": 192000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BXW922500111",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/05/2d/b7052d92-982a-5874-59da-2a74f357f5ed/5026854296791.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bfb1c233-ab8a-47a9-8458-453e0239e50a",
+        "itunes": "https://music.apple.com/us/album/japon%C3%AAs/1856711452?i=1856711454&uo=4",
+        "deezer": "https://www.deezer.com/track/3682992222"
+      }
+    },
+    "lyricPath": "/lyrics/99003.txt"
+  }
+]

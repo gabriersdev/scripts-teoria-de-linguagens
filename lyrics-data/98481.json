@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98481,
+    "metadata": {
+      "title": "Mantenha o Respeito",
+      "artists": [
+        "Planet Hemp"
+      ],
+      "album": "Hemp New Year",
+      "releaseDate": "1996",
+      "durationMs": 315000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRSME9500028",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0e/06/f4/0e06f4fd-c9f3-120f-d3ae-98ddd4f40e14/886446316840.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e66b70ea-3bcc-4907-aaa3-4e163bc8ce30",
+        "itunes": "https://music.apple.com/us/album/mantenha-o-respeito/1214025867?i=1214026007&uo=4",
+        "deezer": "https://www.deezer.com/track/144735112"
+      }
+    },
+    "lyricPath": "/lyrics/98481.txt"
+  }
+]

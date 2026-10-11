@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98202,
+    "metadata": {
+      "title": "It's Fine (Luz)",
+      "artists": [
+        "Celo Dut, Liniker"
+      ],
+      "album": "No One Told Us",
+      "releaseDate": "2008-08-04",
+      "durationMs": 97000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BCLOQ2600043",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/af/14/28af14be-8104-3ad9-4d29-eca1746529a2/196874754535.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7a84dbbb-9d82-4e36-9af8-586f9fd2a451",
+        "itunes": "https://music.apple.com/us/album/its-fine-luz/6808456982?i=6808456983&uo=4",
+        "deezer": "https://www.deezer.com/track/4265264592"
+      }
+    },
+    "lyricPath": "/lyrics/98202.txt"
+  }
+]

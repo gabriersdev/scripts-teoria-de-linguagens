@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98560,
+    "metadata": {
+      "title": "Jesse Go - Acústico",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "e-collection - Sucessos + Raridades",
+      "releaseDate": "2000",
+      "durationMs": 233000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP0500354",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/15/c4/9f15c409-dc83-6022-a6bf-d82976207fd9/7898324301889.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/32a207bd-900c-4060-93ad-b89db62e1bdc",
+        "itunes": "https://music.apple.com/us/album/jesse-go/977474314?i=977474484&uo=4",
+        "deezer": "https://www.deezer.com/track/96168070"
+      }
+    },
+    "lyricPath": "/lyrics/98560.txt"
+  }
+]

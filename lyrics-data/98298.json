@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98298,
+    "metadata": {
+      "title": "Champagne",
+      "artists": [
+        "Orochi, PL Quest, BIN, Kizzy, Mainstreet"
+      ],
+      "album": "Frozen Angel",
+      "releaseDate": "2023-12-25",
+      "durationMs": 121725,
+      "genres": [
+        "Hip-Hop"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/98/eb/a9/98eba9aa-fa00-e68f-3c7d-0f441ba01a8c/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0176cf44-8bb3-46ef-8837-fc3d8fd1aacf",
+        "itunes": "https://music.apple.com/us/album/assault-monop%C3%B3lio/1733311743?i=1733311945&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98298.txt"
+  }
+]

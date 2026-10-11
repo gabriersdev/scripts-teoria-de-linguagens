@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98862,
+    "metadata": {
+      "title": "Wag1",
+      "artists": [
+        "Yung Nobre, Pepito"
+      ],
+      "album": "Esci dal tunnel",
+      "releaseDate": "2024-10-18",
+      "durationMs": 185333,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d656cfa7-c4db-42b9-adc6-9628f9d30bf0"
+      }
+    },
+    "lyricPath": "/lyrics/98862.txt"
+  }
+]

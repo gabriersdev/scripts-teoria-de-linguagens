@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98050,
+    "metadata": {
+      "title": "Ela Tá Farmando Aura",
+      "artists": [
+        "Gordinho Bolado, MC LONE, É O CAVERINHA, MC Levin"
+      ],
+      "album": "GLASOND IL PRINCIPE DEI SAIYAN",
+      "releaseDate": "2025-04-23",
+      "durationMs": 136185,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/86/a6/ae86a6a6-86ca-4852-8896-2681b5b1b819/724523269088.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8e09e118-f6d0-496a-848e-6f5a00ca89ca",
+        "itunes": "https://music.apple.com/us/album/ela-ta-farmando-aura-feat-beira-wav/6766672834?i=6766672835&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98050.txt"
+  }
+]

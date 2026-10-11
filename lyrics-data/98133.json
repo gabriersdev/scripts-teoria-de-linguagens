@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98133,
+    "metadata": {
+      "title": "Cadê o Plug",
+      "artists": [
+        "Mc Pikachu, Prod Brunin, PRODUTORA THE KING MUSIC"
+      ],
+      "album": "Le Sampler Rock Hard N°190",
+      "releaseDate": "2018",
+      "durationMs": 283186,
+      "genres": [],
+      "isrc": "QZGLS2441563",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/465faa8c64a17c3927aedc73c81b2ace/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a7213284-88f5-48f9-ac50-9931de47e920",
+        "deezer": "https://www.deezer.com/track/2719781722"
+      }
+    },
+    "lyricPath": "/lyrics/98133.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98156,
+    "metadata": {
+      "title": "Coisas Leves",
+      "artists": [
+        "MC Rick"
+      ],
+      "album": "Coisas Leves",
+      "releaseDate": "2023-02-04T12:00:00Z",
+      "durationMs": 142136,
+      "genres": [
+        "Forró"
+      ],
+      "isrc": "BXG6R2300184",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/8f/ef/a78fefd9-de05-9fef-7b8d-b9d8d0b42445/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/desilus%C3%A3o-feat-rick/1669614930?i=1669614934&uo=4",
+        "deezer": "https://www.deezer.com/track/2194820917"
+      }
+    },
+    "lyricPath": "/lyrics/98156.txt"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98480,
+    "metadata": {
+      "title": "Minha alma (A paz que eu não quero)",
+      "artists": [
+        "O Rappa"
+      ],
+      "album": "LadoB LadoA",
+      "releaseDate": "1999-09-15",
+      "durationMs": 304000,
+      "genres": [
+        "ska",
+        "reggae"
+      ],
+      "isrc": "BRWMB9901156",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/d6/1b/b4/mzi.bsprrwtu.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/1f95e70e-bc2f-4f2c-8e20-26c219baf9d7",
+        "itunes": "https://music.apple.com/us/album/minha-alma-a-paz-que-eu-n%C3%A3o-quero/273952153?i=273952233&uo=4",
+        "deezer": "https://www.deezer.com/track/3668419"
+      }
+    },
+    "lyricPath": "/lyrics/98480.txt"
+  }
+]

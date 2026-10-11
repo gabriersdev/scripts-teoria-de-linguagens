@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98205,
+    "metadata": {
+      "title": "DEFENSORES DA ARTE DO GUETO",
+      "artists": [
+        "Rashid, Slim Rimografia, Grou"
+      ],
+      "album": "CUMULONIMBUS",
+      "releaseDate": "2026-08-10T12:00:00Z",
+      "durationMs": 268360,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BX3FM2600014",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/4a/0e/3c4a0eff-8ab1-9b5e-b9a7-45427b99a71c/820233962834.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/defensores-da-arte-do-gueto/6793563982?i=6793564745&uo=4",
+        "deezer": "https://www.deezer.com/track/4170184532"
+      }
+    },
+    "lyricPath": "/lyrics/98205.txt"
+  }
+]

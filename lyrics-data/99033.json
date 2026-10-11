@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99033,
+    "metadata": {
+      "title": "B Dior",
+      "artists": [
+        "Lipinho Oficial, Ian Durso, Medellin"
+      ],
+      "album": "Core to Diamond",
+      "releaseDate": "2026-04-02",
+      "durationMs": 341013,
+      "genres": [],
+      "isrc": "BCD592600029",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b0e961e2a626d3d34396f145c52ed0e0/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/98edaa5b-fbf8-4e81-8b87-0d93d9b8b2f4",
+        "deezer": "https://www.deezer.com/track/3926120871"
+      }
+    },
+    "lyricPath": "/lyrics/99033.txt"
+  }
+]

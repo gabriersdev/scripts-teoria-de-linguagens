@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98758,
+    "metadata": {
+      "title": "O Nosso Santo Bateu - Live",
+      "artists": [
+        "Matheus e Kauan"
+      ],
+      "album": "VillaMix Hits",
+      "releaseDate": "2016",
+      "durationMs": 196960,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRUM71600011",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e5/3d/5a/e53d5ab2-d0c9-86ab-cf4d-534b48bd1211/886447248171.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/56e2237f-f496-4c9d-b9d0-7fe33b1643b7",
+        "itunes": "https://music.apple.com/us/album/siga-a-seta-feat-matheus-kauan-ao-vivo/1420703110?i=1420703705&uo=4",
+        "deezer": "https://www.deezer.com/track/119873836"
+      }
+    },
+    "lyricPath": "/lyrics/98758.txt"
+  }
+]

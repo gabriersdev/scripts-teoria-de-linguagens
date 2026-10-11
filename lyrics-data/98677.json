@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98677,
+    "metadata": {
+      "title": "12 Horas / Pra Você Acreditar",
+      "artists": [
+        "Panda, Humberto & Ronaldo & Ícaro e Gilmar"
+      ],
+      "album": "Cê Tá Doido, Vol. 2 (Ao Vivo) - EP",
+      "releaseDate": "2025-01-25T12:00:00Z",
+      "durationMs": 250453,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "US7VG2555139",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/49/d6/e749d688-3e50-70ce-7f7a-58dd025005ab/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/12-horas-pra-voc%C3%AA-acreditar-ao-vivo/1792009774?i=1792009777&uo=4",
+        "deezer": "https://www.deezer.com/track/3189103081"
+      }
+    },
+    "lyricPath": "/lyrics/98677.txt"
+  }
+]

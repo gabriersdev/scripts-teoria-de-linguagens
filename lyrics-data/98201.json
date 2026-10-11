@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98201,
+    "metadata": {
+      "title": "RPB",
+      "artists": [
+        "Emicida, Puro Suco, BEATDOMK"
+      ],
+      "album": "Direct-to-Disc",
+      "releaseDate": "2024-11-04",
+      "durationMs": 144527,
+      "genres": [],
+      "isrc": "BK5QH2600002",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/5e048e0cca8d9f3ef3115dadc9a4edd9/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5728f283-b2bd-4592-9541-517b35b45c74",
+        "deezer": "https://www.deezer.com/track/4286271822"
+      }
+    },
+    "lyricPath": "/lyrics/98201.txt"
+  }
+]

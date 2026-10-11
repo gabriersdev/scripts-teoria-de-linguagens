@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98845,
+    "metadata": {
+      "title": "REI TUÊ",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "XTRANHO",
+      "releaseDate": "2025-12-10",
+      "durationMs": 143000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BXW922500131",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/ac/95/9cac9567-6ffa-e640-d619-46564733b11f/196874248850.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/352b55fa-64cc-4adc-9121-d272fc0981fc",
+        "itunes": "https://music.apple.com/us/album/isso-%C3%A9-s%C3%A9rio/1888592730?i=1888592735&uo=4",
+        "deezer": "https://www.deezer.com/track/3700579752"
+      }
+    },
+    "lyricPath": "/lyrics/98845.txt"
+  }
+]

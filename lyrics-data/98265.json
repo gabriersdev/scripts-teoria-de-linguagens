@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98265,
+    "metadata": {
+      "title": "Além do Dinheiro",
+      "artists": [
+        "Filipe Ret, Dallass, Ariel Donato"
+      ],
+      "album": "Imaterial",
+      "releaseDate": "2021-04-23",
+      "durationMs": 127741,
+      "genres": [],
+      "isrc": "BRRGE2101321",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/dfc53733c6052b14e79ed7e3c9a0ff3c/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/28625b1d-9d6f-4e25-9c2e-a94d702afca6",
+        "deezer": "https://www.deezer.com/track/1270057482"
+      }
+    },
+    "lyricPath": "/lyrics/98265.txt"
+  }
+]

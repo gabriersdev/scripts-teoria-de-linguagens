@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98061,
+    "metadata": {
+      "title": "FAMOSINHA",
+      "artists": [
+        "Dj Caio Vieira, MC Meno K, Mc Rodrigo do CN"
+      ],
+      "album": "Samma uns ehrlich",
+      "releaseDate": "2007-06-30",
+      "durationMs": 292000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "GBRKQ2577665",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/7c/dd/c57cdd1c-fd15-3148-1856-fbac5c86ff4a/5026854246734.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/906928e3-6ea7-43a8-9bc6-36b583afaef6",
+        "itunes": "https://music.apple.com/us/album/s%C3%B3-por-uma-noite-feat-fepache/1853628680?i=1853628856&uo=4",
+        "deezer": "https://www.deezer.com/track/3250684331"
+      }
+    },
+    "lyricPath": "/lyrics/98061.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98014,
+    "metadata": {
+      "title": "Cachorrão Sem Dono",
+      "artists": [
+        "Bonde R300"
+      ],
+      "album": "Baile de Favela",
+      "releaseDate": "2016-02-03",
+      "durationMs": 140184,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BXG6R2100538",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/59/b5/d1/59b5d1c6-eadb-435e-3fe5-41529c682080/00191773163709_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/eb177e3e-11e0-4ec5-b2f7-7ec2c23a5ad5",
+        "itunes": "https://music.apple.com/us/album/cachorr%C3%A3o-sem-dono/1576808486?i=1576808487&uo=4",
+        "deezer": "https://www.deezer.com/track/1435996262"
+      }
+    },
+    "lyricPath": "/lyrics/98014.txt"
+  }
+]

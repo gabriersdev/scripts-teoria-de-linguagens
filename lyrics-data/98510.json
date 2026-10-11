@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98510,
+    "metadata": {
+      "title": "Reggae do manero - Ao vivo",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Roda Viva (Ao Vivo)",
+      "releaseDate": "2007-05-31T12:00:00Z",
+      "durationMs": 310179,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRRGE1700296",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3f/a4/f8/3fa4f883-d23e-1845-984e-9d1ae2b268eb/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/reggae-do-manero-ao-vivo/879819848?i=879819868&uo=4",
+        "deezer": "https://www.deezer.com/track/350038561"
+      }
+    },
+    "lyricPath": "/lyrics/98510.txt"
+  }
+]

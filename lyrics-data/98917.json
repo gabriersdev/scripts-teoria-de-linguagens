@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98917,
+    "metadata": {
+      "title": "PENTE LONGO",
+      "artists": [
+        "Alee, NADAMAL, Neckklace"
+      ],
+      "album": "ATÉ QUE NÃO HAJA LUZ (+ONYX)",
+      "releaseDate": "2023-09-07",
+      "durationMs": 121000,
+      "genres": [],
+      "isrc": "BKNDN2400015",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d630545501528d92d0431a405f0f30f2/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2cc023ad-824d-4d6e-ba53-23bc0bab9204",
+        "deezer": "https://www.deezer.com/track/2675770102"
+      }
+    },
+    "lyricPath": "/lyrics/98917.txt"
+  }
+]

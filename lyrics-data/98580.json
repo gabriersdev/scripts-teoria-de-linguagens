@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98580,
+    "metadata": {
+      "title": "Joelho",
+      "artists": [
+        "Mamonas Assassinas"
+      ],
+      "album": "PROJECT RETINA",
+      "releaseDate": "2025-04-12",
+      "durationMs": 95000,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BREMI9800162",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/78/65/72/7865721b-b19b-52a4-46cd-322fc7d28529/00602567295969.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ea095050-44c8-44b5-a0e7-b26a8ed80ff1",
+        "itunes": "https://music.apple.com/us/album/pelados-em-santos/1444618999?i=1444619003&uo=4",
+        "deezer": "https://www.deezer.com/track/445245862"
+      }
+    },
+    "lyricPath": "/lyrics/98580.txt"
+  }
+]

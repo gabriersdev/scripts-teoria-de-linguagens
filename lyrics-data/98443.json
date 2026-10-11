@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98443,
+    "metadata": {
+      "title": "Pânico em S.P.",
+      "artists": [
+        "Inocentes"
+      ],
+      "album": "Botinada",
+      "releaseDate": "2006-09-28",
+      "durationMs": 168440,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRWMB9900634",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cb/28/df/cb28df55-ff52-70c0-5d0d-88bf4cd8a133/190296754562.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/75598959-353a-4d79-ad4e-dde5caa01117",
+        "itunes": "https://music.apple.com/us/album/p%C3%A2nico-em-s-p/1579890264?i=1579890451&uo=4",
+        "deezer": "https://www.deezer.com/track/14663684"
+      }
+    },
+    "lyricPath": "/lyrics/98443.txt"
+  }
+]

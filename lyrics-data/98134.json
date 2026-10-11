@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98134,
+    "metadata": {
+      "title": "Vai Mamar",
+      "artists": [
+        "Mc Pikachu, Iraqui ZL, Konddrake"
+      ],
+      "album": "Vai Mamar",
+      "releaseDate": "2024-05-12",
+      "durationMs": 170000,
+      "genres": [],
+      "isrc": "BCIH82211712",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/a68c9e6c70456bfe4f78cb5c0448d753/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2793735792"
+      }
+    },
+    "lyricPath": "/lyrics/98134.txt"
+  }
+]

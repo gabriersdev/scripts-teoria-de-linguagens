@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98938,
+    "metadata": {
+      "title": "Topless",
+      "artists": [
+        "Sidoka"
+      ],
+      "album": "Berlin 2001 Compilation",
+      "releaseDate": "2001",
+      "durationMs": 285640,
+      "genres": [],
+      "isrc": "QZFZ31924491",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6638635fb2b11e898f797b935b9fa447/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5176ccb6-ce10-4399-a7c1-ea3fd8b245ac",
+        "deezer": "https://www.deezer.com/track/1844112957"
+      }
+    },
+    "lyricPath": "/lyrics/98938.txt"
+  }
+]

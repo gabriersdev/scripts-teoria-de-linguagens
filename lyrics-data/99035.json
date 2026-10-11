@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99035,
+    "metadata": {
+      "title": "SLIME FALA CMG",
+      "artists": [
+        "Fabiow011, Niink, Supernova Ent"
+      ],
+      "album": "The Magic Road",
+      "releaseDate": "2003-06",
+      "durationMs": 106586,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/f7/68/b9f76840-d9d0-ff72-8c3d-684b51631ff6/8721466247793.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/22eab0f9-3abc-45b7-b9fa-ddac52f95ed9",
+        "itunes": "https://music.apple.com/us/album/slime-fala-cmg/1886775239?i=1886775245&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/99035.txt"
+  }
+]

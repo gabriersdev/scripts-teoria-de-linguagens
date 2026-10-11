@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98774,
+    "metadata": {
+      "title": "Suíte 14 - Ao Vivo",
+      "artists": [
+        "Israel Novaes"
+      ],
+      "album": "Karol Conká (Ao Vivo no YouTube Music Night)",
+      "releaseDate": "2019-07-22",
+      "durationMs": 147128,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRUXD1600054",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/a5/aa/52a5aa33-ec6b-1c52-fd57-73a183f587b0/191773483616.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/43fa90f0-5d5e-4985-aa97-eca2d70caba9",
+        "itunes": "https://music.apple.com/us/album/su%C3%ADte-14-ao-vivo/1260830756?i=1260831732&uo=4",
+        "deezer": "https://www.deezer.com/track/384831751"
+      }
+    },
+    "lyricPath": "/lyrics/98774.txt"
+  }
+]

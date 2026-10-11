@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98856,
+    "metadata": {
+      "title": "Perigoso",
+      "artists": [
+        "Ark King, Nottpills, fvcknick"
+      ],
+      "album": "Classics and Classic Jazz",
+      "releaseDate": "2024-04-26",
+      "durationMs": 225933,
+      "genres": [],
+      "isrc": "GBWUL2489074",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/257d53ae218bc10c1a49d682f574ce8f/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/31c88e8b-df45-4170-b488-2c6b67bccfc9",
+        "deezer": "https://www.deezer.com/track/2761818311"
+      }
+    },
+    "lyricPath": "/lyrics/98856.txt"
+  }
+]

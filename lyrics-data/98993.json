@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98993,
+    "metadata": {
+      "title": "Drive-In",
+      "artists": [
+        "WIU"
+      ],
+      "album": "Bad Neighbor",
+      "releaseDate": "2015-10-30T12:00:00Z",
+      "durationMs": 239787,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BXW922500052",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/f3/76/7af37652-070e-6984-f8d7-526c49d20152/1939.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/drive-in-feat-aloe-blacc/1041584824?i=1041584951&uo=4",
+        "deezer": "https://www.deezer.com/track/3380550261"
+      }
+    },
+    "lyricPath": "/lyrics/98993.txt"
+  }
+]

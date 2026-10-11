@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98650,
+    "metadata": {
+      "title": "Trepada em Cuiabá",
+      "artists": [
+        "Leno Brega"
+      ],
+      "album": "Trepada Em Cuiabá",
+      "releaseDate": "2021-10-08",
+      "durationMs": 162906,
+      "genres": [],
+      "isrc": "ATR981266372",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/de7de372c271deed5766146caf3ab336/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a2a5e38a-4aa7-445c-b6c5-9eb50f2b3598",
+        "deezer": "https://www.deezer.com/track/1789472447"
+      }
+    },
+    "lyricPath": "/lyrics/98650.txt"
+  }
+]

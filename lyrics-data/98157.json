@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98157,
+    "metadata": {
+      "title": "Alguém Tem Isqueiro",
+      "artists": [
+        "MC Rick"
+      ],
+      "album": "Tás a ver? O melhor de Gabriel o Pensador",
+      "releaseDate": "2003",
+      "durationMs": 283426,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "US7VG1840949",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d4/55/7c/d4557cfb-2cbd-f2d8-5882-f1f57d981b35/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4de68aa1-d954-4784-85a4-2a48d5772329",
+        "itunes": "https://music.apple.com/us/album/algu%C3%A9m-tem-isqueiro-feat-mc-rick/1474126436?i=1474126437&uo=4",
+        "deezer": "https://www.deezer.com/track/587253482"
+      }
+    },
+    "lyricPath": "/lyrics/98157.txt"
+  }
+]

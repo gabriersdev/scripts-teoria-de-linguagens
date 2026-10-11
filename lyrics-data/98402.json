@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98402,
+    "metadata": {
+      "title": "É Proibido Fumar - Versão remasterizada",
+      "artists": [
+        "Roberto Carlos"
+      ],
+      "album": "Pra sempre: Ao vivo no Pacaembu",
+      "releaseDate": "2004",
+      "durationMs": 173000,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRSME6400100",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/cd/dc/9d/cddc9d88-89a6-ee3a-66c5-415b3187cd25/886443328419.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3dcaff86-d00e-4866-96c9-f7869e58d034",
+        "itunes": "https://music.apple.com/us/album/%C3%A9-proibido-fumar-vers%C3%A3o-remasterizada/685214053?i=685214064&uo=4",
+        "deezer": "https://www.deezer.com/track/103343620"
+      }
+    },
+    "lyricPath": "/lyrics/98402.txt"
+  }
+]

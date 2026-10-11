@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98192,
+    "metadata": {
+      "title": "Solteirinha",
+      "artists": [
+        "MC Laranjinha"
+      ],
+      "album": "Retoques",
+      "releaseDate": "2020-04-21",
+      "durationMs": 80000,
+      "genres": [],
+      "isrc": "QZGLS2095678",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/f8cf3e0079f653d30869907bb351abf5/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5466a625-cc0a-4b15-9d27-fe48b159497f",
+        "deezer": "https://www.deezer.com/track/936686782"
+      }
+    },
+    "lyricPath": "/lyrics/98192.txt"
+  }
+]

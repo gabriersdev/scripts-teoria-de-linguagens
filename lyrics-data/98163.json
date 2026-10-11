@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98163,
+    "metadata": {
+      "title": "Mais Amor Menos Recalque",
+      "artists": [
+        "MC Daleste"
+      ],
+      "album": "Mais amor, menos recalque",
+      "releaseDate": "2013",
+      "durationMs": 285000,
+      "genres": [
+        "Worldwide"
+      ],
+      "isrc": "BRXM91300151",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/5e/43/9a5e4394-a8ec-048c-64e1-6531dbcea5d9/018736707919.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7a9630c4-4be1-47f6-b798-93485cc5404d",
+        "itunes": "https://music.apple.com/us/album/mais-amor-menos-recalque-feat-dj-wilton/1807094433?i=1807094434&uo=4",
+        "deezer": "https://www.deezer.com/track/2094478287"
+      }
+    },
+    "lyricPath": "/lyrics/98163.txt"
+  }
+]

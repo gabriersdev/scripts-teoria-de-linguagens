@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98385,
+    "metadata": {
+      "title": "Piratas Do Universo",
+      "artists": [
+        "Dom R, Scott Storch, CP no Beat, Malto"
+      ],
+      "album": "0.4",
+      "releaseDate": "2019-10-26",
+      "durationMs": 124000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/7f/fd/4b7ffd73-72c4-75e0-bb05-51d2c0480bf4/199257301029_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a8e6772a-bc22-4dcb-a939-62a30891172d",
+        "itunes": "https://music.apple.com/us/album/piratas-do-universo-feat-malto/1806372226?i=1806372440&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98385.txt"
+  }
+]

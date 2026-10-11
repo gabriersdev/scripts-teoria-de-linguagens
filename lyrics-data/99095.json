@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99095,
+    "metadata": {
+      "title": "Cruzadas",
+      "artists": [
+        "Slipmami"
+      ],
+      "album": "La voz del silencio",
+      "releaseDate": "2024-09-13",
+      "durationMs": 333000,
+      "genres": [],
+      "isrc": "QZNMV2457755",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7b56dc6e6b1dbf07c9c19de22d5a3ed9/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ca0ba1c0-ec99-438b-9043-e2503548c4ae",
+        "deezer": "https://www.deezer.com/track/2981570981"
+      }
+    },
+    "lyricPath": "/lyrics/99095.txt"
+  }
+]

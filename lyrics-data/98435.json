@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98435,
+    "metadata": {
+      "title": "Fullgás",
+      "artists": [
+        "Marina Lima"
+      ],
+      "album": "Marina Lima",
+      "releaseDate": "1991",
+      "durationMs": 317533,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRMCA0500254",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4e/7b/97/4e7b9742-e6db-0cf9-745f-3a555b65c74b/5059460120136.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4698a75e-7461-465c-bc8c-921bf179829e",
+        "itunes": "https://music.apple.com/us/album/fullg%C3%A1s/1641680431?i=1641680963&uo=4",
+        "deezer": "https://www.deezer.com/track/17345540"
+      }
+    },
+    "lyricPath": "/lyrics/98435.txt"
+  }
+]

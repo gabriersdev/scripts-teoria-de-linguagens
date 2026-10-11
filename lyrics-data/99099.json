@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99099,
+    "metadata": {
+      "title": "Dedo Médio",
+      "artists": [
+        "RIEY"
+      ],
+      "album": "Psalmos",
+      "releaseDate": "2019-09-06",
+      "durationMs": 199480,
+      "genres": [],
+      "isrc": "GBWUL2558331",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/bc0bab6cea6705ca2aa2ae48a7bc803d/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ae46a33c-e24a-46e6-a8fa-ef0bf5c5a885",
+        "deezer": "https://www.deezer.com/track/3285858401"
+      }
+    },
+    "lyricPath": "/lyrics/99099.txt"
+  }
+]

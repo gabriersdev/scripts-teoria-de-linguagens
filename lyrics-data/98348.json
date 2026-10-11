@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98348,
+    "metadata": {
+      "title": "O Trem",
+      "artists": [
+        "RZO, Sandrão RZO"
+      ],
+      "album": "Espaço Rap, Volume 07",
+      "releaseDate": "2003",
+      "durationMs": 237000,
+      "genres": [
+        "Electronic"
+      ],
+      "isrc": "BXC1X2400120",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6a/82/e6/6a82e6c7-d144-89f9-127d-d21a61b79a53/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6999bfa1-5f33-4b4a-9f43-c9e9e6edaf2f",
+        "itunes": "https://music.apple.com/us/album/portal-do-universo-feat-nego-jam-valente-sandr%C3%A3o-rzo/1536789117?i=1536789120&uo=4",
+        "deezer": "https://www.deezer.com/track/3064768361"
+      }
+    },
+    "lyricPath": "/lyrics/98348.txt"
+  }
+]

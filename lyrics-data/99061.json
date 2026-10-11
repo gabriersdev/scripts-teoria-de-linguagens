@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99061,
+    "metadata": {
+      "title": "Aniversário Guanabara",
+      "artists": [
+        "LUCKHAOS"
+      ],
+      "album": "Shittrap 10 (O funeral da ironia)",
+      "releaseDate": "2023-07-08",
+      "durationMs": 219986,
+      "genres": [],
+      "isrc": "BXIV82328393",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1f15400fe2c7a24a0ac93270091a095c/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/395b1263-42c6-4400-bbe2-052758e4f633",
+        "deezer": "https://www.deezer.com/track/2326571365"
+      }
+    },
+    "lyricPath": "/lyrics/99061.txt"
+  }
+]

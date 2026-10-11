@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98464,
+    "metadata": {
+      "title": "Vambora",
+      "artists": [
+        "Adriana Calcanhotto"
+      ],
+      "album": "Maritmo",
+      "releaseDate": "1998",
+      "durationMs": 253400,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRBMG0000099",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9d/57/0e/9d570e30-42da-5d4c-f934-2e2beadef3a4/5099749207226.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e2d0a833-47c3-48a4-964c-680fc1588ee0",
+        "itunes": "https://music.apple.com/us/album/vambora/268453618?i=268453686&uo=4",
+        "deezer": "https://www.deezer.com/track/71395445"
+      }
+    },
+    "lyricPath": "/lyrics/98464.txt"
+  }
+]

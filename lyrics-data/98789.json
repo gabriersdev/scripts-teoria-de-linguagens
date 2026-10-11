@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98789,
+    "metadata": {
+      "title": "Whisky Vagabund0 - Ao Vivo",
+      "artists": [
+        "Lauana Prado"
+      ],
+      "album": "Mês do orgulho",
+      "releaseDate": "2023-06-23T12:00:00Z",
+      "durationMs": 153069,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRUM72202103",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/39/17/55/39175599-a898-c9fb-e85f-45dc3148371a/23UMGIM62453.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c9a678df-c8ff-47d3-a46b-d830a00b5c58",
+        "itunes": "https://music.apple.com/us/album/whisky-vagabund0-apple-music-home-session/1693011445?i=1693011451&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98789.txt"
+  }
+]

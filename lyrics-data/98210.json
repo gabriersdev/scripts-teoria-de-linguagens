@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98210,
+    "metadata": {
+      "title": "Frágil",
+      "artists": [
+        "Celo Dut, BK"
+      ],
+      "album": "No One Told Us",
+      "releaseDate": "2008-08-04",
+      "durationMs": 97000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BCLOQ2600027",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/6f/e2/e56fe27f-7167-b389-3150-0b1ab40e313a/196874707678.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7a84dbbb-9d82-4e36-9af8-586f9fd2a451",
+        "itunes": "https://music.apple.com/us/album/fr%C3%A1gil/6802480879?i=6802481164&uo=4",
+        "deezer": "https://www.deezer.com/track/4229866232"
+      }
+    },
+    "lyricPath": "/lyrics/98210.txt"
+  }
+]

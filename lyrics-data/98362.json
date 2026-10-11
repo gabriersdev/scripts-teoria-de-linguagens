@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98362,
+    "metadata": {
+      "title": "Marginais Boombap 2",
+      "artists": [
+        "Marginal Supply, Felp 22, Dk 47, Medellin, NaBrisa, Spinardi"
+      ],
+      "album": "1 2 3 4",
+      "releaseDate": "2023-07-19",
+      "durationMs": 179869,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/318cb461-2322-457b-b740-2755bb3f7bbf"
+      }
+    },
+    "lyricPath": "/lyrics/98362.txt"
+  }
+]

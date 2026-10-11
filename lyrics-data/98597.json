@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98597,
+    "metadata": {
+      "title": "Só Os Loucos Sabem",
+      "artists": [
+        "Charlie Brown Jr."
+      ],
+      "album": "Música Popular Caiçara - Volume 2 (Ao Vivo)",
+      "releaseDate": "2016-08-26",
+      "durationMs": 191000,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRSME0900724",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b7/55/24/b75524e2-c81f-3f8f-56ac-e34be5f33815/886449146055.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5cb0124d-cfe0-4c28-8783-98f422c59cbc",
+        "itunes": "https://music.apple.com/us/album/s%C3%B3-os-loucos-sabem-ao-vivo-chegou-quem-faltava/1560738288?i=1560738293&uo=4",
+        "deezer": "https://www.deezer.com/track/15738365"
+      }
+    },
+    "lyricPath": "/lyrics/98597.txt"
+  }
+]

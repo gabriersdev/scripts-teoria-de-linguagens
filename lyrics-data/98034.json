@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98034,
+    "metadata": {
+      "title": "Semi Nua",
+      "artists": [
+        "MC GP, MC Meno K, Aaron Modesto, MC RN do Capão, DU'L, MC Rick, DJ Guh Mix, Marquinho no Beat, MC Ryan SP, Mc Negão Original"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599"
+      }
+    },
+    "lyricPath": "/lyrics/98034.txt"
+  }
+]

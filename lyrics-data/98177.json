@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98177,
+    "metadata": {
+      "title": "Nova Geração da Putaria",
+      "artists": [
+        "MC Kitinho"
+      ],
+      "album": "Bug La Bag",
+      "releaseDate": "2017-08-19T12:00:00Z",
+      "durationMs": 208733,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BXG6R1800047",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e4/5d/5e/e45d5e6e-72df-df74-0648-5d94d4fbe3c7/00191773566364_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/76b193b3-2a01-4ad2-9aad-d4131531cbab",
+        "itunes": "https://music.apple.com/us/album/gostosa-feat-mc-kitinho/1577753942?i=1577754006&uo=4",
+        "deezer": "https://www.deezer.com/track/1442899192"
+      }
+    },
+    "lyricPath": "/lyrics/98177.txt"
+  }
+]

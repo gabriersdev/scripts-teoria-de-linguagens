@@ -1,0 +1,27 @@
+[
+  {
+    "id": 98493,
+    "metadata": {
+      "title": "Como Eu Quero - Live",
+      "artists": [
+        "Kid Abelha, Edgard Scandurra"
+      ],
+      "album": "Acústico MTV",
+      "releaseDate": "2002-11-21",
+      "durationMs": 183000,
+      "genres": [
+        "rock",
+        "mpb",
+        "latin rock",
+        "latin"
+      ],
+      "isrc": "BRMCA0200596",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3c1913985b71fe86affbe58c953edda1/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/296210fd-db64-49ae-a47e-923e5c94bbf9",
+        "deezer": "https://www.deezer.com/track/104797210"
+      }
+    },
+    "lyricPath": "/lyrics/98493.txt"
+  }
+]

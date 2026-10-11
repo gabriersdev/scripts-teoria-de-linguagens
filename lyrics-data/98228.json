@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98228,
+    "metadata": {
+      "title": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+      "artists": [
+        "NandaTsunami, Stick, Bvga Beatz, Torelli"
+      ],
+      "album": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+      "releaseDate": "2025-10-17",
+      "durationMs": 140000,
+      "genres": [],
+      "isrc": "QZTPX2576998",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8ff855aeafaf8446a65af136f316a55a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bd37b568-6b11-47e9-878a-4279cf5fb1e2",
+        "deezer": "https://www.deezer.com/track/3581795851"
+      }
+    },
+    "lyricPath": "/lyrics/98228.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98471,
+    "metadata": {
+      "title": "Razões E Emoções",
+      "artists": [
+        "NX Zero"
+      ],
+      "album": "É Divino - Ao Vivo em Campo Grande",
+      "releaseDate": "2014-06-12",
+      "durationMs": 195000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRMSU0600107",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/20/91/8e/20918e16-ec79-3372-f5ad-1b07a2b016b8/7898324314469.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8f8a4441-761f-4998-83c8-7c3c33dcfb5c",
+        "itunes": "https://music.apple.com/us/album/raz%C3%B5es-e-emo%C3%A7%C3%B5es-ao-vivo/1294931990?i=1294932264&uo=4",
+        "deezer": "https://www.deezer.com/track/125972637"
+      }
+    },
+    "lyricPath": "/lyrics/98471.txt"
+  }
+]

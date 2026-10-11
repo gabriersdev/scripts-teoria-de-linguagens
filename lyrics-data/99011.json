@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99011,
+    "metadata": {
+      "title": "escalade",
+      "artists": [
+        "G.A, Ghard, Supernova Ent, Ryu, The Runner"
+      ],
+      "album": "On The Grind - Southwest General",
+      "releaseDate": "2024-12-12T12:00:00Z",
+      "durationMs": 35000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/8a/0b/368a0baf-1406-c96c-617d-d7a57173b2ee/5034644310879.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b1e4bf01-65fe-4f5c-b1c5-b2a8948abbee",
+        "itunes": "https://music.apple.com/us/album/adora-a-bunda-odeia-o-rosto-feat-veigh-niink/1782229735?i=1782229757&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/99011.txt"
+  }
+]

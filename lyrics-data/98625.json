@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98625,
+    "metadata": {
+      "title": "Patrão",
+      "artists": [
+        "Zé Neto & Cristiano"
+      ],
+      "album": "Escolhas",
+      "releaseDate": "2023-10-05",
+      "durationMs": 170514,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE2300735",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/09/0a/27/090a27ff-7f46-b458-6862-245bef932590/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9ece13ff-2679-4595-90aa-a0ef9b63ed61",
+        "itunes": "https://music.apple.com/us/album/patr%C3%A3o-feat-z%C3%A9-neto-cristiano-ao-vivo/1165731482?i=1165731644&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98625.txt"
+  }
+]

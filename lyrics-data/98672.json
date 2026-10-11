@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98672,
+    "metadata": {
+      "title": "Dois Tristes",
+      "artists": [
+        "Simone Mendes"
+      ],
+      "album": "Eu quero é cachaça",
+      "releaseDate": "2024-09-05",
+      "durationMs": 233000,
+      "genres": [
+        "Pagode"
+      ],
+      "isrc": "BRUM72302190",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/82/0a/e0820aeb-7c59-9dbf-a2f3-1d189c75435b/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b58f5ea7-04df-4b16-aef2-3105a7df0df3",
+        "itunes": "https://music.apple.com/us/album/dois-tristes-ao-vivo/1821949420?i=1821949452&uo=4",
+        "deezer": "https://www.deezer.com/track/2674743712"
+      }
+    },
+    "lyricPath": "/lyrics/98672.txt"
+  }
+]

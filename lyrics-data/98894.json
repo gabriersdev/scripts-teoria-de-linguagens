@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98894,
+    "metadata": {
+      "title": "Coruja",
+      "artists": [
+        "Brandão85, Jovem Dex"
+      ],
+      "album": "ISSO É TRAP",
+      "releaseDate": "2025-06-18",
+      "durationMs": 291374,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BXXCT2200013",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/7b/34/c77b345a-e6de-e0cb-3ee7-dea22ab247dc/703441368431.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ce7cfba2-0532-4811-88c3-f3d797e5c111",
+        "itunes": "https://music.apple.com/us/album/coruja/1790985604?i=1790985615&uo=4",
+        "deezer": "https://www.deezer.com/track/3189136691"
+      }
+    },
+    "lyricPath": "/lyrics/98894.txt"
+  }
+]

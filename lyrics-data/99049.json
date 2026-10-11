@@ -1,0 +1,23 @@
+[
+  {
+    "id": 99049,
+    "metadata": {
+      "title": "Eu sou mais louco que todos vocês",
+      "artists": [
+        "7 Minutoz"
+      ],
+      "album": "Rap Dos Coringas: Circo Dos Horrores (Nerd Hits) - Single",
+      "releaseDate": "2020-04-05T12:00:00Z",
+      "durationMs": 151315,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6f/b9/ce/6fb9ce1b-ba41-c823-1a87-133fc3596af3/195266780619.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/rap-dos-coringas-circo-dos-horrores-nerd-hits/1668892038?i=1668892041&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/99049.txt"
+  }
+]

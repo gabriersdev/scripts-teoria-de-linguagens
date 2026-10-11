@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98557,
+    "metadata": {
+      "title": "Inútil - Acústico",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "Geração Anos 80 - Singles Vol.1",
+      "releaseDate": "2000",
+      "durationMs": 172000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP0500351",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/15/c4/9f15c409-dc83-6022-a6bf-d82976207fd9/7898324301889.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4891ab2f-f7de-4243-ba0b-263e49a99be3",
+        "itunes": "https://music.apple.com/us/album/in%C3%BAtil/977474314?i=977474480&uo=4",
+        "deezer": "https://www.deezer.com/track/96168064"
+      }
+    },
+    "lyricPath": "/lyrics/98557.txt"
+  }
+]

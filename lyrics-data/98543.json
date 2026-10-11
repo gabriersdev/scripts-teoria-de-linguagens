@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98543,
+    "metadata": {
+      "title": "Ser Estranho",
+      "artists": [
+        "Titãs"
+      ],
+      "album": "Como estão vocês?",
+      "releaseDate": "2003-11",
+      "durationMs": 192013,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRBMG0300725",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/02/07/5f/02075ff9-5d6c-2c3a-02ef-fa907fdae486/888880313645.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0bc8b783-a499-46c8-9bea-28aa06722b51",
+        "itunes": "https://music.apple.com/us/album/ser-estranho/1133727190?i=1133727501&uo=4",
+        "deezer": "https://www.deezer.com/track/128441335"
+      }
+    },
+    "lyricPath": "/lyrics/98543.txt"
+  }
+]

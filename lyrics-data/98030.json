@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98030,
+    "metadata": {
+      "title": "Mente Barulhenta",
+      "artists": [
+        "Mc IG, Mc Lele JP, DJ Oreia, DJ Noiskita"
+      ],
+      "album": "Samma uns ehrlich",
+      "releaseDate": "2007-06-30",
+      "durationMs": 292000,
+      "genres": [
+        "Forró"
+      ],
+      "isrc": "BRWMB2600273",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/d0/76/f0d076fe-0b77-2f42-fb4f-8cf22752cc3d/1200220156436.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/906928e3-6ea7-43a8-9bc6-36b583afaef6",
+        "itunes": "https://music.apple.com/us/album/mente-barulhenta/6813223088?i=6813223495&uo=4",
+        "deezer": "https://www.deezer.com/track/3913742761"
+      }
+    },
+    "lyricPath": "/lyrics/98030.txt"
+  }
+]

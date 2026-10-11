@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99130,
+    "metadata": {
+      "title": "Tenho Que Me Decidir",
+      "artists": [
+        "MC PH, Borges, WIU, Pedro Lotto, WEY"
+      ],
+      "album": "Tenho que Me Decidir",
+      "releaseDate": "2024-02-02",
+      "durationMs": 183960,
+      "genres": [],
+      "isrc": "BXG6R2301027",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/e67c726efc879da8d77400b37cddfc86/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a3825611-e9a1-4015-9193-be5e2b8b4e1c",
+        "deezer": "https://www.deezer.com/track/2557685442"
+      }
+    },
+    "lyricPath": "/lyrics/99130.txt"
+  }
+]

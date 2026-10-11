@@ -15,752 +15,902 @@
       {
         "id": 98801,
         "name": "BACKSTAGE",
-        "artists": "Matuê, BNYX, Azul Wynter, Bryan Yepes"
+        "artists": "Matuê, BNYX, Azul Wynter, Bryan Yepes",
+        "complete": true
       },
       {
         "id": 98802,
         "name": "Champions",
-        "artists": "Ark King, ohayomatsu"
+        "artists": "Ark King, ohayomatsu",
+        "complete": true
       },
       {
         "id": 98803,
         "name": "Dejavu",
-        "artists": "Sidoka, Dogor"
+        "artists": "Sidoka, Dogor",
+        "complete": true
       },
       {
         "id": 98804,
         "name": "OS MELHORES",
-        "artists": "Matuê"
+        "artists": "Matuê",
+        "complete": true
       },
       {
         "id": 98805,
         "name": "PARABELLUM",
-        "artists": "Nosred, 3X"
+        "artists": "Nosred, 3X",
+        "complete": true
       },
       {
         "id": 98806,
         "name": "Isso é o vazio",
-        "artists": "D$ Luqi, Raiashi, BDK"
+        "artists": "D$ Luqi, Raiashi, BDK",
+        "complete": true
       },
       {
         "id": 98807,
         "name": "Vem Chapar",
-        "artists": "Matuê"
+        "artists": "Matuê",
+        "complete": true
       },
       {
         "id": 98808,
         "name": "Tática",
-        "artists": "Ark King"
+        "artists": "Ark King",
+        "complete": true
       },
       {
         "id": 98809,
         "name": "HARDMODE!",
-        "artists": "Lil Chainz"
+        "artists": "Lil Chainz",
+        "complete": true
       },
       {
         "id": 98810,
         "name": "Máquina do Tempo",
-        "artists": "Matuê"
+        "artists": "Matuê",
+        "complete": true
       },
       {
         "id": 98811,
         "name": "FALIDOS",
-        "artists": "Alee, NADAMAL, Nagalli, Rocco"
+        "artists": "Alee, NADAMAL, Nagalli, Rocco",
+        "complete": true
       },
       {
         "id": 98812,
         "name": "Vandame",
-        "artists": "Ryu, The Runner"
+        "artists": "Ryu, The Runner",
+        "complete": true
       },
       {
         "id": 98813,
         "name": "QUEM FAZ A ONDA?",
-        "artists": "Lil Chainz"
+        "artists": "Lil Chainz",
+        "complete": 1
       },
       {
         "id": 98814,
         "name": "Evellyne",
-        "artists": "Ark King, Jvrthxypz, Junim"
+        "artists": "Ark King, Jvrthxypz, Junim",
+        "complete": 1
       },
       {
         "id": 98815,
         "name": "Conceitos",
-        "artists": "Ark King, bastos, Junim"
+        "artists": "Ark King, bastos, Junim",
+        "complete": true
       },
       {
         "id": 98816,
         "name": "CAÇA ÀS BRUXAS",
-        "artists": "Lil Chainz, Ugovhb"
+        "artists": "Lil Chainz, Ugovhb",
+        "complete": true
       },
       {
         "id": 98817,
         "name": "ÍCONE FASHION",
-        "artists": "Matuê, kouth"
+        "artists": "Matuê, kouth",
+        "complete": true
       },
       {
         "id": 98818,
         "name": "Modo Avião",
-        "artists": "Yung Nobre"
+        "artists": "Yung Nobre",
+        "complete": true
       },
       {
         "id": 98819,
         "name": "TEMPORADA DE CAÇA",
-        "artists": "Lil Chainz"
+        "artists": "Lil Chainz",
+        "complete": true
       },
       {
         "id": 98820,
         "name": "Lobelia's Garden #1",
-        "artists": "Ark King, Guap508, Junim, llust, Vidari, hatyro, mixx!, Gum64ll, NIKK"
+        "artists": "Ark King, Guap508, Junim, llust, Vidari, hatyro, mixx!, Gum64ll, NIKK",
+        "complete": 1
       },
       {
         "id": 98821,
         "name": "Vlone",
-        "artists": "Sidoka, Dalua"
+        "artists": "Sidoka, Dalua",
+        "complete": true
       },
       {
         "id": 98822,
         "name": "INSUFICIENTE",
-        "artists": "ohayomatsu, Guap508, casnog, Sailler"
+        "artists": "ohayomatsu, Guap508, casnog, Sailler",
+        "complete": true
       },
       {
         "id": 98823,
         "name": "Elevador",
-        "artists": "Sidoka"
+        "artists": "Sidoka",
+        "complete": true
       },
       {
         "id": 98824,
         "name": "Olha Pro Oclin",
-        "artists": "Sidoka, FBC"
+        "artists": "Sidoka, FBC",
+        "complete": true
       },
       {
         "id": 98825,
         "name": "Goztosa (Me Olha)",
-        "artists": "Sidoka"
+        "artists": "Sidoka",
+        "complete": 1
       },
       {
         "id": 98826,
         "name": "Klibrano",
-        "artists": "Sidoka"
+        "artists": "Sidoka",
+        "complete": 1
       },
       {
         "id": 98827,
         "name": "MOVIBE",
-        "artists": "Alee, NADAMAL, saboya, Dexter"
+        "artists": "Alee, NADAMAL, saboya, Dexter",
+        "complete": true
       },
       {
         "id": 98828,
         "name": "DAMN!",
-        "artists": "Ryu, The Runner, Emitê Único, Salve Crazy, Luk The Real, 6ee"
+        "artists": "Ryu, The Runner, Emitê Único, Salve Crazy, Luk The Real, 6ee",
+        "complete": true
       },
       {
         "id": 98829,
         "name": "CINEREOUS",
-        "artists": "Nosred, 3X"
+        "artists": "Nosred, 3X",
+        "complete": true
       },
       {
         "id": 98830,
         "name": "O Circo das Panelas",
-        "artists": "D$ Luqi, loopcinema"
+        "artists": "D$ Luqi, loopcinema",
+        "complete": true
       },
       {
         "id": 98831,
         "name": "DESCULPA GARDENIA",
-        "artists": "ohayomatsu, mixx!"
+        "artists": "ohayomatsu, mixx!",
+        "complete": 1
       },
       {
         "id": 98832,
         "name": "Eu não confio nem na minha mãe",
-        "artists": "D$ Luqi"
+        "artists": "D$ Luqi",
+        "complete": true
       },
       {
         "id": 98833,
         "name": "Elefante",
-        "artists": "Brandão85"
+        "artists": "Brandão85",
+        "complete": true
       },
       {
         "id": 98834,
         "name": "FIM",
-        "artists": "Alee, NADAMAL, Del Jay"
+        "artists": "Alee, NADAMAL, Del Jay",
+        "complete": true
       },
       {
         "id": 98835,
         "name": "ALTERADO",
-        "artists": "Matuê, Phl Notunrboy"
+        "artists": "Matuê, Phl Notunrboy",
+        "complete": true
       },
       {
         "id": 98836,
         "name": "TWERK",
-        "artists": "Ryu, The Runner, Derek, dvrkness13, No Cutty, Salve Crazy"
+        "artists": "Ryu, The Runner, Derek, dvrkness13, No Cutty, Salve Crazy",
+        "complete": true
       },
       {
         "id": 98837,
         "name": "TETO PRETO",
-        "artists": "Nosred, 3X"
+        "artists": "Nosred, 3X",
+        "complete": true
       },
       {
         "id": 98838,
         "name": "Kawasaki Ninja",
-        "artists": "Sidoka"
+        "artists": "Sidoka",
+        "complete": true
       },
       {
         "id": 98839,
         "name": "Jaguar",
-        "artists": "Sidoka"
+        "artists": "Sidoka",
+        "complete": true
       },
       {
         "id": 98840,
         "name": "Merci",
-        "artists": "Sidoka"
+        "artists": "Sidoka",
+        "complete": true
       },
       {
         "id": 98841,
         "name": "PANTHER",
-        "artists": "Alee, NADAMAL, Dallass"
+        "artists": "Alee, NADAMAL, Dallass",
+        "complete": true
       },
       {
         "id": 98842,
         "name": "COMO ASSIM TU NÃO CONHECE?",
-        "artists": "ohayomatsu, Junim"
+        "artists": "ohayomatsu, Junim",
+        "complete": 1
       },
       {
         "id": 98843,
         "name": "Raluc4",
-        "artists": "Ark King, NIKK, ohayomatsu"
+        "artists": "Ark King, NIKK, ohayomatsu",
+        "complete": 1
       },
       {
         "id": 98844,
         "name": "Ruas Perigosas",
-        "artists": "Yung Nobre, Flacko"
+        "artists": "Yung Nobre, Flacko",
+        "complete": true
       },
       {
         "id": 98845,
         "name": "REI TUÊ",
-        "artists": "Matuê"
+        "artists": "Matuê",
+        "complete": true
       },
       {
         "id": 98846,
         "name": "QUERO TE VER",
-        "artists": "ohayomatsu, Junim, DD Tápi, mixx!"
+        "artists": "ohayomatsu, Junim, DD Tápi, mixx!",
+        "complete": true
       },
       {
         "id": 98847,
         "name": "MEU MUNDO",
-        "artists": "Alee, NADAMAL, peppnx"
+        "artists": "Alee, NADAMAL, peppnx",
+        "complete": true
       },
       {
         "id": 98848,
         "name": "SURF",
-        "artists": "Alee, NADAMAL, saboya, Qualywav1, Dexter"
+        "artists": "Alee, NADAMAL, saboya, Qualywav1, Dexter",
+        "complete": true
       },
       {
         "id": 98849,
         "name": "Mítico Jovem",
-        "artists": "Ryu, The Runner, 6ee, Hobb The Goat, Salve Crazy"
+        "artists": "Ryu, The Runner, 6ee, Hobb The Goat, Salve Crazy",
+        "complete": true
       },
       {
         "id": 98850,
         "name": "AUTOBAHN",
-        "artists": "Matuê, Cashley"
+        "artists": "Matuê, Cashley",
+        "complete": true
       },
       {
         "id": 98851,
         "name": "Top Boy Intro",
-        "artists": "Yung Nobre"
+        "artists": "Yung Nobre",
+        "complete": true
       },
       {
         "id": 98852,
         "name": "A Menina Que Roubava",
-        "artists": "Sidoka, Pluto"
+        "artists": "Sidoka, Pluto",
+        "complete": true
       },
       {
         "id": 98853,
         "name": "Jaguar (Uuu) [Beck de Mel]",
-        "artists": "Brandão85"
+        "artists": "Brandão85",
+        "complete": true
       },
       {
         "id": 98854,
         "name": "Oração à Violência",
-        "artists": "D$ Luqi"
+        "artists": "D$ Luqi",
+        "complete": true
       },
       {
         "id": 98855,
         "name": "Peixe",
-        "artists": "Brandão85, Alee"
+        "artists": "Brandão85, Alee",
+        "complete": true
       },
       {
         "id": 98856,
         "name": "Perigoso",
-        "artists": "Ark King, Nottpills, fvcknick"
+        "artists": "Ark King, Nottpills, fvcknick",
+        "complete": true
       },
       {
         "id": 98857,
         "name": "NANANANA",
-        "artists": "Matuê, N.A.N.A."
+        "artists": "Matuê, N.A.N.A.",
+        "complete": true
       },
       {
         "id": 98858,
         "name": "ESTAGNADO",
-        "artists": "ohayomatsu, Vidari, izxx, dudumzr, NIKK, Yamashita, Ark King"
+        "artists": "ohayomatsu, Vidari, izxx, dudumzr, NIKK, Yamashita, Ark King",
+        "complete": 1
       },
       {
         "id": 98859,
         "name": "CÊ QUER MAIS O QUE?",
-        "artists": "Nosred, Ugovhb, 3X"
+        "artists": "Nosred, Ugovhb, 3X",
+        "complete": 1
       },
       {
         "id": 98860,
         "name": "A Triquetra",
-        "artists": "D$ Luqi"
+        "artists": "D$ Luqi",
+        "complete": true
       },
       {
         "id": 98861,
         "name": "Pelos Olhos Dela",
-        "artists": "Sidoka, The Boy"
+        "artists": "Sidoka, The Boy",
+        "complete": 1
       },
       {
         "id": 98862,
         "name": "Wag1",
-        "artists": "Yung Nobre, Pepito"
+        "artists": "Yung Nobre, Pepito",
+        "complete": true
       },
       {
         "id": 98863,
         "name": "Nunca tenha medo",
-        "artists": "Ark King, NIKK"
+        "artists": "Ark King, NIKK",
+        "complete": true
       },
       {
         "id": 98864,
         "name": "Cogulândia",
-        "artists": "Matuê"
+        "artists": "Matuê",
+        "complete": true
       },
       {
         "id": 98865,
         "name": "Esta ação terá consequências",
-        "artists": "D$ Luqi, YUNG LIXO"
+        "artists": "D$ Luqi, YUNG LIXO",
+        "complete": true
       },
       {
         "id": 98866,
         "name": "Sirigueijo",
-        "artists": "Ark King, NIKK, Akashi Cruz"
+        "artists": "Ark King, NIKK, Akashi Cruz",
+        "complete": true
       },
       {
         "id": 98867,
         "name": "Saint Laurent",
-        "artists": "Sidoka, DogDu BEAT$"
+        "artists": "Sidoka, DogDu BEAT$",
+        "complete": true
       },
       {
         "id": 98868,
         "name": "Show da Luna",
-        "artists": "Ark King, VtAlbuquerque, JKM"
+        "artists": "Ark King, VtAlbuquerque, JKM",
+        "complete": true
       },
       {
         "id": 98869,
         "name": "PENSAMENTOS PERIGOSOS",
-        "artists": "Matuê, LPT Zlatan"
+        "artists": "Matuê, LPT Zlatan",
+        "complete": true
       },
       {
         "id": 98870,
         "name": "MEU CEMITÉRIO",
-        "artists": "Matuê"
+        "artists": "Matuê",
+        "complete": true
       },
       {
         "id": 98871,
         "name": "Wake Up",
-        "artists": "Ark King, Junim"
+        "artists": "Ark King, Junim",
+        "complete": true
       },
       {
         "id": 98872,
         "name": "Kaboom!",
-        "artists": "D$ Luqi, Ark King"
+        "artists": "D$ Luqi, Ark King",
+        "complete": true
       },
       {
         "id": 98873,
         "name": "Antes",
-        "artists": "Matuê"
+        "artists": "Matuê",
+        "complete": true
       },
       {
         "id": 98874,
         "name": "Detalhe",
-        "artists": "Sidoka, DogDu BEAT$"
+        "artists": "Sidoka, DogDu BEAT$",
+        "complete": true
       },
       {
         "id": 98875,
         "name": "Arkoirís",
-        "artists": "Ark King, Vaona"
+        "artists": "Ark King, Vaona",
+        "complete": 1
       },
       {
         "id": 98876,
         "name": "Vigarista",
-        "artists": "Yung Nobre, Puterrier"
+        "artists": "Yung Nobre, Puterrier",
+        "complete": true
       },
       {
         "id": 98877,
         "name": "Clone",
-        "artists": "Yung Nobre, Kyan, Mu540"
+        "artists": "Yung Nobre, Kyan, Mu540",
+        "complete": true
       },
       {
         "id": 98878,
         "name": "Calma (Calma, Calma)",
-        "artists": "Sidoka"
+        "artists": "Sidoka",
+        "complete": true
       },
       {
         "id": 98879,
         "name": "BEM-VINDO AO HARDMODE (INTRO)",
-        "artists": "Lil Chainz"
+        "artists": "Lil Chainz",
+        "complete": 1
       },
       {
         "id": 98880,
         "name": "Ara Ara",
-        "artists": "Ark King, JKM"
+        "artists": "Ark King, JKM",
+        "complete": true
       },
       {
         "id": 98881,
         "name": "777-666",
-        "artists": "Matuê"
+        "artists": "Matuê",
+        "complete": true
       },
       {
         "id": 98882,
         "name": "FACAS E MACHADOS",
-        "artists": "Matuê, FAB GODAMN, okie"
+        "artists": "Matuê, FAB GODAMN, okie",
+        "complete": true
       },
       {
         "id": 98883,
         "name": "Segredo 2",
-        "artists": "Ark King, JKM"
+        "artists": "Ark King, JKM",
+        "complete": true
       },
       {
         "id": 98884,
         "name": "A Última",
-        "artists": "D$ Luqi"
+        "artists": "D$ Luqi",
+        "complete": true
       },
       {
         "id": 98885,
         "name": "SE CONTROLA",
-        "artists": "Nosred, 3X"
+        "artists": "Nosred, 3X",
+        "complete": true
       },
       {
         "id": 98886,
         "name": "Nós já tá",
-        "artists": "Sidoka, Denov"
+        "artists": "Sidoka, Denov",
+        "complete": 1
       },
       {
         "id": 98887,
         "name": "Gorilla Roxo",
-        "artists": "Matuê"
+        "artists": "Matuê",
+        "complete": true
       },
       {
         "id": 98888,
         "name": "Corsa Freestyle",
-        "artists": "Ryu, The Runner, Braão, PAKO BEATZ, Salve Crazy"
+        "artists": "Ryu, The Runner, Braão, PAKO BEATZ, Salve Crazy",
+        "complete": true
       },
       {
         "id": 98889,
         "name": "Espanha",
-        "artists": "Sidoka"
+        "artists": "Sidoka",
+        "complete": true
       },
       {
         "id": 98890,
         "name": "Contas",
-        "artists": "Sidoka"
+        "artists": "Sidoka",
+        "complete": true
       },
       {
         "id": 98891,
         "name": "La Fleur",
-        "artists": "Ark King, deadpeace, Junim"
+        "artists": "Ark King, deadpeace, Junim",
+        "complete": true
       },
       {
         "id": 98892,
         "name": "Beyoncé",
-        "artists": "Ryu, The Runner, Stef, Tommy Gun, Salve Crazy"
+        "artists": "Ryu, The Runner, Stef, Tommy Gun, Salve Crazy",
+        "complete": true
       },
       {
         "id": 98893,
         "name": "Não quero mais cnvs",
-        "artists": "Ryu, The Runner, CJota, Stuani, Salve Crazy"
+        "artists": "Ryu, The Runner, CJota, Stuani, Salve Crazy",
+        "complete": true
       },
       {
         "id": 98894,
         "name": "Coruja",
-        "artists": "Brandão85, Jovem Dex"
+        "artists": "Brandão85, Jovem Dex",
+        "complete": true
       },
       {
         "id": 98895,
         "name": "Água",
-        "artists": "Sidoka, Delatorvi, Gu$tavera"
+        "artists": "Sidoka, Delatorvi, Gu$tavera",
+        "complete": true
       },
       {
         "id": 98896,
         "name": "CASACO DA BAPE",
-        "artists": "Nosred, 3X"
+        "artists": "Nosred, 3X",
+        "complete": 1
       },
       {
         "id": 98897,
         "name": "Não subestime, digamos",
-        "artists": "Sidoka, Chris MC"
+        "artists": "Sidoka, Chris MC",
+        "complete": 1
       },
       {
         "id": 98898,
         "name": "Cê não sabe ter",
-        "artists": "Sidoka, Bilbo, Maika"
+        "artists": "Sidoka, Bilbo, Maika",
+        "complete": 1
       },
       {
         "id": 98899,
         "name": "Como?",
-        "artists": "D$ Luqi, Uxie Kid"
+        "artists": "D$ Luqi, Uxie Kid",
+        "complete": true
       },
       {
         "id": 98900,
         "name": "GRAÇA",
-        "artists": "ohayomatsu, hatyro, NIKK"
+        "artists": "ohayomatsu, hatyro, NIKK",
+        "complete": true
       },
       {
         "id": 98901,
         "name": "F.Q.O.M.V.M.A.",
-        "artists": "D$ Luqi, Ugovhb"
+        "artists": "D$ Luqi, Ugovhb",
+        "complete": true
       },
       {
         "id": 98902,
         "name": "Orangotango",
-        "artists": "Brandão85"
+        "artists": "Brandão85",
+        "complete": true
       },
       {
         "id": 98903,
         "name": "Top Boy 2",
-        "artists": "Yung Nobre"
+        "artists": "Yung Nobre",
+        "complete": true
       },
       {
         "id": 98904,
         "name": "Direção",
-        "artists": "Yung Nobre, Pepito"
+        "artists": "Yung Nobre, Pepito",
+        "complete": true
       },
       {
         "id": 98905,
         "name": "GLOCK DE COR",
-        "artists": "Alee, NADAMAL, Jovem Dex"
+        "artists": "Alee, NADAMAL, Jovem Dex",
+        "complete": true
       },
       {
         "id": 98906,
         "name": "PERSONALIDADES",
-        "artists": "Nosred, 3X"
+        "artists": "Nosred, 3X",
+        "complete": true
       },
       {
         "id": 98907,
         "name": "WTF!",
-        "artists": "Nosred, 3X"
+        "artists": "Nosred, 3X",
+        "complete": true
       },
       {
         "id": 98908,
         "name": "Período Composto",
-        "artists": "D$ Luqi, loonyjetski"
+        "artists": "D$ Luqi, loonyjetski",
+        "complete": true
       },
       {
         "id": 98909,
         "name": "Honey",
-        "artists": "Ark King, ohayomatsu, Junim"
+        "artists": "Ark King, ohayomatsu, Junim",
+        "complete": true
       },
       {
         "id": 98910,
         "name": "Março",
-        "artists": "Ryu, The Runner, Liam Fenti, Salve Crazy"
+        "artists": "Ryu, The Runner, Liam Fenti, Salve Crazy",
+        "complete": true
       },
       {
         "id": 98911,
         "name": "Xilofone",
-        "artists": "D$ Luqi, Big Rush"
+        "artists": "D$ Luqi, Big Rush",
+        "complete": true
       },
       {
         "id": 98912,
         "name": "NEUROSES",
-        "artists": "Alee, NADAMAL, Klisman, saboya, OG Bahia"
+        "artists": "Alee, NADAMAL, Klisman, saboya, OG Bahia",
+        "complete": true
       },
       {
         "id": 98913,
         "name": "Intro",
-        "artists": "Brandão85"
+        "artists": "Brandão85",
+        "complete": true
       },
       {
         "id": 98914,
         "name": "Garoa, Pt. 2",
-        "artists": "Ryu, The Runner, No Cutty, Salve Crazy"
+        "artists": "Ryu, The Runner, No Cutty, Salve Crazy",
+        "complete": true
       },
       {
         "id": 98915,
         "name": "Doritoz",
-        "artists": "Sidoka"
+        "artists": "Sidoka",
+        "complete": true
       },
       {
         "id": 98916,
         "name": "Fora de Vista 2",
-        "artists": "Ark King, YG Saull, YoungFlame, Gus, AyooFire"
+        "artists": "Ark King, YG Saull, YoungFlame, Gus, AyooFire",
+        "complete": true
       },
       {
         "id": 98917,
         "name": "PENTE LONGO",
-        "artists": "Alee, NADAMAL, Neckklace"
+        "artists": "Alee, NADAMAL, Neckklace",
+        "complete": true
       },
       {
         "id": 98918,
         "name": "CRAIG",
-        "artists": "ohayomatsu, Ark King"
+        "artists": "ohayomatsu, Ark King",
+        "complete": true
       },
       {
         "id": 98919,
         "name": "Qq cê tá insinuando",
-        "artists": "Sidoka"
+        "artists": "Sidoka",
+        "complete": true
       },
       {
         "id": 98920,
         "name": "Só Pau",
-        "artists": "Ryu, The Runner, Cassin, Stuani, Salve Crazy"
+        "artists": "Ryu, The Runner, Cassin, Stuani, Salve Crazy",
+        "complete": true
       },
       {
         "id": 98921,
         "name": "Um Olho Pra Dois",
-        "artists": "Sidoka, Pexande"
+        "artists": "Sidoka, Pexande",
+        "complete": true
       },
       {
         "id": 98922,
         "name": "MULTIPLICA",
-        "artists": "Lil Chainz, Akashi Cruz, Ark King"
+        "artists": "Lil Chainz, Akashi Cruz, Ark King",
+        "complete": true
       },
       {
         "id": 98923,
         "name": "XTRANHO",
-        "artists": "Matuê, Brandão85"
+        "artists": "Matuê, Brandão85",
+        "complete": true
       },
       {
         "id": 98924,
         "name": "Project V",
-        "artists": "Ark King"
+        "artists": "Ark King",
+        "complete": true
       },
       {
         "id": 98925,
         "name": "Caracol",
-        "artists": "Brandão85"
+        "artists": "Brandão85",
+        "complete": true
       },
       {
         "id": 98926,
         "name": "Ela conhece bem o céu",
-        "artists": "Sidoka, Bagin"
+        "artists": "Sidoka, Bagin",
+        "complete": 1
       },
       {
         "id": 98927,
         "name": "Scott Pillgrim",
-        "artists": "Ark King, JKM, D$ Luqi"
+        "artists": "Ark King, JKM, D$ Luqi",
+        "complete": true
       },
       {
         "id": 98928,
         "name": "Carranca",
-        "artists": "D$ Luqi, WillsBife"
+        "artists": "D$ Luqi, WillsBife",
+        "complete": true
       },
       {
         "id": 98929,
         "name": "90's",
-        "artists": "Ark King, Gum64ll"
+        "artists": "Ark King, Gum64ll",
+        "complete": true
       },
       {
         "id": 98930,
         "name": "Business",
-        "artists": "Ryu, The Runner, Gu$Z, Salve Crazy"
+        "artists": "Ryu, The Runner, Gu$Z, Salve Crazy",
+        "complete": true
       },
       {
         "id": 98931,
         "name": "TODAS AS LUZES",
-        "artists": "Matuê"
+        "artists": "Matuê",
+        "complete": true
       },
       {
         "id": 98932,
         "name": "Labirintoz",
-        "artists": "Sidoka, Pluto"
+        "artists": "Sidoka, Pluto",
+        "complete": true
       },
       {
         "id": 98933,
         "name": "Sosa & Vetin",
-        "artists": "Yung Nobre, Pepito, Leviano"
+        "artists": "Yung Nobre, Pepito, Leviano",
+        "complete": true
       },
       {
         "id": 98934,
         "name": "LV",
-        "artists": "Sidoka, SHOTBYBZK"
+        "artists": "Sidoka, SHOTBYBZK",
+        "complete": true
       },
       {
         "id": 98935,
         "name": "É Sal",
-        "artists": "Matuê"
+        "artists": "Matuê",
+        "complete": true
       },
       {
         "id": 98936,
         "name": "GARRAFA",
-        "artists": "ohayomatsu, Vidari, Ark King, Guap508"
+        "artists": "ohayomatsu, Vidari, Ark King, Guap508",
+        "complete": true
       },
       {
         "id": 98937,
         "name": "FORAGIDO",
-        "artists": "Nosred, 3X"
+        "artists": "Nosred, 3X",
+        "complete": true
       },
       {
         "id": 98938,
         "name": "Topless",
-        "artists": "Sidoka"
+        "artists": "Sidoka",
+        "complete": true
       },
       {
         "id": 98939,
         "name": "Nightlife",
-        "artists": "Sidoka"
+        "artists": "Sidoka",
+        "complete": true
       },
       {
         "id": 98940,
         "name": "Facas & Pistolas",
-        "artists": "Yung Nobre, akao.47"
+        "artists": "Yung Nobre, akao.47",
+        "complete": true
       },
       {
         "id": 98941,
         "name": "LICOR",
-        "artists": "ohayomatsu, Junim, Ark King"
+        "artists": "ohayomatsu, Junim, Ark King",
+        "complete": true
       },
       {
         "id": 98942,
         "name": "DIOR",
-        "artists": "Alee, NADAMAL, L7NNON, oson"
+        "artists": "Alee, NADAMAL, L7NNON, oson",
+        "complete": true
       },
       {
         "id": 98943,
         "name": "TALKING BOUT",
-        "artists": "Matuê"
+        "artists": "Matuê",
+        "complete": true
       },
       {
         "id": 98944,
         "name": "TAMBOR",
-        "artists": "Alee, NADAMAL"
+        "artists": "Alee, NADAMAL",
+        "complete": true
       },
       {
         "id": 98945,
         "name": "Eu Juro (Freestyle)",
-        "artists": "Sidoka"
+        "artists": "Sidoka",
+        "complete": 1
       },
       {
         "id": 98946,
         "name": "Segredo",
-        "artists": "Ark King"
+        "artists": "Ark King",
+        "complete": true
       },
       {
         "id": 98947,
         "name": "Luba",
-        "artists": "Sidoka, DogDu BEAT$"
+        "artists": "Sidoka, DogDu BEAT$",
+        "complete": true
       },
       {
         "id": 98948,
         "name": "PUCA",
-        "artists": "Ark King, Jvrthxypz, ohayomatsu, NIKK, Junim"
+        "artists": "Ark King, Jvrthxypz, ohayomatsu, NIKK, Junim",
+        "complete": true
       },
       {
         "id": 98949,
         "name": "WAH?",
-        "artists": "Nosred, 3X"
+        "artists": "Nosred, 3X",
+        "complete": true
       },
       {
         "id": 98950,
         "name": "Contato",
-        "artists": "Leviano"
+        "artists": "Leviano",
+        "complete": true
       }
     ]
   }

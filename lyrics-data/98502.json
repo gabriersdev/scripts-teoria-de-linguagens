@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98502,
+    "metadata": {
+      "title": "Bom É Quando Faz Mal",
+      "artists": [
+        "Matanza"
+      ],
+      "album": "MTV Apresenta: Matanza",
+      "releaseDate": "2008-04",
+      "durationMs": 178000,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRDEP0300146",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/5b/4d/c3/5b4dc345-95b4-a30f-bb4b-612103de925d/7898324300493.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/93befc0c-8e86-4270-bf1c-1ecadd1f0b79",
+        "itunes": "https://music.apple.com/us/album/bom-%C3%A9-quando-faz-mal/977438858?i=977438866&uo=4",
+        "deezer": "https://www.deezer.com/track/96219840"
+      }
+    },
+    "lyricPath": "/lyrics/98502.txt"
+  }
+]

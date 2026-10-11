@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98442,
+    "metadata": {
+      "title": "Regina Let's Go!",
+      "artists": [
+        "CPM 22"
+      ],
+      "album": "CPM22",
+      "releaseDate": "2001-11-02T12:00:00Z",
+      "durationMs": 135933,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRMSU0300001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/db/e2/75/dbe275b5-2460-9543-aac1-ffaf94cd8406/06UMGIM69285.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/regina-lets-go/1443486687?i=1443486699&uo=4",
+        "deezer": "https://www.deezer.com/track/4676414"
+      }
+    },
+    "lyricPath": "/lyrics/98442.txt"
+  }
+]

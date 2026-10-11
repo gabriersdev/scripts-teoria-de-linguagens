@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98141,
+    "metadata": {
+      "title": "Pura Putaria",
+      "artists": [
+        "Mc Fopi, Mc Pikachu, ZKzin, Love Funk"
+      ],
+      "album": "Vo De Liefhebber",
+      "releaseDate": "2016",
+      "durationMs": 183000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a237872c-1b93-42b9-819d-f5f21ea6f9d7"
+      }
+    },
+    "lyricPath": "/lyrics/98141.txt"
+  }
+]

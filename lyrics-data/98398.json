@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98398,
+    "metadata": {
+      "title": "Bandido da Luz Vermelha",
+      "artists": [
+        "KANT"
+      ],
+      "album": "Agora",
+      "releaseDate": "2024-12-13",
+      "durationMs": 279375,
+      "genres": [],
+      "isrc": "US7VG2068308",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/2be34051c8e3b575ba9da05459f52cb8/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3875a1cd-4ebf-473b-8c34-e7facc2a9d05",
+        "deezer": "https://www.deezer.com/track/870172022"
+      }
+    },
+    "lyricPath": "/lyrics/98398.txt"
+  }
+]

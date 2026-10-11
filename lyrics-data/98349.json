@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98349,
+    "metadata": {
+      "title": "Krabi",
+      "artists": [
+        "Gorilla Concept Music, Cynthia Luz, Froid, Sain, Felp 22"
+      ],
+      "album": "Não é só isso",
+      "releaseDate": "2020-09-18",
+      "durationMs": 169435,
+      "genres": [],
+      "isrc": "BCD592400134",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b5727b8b7d43ed41f0d6fb7e4d70be30/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0ed98a6b-7331-4e39-8c57-8cbc0eb87b83",
+        "deezer": "https://www.deezer.com/track/3092754541"
+      }
+    },
+    "lyricPath": "/lyrics/98349.txt"
+  }
+]

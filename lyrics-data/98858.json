@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98858,
+    "metadata": {
+      "title": "ESTAGNADO",
+      "artists": [
+        "ohayomatsu, Vidari, izxx, dudumzr, NIKK, Yamashita, Ark King"
+      ],
+      "album": "A Odisseia do Neguinho Violento e Vingativo",
+      "releaseDate": "2025-08-08",
+      "durationMs": 135000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7fa1cc23-3a92-4314-bf5c-c88db6dee1e7"
+      }
+    },
+    "lyricPath": "/lyrics/98858.txt"
+  }
+]

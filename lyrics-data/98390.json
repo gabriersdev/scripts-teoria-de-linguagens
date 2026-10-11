@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98390,
+    "metadata": {
+      "title": "O Casamento",
+      "artists": [
+        "Sid, Spinardi, Ugo Ludovico"
+      ],
+      "album": "Poesias e Frustrações",
+      "releaseDate": "2019-08-22",
+      "durationMs": 209000,
+      "genres": [],
+      "isrc": "BXQHQ2200015",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/05137a377eb3ca68adf671f0d6d8f83d/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/26e38fcd-715a-4f1d-897b-705a26248fc0",
+        "deezer": "https://www.deezer.com/track/1848599077"
+      }
+    },
+    "lyricPath": "/lyrics/98390.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98477,
+    "metadata": {
+      "title": "Dia especial",
+      "artists": [
+        "Cidadão Quem"
+      ],
+      "album": "Mr. Pi [Canta]",
+      "releaseDate": "2004-07-07T12:00:00Z",
+      "durationMs": 139586,
+      "genres": [
+        "Rock y Alternativo"
+      ],
+      "isrc": "BRE1K1300027",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/b7/65/00b765e6-7891-51d6-5a11-ee88fa64ed30/7899650906960_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5c7b939c-514e-4c05-8a9c-bb14bfb06a9a",
+        "itunes": "https://music.apple.com/us/album/dia-especial-ao-vivo/1876008473?i=1876008479&uo=4",
+        "deezer": "https://www.deezer.com/track/3833456381"
+      }
+    },
+    "lyricPath": "/lyrics/98477.txt"
+  }
+]

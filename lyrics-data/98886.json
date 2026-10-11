@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98886,
+    "metadata": {
+      "title": "Nós já tá",
+      "artists": [
+        "Sidoka, Denov"
+      ],
+      "album": "Merci £",
+      "releaseDate": "2020-02-18",
+      "durationMs": 215000,
+      "genres": [],
+      "isrc": "QZFZ42063724",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/befa4056b17bfa6192bc237e33ad9747/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c00a2581-26e1-4f11-bcf0-c3123bbfd6da",
+        "deezer": "https://www.deezer.com/track/1843447957"
+      }
+    },
+    "lyricPath": "/lyrics/98886.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98220,
+    "metadata": {
+      "title": "BACKSTAGE",
+      "artists": [
+        "Matuê, BNYX®, Azul Wynter, Bryan Yepes"
+      ],
+      "album": "The Darkness Abstract",
+      "releaseDate": "2025-12-10",
+      "durationMs": 459000,
+      "genres": [],
+      "isrc": "BXW922500117",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c9b023c07f75e26f5998c8eeddb39fcb/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/1d7fbd7a-27a0-4f60-aad6-8fc7c249802c",
+        "deezer": "https://www.deezer.com/track/3700579852"
+      }
+    },
+    "lyricPath": "/lyrics/98220.txt"
+  }
+]

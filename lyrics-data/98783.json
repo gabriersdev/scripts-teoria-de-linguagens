@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98783,
+    "metadata": {
+      "title": "Entre Achados e Perdidos",
+      "artists": [
+        "Mafalda Veiga"
+      ],
+      "album": "Chão",
+      "releaseDate": "2008-01-01T12:00:00Z",
+      "durationMs": 208267,
+      "genres": [
+        "Singer/Songwriter"
+      ],
+      "isrc": "PTPP10800003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bf/90/84/bf9084a1-d9af-baf7-3b6a-20868bc6a989/5605231016728.png/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/entre-achados-e-perdidos/1394666151?i=1394666374&uo=4",
+        "deezer": "https://www.deezer.com/track/1296752262"
+      }
+    },
+    "lyricPath": "/lyrics/98783.txt"
+  }
+]

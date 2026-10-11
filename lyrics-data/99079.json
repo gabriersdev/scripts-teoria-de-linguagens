@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99079,
+    "metadata": {
+      "title": "Deixa Doer",
+      "artists": [
+        "YUNG LIXO"
+      ],
+      "album": "13 Lentes de um Final Feliz (2024)",
+      "releaseDate": "2024-12-20",
+      "durationMs": 330000,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "QZZ7X2403696",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/e2/39/73e239c5-2743-a9d2-e3c5-74816b0387ff/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f68a2302-7186-40a8-a650-ff7aa3b86ed0",
+        "itunes": "https://music.apple.com/us/album/absorver-feat-hakuro/1836515045?i=1836515046&uo=4",
+        "deezer": "https://www.deezer.com/track/3144564051"
+      }
+    },
+    "lyricPath": "/lyrics/99079.txt"
+  }
+]

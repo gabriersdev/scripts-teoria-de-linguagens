@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98328,
+    "metadata": {
+      "title": "Vida Loka, Pt. 2",
+      "artists": [
+        "Racionais MC's"
+      ],
+      "album": "É o Grelo",
+      "releaseDate": "2024-07-19",
+      "durationMs": 277000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1324989",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3f/ca/fd/3fcafdad-07c1-c752-7878-39dfd32b3b28/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b6c193c7-3cc7-4de4-aace-a775ebe0229b",
+        "itunes": "https://music.apple.com/us/album/vida-loka-pt-2/1198317040?i=1198317090&uo=4",
+        "deezer": "https://www.deezer.com/track/140640911"
+      }
+    },
+    "lyricPath": "/lyrics/98328.txt"
+  }
+]

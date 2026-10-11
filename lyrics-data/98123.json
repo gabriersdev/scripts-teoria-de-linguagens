@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98123,
+    "metadata": {
+      "title": "Chefe É Chefe",
+      "artists": [
+        "MC Hariel"
+      ],
+      "album": "PAPAZONI AO VIVO EM PALMAS",
+      "releaseDate": "2017-08-25",
+      "durationMs": 99826,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRWMB2601136",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/74/08/b5740819-e40b-7d9a-41a5-436e1e238423/1200214905903.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/36ee85be-f1d8-480e-a0f9-fe49dc2bb456",
+        "itunes": "https://music.apple.com/us/album/chefe-%C3%A9-chefe-red-bull-symphonic/6803273274?i=6803273282&uo=4",
+        "deezer": "https://www.deezer.com/track/4234385262"
+      }
+    },
+    "lyricPath": "/lyrics/98123.txt"
+  }
+]

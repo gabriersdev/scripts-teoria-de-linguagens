@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98007,
+    "metadata": {
+      "title": "Malvado",
+      "artists": [
+        "MC Gustavinho"
+      ],
+      "album": "Mis mejores baladas, Volume 2",
+      "releaseDate": "2024-11-05T12:00:00Z",
+      "durationMs": 157814,
+      "genres": [
+        "Electronic"
+      ],
+      "isrc": "BXG212400019",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/31/7f/2a317fbe-6c87-b914-20ad-effe53e0f485/198999279702.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ba4195c0-f027-45e2-acec-c8cb6f59f614",
+        "itunes": "https://music.apple.com/us/album/malvado/1778280595?i=1778280596&uo=4",
+        "deezer": "https://www.deezer.com/track/3079821101"
+      }
+    },
+    "lyricPath": "/lyrics/98007.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98213,
+    "metadata": {
+      "title": "Rap da Lealdade",
+      "artists": [
+        "Filipe Ret, Prod.MTS"
+      ],
+      "album": "Nume - Epílogo",
+      "releaseDate": "2025-07-17",
+      "durationMs": 135692,
+      "genres": [],
+      "isrc": "BX7E52600003",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d646c410c07734b19b8b21d604ce726b/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/911268eb-99ae-4f6c-8a9f-185ea1918ee9",
+        "deezer": "https://www.deezer.com/track/3766480392"
+      }
+    },
+    "lyricPath": "/lyrics/98213.txt"
+  }
+]

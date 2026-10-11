@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98532,
+    "metadata": {
+      "title": "Epitáfio (Trio Acústico)",
+      "artists": [
+        "Titãs"
+      ],
+      "album": "Titãs Trio Acústico",
+      "releaseDate": "2021-01-29",
+      "durationMs": 173000,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BXBMG2000156",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5a/3c/e6/5a3ce604-3333-6cbd-6599-37799b70ae99/4050538662573.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8f0494b4-f8e5-4811-b88d-966bade7a04a",
+        "itunes": "https://music.apple.com/us/album/epit%C3%A1fio-trio-ac%C3%BAstico/1549712859?i=1549712876&uo=4",
+        "deezer": "https://www.deezer.com/track/3750836772"
+      }
+    },
+    "lyricPath": "/lyrics/98532.txt"
+  }
+]

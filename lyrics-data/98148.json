@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98148,
+    "metadata": {
+      "title": "Terminei Com A Ex",
+      "artists": [
+        "MC Rick"
+      ],
+      "album": "Canções que vão morrer no ar",
+      "releaseDate": "2012-12-15",
+      "durationMs": 206000,
+      "genres": [],
+      "isrc": "BXG6R2300921",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c95e7ca2b568d840cbf8136e2cd5ab32/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/893daa76-522c-4caa-9e1a-a770c6af5320",
+        "deezer": "https://www.deezer.com/track/2512918711"
+      }
+    },
+    "lyricPath": "/lyrics/98148.txt"
+  }
+]

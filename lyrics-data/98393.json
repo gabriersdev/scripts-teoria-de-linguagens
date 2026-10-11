@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98393,
+    "metadata": {
+      "title": "Click Clack Bum",
+      "artists": [
+        "Kant, Nog & Spinard"
+      ],
+      "album": "Infamy: Music Inspired by the Film",
+      "releaseDate": "2006",
+      "durationMs": 150933,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "QZNJW2002860",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f9/9e/23/f99e23f9-0dec-48a9-2911-a93cbffa6e4e/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3ffa162b-42f3-4ad9-a497-d3004b9b52ba",
+        "itunes": "https://music.apple.com/us/album/click-clack-bum/1536434330?i=1536434332&uo=4",
+        "deezer": "https://www.deezer.com/track/1113234802"
+      }
+    },
+    "lyricPath": "/lyrics/98393.txt"
+  }
+]

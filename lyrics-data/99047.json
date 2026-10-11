@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99047,
+    "metadata": {
+      "title": "EFEITO REFLEXO",
+      "artists": [
+        "Sidoka"
+      ],
+      "album": "EFEITO REFLEXO",
+      "releaseDate": "2026-03-27",
+      "durationMs": 193000,
+      "genres": [],
+      "isrc": "BK6NL2600013",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6327a0219b5592bfa1a33449a308bd09/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3909428301"
+      }
+    },
+    "lyricPath": "/lyrics/99047.txt"
+  }
+]

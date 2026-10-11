@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98754,
+    "metadata": {
+      "title": "Pergunta Boba - Ao Vivo",
+      "artists": [
+        "Jorge & Mateus"
+      ],
+      "album": "10 anos",
+      "releaseDate": "2016-11-11",
+      "durationMs": 200000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE1604498",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/cb/c5/41cbc5d9-6043-ae2c-3d48-25b2eb1bc695/7891430128579.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/814a10d8-ae94-400e-9b97-e3364536c477",
+        "itunes": "https://music.apple.com/us/album/pergunta-boba-ao-vivo/1172429860?i=1172431867&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98754.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98386,
+    "metadata": {
+      "title": "Que Nem o Meu Cachorro",
+      "artists": [
+        "Black Alien"
+      ],
+      "album": "Abaixo de Zero: Hello Hell",
+      "releaseDate": "2019-04-12",
+      "durationMs": 211000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BXXEK1900001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fa/7d/ad/fa7dad81-9b56-8743-3b63-c81c2ad6722c/8429006378821.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/43897d7d-42f4-4187-a885-e9e98340e1fc",
+        "itunes": "https://music.apple.com/us/album/que-nem-o-meu-cachorro/1457376751?i=1457377047&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98386.txt"
+  }
+]

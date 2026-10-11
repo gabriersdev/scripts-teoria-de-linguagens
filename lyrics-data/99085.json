@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99085,
+    "metadata": {
+      "title": "8x5",
+      "artists": [
+        "Slipmami, Yung Nobre"
+      ],
+      "album": "Malvatrem",
+      "releaseDate": "2023-01-25",
+      "durationMs": 175000,
+      "genres": [],
+      "isrc": "BX3AW2200067",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4e9132696f99d015c2829ab2a6d6236c/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a48fbda6-2d8f-4e05-9b2d-69d4a750a657",
+        "deezer": "https://www.deezer.com/track/2023583767"
+      }
+    },
+    "lyricPath": "/lyrics/99085.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98388,
+    "metadata": {
+      "title": "Isso Vale Minha Vida",
+      "artists": [
+        "Sid, Sid & Tavin, Tavin"
+      ],
+      "album": "Absolute Shampoo",
+      "releaseDate": "2020-03-05T12:00:00Z",
+      "durationMs": 230067,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "QZGLM2045021",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/40/40/47/4040473a-7698-0e88-e7f2-f7087d9fc772/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f8579d14-3dd6-4f3b-b74c-509fd0f4f95c",
+        "itunes": "https://music.apple.com/us/album/isso-vale-minha-vida/1501961158?i=1501961159&uo=4",
+        "deezer": "https://www.deezer.com/track/898671852"
+      }
+    },
+    "lyricPath": "/lyrics/98388.txt"
+  }
+]

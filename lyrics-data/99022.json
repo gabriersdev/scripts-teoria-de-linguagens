@@ -1,0 +1,26 @@
+[
+  {
+    "id": 99022,
+    "metadata": {
+      "title": "TaTaTa - Spotify Sessions",
+      "artists": [
+        "Burna Boy, KayBlack"
+      ],
+      "album": "No Sign of Weakness",
+      "releaseDate": "2025-07-10",
+      "durationMs": 150651,
+      "genres": [
+        "pop",
+        "hip hop",
+        "pop rap",
+        "afrobeat"
+      ],
+      "isrc": "USAT22500257",
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b686965e-17b5-4ed6-97e0-1f669c5323c5"
+      }
+    },
+    "lyricPath": "/lyrics/99022.txt"
+  }
+]

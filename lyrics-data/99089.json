@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99089,
+    "metadata": {
+      "title": "PALHAÇADA",
+      "artists": [
+        "Slipmami"
+      ],
+      "album": "É luxo só",
+      "releaseDate": "2011",
+      "durationMs": 223000,
+      "genres": [],
+      "isrc": "BX7MG2100026",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/ae4768296cb35d3d4cd5a1edf82af9b7/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/211c4971-2e07-4a24-8fed-ce2fce15fa09",
+        "deezer": "https://www.deezer.com/track/2329295215"
+      }
+    },
+    "lyricPath": "/lyrics/99089.txt"
+  }
+]

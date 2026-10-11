@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99010,
+    "metadata": {
+      "title": "Fuso - Remix",
+      "artists": [
+        "Duquesa, Tz da Coronel, Go Dassisti"
+      ],
+      "album": "SIX.",
+      "releaseDate": "2025-08-29",
+      "durationMs": 176850,
+      "genres": [],
+      "isrc": "BXBGP2500016",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/bd3f0fcf71a6a2f391f6c57d8c2c0ce8/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ad907bd8-320e-4e80-88a0-40e887b15887",
+        "deezer": "https://www.deezer.com/track/3519562391"
+      }
+    },
+    "lyricPath": "/lyrics/99010.txt"
+  }
+]

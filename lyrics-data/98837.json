@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98837,
+    "metadata": {
+      "title": "TETO PRETO",
+      "artists": [
+        "Nosred, 3X"
+      ],
+      "album": "Acabou La Tequila",
+      "releaseDate": "1996",
+      "durationMs": 129666,
+      "genres": [],
+      "isrc": "BCE7P2501065",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d010c9d4a01d750a107b9bb866aa3c67/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/75eaad15-00a4-4942-b98a-00e10aff93f7",
+        "deezer": "https://www.deezer.com/track/3296253981"
+      }
+    },
+    "lyricPath": "/lyrics/98837.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98797,
+    "metadata": {
+      "title": "Cê Já Me Namorou",
+      "artists": [
+        "Victor Reis"
+      ],
+      "album": "Brazza & Machete Bomb: We4Sessions",
+      "releaseDate": "2025-09-18",
+      "durationMs": 224698,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKW4W2500035",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/71/fa/8e71fa87-40f4-08c9-ae1f-feb4f70bdde7/196874738368.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3a2204c6-6f85-4f97-8ae4-009338d0128f",
+        "itunes": "https://music.apple.com/us/album/c%C3%AA-j%C3%A1-me-namorou/6806397067?i=6806397070&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98797.txt"
+  }
+]

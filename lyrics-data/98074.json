@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98074,
+    "metadata": {
+      "title": "FAZ 360 E SENTA",
+      "artists": [
+        "DJ JHOW BEATS, Lindão, MC Menor MT, Resumo Produtora"
+      ],
+      "album": "Fãs - Ao Vivo em Marília",
+      "releaseDate": "2015",
+      "durationMs": 153000,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/28/ed/de28ed64-6a09-42d2-cc6b-1d0779befdb1/8721215798651.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/48368e14-c792-4f9c-bd64-06ef192c9b6f",
+        "itunes": "https://music.apple.com/us/album/faz-360-e-senta/1825207577?i=1825207578&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98074.txt"
+  }
+]

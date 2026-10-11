@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98666,
+    "metadata": {
+      "title": "Ligação Urbana",
+      "artists": [
+        "Bruno & Marrone"
+      ],
+      "album": "Inevitável",
+      "releaseDate": "2003",
+      "durationMs": 225760,
+      "genres": [
+        "Pop Latino"
+      ],
+      "isrc": "BRBMG0400460",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/4d/0f/ba/mzi.udvdedxl.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/890039f4-0de0-434b-8e9c-1f2d8e3ccf27",
+        "itunes": "https://music.apple.com/us/album/liga%C3%A7%C3%A3o-urbana/307651480?i=307651562&uo=4",
+        "deezer": "https://www.deezer.com/track/15405283"
+      }
+    },
+    "lyricPath": "/lyrics/98666.txt"
+  }
+]

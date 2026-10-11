@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98720,
+    "metadata": {
+      "title": "Na Hora Da Raiva - Ao Vivo",
+      "artists": [
+        "Henrique & Juliano"
+      ],
+      "album": "Novas histórias",
+      "releaseDate": "2016-11-11",
+      "durationMs": 174293,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1500097",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/7f/47/d57f47a1-dcbf-8b5e-f62b-827e93546c76/00602438705566_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/874f30dd-373d-4edc-b911-95e5cea30e52",
+        "itunes": "https://music.apple.com/us/album/na-hora-da-raiva-ao-vivo/1881800450?i=1881800662&uo=4",
+        "deezer": "https://www.deezer.com/track/3877702231"
+      }
+    },
+    "lyricPath": "/lyrics/98720.txt"
+  }
+]

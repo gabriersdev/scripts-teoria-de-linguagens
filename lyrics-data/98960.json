@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98960,
+    "metadata": {
+      "title": "BLUNT DE GOIABA",
+      "artists": [
+        "Brandão85"
+      ],
+      "album": "Goiaba",
+      "releaseDate": "2022-09-13",
+      "durationMs": 139806,
+      "genres": [],
+      "isrc": "DEQ022273462",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/f8f28df8f88073f58407f1d75d23b0d7/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/cd1507dc-3a96-4391-a34d-38f02fb90a54",
+        "deezer": "https://www.deezer.com/track/3945162251"
+      }
+    },
+    "lyricPath": "/lyrics/98960.txt"
+  }
+]

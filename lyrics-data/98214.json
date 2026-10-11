@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98214,
+    "metadata": {
+      "title": "Eliantte",
+      "artists": [
+        "MC Caverinha, tal do dias"
+      ],
+      "album": "Eliantte",
+      "releaseDate": "2019-10-25",
+      "durationMs": 184000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRRGE2601315",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/e1/4e/39e14ec9-88ff-7ba9-36c2-bf593583c7e6/196874620557.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e6063274-3ae7-43f7-8891-8963083e666a",
+        "itunes": "https://music.apple.com/us/album/eliantte/6792147389?i=6792147390&uo=4",
+        "deezer": "https://www.deezer.com/track/4161586952"
+      }
+    },
+    "lyricPath": "/lyrics/98214.txt"
+  }
+]

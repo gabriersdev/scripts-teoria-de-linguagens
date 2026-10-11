@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98633,
+    "metadata": {
+      "title": "Corpo Nu",
+      "artists": [
+        "Panda"
+      ],
+      "album": "As melhores do DJ Marlboro",
+      "releaseDate": "2026-03-05T12:00:00Z",
+      "durationMs": 259000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BX8WE2600011",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/70/1e/ef701e46-af07-a92a-efd5-91b73f595785/196874139257.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b3df0571-45c4-4d40-9b87-6d7a4e5f0655",
+        "itunes": "https://music.apple.com/us/album/corpo-nu-ao-vivo/1882519427?i=1882519429&uo=4",
+        "deezer": "https://www.deezer.com/track/3863100791"
+      }
+    },
+    "lyricPath": "/lyrics/98633.txt"
+  }
+]

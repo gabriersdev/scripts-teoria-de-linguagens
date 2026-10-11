@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98668,
+    "metadata": {
+      "title": "Palavras de Perdão",
+      "artists": [
+        "Marília Tavares"
+      ],
+      "album": "Pablo 20 ANOS, Pt.1 (Ao Vivo)",
+      "releaseDate": "2023-11-17",
+      "durationMs": 236000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKD6T2400016",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/66/6b/6f666b21-571f-d455-c740-18a2c9c790bd/085365432574.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/cdc80ef1-b681-4c52-8f51-f3f800be4949",
+        "itunes": "https://music.apple.com/us/album/palavras-de-perd%C3%A3o-ao-vivo/1747798342?i=1747798347&uo=4",
+        "deezer": "https://www.deezer.com/track/2807711642"
+      }
+    },
+    "lyricPath": "/lyrics/98668.txt"
+  }
+]

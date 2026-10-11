@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99026,
+    "metadata": {
+      "title": "PRÊMIO MULTISHOW",
+      "artists": [
+        "Ryu, The Runner, Neckklace, SMOKEFUSION"
+      ],
+      "album": "ATÉ QUE NÃO HAJA LUZ (+ONYX)",
+      "releaseDate": "2023-09-07",
+      "durationMs": 121000,
+      "genres": [],
+      "isrc": "BRRGE2600231",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9b22d7ebcc3ec5343ddecbe842370dee/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2cc023ad-824d-4d6e-ba53-23bc0bab9204",
+        "deezer": "https://www.deezer.com/track/3921514261"
+      }
+    },
+    "lyricPath": "/lyrics/99026.txt"
+  }
+]

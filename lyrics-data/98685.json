@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98685,
+    "metadata": {
+      "title": "Mentes Tão Bem / Você Mente",
+      "artists": [
+        "Zezé Di Camargo & Luciano"
+      ],
+      "album": "Voz e violão",
+      "releaseDate": "2022-05-12",
+      "durationMs": 384438,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BXZZC2100011",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/52/64/bc/5264bc2d-302d-e82a-3ec1-12124e62db2b/886445231984.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/93a38c69-23af-49a2-82c3-99355150245c",
+        "itunes": "https://music.apple.com/us/album/mentes-t%C3%A3o-bem-mientes-tan-bien-ao-vivo/991183704?i=991183917&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98685.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98321,
+    "metadata": {
+      "title": "Eu Já Era Trap",
+      "artists": [
+        "Escobar VL, Brerner"
+      ],
+      "album": "A Ópera do Cafajeste",
+      "releaseDate": "2007",
+      "durationMs": 171853,
+      "genres": [],
+      "isrc": "BKPN32500031",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6a368b69ad444df1a93c61bbc4cc504e/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9ce7f0d3-e007-4d5c-843e-e9d7a04057a3",
+        "deezer": "https://www.deezer.com/track/3923988731"
+      }
+    },
+    "lyricPath": "/lyrics/98321.txt"
+  }
+]

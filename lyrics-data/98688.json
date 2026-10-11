@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98688,
+    "metadata": {
+      "title": "Água com Açúcar",
+      "artists": [
+        "Luan Santana"
+      ],
+      "album": "Severino Araujo e sua Orquestra Tabajara",
+      "releaseDate": "1956",
+      "durationMs": 249847,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE1907118",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/11/43/2c/11432c7f-1394-0990-05ee-436d068eb5bf/194491211714.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a5d53486-4e0d-4772-bb4f-edd239fdbef7",
+        "itunes": "https://music.apple.com/us/album/%C3%A1gua-com-a%C3%A7%C3%BAcar-ao-vivo/1476293260?i=1476293584&uo=4",
+        "deezer": "https://www.deezer.com/track/730130852"
+      }
+    },
+    "lyricPath": "/lyrics/98688.txt"
+  }
+]

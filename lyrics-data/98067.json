@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98067,
+    "metadata": {
+      "title": "Esse Cupido Não Me Ajuda",
+      "artists": [
+        "Dexhenry, DJ QUIRINO, Yuri Redicopa, Ascending"
+      ],
+      "album": "Todos Os Dias Fossem Estes Outros",
+      "releaseDate": "2006",
+      "durationMs": 201000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3b197675-6915-4a23-bcdd-6fd8dcc9d404"
+      }
+    },
+    "lyricPath": "/lyrics/98067.txt"
+  }
+]

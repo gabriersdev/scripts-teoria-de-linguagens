@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98764,
+    "metadata": {
+      "title": "Mulher Maravilha - Ao Vivo",
+      "artists": [
+        "Zé Neto & Cristiano"
+      ],
+      "album": "Esquece o mundo lá fora",
+      "releaseDate": "2018-07-13",
+      "durationMs": 157000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1800146",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/27/73/1427732e-521b-fe86-e72a-fb742ca6b592/7891430284176.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d82e49b0-37a9-4454-b914-fd006cb3867d",
+        "itunes": "https://music.apple.com/us/album/mulher-maravilha-ao-vivo/1408564288?i=1408565906&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98764.txt"
+  }
+]

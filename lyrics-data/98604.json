@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98604,
+    "metadata": {
+      "title": "Cadeira Cativa",
+      "artists": [
+        "Zé Neto & Cristiano"
+      ],
+      "album": "Vocês & Deus, Vol. 1 (Ao Vivo no Rio de Janeiro)",
+      "releaseDate": "2026-04-07",
+      "durationMs": 160613,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE2600476",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/af/a3/63afa3c3-7c7b-bc39-a050-6f66a2dcb53d/196874264478.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/670c5948-b76d-4903-930e-45e5109d4937",
+        "itunes": "https://music.apple.com/us/album/cadeira-cativa-ao-vivo/6774797126?i=6774797127&uo=4",
+        "deezer": "https://www.deezer.com/track/4053915861"
+      }
+    },
+    "lyricPath": "/lyrics/98604.txt"
+  }
+]

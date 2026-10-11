@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99041,
+    "metadata": {
+      "title": "Relíkia do Malucão",
+      "artists": [
+        "PAVUNA, Pedrin, Js da Torre, Bebeto, Renanzin, JREI, Marquin"
+      ],
+      "album": "Roda de Samba",
+      "releaseDate": "2006",
+      "durationMs": 193800,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bdd55284-b96e-4175-b3c8-a2419ba9ab20"
+      }
+    },
+    "lyricPath": "/lyrics/99041.txt"
+  }
+]

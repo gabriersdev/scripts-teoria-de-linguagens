@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98035,
+    "metadata": {
+      "title": "SOM DA NAVEIRA",
+      "artists": [
+        "MC Gustavinho"
+      ],
+      "album": "Syd: 14 sånger från Latinamerika",
+      "releaseDate": "1994",
+      "durationMs": 193000,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BXG212400007",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/e0/89/1de089f1-773a-8043-9dbe-b589e4e26536/7900279080501_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/696b9eca-3566-4bcc-8091-dfb96f4ac530",
+        "itunes": "https://music.apple.com/us/album/som-da-naveira/1778126492?i=1778126493&uo=4",
+        "deezer": "https://www.deezer.com/track/3079288251"
+      }
+    },
+    "lyricPath": "/lyrics/98035.txt"
+  }
+]

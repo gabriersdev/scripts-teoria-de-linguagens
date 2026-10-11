@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98361,
+    "metadata": {
+      "title": "Marginais Boombap 1",
+      "artists": [
+        "Marginal Supply, Felp 22, Pk, Medellin, Predella, Orochi, NOG"
+      ],
+      "album": "1 2 3 4",
+      "releaseDate": "2023-07-19",
+      "durationMs": 179869,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1938876",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/44/e9/57/44e957d2-3af8-3b50-1fe2-b414ba295373/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/318cb461-2322-457b-b740-2755bb3f7bbf",
+        "itunes": "https://music.apple.com/us/album/marginais-boombap-1-feat-predella-orochi-nog/1451338568?i=1451338571&uo=4",
+        "deezer": "https://www.deezer.com/track/628951952"
+      }
+    },
+    "lyricPath": "/lyrics/98361.txt"
+  }
+]

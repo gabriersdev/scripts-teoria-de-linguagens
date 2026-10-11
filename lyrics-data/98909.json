@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98909,
+    "metadata": {
+      "title": "Honey",
+      "artists": [
+        "Ark King, ohayomatsu, Junim"
+      ],
+      "album": "GODDESS OF VICTORY: NIKKE ORIGINAL SOUNDTRACK",
+      "releaseDate": "2023-05-15",
+      "durationMs": 141200,
+      "genres": [],
+      "isrc": "GBWUL2489084",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/257d53ae218bc10c1a49d682f574ce8f/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/32c95aed-34d8-401e-94d1-126db81f5569",
+        "deezer": "https://www.deezer.com/track/2761818321"
+      }
+    },
+    "lyricPath": "/lyrics/98909.txt"
+  }
+]

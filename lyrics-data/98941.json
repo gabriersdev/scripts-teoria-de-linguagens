@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98941,
+    "metadata": {
+      "title": "LICOR",
+      "artists": [
+        "ohayomatsu, Junim, Ark King"
+      ],
+      "album": "Finis Coronat Opus",
+      "releaseDate": "2010-10-22",
+      "durationMs": 108000,
+      "genres": [],
+      "isrc": "QZZ8B2335726",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6d2ecca3ffa5e01f7cc461cab348ea9a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8072c23d-a418-4f7c-a860-b41d0fd73227",
+        "deezer": "https://www.deezer.com/track/3202717821"
+      }
+    },
+    "lyricPath": "/lyrics/98941.txt"
+  }
+]

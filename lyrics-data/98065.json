@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98065,
+    "metadata": {
+      "title": "Gauchinha",
+      "artists": [
+        "DJ Japa NK, MC Meno K, MC Ryan SP, Mc Brinquedo, MC LUUKY"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BKUNW2600001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/28/fc/4728fcdf-f2f0-5762-15f8-5fa766d434dc/199806683392.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "itunes": "https://music.apple.com/us/album/gauchinha-feat-mc-luuky/1859743297?i=1859743919&uo=4",
+        "deezer": "https://www.deezer.com/track/3761829712"
+      }
+    },
+    "lyricPath": "/lyrics/98065.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98637,
+    "metadata": {
+      "title": "Logo Logo",
+      "artists": [
+        "Henrique & Juliano"
+      ],
+      "album": "Live / Open Air Finkenberg",
+      "releaseDate": "2009",
+      "durationMs": 402898,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "ATT250902370",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/92/2d/fc922df9-aac1-1fc6-839f-7301052a268e/00602475792826_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/29ad377c-48e9-4f04-817d-a5047876f725",
+        "itunes": "https://music.apple.com/us/album/logo-logo-ao-vivo/1881788137?i=1881788143&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98637.txt"
+  }
+]

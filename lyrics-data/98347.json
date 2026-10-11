@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98347,
+    "metadata": {
+      "title": "Monstro Invisível",
+      "artists": [
+        "Sabotage, MC Hariel, DJ Kalfani"
+      ],
+      "album": "Malhação 2008",
+      "releaseDate": "2008",
+      "durationMs": 218693,
+      "genres": [
+        "Latin Rap"
+      ],
+      "isrc": "USLZJ2047338",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f3/e5/e6/f3e5e6f8-a3c1-69cb-663d-39531f484c9c/195039886593_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b6a34973-eb8e-4422-bc57-6bd2ab54866e",
+        "itunes": "https://music.apple.com/us/album/monstro-invis%C3%ADvel/1537394092?i=1537394093&uo=4",
+        "deezer": "https://www.deezer.com/track/1120640662"
+      }
+    },
+    "lyricPath": "/lyrics/98347.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98337,
+    "metadata": {
+      "title": "BOOMBAP PERFEITO",
+      "artists": [
+        "Aldeia Records, Grafiteh, Bxrgez"
+      ],
+      "album": "Shibumi",
+      "releaseDate": "2018-04-16",
+      "durationMs": 168000,
+      "genres": [],
+      "isrc": "BCBA42400004",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/68488697b21f13669ed098941005775a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/154000d4-0777-4ebc-ae87-6c191b5c3aee",
+        "deezer": "https://www.deezer.com/track/2747970581"
+      }
+    },
+    "lyricPath": "/lyrics/98337.txt"
+  }
+]

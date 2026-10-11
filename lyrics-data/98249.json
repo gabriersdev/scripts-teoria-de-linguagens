@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98249,
+    "metadata": {
+      "title": "SOLTO",
+      "artists": [
+        "Djonga, Hot, Coyote Beatz"
+      ],
+      "album": "A Música da Mãe",
+      "releaseDate": "2018-08-24",
+      "durationMs": 218250,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRE2Y1800005",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/dd/a7/e0dda733-6d25-df3c-08e1-60a884dbad7b/8445162063326.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/096580b2-b4e5-4f6f-969a-33f9cbf520ae",
+        "itunes": "https://music.apple.com/us/album/solto-feat-hot-coyote-beatz/1506095456?i=1506095651&uo=4",
+        "deezer": "https://www.deezer.com/track/3251546921"
+      }
+    },
+    "lyricPath": "/lyrics/98249.txt"
+  }
+]

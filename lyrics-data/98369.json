@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98369,
+    "metadata": {
+      "title": "Referências",
+      "artists": [
+        "Felp 22, Medellin, Castelobeats, Rick Beatz"
+      ],
+      "album": "Censurado pela Mídia, Amado pelas Ruas",
+      "releaseDate": "2023-08-04",
+      "durationMs": 174000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8698d0f3-c72b-4b2b-9016-a75e00b0af6e"
+      }
+    },
+    "lyricPath": "/lyrics/98369.txt"
+  }
+]

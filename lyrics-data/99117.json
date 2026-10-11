@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99117,
+    "metadata": {
+      "title": "Aeromoça de Favela",
+      "artists": [
+        "jonaveliz"
+      ],
+      "album": "Coleção Folha 50 anos de bossa nova, volume 2: Dick Farney",
+      "releaseDate": "2008-08-10",
+      "durationMs": 170600,
+      "genres": [
+        "Hip-Hop"
+      ],
+      "isrc": "QZNJW2116637",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/48/f7/e048f74b-2a45-c2f3-15ab-000bba7676cf/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/74bc8287-28e1-4a5a-a59d-d55544a79f6e",
+        "itunes": "https://music.apple.com/us/album/aeromo%C3%A7a-de-favela/1585011093?i=1585011094&uo=4",
+        "deezer": "https://www.deezer.com/track/1488786452"
+      }
+    },
+    "lyricPath": "/lyrics/99117.txt"
+  }
+]

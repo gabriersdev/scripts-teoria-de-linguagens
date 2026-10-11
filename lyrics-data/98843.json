@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98843,
+    "metadata": {
+      "title": "Raluc4",
+      "artists": [
+        "Ark King, NIKK, ohayomatsu"
+      ],
+      "album": "1000 Tracks For TV1000",
+      "releaseDate": "2017-04-15",
+      "durationMs": 1098,
+      "genres": [],
+      "isrc": "GBWUL2489071",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/257d53ae218bc10c1a49d682f574ce8f/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/06d220e0-668a-4f89-89b0-127d33c547b9",
+        "deezer": "https://www.deezer.com/track/2761818281"
+      }
+    },
+    "lyricPath": "/lyrics/98843.txt"
+  }
+]

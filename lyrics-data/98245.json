@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98245,
+    "metadata": {
+      "title": "Planos",
+      "artists": [
+        "BK, Luccas Carlos, Arit"
+      ],
+      "album": "VLSI",
+      "releaseDate": "2016-10-07",
+      "durationMs": 298693,
+      "genres": [],
+      "isrc": "US6R21507063",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/13103383613a315ede506b364b8f5e51/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6905c031-2a85-491e-a497-20eb481a2486",
+        "deezer": "https://www.deezer.com/track/3224133511"
+      }
+    },
+    "lyricPath": "/lyrics/98245.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98356,
+    "metadata": {
+      "title": "Acredite em Você",
+      "artists": [
+        "Felp 22, Medellin, Liip Beats"
+      ],
+      "album": "Melhor Momento",
+      "releaseDate": "2021-07-02T12:00:00Z",
+      "durationMs": 214268,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BCD592100059",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/0e/11/3c0e11f6-6e16-ab35-48f4-8bbf1c38bec8/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/acredite-em-voc%C3%AA/1574188034?i=1574188037&uo=4",
+        "deezer": "https://www.deezer.com/track/1412475272"
+      }
+    },
+    "lyricPath": "/lyrics/98356.txt"
+  }
+]

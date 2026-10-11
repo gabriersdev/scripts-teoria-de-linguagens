@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98847,
+    "metadata": {
+      "title": "MEU MUNDO",
+      "artists": [
+        "Alee, NADAMAL, peppnx"
+      ],
+      "album": "Meu Nome",
+      "releaseDate": "2009",
+      "durationMs": 191360,
+      "genres": [],
+      "isrc": "BKNDN2400019",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d630545501528d92d0431a405f0f30f2/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/acf05e05-bf2c-4c53-999b-882a53c8d78f",
+        "deezer": "https://www.deezer.com/track/2675770142"
+      }
+    },
+    "lyricPath": "/lyrics/98847.txt"
+  }
+]

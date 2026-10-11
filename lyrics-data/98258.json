@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98258,
+    "metadata": {
+      "title": "Ilusão",
+      "artists": [
+        "Filipe Ret, Dallass"
+      ],
+      "album": "Imaterial",
+      "releaseDate": "2021-04-23",
+      "durationMs": 176000,
+      "genres": [],
+      "isrc": "BRRGE1910812",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0fbc329fa4bbfa0db7aa4e73669f8ef7/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b5d660a1-dd68-466c-a691-ec4e70798390",
+        "deezer": "https://www.deezer.com/track/786750112"
+      }
+    },
+    "lyricPath": "/lyrics/98258.txt"
+  }
+]

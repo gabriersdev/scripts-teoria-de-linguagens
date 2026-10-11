@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98866,
+    "metadata": {
+      "title": "Sirigueijo",
+      "artists": [
+        "Ark King, NIKK, Akashi Cruz"
+      ],
+      "album": "Consumed",
+      "releaseDate": "2022-03-18",
+      "durationMs": 353835,
+      "genres": [],
+      "isrc": "GBWUL2489001",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/257d53ae218bc10c1a49d682f574ce8f/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/341bbab3-280c-44b4-9b39-596c558c6310",
+        "deezer": "https://www.deezer.com/track/2761818231"
+      }
+    },
+    "lyricPath": "/lyrics/98866.txt"
+  }
+]

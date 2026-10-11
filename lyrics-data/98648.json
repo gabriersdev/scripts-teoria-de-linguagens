@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98648,
+    "metadata": {
+      "title": "Não Mexe nas Minhas Gavetas",
+      "artists": [
+        "Danilo e Davi"
+      ],
+      "album": "Ao Vivo No Santiago Alquimista",
+      "releaseDate": "2005",
+      "durationMs": 387000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BC9T42600001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/72/4f/54724fcc-1562-7729-949e-00f064011d12/196874028711.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/cf4287c3-3aa6-49f9-984f-6bf417f42da1",
+        "itunes": "https://music.apple.com/us/album/n%C3%A3o-mexe-nas-minhas-gavetas-ao-vivo/1869749088?i=1869749089&uo=4",
+        "deezer": "https://www.deezer.com/track/3779252122"
+      }
+    },
+    "lyricPath": "/lyrics/98648.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98453,
+    "metadata": {
+      "title": "Lanterna Dos Afogados",
+      "artists": [
+        "Os Paralamas Do Sucesso"
+      ],
+      "album": "Millennium",
+      "releaseDate": "1998-01-01",
+      "durationMs": 288693,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BREMI8900093",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dd/72/cf/dd72cf6c-b4f2-1fcb-2c5a-684e3bd9648c/00602567112273.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/59342f89-99b7-4969-b5da-a17d57e89a98",
+        "itunes": "https://music.apple.com/us/album/lanterna-dos-afogados-feat-djavan-ao-vivo/1442556383?i=1442557768&uo=4",
+        "deezer": "https://www.deezer.com/track/3419859231"
+      }
+    },
+    "lyricPath": "/lyrics/98453.txt"
+  }
+]

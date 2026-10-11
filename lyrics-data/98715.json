@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98715,
+    "metadata": {
+      "title": "Eu Era",
+      "artists": [
+        "Marcos & Belutti"
+      ],
+      "album": "10 Anos (Ao Vivo)",
+      "releaseDate": "2018-11-09",
+      "durationMs": 229000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BR3T81700030",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/75/4e/e5/754ee59c-b73f-995d-29e8-b277517daba7/886446452364.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/186d964e-9865-4b44-a929-6225486a096b",
+        "itunes": "https://music.apple.com/us/album/eu-era/1222128480?i=1222128648&uo=4",
+        "deezer": "https://www.deezer.com/track/345377621"
+      }
+    },
+    "lyricPath": "/lyrics/98715.txt"
+  }
+]

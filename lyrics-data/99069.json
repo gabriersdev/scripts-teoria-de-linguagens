@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99069,
+    "metadata": {
+      "title": "Nunca Paro",
+      "artists": [
+        "YUNG LIXO"
+      ],
+      "album": "13 Lentes de um Final Feliz",
+      "releaseDate": "2024-12-20",
+      "durationMs": 137520,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "QZZ7X2403690",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c6/2e/42/c62e428e-1ae0-6dbc-e993-4d3b71562797/artwork.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a2d42461-5786-4a6c-ab80-ce5936ce38f9",
+        "itunes": "https://music.apple.com/us/album/we-gold/1712876851?i=1712876864&uo=4",
+        "deezer": "https://www.deezer.com/track/3144563991"
+      }
+    },
+    "lyricPath": "/lyrics/99069.txt"
+  }
+]

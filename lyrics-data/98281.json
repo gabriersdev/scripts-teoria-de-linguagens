@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98281,
+    "metadata": {
+      "title": "Só Quero Ver",
+      "artists": [
+        "BK, Deekapz, Evinha"
+      ],
+      "album": "Diamantes, Lágrimas e Rostos para Esquecer",
+      "releaseDate": "2025-01-28",
+      "durationMs": 169000,
+      "genres": [],
+      "isrc": "BXA5K2500005",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/783fc325547bd01f1e3897918a0f04c2/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3280953041"
+      }
+    },
+    "lyricPath": "/lyrics/98281.txt"
+  }
+]

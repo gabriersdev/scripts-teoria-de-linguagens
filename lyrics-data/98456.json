@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98456,
+    "metadata": {
+      "title": "Podres Poderes",
+      "artists": [
+        "Caetano Veloso"
+      ],
+      "album": "Minha Historia",
+      "releaseDate": "1995-01-09",
+      "durationMs": 259000,
+      "genres": [],
+      "isrc": "BRPGD8400004",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/31021a924e290804ba16345161543b31/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2445745"
+      }
+    },
+    "lyricPath": "/lyrics/98456.txt"
+  }
+]

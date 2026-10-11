@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98433,
+    "metadata": {
+      "title": "Velha roupa colorida",
+      "artists": [
+        "Elis Regina"
+      ],
+      "album": "Elis Regina: Album Series",
+      "releaseDate": "1980-04-23T12:00:00Z",
+      "durationMs": 256040,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRMCA7600127",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/a7/70/b7/a770b7a8-149d-2fb1-aae8-53cde68ff486/825646465354.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/velha-roupa-colorida/997170671?i=997170824&uo=4",
+        "deezer": "https://www.deezer.com/track/17497340"
+      }
+    },
+    "lyricPath": "/lyrics/98433.txt"
+  }
+]

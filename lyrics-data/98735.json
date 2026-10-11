@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98735,
+    "metadata": {
+      "title": "Um Peão Desse",
+      "artists": [
+        "CountryBeat, Mari Fernandez"
+      ],
+      "album": "Siempre rebelde",
+      "releaseDate": "2020-03-12",
+      "durationMs": 200000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "MXF060500226",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/c3/59/b8c359ee-caf2-2dee-f66f-0804f20b6f8c/8721554067616.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/60e03043-dcba-478f-97f0-e4334e7ccd00",
+        "itunes": "https://music.apple.com/us/album/um-pe%C3%A3o-desse/6796741174?i=6796741175&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98735.txt"
+  }
+]

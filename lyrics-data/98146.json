@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98146,
+    "metadata": {
+      "title": "Oi Rua",
+      "artists": [
+        "MC Saci"
+      ],
+      "album": "...Pense minha cor...",
+      "releaseDate": "1999",
+      "durationMs": 156533,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BKCMX2300010",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/4d/9a/ef4d9ad2-5e7f-1eaa-31d5-eeba0cd0b3ca/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d3a17882-f8e0-47f2-9fd7-b19b25644db6",
+        "itunes": "https://music.apple.com/us/album/oi-rua-feat-mael-da-cn-mc-saci/1749137319?i=1749137321&uo=4",
+        "deezer": "https://www.deezer.com/track/2364299075"
+      }
+    },
+    "lyricPath": "/lyrics/98146.txt"
+  }
+]

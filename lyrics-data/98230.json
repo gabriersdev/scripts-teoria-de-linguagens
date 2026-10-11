@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98230,
+    "metadata": {
+      "title": "Joga Bonito",
+      "artists": [
+        "Kyan, Enzo from the Block, Mu540"
+      ],
+      "album": "JOGA BONITO",
+      "releaseDate": "2026-06-03",
+      "durationMs": 129000,
+      "genres": [],
+      "isrc": "BKRQM2600002",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/61ed5c9da06247ab3bfab8d86a47ef95/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4036736771"
+      }
+    },
+    "lyricPath": "/lyrics/98230.txt"
+  }
+]

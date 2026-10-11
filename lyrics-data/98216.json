@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98216,
+    "metadata": {
+      "title": "Beatriz",
+      "artists": [
+        "2ZDinizz, Leborato, HHR"
+      ],
+      "album": "Horas",
+      "releaseDate": "1997",
+      "durationMs": 218693,
+      "genres": [],
+      "isrc": "BR5TG2500033",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/00201d8a78c37844ba7556d2d183c346/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/55333393-b6ac-422e-82a6-784ed7c3edd1",
+        "deezer": "https://www.deezer.com/track/3456205761"
+      }
+    },
+    "lyricPath": "/lyrics/98216.txt"
+  }
+]

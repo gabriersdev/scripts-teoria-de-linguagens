@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98911,
+    "metadata": {
+      "title": "Xilofone",
+      "artists": [
+        "D$ Luqi, Big Rush"
+      ],
+      "album": "O Emblema do Infinito",
+      "releaseDate": "2024-08-08",
+      "durationMs": 152000,
+      "genres": [],
+      "isrc": "BKLL22400009",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3ab40bdd7c87b75c21401f79028b3dcf/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/695f0803-4a58-4f11-9cca-52d44accbee6",
+        "deezer": "https://www.deezer.com/track/2858477972"
+      }
+    },
+    "lyricPath": "/lyrics/98911.txt"
+  }
+]

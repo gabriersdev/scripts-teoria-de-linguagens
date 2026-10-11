@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98179,
+    "metadata": {
+      "title": "Os Opostos Se Atraem",
+      "artists": [
+        "MC Don Juan"
+      ],
+      "album": "Acústico: Ao vivo",
+      "releaseDate": "2010",
+      "durationMs": 148000,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BXG6R1800139",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/52/c9/7f/52c97f45-0ba4-df09-5e10-4c5d56701a89/cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/370192b7-c494-432b-9ded-ef793b67eb34",
+        "itunes": "https://music.apple.com/us/album/os-opostos-se-atraem/1707209467?i=1707209739&uo=4",
+        "deezer": "https://www.deezer.com/track/1439257212"
+      }
+    },
+    "lyricPath": "/lyrics/98179.txt"
+  }
+]

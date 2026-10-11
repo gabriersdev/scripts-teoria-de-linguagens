@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98639,
+    "metadata": {
+      "title": "Ilusão De Ótica",
+      "artists": [
+        "Matheus & Kauan"
+      ],
+      "album": "O Papa é pop",
+      "releaseDate": "2025-01-24",
+      "durationMs": 166960,
+      "genres": [],
+      "isrc": "BRBMG9000160",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b6eefbf29a5f3cbbf33cd1bb8d09a475/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/31fa3807-5818-472a-94f5-bc28c46af1f6",
+        "deezer": "https://www.deezer.com/track/3189321571"
+      }
+    },
+    "lyricPath": "/lyrics/98639.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98414,
+    "metadata": {
+      "title": "Malandragem",
+      "artists": [
+        "Cássia Eller"
+      ],
+      "album": "Pedra, flor e espinho",
+      "releaseDate": "2002-12-09",
+      "durationMs": 275133,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRMCA0100082",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/05/26/4a/05264a90-df7e-3948-d48a-c8ad22c61bf2/dj.tgaietkw.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2081777c-da78-4b53-bc9f-0bf965952672",
+        "itunes": "https://music.apple.com/us/album/malandragem-ao-vivo/491193912?i=491193970&uo=4",
+        "deezer": "https://www.deezer.com/track/98891554"
+      }
+    },
+    "lyricPath": "/lyrics/98414.txt"
+  }
+]

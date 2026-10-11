@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98924,
+    "metadata": {
+      "title": "Project V",
+      "artists": [
+        "Ark King"
+      ],
+      "album": "Azure Hardcore",
+      "releaseDate": "2012-04-30",
+      "durationMs": 291000,
+      "genres": [
+        "Reggae"
+      ],
+      "isrc": "GBWUL2489130",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ee/24/b8/ee24b80b-5107-f05f-4c4c-0173846b05f0/00011661757721.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/acdcf381-947d-41b6-9279-d396705c53a2",
+        "itunes": "https://music.apple.com/us/album/son-of-the-black-ark/1443413556?i=1443414048&uo=4",
+        "deezer": "https://www.deezer.com/track/2761818381"
+      }
+    },
+    "lyricPath": "/lyrics/98924.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98242,
+    "metadata": {
+      "title": "PENSANDO EM MIM",
+      "artists": [
+        "Matchola, 2ZDinizz"
+      ],
+      "album": "O Príncipe Do Brega",
+      "releaseDate": "1998",
+      "durationMs": 202573,
+      "genres": [],
+      "isrc": "BK1HM2500011",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/31b86e4b5a5dc901013878cb70cdb66d/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/cc30a27b-1152-41e4-a873-cf7a611fcf3e",
+        "deezer": "https://www.deezer.com/track/3671218052"
+      }
+    },
+    "lyricPath": "/lyrics/98242.txt"
+  }
+]

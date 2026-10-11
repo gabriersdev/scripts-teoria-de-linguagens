@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98987,
+    "metadata": {
+      "title": "Isso é Sério",
+      "artists": [
+        "Matuê, Brandão85"
+      ],
+      "album": "333",
+      "releaseDate": "2024-09-09",
+      "durationMs": 285000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BXW922400055",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/ac/95/9cac9567-6ffa-e640-d619-46564733b11f/196874248850.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/96453f84-8ed7-455b-8462-0c5c0ae10a5e",
+        "itunes": "https://music.apple.com/us/album/isso-%C3%A9-s%C3%A9rio/1888592730?i=1888592735&uo=4",
+        "deezer": "https://www.deezer.com/track/3926128931"
+      }
+    },
+    "lyricPath": "/lyrics/98987.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98517,
+    "metadata": {
+      "title": "Pitando no Kombão",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "MTV Ao Vivo, Volume 02",
+      "releaseDate": "2000",
+      "durationMs": 102933,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRWMB9702643",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3f/a4/f8/3fa4f883-d23e-1845-984e-9d1ae2b268eb/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ef632959-8433-48b5-bd25-ef8b407579d4",
+        "itunes": "https://music.apple.com/us/album/pitando-no-kob%C3%A2o-ao-vivo/879819848?i=879819862&uo=4",
+        "deezer": "https://www.deezer.com/track/3895372"
+      }
+    },
+    "lyricPath": "/lyrics/98517.txt"
+  }
+]

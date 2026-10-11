@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98544,
+    "metadata": {
+      "title": "Vou Duvidar",
+      "artists": [
+        "Titãs"
+      ],
+      "album": "Grandes Sucessos (Seleção Essencial)",
+      "releaseDate": "2010",
+      "durationMs": 131453,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRBMG0300723",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/97/8e/50/978e50e6-1538-7307-393f-8829956c3502/mzm.tzroyhhg.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c326e348-d83c-4f3e-9c69-463d05220fee",
+        "itunes": "https://music.apple.com/us/album/vou-duvidar/1054522062?i=1054522071&uo=4",
+        "deezer": "https://www.deezer.com/track/1282055112"
+      }
+    },
+    "lyricPath": "/lyrics/98544.txt"
+  }
+]

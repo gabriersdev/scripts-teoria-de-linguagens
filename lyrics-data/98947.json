@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98947,
+    "metadata": {
+      "title": "Luba",
+      "artists": [
+        "Sidoka, DogDu BEAT$"
+      ],
+      "album": "Merci £",
+      "releaseDate": "2020-02-18",
+      "durationMs": 151000,
+      "genres": [],
+      "isrc": "QZFZ31924489",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6638635fb2b11e898f797b935b9fa447/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3cdda943-8741-4a9d-92f5-646bb27b8efe",
+        "deezer": "https://www.deezer.com/track/1844112937"
+      }
+    },
+    "lyricPath": "/lyrics/98947.txt"
+  }
+]

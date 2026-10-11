@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98190,
+    "metadata": {
+      "title": "Avisa Lá 2",
+      "artists": [
+        "Mc Kelvinho, MC Hariel"
+      ],
+      "album": "Hommage À Marius Cultier",
+      "releaseDate": "1994",
+      "durationMs": 285133,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BXG6R1800713",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e6/58/ff/e658ff19-57b1-4dde-c3aa-377451e58e42/00191773462758_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7cf6f56f-8152-4948-b624-7a5c1f5b64eb",
+        "itunes": "https://music.apple.com/us/album/dono-da-lacoste-feat-mc-hariel/1577907124?i=1577907489&uo=4",
+        "deezer": "https://www.deezer.com/track/1439277872"
+      }
+    },
+    "lyricPath": "/lyrics/98190.txt"
+  }
+]

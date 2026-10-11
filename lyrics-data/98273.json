@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98273,
+    "metadata": {
+      "title": "Antes",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "Lama No Copo - Single",
+      "releaseDate": "2017-06-26T12:00:00Z",
+      "durationMs": 253433,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BXW922000005",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/b5/f9/b0b5f973-0202-3b62-e72d-5dbf4bc96aa8/045399547842.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/lama-no-copo/1842386036?i=1842386259&uo=4",
+        "deezer": "https://www.deezer.com/track/1049882302"
+      }
+    },
+    "lyricPath": "/lyrics/98273.txt"
+  }
+]

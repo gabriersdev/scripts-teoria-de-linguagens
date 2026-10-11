@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98944,
+    "metadata": {
+      "title": "TAMBOR",
+      "artists": [
+        "Alee, NADAMAL"
+      ],
+      "album": "Coma",
+      "releaseDate": "2002",
+      "durationMs": 189506,
+      "genres": [],
+      "isrc": "BKNDN2400018",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d630545501528d92d0431a405f0f30f2/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/344b3c39-6e92-4adf-a92e-db48512ee46c",
+        "deezer": "https://www.deezer.com/track/2675770132"
+      }
+    },
+    "lyricPath": "/lyrics/98944.txt"
+  }
+]

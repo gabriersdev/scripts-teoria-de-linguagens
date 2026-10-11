@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99023,
+    "metadata": {
+      "title": "MOTIVO",
+      "artists": [
+        "M'DEP, Tevito, TheJovemJota, CASA 11"
+      ],
+      "album": "¡Ahora!",
+      "releaseDate": "2000-04",
+      "durationMs": 61000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/51519e18-ab62-48ea-9d84-44f231357a59"
+      }
+    },
+    "lyricPath": "/lyrics/99023.txt"
+  }
+]

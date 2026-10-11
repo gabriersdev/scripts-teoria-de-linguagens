@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98838,
+    "metadata": {
+      "title": "Kawasaki Ninja",
+      "artists": [
+        "Sidoka"
+      ],
+      "album": "Kawasaki Ninja",
+      "releaseDate": "2021-10-29",
+      "durationMs": 162078,
+      "genres": [],
+      "isrc": "QM3DF2157681",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/befa4056b17bfa6192bc237e33ad9747/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2db89daa-6602-4905-92c0-55118ee7cd1f",
+        "deezer": "https://www.deezer.com/track/1843448077"
+      }
+    },
+    "lyricPath": "/lyrics/98838.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98129,
+    "metadata": {
+      "title": "Vo da Choque No",
+      "artists": [
+        "Mc Pikachu, DJ NWT"
+      ],
+      "album": "El jugador",
+      "releaseDate": "2008-02-12",
+      "durationMs": 119000,
+      "genres": [],
+      "isrc": "BCIH82303632",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/ca83d8462e0608e1cd0018d3bd01f9b4/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/76f80fb3-b3f1-4516-aaa7-ec03a2bd931e",
+        "deezer": "https://www.deezer.com/track/2381485875"
+      }
+    },
+    "lyricPath": "/lyrics/98129.txt"
+  }
+]

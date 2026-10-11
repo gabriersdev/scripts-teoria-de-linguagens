@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98708,
+    "metadata": {
+      "title": "Infiel - Ao Vivo",
+      "artists": [
+        "Marília Mendonça"
+      ],
+      "album": "Realidade - Ao Vivo",
+      "releaseDate": "2017-02-24",
+      "durationMs": 218000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1500066",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1e/68/40/1e684061-025d-60a4-28d6-16cb4e0b37b7/7891430399023.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/19134a03-a3a6-4f10-bbcb-90c2c735787e",
+        "itunes": "https://music.apple.com/us/album/infiel-ao-vivo/1087546611?i=1087547337&uo=4",
+        "deezer": "https://www.deezer.com/track/119849606"
+      }
+    },
+    "lyricPath": "/lyrics/98708.txt"
+  }
+]

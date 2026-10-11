@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98956,
+    "metadata": {
+      "title": "Desde Mais Novo",
+      "artists": [
+        "Yunk Vino"
+      ],
+      "album": "Shwewsh",
+      "releaseDate": "2020-10-12",
+      "durationMs": 74632,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BK89A2600005",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d5/da/08/d5da08ba-ccca-8794-edd7-b288dff3bcc0/886449707744.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3441fc98-2c94-4709-b804-56657b442da7",
+        "itunes": "https://music.apple.com/us/album/na-onda-do-gin-feat-kyan/1594278714?i=1594279098&uo=4",
+        "deezer": "https://www.deezer.com/track/3909787181"
+      }
+    },
+    "lyricPath": "/lyrics/98956.txt"
+  }
+]

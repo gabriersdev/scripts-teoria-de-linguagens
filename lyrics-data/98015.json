@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98015,
+    "metadata": {
+      "title": "Na Ponta do Pé",
+      "artists": [
+        "Mc Prr Felipinho, DJ 7W, DJ LEILTON 011"
+      ],
+      "album": "Brasileira ao vivo: Uma homenagem ao Samba-Reggae",
+      "releaseDate": "2006-10-16",
+      "durationMs": 212200,
+      "genres": [],
+      "isrc": "QT8BW2638596",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b61367128222a5d965da46c2380d7f69/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d9b16882-0cff-4c92-bde9-551f68de95ca",
+        "deezer": "https://www.deezer.com/track/4131275411"
+      }
+    },
+    "lyricPath": "/lyrics/98015.txt"
+  }
+]

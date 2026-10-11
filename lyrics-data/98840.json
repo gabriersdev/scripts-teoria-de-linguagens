@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98840,
+    "metadata": {
+      "title": "Merci",
+      "artists": [
+        "Sidoka"
+      ],
+      "album": "Acte 1 • 1962-1979 • Enregistrements originaux",
+      "releaseDate": "2018",
+      "durationMs": 187000,
+      "genres": [
+        "country rock",
+        "chanson",
+        "rock & roll"
+      ],
+      "isrc": "FRZ017201220",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/befa4056b17bfa6192bc237e33ad9747/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/06be1b77-65aa-4a89-8950-0680a6ad9318",
+        "deezer": "https://www.deezer.com/track/1843448057"
+      }
+    },
+    "lyricPath": "/lyrics/98840.txt"
+  }
+]

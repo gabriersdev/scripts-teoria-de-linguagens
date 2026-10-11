@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98290,
+    "metadata": {
+      "title": "Amor Livre - Ao Vivo",
+      "artists": [
+        "Filipe Ret"
+      ],
+      "album": "FRXV (Ao Vivo)",
+      "releaseDate": "2023-12-15",
+      "durationMs": 136800,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRRGE2301036",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/64/e4/f3/64e4f362-875a-f056-092e-8c0be8558ce5/7891430562670.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b6b6c9cf-050c-4d17-88a3-353ea153aef6",
+        "itunes": "https://music.apple.com/us/album/corte-americano/1562740155?i=1562740156&uo=4",
+        "deezer": "https://www.deezer.com/track/2566583292"
+      }
+    },
+    "lyricPath": "/lyrics/98290.txt"
+  }
+]

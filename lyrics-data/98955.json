@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98955,
+    "metadata": {
+      "title": "RAUL SEIIIXAS",
+      "artists": [
+        "DESSIIIK"
+      ],
+      "album": "PSIIIKO RADIIIO",
+      "releaseDate": "2025-10-31",
+      "durationMs": 139034,
+      "genres": [],
+      "isrc": "BK1YJ2500023",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c65b1c648603400fc552c670acdeefcf/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a1ad2390-fe03-40db-96cb-5f45ec00b070",
+        "deezer": "https://www.deezer.com/track/3621940522"
+      }
+    },
+    "lyricPath": "/lyrics/98955.txt"
+  }
+]

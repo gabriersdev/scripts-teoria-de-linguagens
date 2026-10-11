@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98012,
+    "metadata": {
+      "title": "Pra Não Esquecer De Mim",
+      "artists": [
+        "Aaron Modesto, Mc Magal, MC Meno K, DJ Glenner"
+      ],
+      "album": "Não é o Fim",
+      "releaseDate": "1999",
+      "durationMs": 245000,
+      "genres": [],
+      "isrc": "BXG6R2500929",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cf3dbd63703a8f9f046384e2a53be4f7/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0cb59a04-5290-4ae6-af9d-3f26b18802c6",
+        "deezer": "https://www.deezer.com/track/3638560132"
+      }
+    },
+    "lyricPath": "/lyrics/98012.txt"
+  }
+]

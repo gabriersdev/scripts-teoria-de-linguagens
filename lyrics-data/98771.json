@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98771,
+    "metadata": {
+      "title": "Nessas Horas - Ao Vivo",
+      "artists": [
+        "João Gomes"
+      ],
+      "album": "Do Jeito Que o Povo Gosta",
+      "releaseDate": "2025-05-29",
+      "durationMs": 174000,
+      "genres": [
+        "Forró"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/6e/65/506e659c-04b2-b83c-4f81-b19f4e8dfa09/cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bfbf096a-ef2a-4d5e-8494-abba3b85b3d2",
+        "itunes": "https://music.apple.com/us/album/nessas-horas-ao-vivo/1824213568?i=1824214752&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98771.txt"
+  }
+]

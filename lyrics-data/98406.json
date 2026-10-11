@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98406,
+    "metadata": {
+      "title": "Tempo Perdido",
+      "artists": [
+        "Legião Urbana"
+      ],
+      "album": "Ghost Birds",
+      "releaseDate": "2018-08-20",
+      "durationMs": 238245,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BREMI8600025",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/da/72/ed/da72edf4-27c8-2d20-a870-3259f853a866/13UABIM70454.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/de6aef5d-59f2-496f-b638-e180187aeaae",
+        "itunes": "https://music.apple.com/us/album/tempo-perdido/713514746?i=713514810&uo=4",
+        "deezer": "https://www.deezer.com/track/3530724"
+      }
+    },
+    "lyricPath": "/lyrics/98406.txt"
+  }
+]

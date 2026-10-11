@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98454,
+    "metadata": {
+      "title": "Equalize",
+      "artists": [
+        "Pitty"
+      ],
+      "album": "Admirável Chip Novo",
+      "releaseDate": "2003-05-07T07:00:00Z",
+      "durationMs": 232240,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRDEP0300004",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1c/e5/2b/1ce52bf3-3cec-1281-a15a-bddbc46bd6dc/7898324300288.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/equalize/977428211?i=977428503&uo=4",
+        "deezer": "https://www.deezer.com/track/95987830"
+      }
+    },
+    "lyricPath": "/lyrics/98454.txt"
+  }
+]

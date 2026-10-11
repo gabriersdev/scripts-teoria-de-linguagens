@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98756,
+    "metadata": {
+      "title": "Infarto",
+      "artists": [
+        "Diego & Victor Hugo"
+      ],
+      "album": "A Shot in the Dark",
+      "releaseDate": "2018-11-05T12:00:00Z",
+      "durationMs": 161404,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRSME1802268",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/06/96/37/0696374d-6184-42f5-57ae-ebe1426b1720/886447380567.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6f3207e4-d48d-4f31-b9c8-c474e4cf894e",
+        "itunes": "https://music.apple.com/us/album/infarto/1440221777?i=1440221786&uo=4",
+        "deezer": "https://www.deezer.com/track/574608772"
+      }
+    },
+    "lyricPath": "/lyrics/98756.txt"
+  }
+]

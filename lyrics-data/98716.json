@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98716,
+    "metadata": {
+      "title": "Facas - Ao Vivo",
+      "artists": [
+        "Diego & Victor Hugo, Bruno & Marrone"
+      ],
+      "album": "Equilíbrio (Ao Vivo)",
+      "releaseDate": "2021-07-29",
+      "durationMs": 196000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRSME2102599",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/f3/da/b0f3da1e-64ad-e52e-1af9-1425b8a4d4f1/886448813088.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a71d88f1-8cd8-4d70-b41b-6ab5431b0c6b",
+        "itunes": "https://music.apple.com/us/album/facas-ao-vivo/1534669003?i=1534669005&uo=4",
+        "deezer": "https://www.deezer.com/track/1624617512"
+      }
+    },
+    "lyricPath": "/lyrics/98716.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98738,
+    "metadata": {
+      "title": "90/10 - Ao Vivo em São Paulo",
+      "artists": [
+        "Maiara & Maraisa"
+      ],
+      "album": "40 Anos (Ao Vivo)",
+      "releaseDate": "2023-09-01",
+      "durationMs": 274453,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BXWOW2500130",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/f3/08/cdf308c3-b89d-3561-7f41-6e636cc11a17/c2ff3b80-6f05-4080-ac3a-6e7553745929.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/48363d8b-7d83-43fc-b277-258c68aaed1b",
+        "itunes": "https://music.apple.com/us/album/90-10-ao-vivo-em-s%C3%A3o-paulo/1864181426?i=1864181847&uo=4",
+        "deezer": "https://www.deezer.com/track/3736653622"
+      }
+    },
+    "lyricPath": "/lyrics/98738.txt"
+  }
+]

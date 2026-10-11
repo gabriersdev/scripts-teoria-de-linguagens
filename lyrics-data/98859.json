@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98859,
+    "metadata": {
+      "title": "CÊ QUER MAIS O QUE?",
+      "artists": [
+        "Nosred, Ugovhb, 3X"
+      ],
+      "album": "Ide Deluxe",
+      "releaseDate": "2015-05-26",
+      "durationMs": 134013,
+      "genres": [],
+      "isrc": "BCE7P2501064",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d010c9d4a01d750a107b9bb866aa3c67/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d058db0c-b0e5-45f9-8aa7-5de5a7ee655f",
+        "deezer": "https://www.deezer.com/track/3296253971"
+      }
+    },
+    "lyricPath": "/lyrics/98859.txt"
+  }
+]

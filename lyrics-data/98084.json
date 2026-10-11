@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98084,
+    "metadata": {
+      "title": "THAINÁ THAINÁ",
+      "artists": [
+        "MC Nito, MT DO PALACIO"
+      ],
+      "album": "หมวยนี่คะ",
+      "releaseDate": "1999-07",
+      "durationMs": 241000,
+      "genres": [
+        "House"
+      ],
+      "isrc": "GXBAV2187109",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/67/ac/4567aca2-7da8-1d5f-2efb-9dfdd8ef4652/cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c103ac59-1924-4499-a9f0-643596f75eb3",
+        "itunes": "https://music.apple.com/us/album/thain%C3%A1-eddu-dias-remix/1858255255?i=1858255258&uo=4",
+        "deezer": "https://www.deezer.com/track/4007510381"
+      }
+    },
+    "lyricPath": "/lyrics/98084.txt"
+  }
+]

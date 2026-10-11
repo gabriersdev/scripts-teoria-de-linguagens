@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98848,
+    "metadata": {
+      "title": "SURF",
+      "artists": [
+        "Alee, NADAMAL, saboya, Qualywav1, Dexter"
+      ],
+      "album": "CAOS DLX",
+      "releaseDate": "2025-07-24",
+      "durationMs": 123564,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a897a95d-6f57-4fac-82ab-05183852debd"
+      }
+    },
+    "lyricPath": "/lyrics/98848.txt"
+  }
+]

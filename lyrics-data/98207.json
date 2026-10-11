@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98207,
+    "metadata": {
+      "title": "Poesia Acústica #6 Era uma Vez",
+      "artists": [
+        "Pineapple StormTv, MC Cabelinho, Bob do Contra, Azzy, Filipe Ret, Dudu, Xamã, Orochi, Maquiny, Salve Malak"
+      ],
+      "album": "Poesia Acústica #6: Era uma Vez",
+      "releaseDate": null,
+      "durationMs": 577819,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/1af7db8b-06ea-4e98-b0c4-3a48cb32eeaf"
+      }
+    },
+    "lyricPath": "/lyrics/98207.txt"
+  }
+]

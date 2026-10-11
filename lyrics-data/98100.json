@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98100,
+    "metadata": {
+      "title": "SET DJ YURI PEDRADA - TRAVA CHIP",
+      "artists": [
+        "Dj Yuri Pedrada, Nilo, MC Meno K, Mc Livinho, Mc Negão Original, MC Jvila, MC Ryan SP, Mc Paiva ZS, MC GDL"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599"
+      }
+    },
+    "lyricPath": "/lyrics/98100.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98269,
+    "metadata": {
+      "title": "Poesia Acústica #3: Capricorniana",
+      "artists": [
+        "Pineapple StormTv, Choice, Lord ADL, Tiago Mac, Sant, Maria, Slim Beat, Salve Malak"
+      ],
+      "album": "Poesia Acústica #3: Capricorniana",
+      "releaseDate": null,
+      "durationMs": 430296,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c37d86cc-390b-4b67-9df4-116b304f8231"
+      }
+    },
+    "lyricPath": "/lyrics/98269.txt"
+  }
+]

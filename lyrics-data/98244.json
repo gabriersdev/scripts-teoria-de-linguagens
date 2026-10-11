@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98244,
+    "metadata": {
+      "title": "Amina",
+      "artists": [
+        "Tasha & Tracie, retroboy"
+      ],
+      "album": "Amina",
+      "releaseDate": "2025-07-10",
+      "durationMs": 185000,
+      "genres": [],
+      "isrc": "BKEHX2500010",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b93ed0093b9d550436da01ea694c7bb5/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3475636311"
+      }
+    },
+    "lyricPath": "/lyrics/98244.txt"
+  }
+]

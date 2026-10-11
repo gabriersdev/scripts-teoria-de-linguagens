@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99072,
+    "metadata": {
+      "title": "AMIGA DA MINHA MULHER",
+      "artists": [
+        "Ugovhb"
+      ],
+      "album": "AMIGA DA MINHA MULHER",
+      "releaseDate": "2023-02-08",
+      "durationMs": 167000,
+      "genres": [],
+      "isrc": "QZDA52348374",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8364bb3c952e6b342169be3aa6df17a2/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2674514452"
+      }
+    },
+    "lyricPath": "/lyrics/99072.txt"
+  }
+]

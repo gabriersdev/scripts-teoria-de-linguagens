@@ -1,0 +1,28 @@
+[
+  {
+    "id": 98553,
+    "metadata": {
+      "title": "Nós Vamos Invadir Sua Praia",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "Nos vamos invadir sua praia",
+      "releaseDate": "1987-03-25T08:00:00Z",
+      "durationMs": 258000,
+      "genres": [
+        "rock",
+        "new wave",
+        "brazilian",
+        "pop rock"
+      ],
+      "isrc": "BRWMB9701840",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/3e/6c/56/3e6c56ea-8156-3610-1121-fa083f80d261/dj.ujrgagiu.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/015acc07-9202-4650-8a31-dccc07244c48",
+        "itunes": "https://music.apple.com/us/album/n%C3%B3s-vamos-invadir-sua-praia/264602348?i=264602362&uo=4",
+        "deezer": "https://www.deezer.com/track/3859547"
+      }
+    },
+    "lyricPath": "/lyrics/98553.txt"
+  }
+]

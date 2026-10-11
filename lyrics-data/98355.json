@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98355,
+    "metadata": {
+      "title": "O Invasor",
+      "artists": [
+        "Sabotage, Instituto"
+      ],
+      "album": "Os Sons Esquecidos",
+      "releaseDate": "2017",
+      "durationMs": 254320,
+      "genres": [
+        "Latin Rap"
+      ],
+      "isrc": "USLZJ2047278",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/59/4a/86/594a8652-8a6d-d5b5-8d63-ccd36f8e6516/195039860364_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/597fa116-86b9-4355-bd36-10cd6c131ca3",
+        "itunes": "https://music.apple.com/us/album/o-invasor-instrumental/1535278997?i=1535279002&uo=4",
+        "deezer": "https://www.deezer.com/track/1104922012"
+      }
+    },
+    "lyricPath": "/lyrics/98355.txt"
+  }
+]

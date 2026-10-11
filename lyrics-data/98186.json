@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98186,
+    "metadata": {
+      "title": "Evoque Azul",
+      "artists": [
+        "Mc Pedrinho, Mc Davi"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BXG6R1700462",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/52/3a/15523ab0-4051-d18f-53cd-f96669f503cb/00191773107932_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "itunes": "https://music.apple.com/us/album/evoque-azul-feat-mc-davi/1579000629?i=1579000630&uo=4",
+        "deezer": "https://www.deezer.com/track/1449315802"
+      }
+    },
+    "lyricPath": "/lyrics/98186.txt"
+  }
+]

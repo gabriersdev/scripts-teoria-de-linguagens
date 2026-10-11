@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98953,
+    "metadata": {
+      "title": "Cê foi embora",
+      "artists": [
+        "Chefin, Elow, MUC4"
+      ],
+      "album": "12 de Janeiro",
+      "releaseDate": "2023-01-12",
+      "durationMs": 228621,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BK7652600028",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/a4/85/20a48553-60dc-80f7-241e-c442186475c1/2643930.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/1598cc05-e611-47d4-a577-2ff0db6d192e",
+        "itunes": "https://music.apple.com/us/album/c%C3%AA-foi-embora/1891818690?i=1891818692&uo=4",
+        "deezer": "https://www.deezer.com/track/3959040701"
+      }
+    },
+    "lyricPath": "/lyrics/98953.txt"
+  }
+]

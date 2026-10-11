@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98928,
+    "metadata": {
+      "title": "Carranca",
+      "artists": [
+        "D$ Luqi, WillsBife"
+      ],
+      "album": "Selva Mundo",
+      "releaseDate": "2015-09-11",
+      "durationMs": 217000,
+      "genres": [],
+      "isrc": "BKLL22400014",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3ab40bdd7c87b75c21401f79028b3dcf/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/78370df6-ec8d-4318-b837-6c0334ab8210",
+        "deezer": "https://www.deezer.com/track/2858478032"
+      }
+    },
+    "lyricPath": "/lyrics/98928.txt"
+  }
+]

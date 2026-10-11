@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98147,
+    "metadata": {
+      "title": "Lei do Retorno",
+      "artists": [
+        "MC Hariel, MC Don Juan"
+      ],
+      "album": "Espiral",
+      "releaseDate": "2026-03-18",
+      "durationMs": 179000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BXG6R1700469",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/b5/ac/4cb5acb6-321c-dc97-536c-6a98768429d9/190296354687.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/40e83802-b561-4181-b155-94c10bcd5918",
+        "itunes": "https://music.apple.com/us/album/lei-do-retorno-ao-vivo/1609934275?i=1609934282&uo=4",
+        "deezer": "https://www.deezer.com/track/1442875872"
+      }
+    },
+    "lyricPath": "/lyrics/98147.txt"
+  }
+]

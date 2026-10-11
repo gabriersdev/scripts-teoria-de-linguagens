@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98885,
+    "metadata": {
+      "title": "SE CONTROLA",
+      "artists": [
+        "Nosred, 3X"
+      ],
+      "album": "Controla",
+      "releaseDate": "2019-02-15",
+      "durationMs": 208000,
+      "genres": [],
+      "isrc": "BCE7P2501071",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d010c9d4a01d750a107b9bb866aa3c67/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8306c844-5631-485f-bfa2-954024d8e249",
+        "deezer": "https://www.deezer.com/track/3296253991"
+      }
+    },
+    "lyricPath": "/lyrics/98885.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99028,
+    "metadata": {
+      "title": "Diva Pop",
+      "artists": [
+        "Azzy, A.LBeats"
+      ],
+      "album": "Diva Pop - Single",
+      "releaseDate": "2026-03-12T12:00:00Z",
+      "durationMs": 152276,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRWMB2600162",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/83/d7/5883d772-9082-db2b-81d1-442c623265b8/5026854696010.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/diva-pop/1876660580?i=1876660693&uo=4",
+        "deezer": "https://www.deezer.com/track/3838402421"
+      }
+    },
+    "lyricPath": "/lyrics/99028.txt"
+  }
+]

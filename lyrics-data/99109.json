@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99109,
+    "metadata": {
+      "title": "Qq cê tá insinuando",
+      "artists": [
+        "Sidoka, Intactoz Corp."
+      ],
+      "album": "Merci £",
+      "releaseDate": "2020-02-18",
+      "durationMs": 176000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0b9bcee6-7721-4f7e-b4a5-cb12b1697a8e"
+      }
+    },
+    "lyricPath": "/lyrics/99109.txt"
+  }
+]

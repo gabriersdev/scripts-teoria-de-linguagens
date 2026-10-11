@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98086,
+    "metadata": {
+      "title": "Senta e Cala a Boca",
+      "artists": [
+        "Mc Jacaré, DJ JHOW BEATS"
+      ],
+      "album": "Na pista",
+      "releaseDate": "2002",
+      "durationMs": 147221,
+      "genres": [
+        "Funk"
+      ],
+      "isrc": "BKC3C2500004",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/53/a9/9753a9c5-0edf-bbfe-1b56-06c221e7b1f9/5034644433943.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/df22c655-0a56-47e8-9185-281890aee9aa",
+        "itunes": "https://music.apple.com/us/album/senta-e-cala-a-boca/1793863485?i=1793863940&uo=4",
+        "deezer": "https://www.deezer.com/track/3212653741"
+      }
+    },
+    "lyricPath": "/lyrics/98086.txt"
+  }
+]

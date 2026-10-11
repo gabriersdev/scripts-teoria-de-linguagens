@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98737,
+    "metadata": {
+      "title": "Todo Mundo Vai Sofrer - Ao Vivo",
+      "artists": [
+        "Marília Mendonça"
+      ],
+      "album": "Todos os cantos, vol. 2",
+      "releaseDate": "2019-05-17",
+      "durationMs": 155000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1800394",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/02/50/58/025058b0-d15e-041e-7b27-f88705e44c14/7891430385873.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ffae270e-68b1-4db8-a85b-6ff8d7685e26",
+        "itunes": "https://music.apple.com/us/album/todo-mundo-vai-sofrer-ao-vivo/1463005333?i=1463005338&uo=4",
+        "deezer": "https://www.deezer.com/track/677414332"
+      }
+    },
+    "lyricPath": "/lyrics/98737.txt"
+  }
+]

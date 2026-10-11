@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98001,
+    "metadata": {
+      "title": "Puxa o Lança",
+      "artists": [
+        "MC Jvila, KayBlack, Veigh, Vulgo FK, Honaiser, Nagalli, Stick, Toledo"
+      ],
+      "album": "Contradições",
+      "releaseDate": "2023-03-31",
+      "durationMs": 206451,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7a83a865-91d2-4aa8-a23c-0b69c32ed18d"
+      }
+    },
+    "lyricPath": "/lyrics/98001.txt"
+  }
+]

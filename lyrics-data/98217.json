@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98217,
+    "metadata": {
+      "title": "THE BOX MEDLEY 14 (feat. Dudu)",
+      "artists": [
+        "THE BOX, Tevito, Rei Bxd, Aimar, Ouroempessoa, Fahel, Dudu"
+      ],
+      "album": "3",
+      "releaseDate": "2010-10",
+      "durationMs": 293731,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/de/e0/28dee06e-5a52-7735-dd39-9baa105146d2/196874388778.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3d211f64-75b5-4a40-83c1-e678298a1b24",
+        "itunes": "https://music.apple.com/us/album/the-box-medley-14-feat-dudu/6767713688?i=6767713690&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98217.txt"
+  }
+]

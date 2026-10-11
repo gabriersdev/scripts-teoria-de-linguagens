@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99019,
+    "metadata": {
+      "title": "ÁREA DE RISCO",
+      "artists": [
+        "Tchelo, LPT Zlatan, retroboy"
+      ],
+      "album": "Jovem OG",
+      "releaseDate": "2021-04-09",
+      "durationMs": 230000,
+      "genres": [],
+      "isrc": "BX46W2100063",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4fb1d5ac40df030216d3a04f3a818a36/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c565e90f-b637-4c02-aad8-6e2b80602fc7",
+        "deezer": "https://www.deezer.com/track/3478494671"
+      }
+    },
+    "lyricPath": "/lyrics/99019.txt"
+  }
+]

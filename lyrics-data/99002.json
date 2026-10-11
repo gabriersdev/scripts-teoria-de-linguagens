@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99002,
+    "metadata": {
+      "title": "THE BOX MEDLEY 10",
+      "artists": [
+        "THE BOX, Oruam, Borges, Meno Tody, NGC Daddy, Pedrin, Js da Torre, Neo Beats, Victor WAO, Joab Beats"
+      ],
+      "album": "Volume 2",
+      "releaseDate": "2008-06-09",
+      "durationMs": 163000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2a50bd8a-f6dc-41b0-9f0f-1cc211a59e7f"
+      }
+    },
+    "lyricPath": "/lyrics/99002.txt"
+  }
+]

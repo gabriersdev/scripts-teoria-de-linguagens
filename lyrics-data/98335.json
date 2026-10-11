@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98335,
+    "metadata": {
+      "title": "A Vida É Desafio",
+      "artists": [
+        "Racionais MC's, Afro-X"
+      ],
+      "album": "1000 trutas, 1000 tretas",
+      "releaseDate": "2006",
+      "durationMs": 404880,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3f/ca/fd/3fcafdad-07c1-c752-7878-39dfd32b3b28/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b9c7c918-2918-42ef-b05b-1d733b7dd36b",
+        "itunes": "https://music.apple.com/us/album/a-vida-%C3%A9-desafio/1198317040?i=1198317082&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98335.txt"
+  }
+]

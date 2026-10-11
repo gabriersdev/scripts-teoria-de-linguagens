@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99120,
+    "metadata": {
+      "title": "Eu Hoje",
+      "artists": [
+        "Raffa Moreira"
+      ],
+      "album": "Ao vivo: Amigo é coisa pra se guardar…",
+      "releaseDate": "2018-11-01T12:00:00Z",
+      "durationMs": 345000,
+      "genres": [
+        "Hip-Hop"
+      ],
+      "isrc": "QZGLS2093504",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2d/70/75/2d7075d7-b2cf-a796-ee44-fea2dd452362/718598165895_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e057b93b-4abe-428a-a3d2-a6c389279f1b",
+        "itunes": "https://music.apple.com/us/album/v-v-s/1552441188?i=1552441189&uo=4",
+        "deezer": "https://www.deezer.com/track/1449726622"
+      }
+    },
+    "lyricPath": "/lyrics/99120.txt"
+  }
+]

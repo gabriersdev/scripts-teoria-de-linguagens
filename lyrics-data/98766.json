@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98766,
+    "metadata": {
+      "title": "Intenção - Ao Vivo",
+      "artists": [
+        "Marília Mendonça"
+      ],
+      "album": "Todos os cantos, vol. 3",
+      "releaseDate": "2019-08-16",
+      "durationMs": 202000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1800390",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/28/88/8a/28888ad9-7027-56d0-2094-66c5c8e91021/7891430413873.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/1760c7f0-6807-4865-a515-895412c50981",
+        "itunes": "https://music.apple.com/us/album/inten%C3%A7%C3%A3o-feat-gaab-ao-vivo/1475315736?i=1475315755&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98766.txt"
+  }
+]

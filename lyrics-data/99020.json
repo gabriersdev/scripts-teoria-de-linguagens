@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99020,
+    "metadata": {
+      "title": "CAM",
+      "artists": [
+        "Yunk Vino"
+      ],
+      "album": "Shwewsh",
+      "releaseDate": "2020-10-12",
+      "durationMs": 74632,
+      "genres": [],
+      "isrc": "BK89A2500003",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/e33230985b0c91de70ee78dfade1749e/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3441fc98-2c94-4709-b804-56657b442da7",
+        "deezer": "https://www.deezer.com/track/3562948351"
+      }
+    },
+    "lyricPath": "/lyrics/99020.txt"
+  }
+]

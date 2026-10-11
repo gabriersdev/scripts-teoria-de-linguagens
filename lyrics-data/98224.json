@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98224,
+    "metadata": {
+      "title": "Segredos e Defeitos",
+      "artists": [
+        "Raflow, Caio Luccas, Tz da Coronel"
+      ],
+      "album": "Non Conforme",
+      "releaseDate": "2006",
+      "durationMs": 150426,
+      "genres": [],
+      "isrc": "BKUPC2600003",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c5ef461f169590bd4c408a0f3f5c4be5/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/02d7fdaf-7d16-4ad5-a08d-e17da5b6b10a",
+        "deezer": "https://www.deezer.com/track/4033711061"
+      }
+    },
+    "lyricPath": "/lyrics/98224.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98025,
+    "metadata": {
+      "title": "MONTAGEM PUMBA LA PUMBA - VERSÃO LIGHT",
+      "artists": [
+        "Mc Magrinho, AXLON, Dj Miltinho, Mc Jacaré"
+      ],
+      "album": "Fitness: Gym, September 2024",
+      "releaseDate": "2026-07-10T12:00:00Z",
+      "durationMs": 41000,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "US23A8199714",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/59/69/d3596925-1857-2e13-9926-045a01fada7f/c6138007-3f0e-48da-bf4d-c43529f7bce1.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e225339f-6433-4828-aaf8-11eacf81c4d6",
+        "itunes": "https://music.apple.com/us/album/montagem-pumba-la-pumba-vers%C3%A3o-light/6790545665?i=6790545666&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98025.txt"
+  }
+]

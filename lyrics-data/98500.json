@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98500,
+    "metadata": {
+      "title": "Eu Não Gosto de Ninguém",
+      "artists": [
+        "Matanza"
+      ],
+      "album": "A Arte do Insulto",
+      "releaseDate": "2006-10-10T12:00:00Z",
+      "durationMs": 231760,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP0600435",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/40/b7/4340b728-c3b3-543b-af7f-fa26ce4edf37/7898324302602.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/eu-n%C3%A3o-gosto-de-ningu%C3%A9m/977391848?i=977391855&uo=4",
+        "deezer": "https://www.deezer.com/track/96188836"
+      }
+    },
+    "lyricPath": "/lyrics/98500.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98327,
+    "metadata": {
+      "title": "Subirusdoistiozin",
+      "artists": [
+        "Criolo"
+      ],
+      "album": "Nó na orelha ao vivo no Circo Voador",
+      "releaseDate": "2013-02-19",
+      "durationMs": 233000,
+      "genres": [
+        "Hip-Hop"
+      ],
+      "isrc": "BRP0J2100005",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/88/93/d2889362-b21e-5312-3a3a-7c3b0b1de635/8445162082815_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6aa5a737-b78b-42bf-9f93-f860bfe7a777",
+        "itunes": "https://music.apple.com/us/album/subirusdoistiozin/1690488246?i=1690488568&uo=4",
+        "deezer": "https://www.deezer.com/track/2307921785"
+      }
+    },
+    "lyricPath": "/lyrics/98327.txt"
+  }
+]

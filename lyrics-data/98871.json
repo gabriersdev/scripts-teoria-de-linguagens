@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98871,
+    "metadata": {
+      "title": "Wake Up",
+      "artists": [
+        "Ark King, Junim"
+      ],
+      "album": "Monuments",
+      "releaseDate": "2017-07-14",
+      "durationMs": 58000,
+      "genres": [],
+      "isrc": "GBWUL2489108",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/257d53ae218bc10c1a49d682f574ce8f/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5d722ade-0c14-4cf7-a81c-26000d9bbd20",
+        "deezer": "https://www.deezer.com/track/2761818361"
+      }
+    },
+    "lyricPath": "/lyrics/98871.txt"
+  }
+]

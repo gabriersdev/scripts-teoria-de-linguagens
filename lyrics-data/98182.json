@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98182,
+    "metadata": {
+      "title": "O Verão Está Chegando",
+      "artists": [
+        "MC Davi"
+      ],
+      "album": "Flores de São João Vol 4/4",
+      "releaseDate": "2006-06-23",
+      "durationMs": 163466,
+      "genres": [
+        "Pagode"
+      ],
+      "isrc": "GXD7V2542989",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bc/df/05/bcdf05fa-a7e0-baee-60a9-200e66343019/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8e7a7cbb-e934-44ef-962c-77e0aa474404",
+        "itunes": "https://music.apple.com/us/album/o-ver%C3%A3o-est%C3%A1-chegando-ao-vivo/1585677778?i=1585677783&uo=4",
+        "deezer": "https://www.deezer.com/track/3224446411"
+      }
+    },
+    "lyricPath": "/lyrics/98182.txt"
+  }
+]

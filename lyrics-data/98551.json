@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98551,
+    "metadata": {
+      "title": "Inútil",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "Mass Illusion",
+      "releaseDate": "1991",
+      "durationMs": 89960,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRWMB9701845",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/15/c4/9f15c409-dc83-6022-a6bf-d82976207fd9/7898324301889.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a9b3e389-21ee-44bb-b2e0-5bcac258f5b2",
+        "itunes": "https://music.apple.com/us/album/in%C3%BAtil/977474314?i=977474480&uo=4",
+        "deezer": "https://www.deezer.com/track/63652994"
+      }
+    },
+    "lyricPath": "/lyrics/98551.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98420,
+    "metadata": {
+      "title": "Alegria, Alegria",
+      "artists": [
+        "Caetano Veloso"
+      ],
+      "album": "You don't know mix - Caetano Veloso Revisited",
+      "releaseDate": "2013-08-12",
+      "durationMs": 98000,
+      "genres": [
+        "MPB"
+      ],
+      "isrc": "BRUM70601093",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ae/2f/0f/ae2f0fd0-6b64-7e2a-ca02-d876f3bb8c8d/00602537449491.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9458e27b-a529-432a-bd12-ef4ff1b15278",
+        "itunes": "https://music.apple.com/us/album/alegria-alegria/1443216968?i=1443217552&uo=4",
+        "deezer": "https://www.deezer.com/track/883997"
+      }
+    },
+    "lyricPath": "/lyrics/98420.txt"
+  }
+]

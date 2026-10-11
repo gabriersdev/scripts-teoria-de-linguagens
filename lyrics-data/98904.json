@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98904,
+    "metadata": {
+      "title": "Direção",
+      "artists": [
+        "Yung Nobre, Pepito"
+      ],
+      "album": "Historia De Un Amor",
+      "releaseDate": "2022-07-22",
+      "durationMs": 165000,
+      "genres": [],
+      "isrc": "BXZYA2200023",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4f7761e9e84e79b123c3e82add035a69/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/17ab3112-59ab-4256-8786-7d91d136e8c2",
+        "deezer": "https://www.deezer.com/track/1817431597"
+      }
+    },
+    "lyricPath": "/lyrics/98904.txt"
+  }
+]

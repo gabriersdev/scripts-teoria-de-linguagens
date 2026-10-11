@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98289,
+    "metadata": {
+      "title": "LEAL",
+      "artists": [
+        "Djonga, Coyote Beatz, Rapaz do Dread"
+      ],
+      "album": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
+      "releaseDate": "2025-03-13",
+      "durationMs": 179930,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRE2Y1900003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/50/44/81/504481a4-0b0a-a49a-8be5-bca9691669c6/8445162041416.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3b6267ee-9173-485f-bbe8-e03ab5308629",
+        "itunes": "https://music.apple.com/us/album/todo-errado/1502146741?i=1502146971&uo=4",
+        "deezer": "https://www.deezer.com/track/3251643991"
+      }
+    },
+    "lyricPath": "/lyrics/98289.txt"
+  }
+]

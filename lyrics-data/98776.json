@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98776,
+    "metadata": {
+      "title": "Ele Quer Ser Eu - Ao Vivo",
+      "artists": [
+        "Henrique & Juliano"
+      ],
+      "album": "Novas histórias",
+      "releaseDate": "2016-11-11",
+      "durationMs": 182747,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1500103",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/31/7a/19317acb-551e-46a2-0b4a-6c77e2a27655/00602438705573_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8e838328-6693-40c0-b3e2-8386621ceb93",
+        "itunes": "https://music.apple.com/us/album/ele-quer-ser-eu-ao-vivo/1881794690?i=1881794696&uo=4",
+        "deezer": "https://www.deezer.com/track/3877702291"
+      }
+    },
+    "lyricPath": "/lyrics/98776.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98223,
+    "metadata": {
+      "title": "Estrela Cadente",
+      "artists": [
+        "Tz da Coronel"
+      ],
+      "album": "O Barco E O Sonho | Balada Do Atlântico | Xailes Negros",
+      "releaseDate": "1989",
+      "durationMs": 162000,
+      "genres": [],
+      "isrc": "BC2TS2600001",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/eccaf40c95cfda785d50a19ff826e4a2/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/09d801ce-3c2f-4793-81bb-f3d29a7426cd",
+        "deezer": "https://www.deezer.com/track/3990256141"
+      }
+    },
+    "lyricPath": "/lyrics/98223.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98173,
+    "metadata": {
+      "title": "Pegando Ela",
+      "artists": [
+        "MC Don Juan, MC Pikachu"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [],
+      "isrc": "BXG6R1700242",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4b74f5e80d793504c12d5d291e2e2ed5/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "deezer": "https://www.deezer.com/track/1441709742"
+      }
+    },
+    "lyricPath": "/lyrics/98173.txt"
+  }
+]

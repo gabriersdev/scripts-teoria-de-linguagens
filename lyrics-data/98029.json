@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98029,
+    "metadata": {
+      "title": "Carnívoro",
+      "artists": [
+        "Mc Jacaré, Mc Lele JP, Mc Negão Original, DJ Japa NK"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [],
+      "isrc": "BK4DA2602832",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/a34d269a7bafa1dc1e8df60fb997ef1c/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "deezer": "https://www.deezer.com/track/3843128551"
+      }
+    },
+    "lyricPath": "/lyrics/98029.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98772,
+    "metadata": {
+      "title": "Balada - Ao Vivo",
+      "artists": [
+        "Gusttavo Lima"
+      ],
+      "album": "Nostalgie: The Summer Feeling – De Grootste Zomer Classics",
+      "releaseDate": "2015",
+      "durationMs": 203693,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRXPX1100156",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/49/a9/2749a9e2-0238-23cb-9ed7-5e94d7416009/886447893432.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/68f03dc2-c863-42b4-823f-24f6c85a8045",
+        "itunes": "https://music.apple.com/us/album/balada-ao-vivo/1482037464?i=1482037797&uo=4",
+        "deezer": "https://www.deezer.com/track/767383202"
+      }
+    },
+    "lyricPath": "/lyrics/98772.txt"
+  }
+]

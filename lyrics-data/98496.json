@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98496,
+    "metadata": {
+      "title": "Tempos Difíceis",
+      "artists": [
+        "Celso Blues Boy"
+      ],
+      "album": "Racionais MC’s",
+      "releaseDate": "1994",
+      "durationMs": 239333,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRMCA9100042",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/4b/83/654b8344-d119-ba80-6328-5942afd99ded/7891956260821_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a674ee66-26ba-4461-ab8a-688d2d43bc18",
+        "itunes": "https://music.apple.com/us/album/tempos-dif%C3%ADceis-ao-vivo/1882108922?i=1882108939&uo=4",
+        "deezer": "https://www.deezer.com/track/1484066872"
+      }
+    },
+    "lyricPath": "/lyrics/98496.txt"
+  }
+]

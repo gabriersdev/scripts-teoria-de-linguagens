@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98053,
+    "metadata": {
+      "title": "PEGA A MALDADE DA BANDIDA",
+      "artists": [
+        "Dj Luan Gomes, Mc Ws da leste, Delleon, Tropa da W&S"
+      ],
+      "album": "Cantos e Causos",
+      "releaseDate": "2002-01-11",
+      "durationMs": 197748,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a5af0456-b8d4-4d6f-92f1-973e2319e977"
+      }
+    },
+    "lyricPath": "/lyrics/98053.txt"
+  }
+]

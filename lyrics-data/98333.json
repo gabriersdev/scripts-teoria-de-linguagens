@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98333,
+    "metadata": {
+      "title": "Levanta e Anda",
+      "artists": [
+        "Emicida, Rael"
+      ],
+      "album": "Emicida",
+      "releaseDate": "2022-04-29",
+      "durationMs": 166693,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "QMBZ91761518",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/71/0c/63/710c63b7-4ee8-28a3-ad79-c10666bb1af6/8429006397853.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/dd305dc1-74a1-4d11-926e-40a81d7f6539",
+        "itunes": "https://music.apple.com/us/album/levanta-e-anda-feat-rael/1465916954?i=1465917186&uo=4",
+        "deezer": "https://www.deezer.com/track/443118352"
+      }
+    },
+    "lyricPath": "/lyrics/98333.txt"
+  }
+]

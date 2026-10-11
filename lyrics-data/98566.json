@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98566,
+    "metadata": {
+      "title": "Agora É Tarde - Ao Vivo",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "Acústico MTV",
+      "releaseDate": "2005",
+      "durationMs": 174386,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP0500361",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/15/c4/9f15c409-dc83-6022-a6bf-d82976207fd9/7898324301889.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/895eb0dc-36a7-40d3-a614-9a0417250d2b",
+        "itunes": "https://music.apple.com/us/album/agora-%C3%A9-tarde/977474314?i=977474491&uo=4",
+        "deezer": "https://www.deezer.com/track/96168084"
+      }
+    },
+    "lyricPath": "/lyrics/98566.txt"
+  }
+]

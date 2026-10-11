@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98076,
+    "metadata": {
+      "title": "Pikezin do M.J",
+      "artists": [
+        "DJ Silva 07, NavasMC Oficial, Miury Dj"
+      ],
+      "album": "PIKEZIN DO M.J (SLOWED) - Single",
+      "releaseDate": "2026-03-19T12:00:00Z",
+      "durationMs": 196049,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": "ESA112582105",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/12/ab/2612ab25-042d-4ef1-78d6-61f162f768ee/1154991.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/pikezin-do-m-j-slowed/1889090242?i=1889090246&uo=4",
+        "deezer": "https://www.deezer.com/track/3573422671"
+      }
+    },
+    "lyricPath": "/lyrics/98076.txt"
+  }
+]

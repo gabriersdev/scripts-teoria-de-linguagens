@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99131,
+    "metadata": {
+      "title": "Loucura",
+      "artists": [
+        "Borges, MC Cabelinho, Veigh, RUXN, Palma, Kizzy"
+      ],
+      "album": "Diferenciado",
+      "releaseDate": "2025-03-14",
+      "durationMs": 150928,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/1f162924-e7c5-44f7-8aee-4e8a39acb870"
+      }
+    },
+    "lyricPath": "/lyrics/99131.txt"
+  }
+]

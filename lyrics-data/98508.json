@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98508,
+    "metadata": {
+      "title": "Eu quero ver o oco",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "MTV Ao Vivo, Volume 01",
+      "releaseDate": "2000",
+      "durationMs": 260426,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRWMB9702640",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3f/a4/f8/3fa4f883-d23e-1845-984e-9d1ae2b268eb/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8602b48f-586c-468e-8194-dea15be4315f",
+        "itunes": "https://music.apple.com/us/album/eu-quero-ver-o-oco-ao-vivo/879819848?i=879819870&uo=4",
+        "deezer": "https://www.deezer.com/track/3895369"
+      }
+    },
+    "lyricPath": "/lyrics/98508.txt"
+  }
+]

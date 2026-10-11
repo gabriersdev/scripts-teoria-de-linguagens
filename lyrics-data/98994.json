@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98994,
+    "metadata": {
+      "title": "Discreto",
+      "artists": [
+        "KayBlack, Wall Hein"
+      ],
+      "album": "Discreto",
+      "releaseDate": "2025-03-31",
+      "durationMs": 120937,
+      "genres": [],
+      "isrc": "BRWMB2500242",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8410c7657d8463a06098615ffa6e7f2a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/74f4678e-8d96-4521-9af9-36ece32b19ed",
+        "deezer": "https://www.deezer.com/track/3296699681"
+      }
+    },
+    "lyricPath": "/lyrics/98994.txt"
+  }
+]

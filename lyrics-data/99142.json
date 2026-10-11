@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99142,
+    "metadata": {
+      "title": "carta aberta",
+      "artists": [
+        "MC Cabelinho"
+      ],
+      "album": "Rock pesado 2",
+      "releaseDate": "2023-11-27T12:00:00Z",
+      "durationMs": 130050,
+      "genres": [
+        "Hip-Hop"
+      ],
+      "isrc": "BC3PG2306316",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1a/7f/ff/1a7fff85-31e5-4544-4d3e-8852a09b8a26/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ed97a10b-87dd-4d68-b707-a6ffadf25e0e",
+        "itunes": "https://music.apple.com/us/album/carta-aberta/1718792650?i=1718792652&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/99142.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98674,
+    "metadata": {
+      "title": "Caos De Alguém",
+      "artists": [
+        "Felipe e Rodrigo"
+      ],
+      "album": "CD Verão Xand Avião",
+      "releaseDate": "2025-12-27",
+      "durationMs": 161000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKMKR2500024",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/a1/7b/46a17b44-4efc-fa5e-a49c-67f74a8c8e9c/00602478734809_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6e5066b3-e05c-4135-bc83-5d03295fdb84",
+        "itunes": "https://music.apple.com/us/album/caos-de-algu%C3%A9m-ao-vivo/1868685376?i=1868685377&uo=4",
+        "deezer": "https://www.deezer.com/track/3771563402"
+      }
+    },
+    "lyricPath": "/lyrics/98674.txt"
+  }
+]

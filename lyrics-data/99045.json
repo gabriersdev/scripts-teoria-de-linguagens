@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99045,
+    "metadata": {
+      "title": "ARMADILHA",
+      "artists": [
+        "Mateca, Trap Select"
+      ],
+      "album": "The Norton Jazz Recordings",
+      "releaseDate": "2009-04",
+      "durationMs": 187000,
+      "genres": [],
+      "isrc": "BCO7X2600043",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/484b3c01375636129b849f81c0c5f906/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6c8dbcc4-d015-4cc6-a28a-aba0c4c56746",
+        "deezer": "https://www.deezer.com/track/3933366641"
+      }
+    },
+    "lyricPath": "/lyrics/99045.txt"
+  }
+]

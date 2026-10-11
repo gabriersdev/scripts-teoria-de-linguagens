@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98717,
+    "metadata": {
+      "title": "Bebi Liguei - Ao Vivo",
+      "artists": [
+        "Marília Mendonça"
+      ],
+      "album": "Todos os cantos, vol. 1",
+      "releaseDate": "2019-02-22",
+      "durationMs": 159780,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1800353",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/06/e3/7506e3f1-0bdb-1c7c-22a0-52f3d8026750/7891430355579.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d208dd3e-3339-4a11-a330-9300882bcef3",
+        "itunes": "https://music.apple.com/us/album/bebi-liguei-ao-vivo/1451507318?i=1451507519&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98717.txt"
+  }
+]

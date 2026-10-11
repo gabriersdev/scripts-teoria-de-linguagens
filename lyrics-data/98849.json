@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98849,
+    "metadata": {
+      "title": "Mítico Jovem",
+      "artists": [
+        "Ryu, The Runner, 6ee, Hobb The Goat, Salve Crazy"
+      ],
+      "album": "Essa é a vida de um corredor",
+      "releaseDate": "2023-03-03",
+      "durationMs": 139000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/80807a80-7b8b-4228-be84-33a25885830d"
+      }
+    },
+    "lyricPath": "/lyrics/98849.txt"
+  }
+]

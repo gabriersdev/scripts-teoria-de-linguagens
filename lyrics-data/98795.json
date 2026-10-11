@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98795,
+    "metadata": {
+      "title": "Como Faz Com Ela - Ao Vivo",
+      "artists": [
+        "Marília Mendonça"
+      ],
+      "album": "Perfil",
+      "releaseDate": "2018-02-23",
+      "durationMs": 150000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1500064",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1e/68/40/1e684061-025d-60a4-28d6-16cb4e0b37b7/7891430399023.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ca0f5105-91c4-45f4-b586-c3599b873229",
+        "itunes": "https://music.apple.com/us/album/como-faz-com-ela-ao-vivo/1087546611?i=1087547335&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98795.txt"
+  }
+]

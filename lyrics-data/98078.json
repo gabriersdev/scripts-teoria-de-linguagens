@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98078,
+    "metadata": {
+      "title": "Descer",
+      "artists": [
+        "Kew, Dj LK da Escócia"
+      ],
+      "album": "Viciado Em Ver Ela Descer (feat. MC Ryan SP) - Single",
+      "releaseDate": "2025-02-28T12:00:00Z",
+      "durationMs": 125538,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BK4DA2502278",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/ee/3c/aaee3ceb-ec3a-40e1-1d9d-f94eb6069909/5034644506043.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/viciado-em-ver-ela-descer-feat-mc-ryan-sp/1799009491?i=1799009505&uo=4",
+        "deezer": "https://www.deezer.com/track/3198268161"
+      }
+    },
+    "lyricPath": "/lyrics/98078.txt"
+  }
+]

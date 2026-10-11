@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98709,
+    "metadata": {
+      "title": "Romântico Anônimo",
+      "artists": [
+        "Marcos & Belutti"
+      ],
+      "album": "10 Anos (Ao Vivo)",
+      "releaseDate": "2018-11-09",
+      "durationMs": 224000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BR3T81500044",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/02/5d/ab/025dab66-5c25-43ee-5fa0-16953c5a2efb/886448525950.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9149f0a6-c518-470c-8cb8-12bfaf41a84a",
+        "itunes": "https://music.apple.com/us/album/rom%C3%A2ntico-an%C3%B4nimo/1532280056?i=1532280061&uo=4",
+        "deezer": "https://www.deezer.com/track/1083849372"
+      }
+    },
+    "lyricPath": "/lyrics/98709.txt"
+  }
+]

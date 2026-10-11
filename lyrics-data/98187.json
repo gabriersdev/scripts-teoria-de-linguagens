@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98187,
+    "metadata": {
+      "title": "Obsessão",
+      "artists": [
+        "MC Hariel"
+      ],
+      "album": "Moloch: Book of Angels, Volume 6",
+      "releaseDate": "2006-11-21",
+      "durationMs": 301866,
+      "genres": [
+        "jazz",
+        "contemporary jazz"
+      ],
+      "isrc": "BXG6R1700429",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/27ff6f84cce4f2346e3fbd33754af98a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/831b75e8-9666-450b-bae2-cd8a897b9ec1",
+        "deezer": "https://www.deezer.com/track/1441590102"
+      }
+    },
+    "lyricPath": "/lyrics/98187.txt"
+  }
+]

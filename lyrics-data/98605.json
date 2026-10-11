@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98605,
+    "metadata": {
+      "title": "Irmão da Lua, Amigo das Estrelas",
+      "artists": [
+        "Zezé Di Camargo & Luciano"
+      ],
+      "album": "Zezé Di Camargo & Luciano",
+      "releaseDate": "2003",
+      "durationMs": 251840,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRSME0300331",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/93/6d/9c/mzi.ftmcywno.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f5b59cf7-b8d5-4f39-b747-e4442c36dc1a",
+        "itunes": "https://music.apple.com/us/album/irm%C3%A3o-da-lua-amigo-das-estrelas/479067630?i=479067751&uo=4",
+        "deezer": "https://www.deezer.com/track/70581197"
+      }
+    },
+    "lyricPath": "/lyrics/98605.txt"
+  }
+]

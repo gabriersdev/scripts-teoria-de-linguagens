@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98693,
+    "metadata": {
+      "title": "Haverá Sinais",
+      "artists": [
+        "Jorge & Mateus & Lauana Prado"
+      ],
+      "album": "Haverá sinais",
+      "releaseDate": "2024-02-14",
+      "durationMs": 191366,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE2400071",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/61/9e/4c/619e4cf6-de65-588c-9dca-13b823e06f38/7891430879471.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/536cca63-0bb7-4e73-a673-8de7cabeb035",
+        "itunes": "https://music.apple.com/us/album/haver%C3%A1-sinais-ao-vivo/1729621946?i=1729621956&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98693.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98809,
+    "metadata": {
+      "title": "HARDMODE!",
+      "artists": [
+        "Lil Chainz"
+      ],
+      "album": "Disco no Tamago",
+      "releaseDate": "2024-05-22",
+      "durationMs": 256000,
+      "genres": [],
+      "isrc": "BC2GV2400023",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cdf4b8aa26818c96b2bd4406e8173f69/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c090f429-924a-4b5c-ad84-ab817ed984cf",
+        "deezer": "https://www.deezer.com/track/2811575262"
+      }
+    },
+    "lyricPath": "/lyrics/98809.txt"
+  }
+]

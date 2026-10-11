@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98364,
+    "metadata": {
+      "title": "Praya",
+      "artists": [
+        "JayA Luuck, Predella, Pedro Lotto, Paiva Prod, White Monkey Recordings"
+      ],
+      "album": "Sejas bem feliz",
+      "releaseDate": "2018-03-08",
+      "durationMs": 202435,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3e853afd-8c66-452c-935f-d294e3537785"
+      }
+    },
+    "lyricPath": "/lyrics/98364.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98489,
+    "metadata": {
+      "title": "Panis Et Circenses",
+      "artists": [
+        "Os Mutantes"
+      ],
+      "album": "Minha história",
+      "releaseDate": "1993-12-27",
+      "durationMs": 125066,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRUM70601104",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d7/fd/d1/d7fdd1ea-9025-6346-0834-48ed931dd62f/00602537449460.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/59be35cb-bd9c-4686-af8a-6149ff1fd558",
+        "itunes": "https://music.apple.com/us/album/panis-et-circenses/1443152697?i=1443152704&uo=4",
+        "deezer": "https://www.deezer.com/track/1214180992"
+      }
+    },
+    "lyricPath": "/lyrics/98489.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99110,
+    "metadata": {
+      "title": "Eu Imagino Tu Dentro da Minha Casa",
+      "artists": [
+        "DJ Gxlherm Beats, MC Cabelinho"
+      ],
+      "album": "Mais Que Abundante",
+      "releaseDate": "2004",
+      "durationMs": 352173,
+      "genres": [],
+      "isrc": "BCHM62100009",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/67d42d1a4a4f4bc6684c1a0ded7e3188/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/cb170946-4ff9-4a74-b982-c55bda60c511",
+        "deezer": "https://www.deezer.com/track/1392325942"
+      }
+    },
+    "lyricPath": "/lyrics/99110.txt"
+  }
+]

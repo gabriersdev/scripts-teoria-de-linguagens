@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98727,
+    "metadata": {
+      "title": "Supera - Ao Vivo",
+      "artists": [
+        "Marília Mendonça"
+      ],
+      "album": "Todos os cantos, vol. 3",
+      "releaseDate": "2019-08-16",
+      "durationMs": 147000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1800376",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/28/88/8a/28888ad9-7027-56d0-2094-66c5c8e91021/7891430413873.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6e9142bf-34ea-49bc-871e-32347762189a",
+        "itunes": "https://music.apple.com/us/album/supera-ao-vivo/1475315736?i=1475315742&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98727.txt"
+  }
+]

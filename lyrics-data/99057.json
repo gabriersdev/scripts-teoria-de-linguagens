@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99057,
+    "metadata": {
+      "title": "Pai de Família no Brega Funk",
+      "artists": [
+        "LUCKHAOS"
+      ],
+      "album": "Shittrap 10 (O funeral da ironia)",
+      "releaseDate": "2023-07-08",
+      "durationMs": 127913,
+      "genres": [],
+      "isrc": "BXIV82325645",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1f15400fe2c7a24a0ac93270091a095c/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bcf2cd5e-7a1a-48e1-b6c4-1eab0e0d2cb7",
+        "deezer": "https://www.deezer.com/track/2326571325"
+      }
+    },
+    "lyricPath": "/lyrics/99057.txt"
+  }
+]

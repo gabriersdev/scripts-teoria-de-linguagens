@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98227,
+    "metadata": {
+      "title": "Músicas de amor nunca mais",
+      "artists": [
+        "BK, Luccas Carlos, Nansy Silvvz, Gigantes"
+      ],
+      "album": "ICARUS",
+      "releaseDate": "2022-11-17",
+      "durationMs": 202899,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/13352336-3b77-428b-82cd-5e0c883e19a1"
+      }
+    },
+    "lyricPath": "/lyrics/98227.txt"
+  }
+]

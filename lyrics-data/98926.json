@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98926,
+    "metadata": {
+      "title": "Ela conhece bem o céu",
+      "artists": [
+        "Sidoka, Bagin"
+      ],
+      "album": "Merci £",
+      "releaseDate": "2020-02-18",
+      "durationMs": 214000,
+      "genres": [],
+      "isrc": "QZFZ42063735",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/befa4056b17bfa6192bc237e33ad9747/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/cf007c56-eaca-4eca-a64e-cf32f1172387",
+        "deezer": "https://www.deezer.com/track/1843448067"
+      }
+    },
+    "lyricPath": "/lyrics/98926.txt"
+  }
+]

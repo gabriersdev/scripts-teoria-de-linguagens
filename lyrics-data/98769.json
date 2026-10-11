@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98769,
+    "metadata": {
+      "title": "Solteiro Forçado - Boiadeira Internacional",
+      "artists": [
+        "Ana Castela"
+      ],
+      "album": "Boiadeira Internacional",
+      "releaseDate": "2024-02-23",
+      "durationMs": 194582,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BX3022300019",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/b0/1e/8cb01e32-a552-bf40-4213-b60bc0fd9700/8720996076743.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7b1c3722-6549-4482-ad55-215db70f1f45",
+        "itunes": "https://music.apple.com/us/album/solteiro-for%C3%A7ado-boiadeira-internacional/1692352832?i=1692352833&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98769.txt"
+  }
+]

@@ -12,1002 +12,1202 @@
       {
         "id": 98601,
         "name": "Te Esperando",
-        "artists": "Luan Santana"
+        "artists": "Luan Santana",
+        "complete": true
       },
       {
         "id": 98602,
         "name": "Meteoro de Paixão",
-        "artists": "Luan Santana"
+        "artists": "Luan Santana",
+        "complete": 1
       },
       {
         "id": 98603,
         "name": "Cuida Bem Dela",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98604,
         "name": "Cadeira Cativa",
-        "artists": "Zé Neto & Cristiano"
+        "artists": "Zé Neto & Cristiano",
+        "complete": true
       },
       {
         "id": 98605,
         "name": "Irmão da Lua, Amigo das Estrelas",
-        "artists": "Zezé Di Camargo & Luciano"
+        "artists": "Zezé Di Camargo & Luciano",
+        "complete": true
       },
       {
         "id": 98606,
         "name": "200 Reais",
-        "artists": "Cleber & Cauan"
+        "artists": "Cleber & Cauan",
+        "complete": true
       },
       {
         "id": 98607,
         "name": "Guerra Diária",
-        "artists": "Panda & Ícaro e Gilmar"
+        "artists": "Panda & Ícaro e Gilmar",
+        "complete": true
       },
       {
         "id": 98608,
         "name": "Trocaria Tudo",
-        "artists": "Marcos & Fernando"
+        "artists": "Marcos & Fernando",
+        "complete": true
       },
       {
         "id": 98609,
         "name": "Flash",
-        "artists": "Zé Vaqueiro"
+        "artists": "Zé Vaqueiro",
+        "complete": true
       },
       {
         "id": 98610,
         "name": "Tem Volta",
-        "artists": "Ícaro e Gilmar"
+        "artists": "Ícaro e Gilmar",
+        "complete": true
       },
       {
         "id": 98611,
         "name": "Gosta De Rua",
-        "artists": "Felipe e Rodrigo"
+        "artists": "Felipe e Rodrigo",
+        "complete": true
       },
       {
         "id": 98612,
         "name": "Eu Não Sou Terapia",
-        "artists": "Danilo e Davi"
+        "artists": "Danilo e Davi",
+        "complete": true
       },
       {
         "id": 98613,
         "name": "Oi, Tudo Bem?",
-        "artists": "Zé Neto & Cristiano"
+        "artists": "Zé Neto & Cristiano",
+        "complete": true
       },
       {
         "id": 98614,
         "name": "Apaga Apaga Apaga",
-        "artists": "Danilo e Davi"
+        "artists": "Danilo e Davi",
+        "complete": true
       },
       {
         "id": 98615,
         "name": "Mulher Nunca Foi Pra Menino",
-        "artists": "Danilo e Davi"
+        "artists": "Danilo e Davi",
+        "complete": true
       },
       {
         "id": 98616,
         "name": "Tubarões",
-        "artists": "Diego & Victor Hugo"
+        "artists": "Diego & Victor Hugo",
+        "complete": true
       },
       {
         "id": 98617,
         "name": "Eu Duvido",
-        "artists": "Eduardo Costa"
+        "artists": "Eduardo Costa",
+        "complete": true
       },
       {
         "id": 98618,
         "name": "Amor Dos Outros",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98619,
         "name": "Não Namora",
-        "artists": "Clayton & Romário & Zé Neto & Cristiano"
+        "artists": "Clayton & Romário & Zé Neto & Cristiano",
+        "complete": true
       },
       {
         "id": 98620,
         "name": "Última Saudade",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98621,
         "name": "A Cena",
-        "artists": "Pablo"
+        "artists": "Pablo",
+        "complete": true
       },
       {
         "id": 98622,
         "name": "Eu Te Seguro",
-        "artists": "Zé Vaqueiro"
+        "artists": "Zé Vaqueiro",
+        "complete": true
       },
       {
         "id": 98623,
         "name": "Saudade Proibida",
-        "artists": "Simone Mendes"
+        "artists": "Simone Mendes",
+        "complete": true
       },
       {
         "id": 98624,
         "name": "Só Com Ela",
-        "artists": "Murilo Huff & Matheus Fernandes"
+        "artists": "Murilo Huff & Matheus Fernandes",
+        "complete": true
       },
       {
         "id": 98625,
         "name": "Patrão",
-        "artists": "Zé Neto & Cristiano"
+        "artists": "Zé Neto & Cristiano",
+        "complete": true
       },
       {
         "id": 98626,
         "name": "Moça Pra Casar",
-        "artists": "Diego & Victor Hugo"
+        "artists": "Diego & Victor Hugo",
+        "complete": true
       },
       {
         "id": 98627,
         "name": "Seja Ex",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98628,
         "name": "Pena Que Cê Já Namora",
-        "artists": "Marcos & Belutti"
+        "artists": "Marcos & Belutti",
+        "complete": true
       },
       {
         "id": 98629,
         "name": "Direitos Iguais",
-        "artists": "Simone Mendes"
+        "artists": "Simone Mendes",
+        "complete": true
       },
       {
         "id": 98630,
         "name": "Escreve Aí",
-        "artists": "Luan Santana"
+        "artists": "Luan Santana",
+        "complete": true
       },
       {
         "id": 98631,
         "name": "Um Dia Te Levo Comigo / Do Brasil à Argentina",
-        "artists": "Panda"
+        "artists": "Panda",
+        "complete": true
       },
       {
         "id": 98632,
         "name": "Ignora",
-        "artists": "Felipe e Rodrigo"
+        "artists": "Felipe e Rodrigo",
+        "complete": true
       },
       {
         "id": 98633,
         "name": "Corpo Nu",
-        "artists": "Panda"
+        "artists": "Panda",
+        "complete": true
       },
       {
         "id": 98634,
         "name": "Cheiro De Culpado",
-        "artists": "Júnior e Cézar"
+        "artists": "Júnior e Cézar",
+        "complete": true
       },
       {
         "id": 98635,
         "name": "Baqueado",
-        "artists": "Panda, Ícaro e Gilmar & Humberto & Ronaldo"
+        "artists": "Panda, Ícaro e Gilmar & Humberto & Ronaldo",
+        "complete": true
       },
       {
         "id": 98636,
         "name": "Doce Mel",
-        "artists": "Priscila Senna & Gusttavo Lima"
+        "artists": "Priscila Senna & Gusttavo Lima",
+        "complete": true
       },
       {
         "id": 98637,
         "name": "Logo Logo",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98638,
         "name": "Calcinha de Renda",
-        "artists": "Panda & Gusttavo Lima"
+        "artists": "Panda & Gusttavo Lima",
+        "complete": true
       },
       {
         "id": 98639,
         "name": "Ilusão De Ótica",
-        "artists": "Matheus & Kauan"
+        "artists": "Matheus & Kauan",
+        "complete": true
       },
       {
         "id": 98640,
         "name": "Falando Sério",
-        "artists": "Luan Santana"
+        "artists": "Luan Santana",
+        "complete": true
       },
       {
         "id": 98641,
         "name": "Mil Adjetivos (Perfeita Pra Mim)",
-        "artists": "Cleber & Cauan"
+        "artists": "Cleber & Cauan",
+        "complete": true
       },
       {
         "id": 98642,
         "name": "Imagina Eu",
-        "artists": "Eduardo Costa"
+        "artists": "Eduardo Costa",
+        "complete": true
       },
       {
         "id": 98643,
         "name": "Princesa",
-        "artists": "Gustavo Mioto"
+        "artists": "Gustavo Mioto",
+        "complete": true
       },
       {
         "id": 98644,
         "name": "Voltável",
-        "artists": "Tarcísio do Acordeon"
+        "artists": "Tarcísio do Acordeon",
+        "complete": true
       },
       {
         "id": 98645,
         "name": "Assunto",
-        "artists": "Maiara & Maraisa"
+        "artists": "Maiara & Maraisa",
+        "complete": true
       },
       {
         "id": 98646,
         "name": "Quase Todo Dia",
-        "artists": "Zé Neto & Cristiano"
+        "artists": "Zé Neto & Cristiano",
+        "complete": true
       },
       {
         "id": 98647,
         "name": "Novo Eu",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98648,
         "name": "Não Mexe nas Minhas Gavetas",
-        "artists": "Danilo e Davi"
+        "artists": "Danilo e Davi",
+        "complete": true
       },
       {
         "id": 98649,
         "name": "DONA",
-        "artists": "Luan Santana & Léo Foguete"
+        "artists": "Luan Santana & Léo Foguete",
+        "complete": true
       },
       {
         "id": 98650,
         "name": "Trepada em Cuiabá",
-        "artists": "Leno Brega"
+        "artists": "Leno Brega",
+        "complete": true
       },
       {
         "id": 98651,
         "name": "Ai Que Dó",
-        "artists": "Thaeme & Thiago"
+        "artists": "Thaeme & Thiago",
+        "complete": true
       },
       {
         "id": 98652,
         "name": "Te Esperando",
-        "artists": "Luan Santana"
+        "artists": "Luan Santana",
+        "complete": true
       },
       {
         "id": 98653,
         "name": "Jogado Na Rua / Casa Amarela",
-        "artists": "Guilherme & Santiago & Guilherme & Benuto"
+        "artists": "Guilherme & Santiago & Guilherme & Benuto",
+        "complete": true
       },
       {
         "id": 98654,
         "name": "Me Leva Pra Casa / Escrito Nas Estrelas / Saudade",
-        "artists": "Zezé Di Camargo"
+        "artists": "Zezé Di Camargo",
+        "complete": true
       },
       {
         "id": 98655,
         "name": "Anestesiado",
-        "artists": "Murilo Huff"
+        "artists": "Murilo Huff",
+        "complete": true
       },
       {
         "id": 98656,
         "name": "Retrovisor",
-        "artists": "Gusttavo Lima"
+        "artists": "Gusttavo Lima",
+        "complete": true
       },
       {
         "id": 98657,
         "name": "Olha Onde Eu Tô",
-        "artists": "Ana Castela"
+        "artists": "Ana Castela",
+        "complete": true
       },
       {
         "id": 98658,
         "name": "Saudade Estranha - Du Nada",
-        "artists": "Murilo Huff"
+        "artists": "Murilo Huff",
+        "complete": true
       },
       {
         "id": 98659,
         "name": "Foi Intenso",
-        "artists": "Zé Neto & Cristiano & Ana Castela"
+        "artists": "Zé Neto & Cristiano & Ana Castela",
+        "complete": true
       },
       {
         "id": 98660,
         "name": "Diz Pra Ela / Vivendo Aqui No Mato",
-        "artists": "Zé Neto & Cristiano"
+        "artists": "Zé Neto & Cristiano",
+        "complete": true
       },
       {
         "id": 98661,
         "name": "É Que Eu Não Te Esqueci",
-        "artists": "Ana Castela"
+        "artists": "Ana Castela",
+        "complete": true
       },
       {
         "id": 98662,
         "name": "Te Amar É Meu Talento",
-        "artists": "Fred & Fabrício"
+        "artists": "Fred & Fabrício",
+        "complete": true
       },
       {
         "id": 98663,
         "name": "Assunto Que Dói",
-        "artists": "Gusttavo Lima"
+        "artists": "Gusttavo Lima",
+        "complete": true
       },
       {
         "id": 98664,
         "name": "Adeus Aquele Amor",
-        "artists": "Seu Desejo"
+        "artists": "Seu Desejo",
+        "complete": true
       },
       {
         "id": 98665,
         "name": "Dois Gumes",
-        "artists": "Felipe e Rodrigo"
+        "artists": "Felipe e Rodrigo",
+        "complete": true
       },
       {
         "id": 98666,
         "name": "Ligação Urbana",
-        "artists": "Bruno & Marrone"
+        "artists": "Bruno & Marrone",
+        "complete": true
       },
       {
         "id": 98667,
         "name": "Saudade Burra",
-        "artists": "Lauana Prado & Simone Mendes"
+        "artists": "Lauana Prado & Simone Mendes",
+        "complete": true
       },
       {
         "id": 98668,
         "name": "Palavras de Perdão",
-        "artists": "Marília Tavares"
+        "artists": "Marília Tavares",
+        "complete": true
       },
       {
         "id": 98669,
         "name": "Pedido De Socorro",
-        "artists": "Gerson Rufino"
+        "artists": "Gerson Rufino",
+        "complete": true
       },
       {
         "id": 98670,
         "name": "Você Não Cuidou",
-        "artists": "Fred & Fabrício"
+        "artists": "Fred & Fabrício",
+        "complete": true
       },
       {
         "id": 98671,
         "name": "Saudade De Quem Eu Sou",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98672,
         "name": "Dois Tristes",
-        "artists": "Simone Mendes"
+        "artists": "Simone Mendes",
+        "complete": true
       },
       {
         "id": 98673,
         "name": "Vida Vazia",
-        "artists": "Bruno & Marrone"
+        "artists": "Bruno & Marrone",
+        "complete": true
       },
       {
         "id": 98674,
         "name": "Caos De Alguém",
-        "artists": "Felipe e Rodrigo"
+        "artists": "Felipe e Rodrigo",
+        "complete": true
       },
       {
         "id": 98675,
         "name": "Sua Boca Mente (You're Still The One)",
-        "artists": "Zé Felipe & Ana Castela"
+        "artists": "Zé Felipe & Ana Castela",
+        "complete": true
       },
       {
         "id": 98676,
         "name": "Conversa E Lençóis",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98677,
         "name": "12 Horas / Pra Você Acreditar",
-        "artists": "Panda, Humberto & Ronaldo & Ícaro e Gilmar"
+        "artists": "Panda, Humberto & Ronaldo & Ícaro e Gilmar",
+        "complete": true
       },
       {
         "id": 98678,
         "name": "Você Virou Saudade / Maus Bocados",
-        "artists": "Traia Véia"
+        "artists": "Traia Véia",
+        "complete": true
       },
       {
         "id": 98679,
         "name": "Hoje Eu Lembrei de Você",
-        "artists": "Ana Castela"
+        "artists": "Ana Castela",
+        "complete": true
       },
       {
         "id": 98680,
         "name": "Agora / Um Sonho Louco / Não Posso Ter Medo de Amar",
-        "artists": "Panda, Ícaro e Gilmar & Fred & Fabrício"
+        "artists": "Panda, Ícaro e Gilmar & Fred & Fabrício",
+        "complete": true
       },
       {
         "id": 98681,
         "name": "Sonho de Todo Casal",
-        "artists": "Marcos & Belutti"
+        "artists": "Marcos & Belutti",
+        "complete": true
       },
       {
         "id": 98682,
         "name": "Todo Mundo Menos Eu",
-        "artists": "Hugo & Guilherme & Ana Castela"
+        "artists": "Hugo & Guilherme & Ana Castela",
+        "complete": true
       },
       {
         "id": 98683,
         "name": "Cronômetro",
-        "artists": "Zé Vaqueiro"
+        "artists": "Zé Vaqueiro",
+        "complete": true
       },
       {
         "id": 98684,
         "name": "Fivela Com Fivela",
-        "artists": "Rionegro & Solimões"
+        "artists": "Rionegro & Solimões",
+        "complete": true
       },
       {
         "id": 98685,
         "name": "Mentes Tão Bem / Você Mente",
-        "artists": "Zezé Di Camargo & Luciano"
+        "artists": "Zezé Di Camargo & Luciano",
+        "complete": true
       },
       {
         "id": 98686,
         "name": "Cortando as BR (F&J 10 Anos)",
-        "artists": "Fiduma & Jeca & Fernando & Sorocaba"
+        "artists": "Fiduma & Jeca & Fernando & Sorocaba",
+        "complete": true
       },
       {
         "id": 98687,
         "name": "Tanto",
-        "artists": "Seu Desejo"
+        "artists": "Seu Desejo",
+        "complete": true
       },
       {
         "id": 98688,
         "name": "Água com Açúcar",
-        "artists": "Luan Santana"
+        "artists": "Luan Santana",
+        "complete": true
       },
       {
         "id": 98689,
         "name": "Outro Personagem",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98690,
         "name": "Sou Eu / Tentei Te Esquecer",
-        "artists": "Matogrosso & Mathias"
+        "artists": "Matogrosso & Mathias",
+        "complete": 1
       },
       {
         "id": 98691,
         "name": "Mentirosa",
-        "artists": "Hugo & Guilherme"
+        "artists": "Hugo & Guilherme",
+        "complete": true
       },
       {
         "id": 98692,
         "name": "Melhor Me Bloquear",
-        "artists": "Felipe e Rodrigo"
+        "artists": "Felipe e Rodrigo",
+        "complete": true
       },
       {
         "id": 98693,
         "name": "Haverá Sinais",
-        "artists": "Jorge & Mateus & Lauana Prado"
+        "artists": "Jorge & Mateus & Lauana Prado",
+        "complete": true
       },
       {
         "id": 98694,
         "name": "Ce Me Conhece Eu Me Conheço",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98695,
         "name": "Inesquecível",
-        "artists": "Luan Santana"
+        "artists": "Luan Santana",
+        "complete": true
       },
       {
         "id": 98696,
         "name": "A Noite (La Notte)",
-        "artists": "Gusttavo Lima"
+        "artists": "Gusttavo Lima",
+        "complete": true
       },
       {
         "id": 98697,
         "name": "Quarto 67",
-        "artists": "Guilherme & Benuto & Luan Santana"
+        "artists": "Guilherme & Benuto & Luan Santana",
+        "complete": true
       },
       {
         "id": 98698,
         "name": "Evento do Ano",
-        "artists": "Bruno & Marrone"
+        "artists": "Bruno & Marrone",
+        "complete": true
       },
       {
         "id": 98699,
         "name": "Se Eu Te Perdoar",
-        "artists": "Clayton & Romário & Zé Felipe"
+        "artists": "Clayton & Romário & Zé Felipe",
+        "complete": true
       },
       {
         "id": 98700,
         "name": "Largado Às Traças - Ao Vivo",
-        "artists": "Zé Neto & Cristiano"
+        "artists": "Zé Neto & Cristiano",
+        "complete": true
       },
       {
         "id": 98701,
         "name": "Liberdade Provisória - Live - Ibirapuera / 2019",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98702,
         "name": "Cê Tá Preparada - Ao Vivo",
-        "artists": "Tayrone, Marília Mendonça"
+        "artists": "Tayrone, Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98703,
         "name": "Medo Bobo - Ao Vivo",
-        "artists": "Maiara & Maraisa"
+        "artists": "Maiara & Maraisa",
+        "complete": true
       },
       {
         "id": 98704,
         "name": "Bem Pior Que Eu - Ao Vivo",
-        "artists": "Marília Mendonça"
+        "artists": "Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98705,
         "name": "De Trás Pra Frente - Ao Vivo",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98706,
         "name": "Pra Sempre Com Você - Ao Vivo",
-        "artists": "Jorge & Mateus"
+        "artists": "Jorge & Mateus",
+        "complete": true
       },
       {
         "id": 98707,
         "name": "Vou Ter Que Superar - Ao Vivo",
-        "artists": "Matheus & Kauan, Marília Mendonça"
+        "artists": "Matheus & Kauan, Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98708,
         "name": "Infiel - Ao Vivo",
-        "artists": "Marília Mendonça"
+        "artists": "Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98709,
         "name": "Romântico Anônimo",
-        "artists": "Marcos & Belutti"
+        "artists": "Marcos & Belutti",
+        "complete": true
       },
       {
         "id": 98710,
         "name": "Apelido Carinhoso",
-        "artists": "Gusttavo Lima"
+        "artists": "Gusttavo Lima",
+        "complete": true
       },
       {
         "id": 98711,
         "name": "Cobaia",
-        "artists": "Lauana Prado, Maiara & Maraisa"
+        "artists": "Lauana Prado, Maiara & Maraisa",
+        "complete": true
       },
       {
         "id": 98712,
         "name": "Coração Bandido",
-        "artists": "Marília Mendonça, Maiara & Maraisa"
+        "artists": "Marília Mendonça, Maiara & Maraisa",
+        "complete": true
       },
       {
         "id": 98713,
         "name": "Barulho Do Foguete - Ao Vivo",
-        "artists": "Zé Neto & Cristiano"
+        "artists": "Zé Neto & Cristiano",
+        "complete": true
       },
       {
         "id": 98714,
         "name": "Tudo Que Você Quiser - Ao Vivo",
-        "artists": "Luan Santana"
+        "artists": "Luan Santana",
+        "complete": true
       },
       {
         "id": 98715,
         "name": "Eu Era",
-        "artists": "Marcos & Belutti"
+        "artists": "Marcos & Belutti",
+        "complete": true
       },
       {
         "id": 98716,
         "name": "Facas - Ao Vivo",
-        "artists": "Diego & Victor Hugo, Bruno & Marrone"
+        "artists": "Diego & Victor Hugo, Bruno & Marrone",
+        "complete": true
       },
       {
         "id": 98717,
         "name": "Bebi Liguei - Ao Vivo",
-        "artists": "Marília Mendonça"
+        "artists": "Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98718,
         "name": "Anti-Amor - Ao Vivo",
-        "artists": "Gustavo Mioto, Jorge & Mateus"
+        "artists": "Gustavo Mioto, Jorge & Mateus",
+        "complete": true
       },
       {
         "id": 98719,
         "name": "Estranho - Ao Vivo | Acústico",
-        "artists": "Marília Mendonça"
+        "artists": "Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98720,
         "name": "Na Hora Da Raiva - Ao Vivo",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98721,
         "name": "De Quem É a Culpa? - Ao Vivo",
-        "artists": "Marília Mendonça"
+        "artists": "Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98722,
         "name": "Status Que Eu Não Queria - Ao Vivo",
-        "artists": "Zé Neto & Cristiano"
+        "artists": "Zé Neto & Cristiano",
+        "complete": true
       },
       {
         "id": 98723,
         "name": "Cê Perdeu (Igual Eu) - Ao Vivo",
-        "artists": "Simone Mendes"
+        "artists": "Simone Mendes",
+        "complete": 1
       },
       {
         "id": 98724,
         "name": "Eu Sei de Cor - Ao Vivo",
-        "artists": "Marília Mendonça"
+        "artists": "Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98725,
         "name": "Vidinha De Balada - Ao Vivo",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98726,
         "name": "Penteadeira - Ao Vivo",
-        "artists": "Bruno & Marrone"
+        "artists": "Bruno & Marrone",
+        "complete": 1
       },
       {
         "id": 98727,
         "name": "Supera - Ao Vivo",
-        "artists": "Marília Mendonça"
+        "artists": "Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98728,
         "name": "Cuida Bem Dela - Ao Vivo",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98729,
         "name": "Ciumeira - Ao Vivo",
-        "artists": "Marília Mendonça"
+        "artists": "Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98730,
         "name": "Propaganda - Ao Vivo",
-        "artists": "Jorge & Mateus"
+        "artists": "Jorge & Mateus",
+        "complete": true
       },
       {
         "id": 98731,
         "name": "Alô Porteiro - Ao Vivo",
-        "artists": "Marília Mendonça"
+        "artists": "Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98732,
         "name": "Meu Silêncio - Ao Vivo",
-        "artists": "Matheus & Kauan, Simone Mendes"
+        "artists": "Matheus & Kauan, Simone Mendes",
+        "complete": true
       },
       {
         "id": 98733,
         "name": "Baby Me Atende",
-        "artists": "Matheus Fernandes, Dilsinho"
+        "artists": "Matheus Fernandes, Dilsinho",
+        "complete": true
       },
       {
         "id": 98734,
         "name": "Postinho de Gasolina",
-        "artists": "João Gustavo e Murilo, Grelo"
+        "artists": "João Gustavo e Murilo, Grelo",
+        "complete": true
       },
       {
         "id": 98735,
         "name": "Um Peão Desse",
-        "artists": "CountryBeat, Mari Fernandez"
+        "artists": "CountryBeat, Mari Fernandez",
+        "complete": true
       },
       {
         "id": 98736,
         "name": "Lembrança Boa",
-        "artists": "Pedro e Benicio"
+        "artists": "Pedro e Benicio",
+        "complete": true
       },
       {
         "id": 98737,
         "name": "Todo Mundo Vai Sofrer - Ao Vivo",
-        "artists": "Marília Mendonça"
+        "artists": "Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98738,
         "name": "90/10 - Ao Vivo em São Paulo",
-        "artists": "Maiara & Maraisa"
+        "artists": "Maiara & Maraisa",
+        "complete": true
       },
       {
         "id": 98739,
         "name": "10% - Ao Vivo",
-        "artists": "Maiara & Maraisa"
+        "artists": "Maiara & Maraisa",
+        "complete": true
       },
       {
         "id": 98740,
         "name": "Circo - Ao Vivo",
-        "artists": "Paula Fernandes, Simone Mendes"
+        "artists": "Paula Fernandes, Simone Mendes",
+        "complete": true
       },
       {
         "id": 98741,
         "name": "Termina Comigo Antes - Ao Vivo",
-        "artists": "Gusttavo Lima"
+        "artists": "Gusttavo Lima",
+        "complete": true
       },
       {
         "id": 98742,
         "name": "Proibido Terminar - Ao Vivo",
-        "artists": "Gusttavo Lima"
+        "artists": "Gusttavo Lima",
+        "complete": true
       },
       {
         "id": 98743,
         "name": "Atrasadinha - Live",
-        "artists": "Felipe Araújo, Ferrugem"
+        "artists": "Felipe Araújo, Ferrugem",
+        "complete": true
       },
       {
         "id": 98744,
         "name": "Sosseguei - Ao Vivo",
-        "artists": "Jorge & Mateus"
+        "artists": "Jorge & Mateus",
+        "complete": true
       },
       {
         "id": 98745,
         "name": "Briga Feia - Ao Vivo",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98746,
         "name": "Na Hora de Amar - Ao Vivo",
-        "artists": "Gusttavo Lima"
+        "artists": "Gusttavo Lima",
+        "complete": true
       },
       {
         "id": 98747,
         "name": "Amante Não Tem Lar - Ao Vivo",
-        "artists": "Marília Mendonça"
+        "artists": "Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98748,
         "name": "Batom de Cereja - Ao Vivo",
-        "artists": "Israel & Rodolffo"
+        "artists": "Israel & Rodolffo",
+        "complete": true
       },
       {
         "id": 98749,
         "name": "Laia - Ao Vivo",
-        "artists": "George Henrique & Rodrigo, Matheus & Kauan"
+        "artists": "George Henrique & Rodrigo, Matheus & Kauan",
+        "complete": true
       },
       {
         "id": 98750,
         "name": "Volta Por Baixo - Ao Vivo",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98751,
         "name": "Leão",
-        "artists": "Marília Mendonça"
+        "artists": "Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98752,
         "name": "Nem Gosto Tanto Assim de Country",
-        "artists": "Bison e Comassetto"
+        "artists": "Bison e Comassetto",
+        "complete": 1
       },
       {
         "id": 98753,
         "name": "Sorte Que Cê Beija Bem - Ao Vivo",
-        "artists": "Maiara & Maraisa"
+        "artists": "Maiara & Maraisa",
+        "complete": true
       },
       {
         "id": 98754,
         "name": "Pergunta Boba - Ao Vivo",
-        "artists": "Jorge & Mateus"
+        "artists": "Jorge & Mateus",
+        "complete": true
       },
       {
         "id": 98755,
         "name": "Acordando o Prédio",
-        "artists": "Luan Santana"
+        "artists": "Luan Santana",
+        "complete": true
       },
       {
         "id": 98756,
         "name": "Infarto",
-        "artists": "Diego & Victor Hugo"
+        "artists": "Diego & Victor Hugo",
+        "complete": true
       },
       {
         "id": 98757,
         "name": "Decide Aí - Na Praia / Ao Vivo",
-        "artists": "Naiara Azevedo"
+        "artists": "Naiara Azevedo",
+        "complete": true
       },
       {
         "id": 98758,
         "name": "O Nosso Santo Bateu - Live",
-        "artists": "Matheus e Kauan"
+        "artists": "Matheus e Kauan",
+        "complete": true
       },
       {
         "id": 98759,
         "name": "Ficha Limpa",
-        "artists": "Gusttavo Lima"
+        "artists": "Gusttavo Lima",
+        "complete": true
       },
       {
         "id": 98760,
         "name": "Quero Você do Jeito Que Quiser",
-        "artists": "Maiara & Maraisa"
+        "artists": "Maiara & Maraisa",
+        "complete": true
       },
       {
         "id": 98761,
         "name": "Quem Pegou, Pegou - Ao Vivo",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98762,
         "name": "Palhaça - Ao Vivo",
-        "artists": "Naiara Azevedo & Ana Castela"
+        "artists": "Naiara Azevedo & Ana Castela",
+        "complete": true
       },
       {
         "id": 98763,
         "name": "Flor E O Beija-Flor - Ao Vivo",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98764,
         "name": "Mulher Maravilha - Ao Vivo",
-        "artists": "Zé Neto & Cristiano"
+        "artists": "Zé Neto & Cristiano",
+        "complete": true
       },
       {
         "id": 98765,
         "name": "Mudando De Assunto - Ao Vivo",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98766,
         "name": "Intenção - Ao Vivo",
-        "artists": "Marília Mendonça"
+        "artists": "Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98767,
         "name": "É Com Ela Que Eu Estou - Ao Vivo",
-        "artists": "Cristiano Araújo"
+        "artists": "Cristiano Araújo",
+        "complete": true
       },
       {
         "id": 98768,
         "name": "Bebida Na Ferida - Ao Vivo",
-        "artists": "Zé Neto & Cristiano"
+        "artists": "Zé Neto & Cristiano",
+        "complete": true
       },
       {
         "id": 98769,
         "name": "Solteiro Forçado - Boiadeira Internacional",
-        "artists": "Ana Castela"
+        "artists": "Ana Castela",
+        "complete": true
       },
       {
         "id": 98770,
         "name": "Ausência - Ao Vivo | Acústico",
-        "artists": "Marília Mendonça"
+        "artists": "Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98771,
         "name": "Nessas Horas - Ao Vivo",
-        "artists": "João Gomes"
+        "artists": "João Gomes",
+        "complete": true
       },
       {
         "id": 98772,
         "name": "Balada - Ao Vivo",
-        "artists": "Gusttavo Lima"
+        "artists": "Gusttavo Lima",
+        "complete": true
       },
       {
         "id": 98773,
         "name": "Meu Coração Deu PT - Ao Vivo",
-        "artists": "Wesley Safadão & Matheus e Kauan"
+        "artists": "Wesley Safadão & Matheus e Kauan",
+        "complete": true
       },
       {
         "id": 98774,
         "name": "Suíte 14 - Ao Vivo",
-        "artists": "Israel Novaes"
+        "artists": "Israel Novaes",
+        "complete": true
       },
       {
         "id": 98775,
         "name": "Impressionando Os Anjos - Ao Vivo",
-        "artists": "Diego Costa"
+        "artists": "Diego Costa",
+        "complete": true
       },
       {
         "id": 98776,
         "name": "Ele Quer Ser Eu - Ao Vivo",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98777,
         "name": "Caso Indefinido - Ao Vivo",
-        "artists": "Cristiano Araújo"
+        "artists": "Cristiano Araújo",
+        "complete": true
       },
       {
         "id": 98778,
         "name": "Amigo Taxista - Ao Vivo",
-        "artists": "Zé Neto & Cristiano"
+        "artists": "Zé Neto & Cristiano",
+        "complete": true
       },
       {
         "id": 98779,
         "name": "Haja Colírio (feat. Hugo & Guilherme) - Ao Vivo",
-        "artists": "Guilherme & Benuto"
+        "artists": "Guilherme & Benuto",
+        "complete": true
       },
       {
         "id": 98780,
         "name": "Tudo Acabou - Ao Vivo",
-        "artists": "Rionegro & Solimões"
+        "artists": "Rionegro & Solimões",
+        "complete": true
       },
       {
         "id": 98781,
         "name": "Mal Feito - Ao Vivo",
-        "artists": "Hugo & Guilherme & Marília Mendonça"
+        "artists": "Hugo & Guilherme & Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98782,
         "name": "O Que Falta Em Você Sou Eu - Ao Vivo",
-        "artists": "Marília Mendonça"
+        "artists": "Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98783,
         "name": "Entre Achados e Perdidos",
-        "artists": "Mafalda Veiga"
+        "artists": "Mafalda Veiga",
+        "complete": 1
       },
       {
         "id": 98784,
         "name": "Bombonzinho - Ao Vivo",
-        "artists": "Israel & Rodolffo & Ana Castela"
+        "artists": "Israel & Rodolffo & Ana Castela",
+        "complete": true
       },
       {
         "id": 98785,
         "name": "Presepada",
-        "artists": "Marília Mendonça & Maiara & Maraisa"
+        "artists": "Marília Mendonça & Maiara & Maraisa",
+        "complete": true
       },
       {
         "id": 98786,
         "name": "Podcast - Ao Vivo",
-        "artists": "Felipe e Rodrigo"
+        "artists": "Felipe e Rodrigo",
+        "complete": true
       },
       {
         "id": 98787,
         "name": "Cópia Proibida",
-        "artists": "Léo Foguete"
+        "artists": "Léo Foguete",
+        "complete": true
       },
       {
         "id": 98788,
         "name": "Até Você Voltar - Ao Vivo",
-        "artists": "Henrique & Juliano"
+        "artists": "Henrique & Juliano",
+        "complete": true
       },
       {
         "id": 98789,
         "name": "Whisky Vagabund0 - Ao Vivo",
-        "artists": "Lauana Prado"
+        "artists": "Lauana Prado",
+        "complete": true
       },
       {
         "id": 98790,
         "name": "Bagunça Minha Vida - Ao Vivo Em Goiânia / 2019",
-        "artists": "Maiara & Maraisa"
+        "artists": "Maiara & Maraisa",
+        "complete": true
       },
       {
         "id": 98791,
         "name": "Peão Todo Tatuado",
-        "artists": "Jeninho, Mariana Fagundes"
+        "artists": "Jeninho, Mariana Fagundes",
+        "complete": true
       },
       {
         "id": 98792,
         "name": "Bloqueado - Ao Vivo",
-        "artists": "Gusttavo Lima"
+        "artists": "Gusttavo Lima",
+        "complete": true
       },
       {
         "id": 98793,
         "name": "A Mala É Falsa - Ao Vivo",
-        "artists": "Felipe Araújo"
+        "artists": "Felipe Araújo",
+        "complete": true
       },
       {
         "id": 98794,
         "name": "Homem de Família - Ao Vivo",
-        "artists": "Gusttavo Lima"
+        "artists": "Gusttavo Lima",
+        "complete": true
       },
       {
         "id": 98795,
         "name": "Como Faz Com Ela - Ao Vivo",
-        "artists": "Marília Mendonça"
+        "artists": "Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98796,
         "name": "Sentimento Louco - Ao Vivo",
-        "artists": "Marília Mendonça"
+        "artists": "Marília Mendonça",
+        "complete": true
       },
       {
         "id": 98797,
         "name": "Cê Já Me Namorou",
-        "artists": "Victor Reis"
+        "artists": "Victor Reis",
+        "complete": 1
       },
       {
         "id": 98798,
         "name": "Cheirosa - Ao Vivo",
-        "artists": "Jorge & Mateus"
+        "artists": "Jorge & Mateus",
+        "complete": true
       },
       {
         "id": 98799,
         "name": "Deu PT - Ao Vivo",
-        "artists": "Wesley Safadão & Matheus e Kauan"
+        "artists": "Wesley Safadão & Matheus e Kauan",
+        "complete": true
       },
       {
         "id": 98800,
         "name": "Aquele 1%",
-        "artists": "Marcos & Belutti"
+        "artists": "Marcos & Belutti",
+        "complete": true
       }
     ]
   }

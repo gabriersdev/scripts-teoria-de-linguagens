@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98079,
+    "metadata": {
+      "title": "O Vovô Não Ta Casado",
+      "artists": [
+        "Biurifol, DJ Emige, B7 City"
+      ],
+      "album": "Grandes del tango 47 | Alberto Castillo 2",
+      "releaseDate": "2025-09-15",
+      "durationMs": 148000,
+      "genres": [],
+      "isrc": "BKBL72500076",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/fa089cbabecf4f254bcdf7a3001e1430/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2fdaa969-acbd-4fa6-bad1-b973bb2cebff",
+        "deezer": "https://www.deezer.com/track/3534816121"
+      }
+    },
+    "lyricPath": "/lyrics/98079.txt"
+  }
+]

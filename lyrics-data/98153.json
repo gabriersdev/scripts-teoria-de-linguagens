@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98153,
+    "metadata": {
+      "title": "Dá Oi Pras Solteiras",
+      "artists": [
+        "MC Rick"
+      ],
+      "album": "VILÃ",
+      "releaseDate": "2024-04-04T12:00:00Z",
+      "durationMs": 127000,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BRWMB2300081",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/df/90/57df9071-089d-0e6a-979d-4f56404a09d9/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/aeff8004-aaf3-46c8-841b-e1587cd7c77f",
+        "itunes": "https://music.apple.com/us/album/oi-pras-solteiras/1739357534?i=1739357535&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98153.txt"
+  }
+]

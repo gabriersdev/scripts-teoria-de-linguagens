@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98999,
+    "metadata": {
+      "title": "LUZ, CAMA E AÇÃO",
+      "artists": [
+        "Alee, MC Cabelinho, Qualywav1"
+      ],
+      "album": "CAOS DLX",
+      "releaseDate": "2025-07-24",
+      "durationMs": 182000,
+      "genres": [],
+      "isrc": "BKNDN2500117",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6646c5f4c6b60b0ddd4f00987623437c/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f369d71f-5167-4d38-b226-61338e9367cd",
+        "deezer": "https://www.deezer.com/track/3457797111"
+      }
+    },
+    "lyricPath": "/lyrics/98999.txt"
+  }
+]

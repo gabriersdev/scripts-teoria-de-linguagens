@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98429,
+    "metadata": {
+      "title": "Vapor Barato (Ao Vivo)",
+      "artists": [
+        "Gal Costa"
+      ],
+      "album": "Recanto ao vivo",
+      "releaseDate": "1971-03-19T12:00:00Z",
+      "durationMs": 372000,
+      "genres": [
+        "MPB"
+      ],
+      "isrc": "BRMCA7100167",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/67/fc/af/67fcafcf-e3be-d83c-e785-fdde2cf11d80/00602537897285.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e5241e88-ee8b-410f-91c8-a0b369d86615",
+        "itunes": "https://music.apple.com/us/album/vapor-barato-live/1444110555?i=1444110672&uo=4",
+        "deezer": "https://www.deezer.com/track/78654798"
+      }
+    },
+    "lyricPath": "/lyrics/98429.txt"
+  }
+]

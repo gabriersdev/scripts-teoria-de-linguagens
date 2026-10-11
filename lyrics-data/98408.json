@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98408,
+    "metadata": {
+      "title": "Tente Outra Vez",
+      "artists": [
+        "Raul Seixas"
+      ],
+      "album": "Acústico MTV",
+      "releaseDate": "1975-03-21T12:00:00Z",
+      "durationMs": 190386,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRMCA7500137",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1b/c9/29/1bc9290a-8efa-d50d-3783-92f920590bfb/06UMGIM61115.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/dd1fd68e-c591-44e7-b312-46420367cc10",
+        "itunes": "https://music.apple.com/us/album/tente-outra-vez/1443656280?i=1443656285&uo=4",
+        "deezer": "https://www.deezer.com/track/81328362"
+      }
+    },
+    "lyricPath": "/lyrics/98408.txt"
+  }
+]

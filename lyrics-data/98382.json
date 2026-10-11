@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98382,
+    "metadata": {
+      "title": "BENÇA",
+      "artists": [
+        "Djonga, Coyote Beatz"
+      ],
+      "album": "O Dono do Lugar",
+      "releaseDate": "2022-10-13",
+      "durationMs": 100437,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRE2Y1900007",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cc/c3/54/ccc35499-6606-4ba5-eb29-e0217e02b293/195081702940.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c1518f2f-c32a-4cb5-8483-d36de0dca7fe",
+        "itunes": "https://music.apple.com/us/album/ben%C3%A7a-instrumental/1515791065?i=1515792291&uo=4",
+        "deezer": "https://www.deezer.com/track/3251644031"
+      }
+    },
+    "lyricPath": "/lyrics/98382.txt"
+  }
+]

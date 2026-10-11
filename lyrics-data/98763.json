@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98763,
+    "metadata": {
+      "title": "Flor E O Beija-Flor - Ao Vivo",
+      "artists": [
+        "Henrique & Juliano"
+      ],
+      "album": "Flor e o beija-flor",
+      "releaseDate": "2015-11-13",
+      "durationMs": 190227,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1500105",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/7f/47/d57f47a1-dcbf-8b5e-f62b-827e93546c76/00602438705566_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c6ee3a93-fd96-4b68-b591-bd94355963bb",
+        "itunes": "https://music.apple.com/us/album/flor-e-o-beija-flor-ao-vivo-feat-mar%C3%ADlia-mendon%C3%A7a/1881800450?i=1881800817&uo=4",
+        "deezer": "https://www.deezer.com/track/122844584"
+      }
+    },
+    "lyricPath": "/lyrics/98763.txt"
+  }
+]

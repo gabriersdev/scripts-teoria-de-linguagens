@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98822,
+    "metadata": {
+      "title": "INSUFICIENTE",
+      "artists": [
+        "ohayomatsu, Guap508, casnog, Sailler"
+      ],
+      "album": "Desde La Muerte Al Destino. (DELUXE)",
+      "releaseDate": "2022",
+      "durationMs": 226000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e5a72a26-cd71-4fa7-8e81-a38a72efb132"
+      }
+    },
+    "lyricPath": "/lyrics/98822.txt"
+  }
+]

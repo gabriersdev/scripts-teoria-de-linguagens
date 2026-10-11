@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98755,
+    "metadata": {
+      "title": "Acordando o Prédio",
+      "artists": [
+        "Luan Santana"
+      ],
+      "album": "1977",
+      "releaseDate": "2016-11-04T07:00:00Z",
+      "durationMs": 162500,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE1700639",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/dd/9a/88/dd9a8872-b6bb-74ea-f0b2-96e72ff2372c/7891430437329.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/acordando-o-pr%C3%A9dio/1169402051?i=1169402256&uo=4",
+        "deezer": "https://www.deezer.com/track/141145001"
+      }
+    },
+    "lyricPath": "/lyrics/98755.txt"
+  }
+]

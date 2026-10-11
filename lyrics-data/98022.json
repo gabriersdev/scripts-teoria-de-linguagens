@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98022,
+    "metadata": {
+      "title": "Famoso Ímã | O poderoso chatão",
+      "artists": [
+        "Mc Lele JP, Mc Poze do Rodo, MC Leozinho ZS, DJ GORDINHO DA VF"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [
+        "Funk"
+      ],
+      "isrc": "BCGWP2600008",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/ee/20/29ee20a8-312c-f1a3-a92e-2ed027c50881/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "itunes": "https://music.apple.com/us/album/famoso-%C3%ADm%C3%A3-o-poderoso-chat%C3%A3o/1876549885?i=1876549886&uo=4",
+        "deezer": "https://www.deezer.com/track/3837322301"
+      }
+    },
+    "lyricPath": "/lyrics/98022.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98779,
+    "metadata": {
+      "title": "Haja Colírio (feat. Hugo & Guilherme) - Ao Vivo",
+      "artists": [
+        "Guilherme & Benuto"
+      ],
+      "album": "Haja colírio",
+      "releaseDate": "2022-06-23",
+      "durationMs": 173366,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BCVV82000055",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/ba/99/a2ba9973-0884-d9b1-3986-4c0d77594140/196589214034.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bb619973-2dd0-431f-8b85-fd9e61bf9fd3",
+        "itunes": "https://music.apple.com/us/album/haja-col%C3%ADrio-ao-vivo-feat-hugo-guilherme/1629529645?i=1629529647&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98779.txt"
+  }
+]

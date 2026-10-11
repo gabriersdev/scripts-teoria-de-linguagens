@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98943,
+    "metadata": {
+      "title": "TALKING BOUT",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "It’s a Murder Scene",
+      "releaseDate": "2013-07-28",
+      "durationMs": 259000,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BXW922500133",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3c/4d/e3/3c4de37e-49ed-901e-6245-30fb2d2d8b5a/00050087401184.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ee43acb7-999c-4d82-8264-001ec4de00cd",
+        "itunes": "https://music.apple.com/us/album/haters/1417418962?i=1417419867&uo=4",
+        "deezer": "https://www.deezer.com/track/3700579762"
+      }
+    },
+    "lyricPath": "/lyrics/98943.txt"
+  }
+]

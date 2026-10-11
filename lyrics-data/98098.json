@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98098,
+    "metadata": {
+      "title": "No Foco Noite e Dia",
+      "artists": [
+        "MC Gustavinho, Gt do Mira"
+      ],
+      "album": "No Foco Noite e Dia - Single",
+      "releaseDate": "2026-04-10T12:00:00Z",
+      "durationMs": 160005,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": "SGW502625481",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/04/c5/3004c513-cfa8-22b2-18e9-01de2a45eacb/365507.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/no-foco-noite-e-dia/1882774059?i=1882774062&uo=4",
+        "deezer": "https://www.deezer.com/track/3959266521"
+      }
+    },
+    "lyricPath": "/lyrics/98098.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98785,
+    "metadata": {
+      "title": "Presepada",
+      "artists": [
+        "Marília Mendonça & Maiara & Maraisa"
+      ],
+      "album": "Para Todas as Mulheres Que Já Rimei",
+      "releaseDate": "2020-09-30",
+      "durationMs": 114000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV2100062",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/dd/a1/7c/dda17c30-f16b-d92f-ae10-7778d22296d0/7891430593179.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/81759f1d-aab1-4dbc-a965-2664a0c64bda",
+        "itunes": "https://music.apple.com/us/album/presepada/1588325823?i=1588326464&uo=4",
+        "deezer": "https://www.deezer.com/track/3776796112"
+      }
+    },
+    "lyricPath": "/lyrics/98785.txt"
+  }
+]

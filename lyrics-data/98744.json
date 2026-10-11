@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98744,
+    "metadata": {
+      "title": "Sosseguei - Ao Vivo",
+      "artists": [
+        "Jorge & Mateus"
+      ],
+      "album": "VillaMix Hits",
+      "releaseDate": "2016",
+      "durationMs": 197400,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE1508687",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/08/e5/8008e50e-7c33-acc3-7f9b-f4b5b09ce43b/7891430408121.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/adcd0c62-dc23-46b1-9721-7326a3737353",
+        "itunes": "https://music.apple.com/us/album/sosseguei-ao-vivo/1077863845?i=1077864158&uo=4",
+        "deezer": "https://www.deezer.com/track/118424910"
+      }
+    },
+    "lyricPath": "/lyrics/98744.txt"
+  }
+]

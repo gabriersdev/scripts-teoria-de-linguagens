@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98031,
+    "metadata": {
+      "title": "Nos vai ficar, sem se sufocar",
+      "artists": [
+        "Mc Lele JP, Dj Andrabeat, Pêpa Beatmaker"
+      ],
+      "album": "Petit artiste local",
+      "releaseDate": "2012-12-15",
+      "durationMs": 204000,
+      "genres": [],
+      "isrc": "BCGWP2600078",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b2a72d68b293d1193a36a21230c8defa/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9e0fbe37-c633-4e3c-b48d-701951f882f8",
+        "deezer": "https://www.deezer.com/track/4208299592"
+      }
+    },
+    "lyricPath": "/lyrics/98031.txt"
+  }
+]

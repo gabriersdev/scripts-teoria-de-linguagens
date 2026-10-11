@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99103,
+    "metadata": {
+      "title": "Capa de Revista",
+      "artists": [
+        "jonaveliz"
+      ],
+      "album": "Capa de Revista",
+      "releaseDate": "2021-11-11",
+      "durationMs": 143000,
+      "genres": [],
+      "isrc": "QZNJX2141654",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/701f138958de4aa338d59fb10d1fb2b7/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1518383742"
+      }
+    },
+    "lyricPath": "/lyrics/99103.txt"
+  }
+]

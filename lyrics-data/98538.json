@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98538,
+    "metadata": {
+      "title": "Livres Para Escolher",
+      "artists": [
+        "Titãs"
+      ],
+      "album": "Como estão vocês?",
+      "releaseDate": "2003-11",
+      "durationMs": 224546,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRBMG0300720",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/02/07/5f/02075ff9-5d6c-2c3a-02ef-fa907fdae486/888880313645.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/85d4684b-523c-47b0-8cc9-9bcc38107a39",
+        "itunes": "https://music.apple.com/us/album/livres-para-escolher/1133727190?i=1133727494&uo=4",
+        "deezer": "https://www.deezer.com/track/128441323"
+      }
+    },
+    "lyricPath": "/lyrics/98538.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98340,
+    "metadata": {
+      "title": "Q SE FODA",
+      "artists": [
+        "Drizzy, L7NNON, dubbeatzz"
+      ],
+      "album": "q se foda",
+      "releaseDate": "2026-04-10",
+      "durationMs": 105004,
+      "genres": [],
+      "isrc": "BKXZM2600001",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9b88d8e00eebfb0008ce6078a4c33c7c/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/096b79fb-1e43-4e45-a074-488a1a3ea254",
+        "deezer": "https://www.deezer.com/track/3886351531"
+      }
+    },
+    "lyricPath": "/lyrics/98340.txt"
+  }
+]

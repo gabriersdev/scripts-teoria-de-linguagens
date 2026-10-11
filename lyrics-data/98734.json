@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98734,
+    "metadata": {
+      "title": "Postinho de Gasolina",
+      "artists": [
+        "João Gustavo e Murilo, Grelo"
+      ],
+      "album": "Catalejo",
+      "releaseDate": "2026-10-09",
+      "durationMs": 231000,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": "BKGNR2600051",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/22/79/672279ef-b5a7-5623-29d5-e376351b5235/4381099.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0da179b1-6c86-4cec-a4ca-45465ba9675c",
+        "itunes": "https://music.apple.com/us/album/postinho-de-gasolina/6815897708?i=6815897991&uo=4",
+        "deezer": "https://www.deezer.com/track/4179195042"
+      }
+    },
+    "lyricPath": "/lyrics/98734.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98482,
+    "metadata": {
+      "title": "Lágrimas de Crocodilo",
+      "artists": [
+        "João Penca E Seus Miquinhos Amestrados"
+      ],
+      "album": "AO VIVO - JANEIRO 1990",
+      "releaseDate": "2023-08-02T12:00:00Z",
+      "durationMs": 191110,
+      "genres": [
+        "Forró"
+      ],
+      "isrc": "BRBMG8600183",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/12/d1/eb/12d1eb72-aaf4-9ad4-cd1f-352d8807843f/1963621539276_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/l%C3%A1grimas-de-crocodilo/1700800965?i=1700801128&uo=4",
+        "deezer": "https://www.deezer.com/track/15407451"
+      }
+    },
+    "lyricPath": "/lyrics/98482.txt"
+  }
+]

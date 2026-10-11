@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98989,
+    "metadata": {
+      "title": "6X1",
+      "artists": [
+        "Caio Luccas, Major RD, Ayo Th, Mozin, NADAMAL"
+      ],
+      "album": "Virus Love",
+      "releaseDate": "2023-06-12",
+      "durationMs": 146625,
+      "genres": [
+        "Hip-Hop"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/04/94/e2/0494e2ee-87cb-b56b-5fe7-0d3682bc0749/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/10a7ddac-4217-41f4-bd83-1c60e2273c08",
+        "itunes": "https://music.apple.com/us/album/document%C3%A1rio/1626861088?i=1626861226&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98989.txt"
+  }
+]

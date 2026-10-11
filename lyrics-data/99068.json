@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99068,
+    "metadata": {
+      "title": "Máquina do Tempo",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "O Incrível Caso da Música que Encolheu e Outras Histórias",
+      "releaseDate": "2002-01-01",
+      "durationMs": 284586,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BXW922000009",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/52/9f/4f/529f4fa4-cc57-9e3c-dc39-2d660a40eb83/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/47e2de53-60ac-40aa-9833-56787771d16e",
+        "itunes": "https://music.apple.com/us/album/m%C3%A1quina-do-tempo-ao-vivo/1434633725?i=1434633738&uo=4",
+        "deezer": "https://www.deezer.com/track/1049882352"
+      }
+    },
+    "lyricPath": "/lyrics/99068.txt"
+  }
+]

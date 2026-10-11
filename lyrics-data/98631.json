@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98631,
+    "metadata": {
+      "title": "Um Dia Te Levo Comigo / Do Brasil à Argentina",
+      "artists": [
+        "Panda"
+      ],
+      "album": "Ao vivo sem cortes",
+      "releaseDate": "2010-03-22",
+      "durationMs": 202000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "QZNJV2587605",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/25/75/452575b9-19d0-8ca2-8136-4be5ffff7f7c/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/fbdd1ecd-c8f5-4e1c-8b7b-3d5ae0e074ea",
+        "itunes": "https://music.apple.com/us/album/um-dia-te-levo-comigo-do-brasil-%C3%A0-argentina-ao-vivo/1815369999?i=1815370001&uo=4",
+        "deezer": "https://www.deezer.com/track/3374680411"
+      }
+    },
+    "lyricPath": "/lyrics/98631.txt"
+  }
+]

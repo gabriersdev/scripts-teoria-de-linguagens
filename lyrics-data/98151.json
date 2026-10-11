@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98151,
+    "metadata": {
+      "title": "Leite Moça",
+      "artists": [
+        "MC Rick"
+      ],
+      "album": "Os 30 Maiores Jingles de Todos os Tempos",
+      "releaseDate": "2018-11-12T12:00:00Z",
+      "durationMs": 63386,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "US7VG1840250",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/d8/7b/15d87bc1-0bf0-9ddb-df1c-be1191d2bb39/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d8312db5-2b60-4eb4-bea3-deeef36a54c7",
+        "itunes": "https://music.apple.com/us/album/leite-mo%C3%A7a/1442190367?i=1442190368&uo=4",
+        "deezer": "https://www.deezer.com/track/585878232"
+      }
+    },
+    "lyricPath": "/lyrics/98151.txt"
+  }
+]

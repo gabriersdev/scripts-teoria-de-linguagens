@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98921,
+    "metadata": {
+      "title": "Um Olho Pra Dois",
+      "artists": [
+        "Sidoka, Pexande"
+      ],
+      "album": "Doka Language",
+      "releaseDate": "2019-07-07",
+      "durationMs": 210000,
+      "genres": [],
+      "isrc": "QZFZ31924484",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6638635fb2b11e898f797b935b9fa447/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bb57a5a1-37eb-49c1-b77c-9d4b1412948f",
+        "deezer": "https://www.deezer.com/track/1844112887"
+      }
+    },
+    "lyricPath": "/lyrics/98921.txt"
+  }
+]

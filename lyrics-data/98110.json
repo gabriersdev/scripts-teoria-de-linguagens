@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98110,
+    "metadata": {
+      "title": "Semi Nua 2",
+      "artists": [
+        "Mc Iguinho Ct, Mc Negão Original, Aaron Modesto, Mc Dena, MC GP, MC Ryan SP, MC Willian, DJ Guh Mix, DU'L, MC RN do Capão"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [],
+      "isrc": "BK44R2600016",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/237d995651ada4fb4c0b4a35a3ddab8f/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "deezer": "https://www.deezer.com/track/3872131981"
+      }
+    },
+    "lyricPath": "/lyrics/98110.txt"
+  }
+]

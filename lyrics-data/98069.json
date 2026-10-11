@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98069,
+    "metadata": {
+      "title": "Toma Gostosona",
+      "artists": [
+        "Mc Lele JP, DJ Guh Mix"
+      ],
+      "album": "Dead Friends",
+      "releaseDate": "2009",
+      "durationMs": 72000,
+      "genres": [],
+      "isrc": "BC3PG2501522",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/2437937cb88192e280ce485c35091c20/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a98444ff-961e-4282-8ae8-07b93e1defe3",
+        "deezer": "https://www.deezer.com/track/3340700091"
+      }
+    },
+    "lyricPath": "/lyrics/98069.txt"
+  }
+]

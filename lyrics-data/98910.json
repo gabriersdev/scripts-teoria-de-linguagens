@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98910,
+    "metadata": {
+      "title": "Março",
+      "artists": [
+        "Ryu, The Runner, Liam Fenti, Salve Crazy"
+      ],
+      "album": "Essa é a vida de um corredor",
+      "releaseDate": "2023-03-03",
+      "durationMs": 109000,
+      "genres": [],
+      "isrc": "BCY5N2300006",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/782cef210cd47fa6908ba6ed4b6a484b/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/38e72c44-088c-4d13-9b00-d6891e5b012c",
+        "deezer": "https://www.deezer.com/track/4030006861"
+      }
+    },
+    "lyricPath": "/lyrics/98910.txt"
+  }
+]

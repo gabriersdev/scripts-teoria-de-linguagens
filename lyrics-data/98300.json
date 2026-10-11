@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98300,
+    "metadata": {
+      "title": "Paypal",
+      "artists": [
+        "Teto"
+      ],
+      "album": "BFOTY",
+      "releaseDate": "2018-12-17",
+      "durationMs": 137000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BXW922000018",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/95/65/d69565f3-33f3-fdb3-0428-1f6c26dbd2d0/886449197453.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ff8fcf94-6a39-4739-b052-68f2bae00fe5",
+        "itunes": "https://music.apple.com/us/album/paypal/1560698875?i=1560698876&uo=4",
+        "deezer": "https://www.deezer.com/track/1293073602"
+      }
+    },
+    "lyricPath": "/lyrics/98300.txt"
+  }
+]

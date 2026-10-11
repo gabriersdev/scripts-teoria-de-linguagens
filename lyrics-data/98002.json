@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98002,
+    "metadata": {
+      "title": "GRWM",
+      "artists": [
+        "Mc Iguinho Ct, Dj Aladin GDB, MC Willian, MC GP, MC LUUKY, DU'L"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599"
+      }
+    },
+    "lyricPath": "/lyrics/98002.txt"
+  }
+]

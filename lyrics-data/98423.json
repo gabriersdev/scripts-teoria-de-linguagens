@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98423,
+    "metadata": {
+      "title": "Camila, Camila",
+      "artists": [
+        "Nenhum De Nós"
+      ],
+      "album": "Maxximum",
+      "releaseDate": "1999-09-03T12:00:00Z",
+      "durationMs": 307227,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRBMG8700100",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/2f/6e/1b2f6e3d-b613-9901-1202-2421a32249f6/mzi.aqcrcaaa.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/camila-camila/473641923?i=473641957&uo=4",
+        "deezer": "https://www.deezer.com/track/14272468"
+      }
+    },
+    "lyricPath": "/lyrics/98423.txt"
+  }
+]

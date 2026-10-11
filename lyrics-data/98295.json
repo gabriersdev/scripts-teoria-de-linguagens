@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98295,
+    "metadata": {
+      "title": "Good Vibe",
+      "artists": [
+        "Filipe Ret, Caio Luccas, Dallass"
+      ],
+      "album": "FRXV (Ao Vivo)",
+      "releaseDate": "2023-12-15",
+      "durationMs": 190442,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRRGE2200366",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/29/a6/6b29a6e4-9f9b-d3c9-9f36-eb004431d9a7/196874256862.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7ac93d3a-a918-4865-a9d1-0a6c7716a730",
+        "itunes": "https://music.apple.com/us/album/fazenda-de-stream-feat-caio-luccas-dallass/1888235505?i=1888235508&uo=4",
+        "deezer": "https://www.deezer.com/track/1766475887"
+      }
+    },
+    "lyricPath": "/lyrics/98295.txt"
+  }
+]

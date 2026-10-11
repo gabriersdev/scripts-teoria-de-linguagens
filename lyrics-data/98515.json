@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98515,
+    "metadata": {
+      "title": "Opa! Peraí, Caceta",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Lavô tá novo",
+      "releaseDate": "1995-11-03",
+      "durationMs": 150706,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRWMB9702641",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3f/a4/f8/3fa4f883-d23e-1845-984e-9d1ae2b268eb/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/357be36e-3500-4834-abb3-23097c7e1763",
+        "itunes": "https://music.apple.com/us/album/opa-perai-caceta-ao-vivo/879819848?i=879819855&uo=4",
+        "deezer": "https://www.deezer.com/track/3895370"
+      }
+    },
+    "lyricPath": "/lyrics/98515.txt"
+  }
+]

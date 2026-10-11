@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98948,
+    "metadata": {
+      "title": "PUCA",
+      "artists": [
+        "Ark King, Jvrthxypz, ohayomatsu, NIKK, Junim"
+      ],
+      "album": "Words at Sea",
+      "releaseDate": "2017-12-08",
+      "durationMs": 174000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b0b65310-228c-4404-b2a6-ceaffc5c8546"
+      }
+    },
+    "lyricPath": "/lyrics/98948.txt"
+  }
+]

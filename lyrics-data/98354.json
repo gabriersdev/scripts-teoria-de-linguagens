@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98354,
+    "metadata": {
+      "title": "Linda e Doida",
+      "artists": [
+        "Felp 22, Medellin"
+      ],
+      "album": "Set Dj Br da Tijuca - Single",
+      "releaseDate": "2020-12-23T12:00:00Z",
+      "durationMs": 432000,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BXIH82000012",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/70/c8/a970c884-c30b-0db3-a96e-27bf30fe44f9/8445162487320.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/set-dj-br-da-tijuca/1581879534?i=1581879880&uo=4",
+        "deezer": "https://www.deezer.com/track/933053682"
+      }
+    },
+    "lyricPath": "/lyrics/98354.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98088,
+    "metadata": {
+      "title": "Penélope Charmosa 2",
+      "artists": [
+        "Boladin 211, Dejinha, MC Rick, DJ AL4DDIN"
+      ],
+      "album": "Penélope Charmosa 2",
+      "releaseDate": "2024-09-27",
+      "durationMs": 171692,
+      "genres": [],
+      "isrc": "BXTQW2400016",
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f53fbb79-4407-4c6a-8e3a-ba7383077c4d"
+      }
+    },
+    "lyricPath": "/lyrics/98088.txt"
+  }
+]

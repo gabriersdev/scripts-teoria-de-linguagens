@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98466,
+    "metadata": {
+      "title": "Tempos Modernos",
+      "artists": [
+        "Lulu Santos"
+      ],
+      "album": "Novo Millennium: 20 músicas para uma nova era",
+      "releaseDate": "2005-10-05",
+      "durationMs": 214586,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRMCA9600055",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6a/c5/56/6ac55680-115a-6b51-1ff3-f658bf28c823/022925515728.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8ac387bb-3992-4b12-a045-56c911df4f00",
+        "itunes": "https://music.apple.com/us/album/tempos-modernos/42224840?i=42224863&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98466.txt"
+  }
+]

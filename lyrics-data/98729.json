@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98729,
+    "metadata": {
+      "title": "Ciumeira - Ao Vivo",
+      "artists": [
+        "Marília Mendonça"
+      ],
+      "album": "Te vejo em todos os cantos",
+      "releaseDate": "2019",
+      "durationMs": 190000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1800261",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/06/e3/7506e3f1-0bdb-1c7c-22a0-52f3d8026750/7891430355579.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f7e911e3-dc63-44ea-ad57-7312f8345804",
+        "itunes": "https://music.apple.com/us/album/ciumeira-ao-vivo/1451507318?i=1451507333&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98729.txt"
+  }
+]

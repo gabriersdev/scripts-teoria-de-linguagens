@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98495,
+    "metadata": {
+      "title": "Abre Essas Pernas Pra Mim",
+      "artists": [
+        "Velhas Virgens"
+      ],
+      "album": "Garçons do Inferno",
+      "releaseDate": "2015-09-30",
+      "durationMs": 345000,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRGRL1300003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/06/2d/1d/062d1d97-492d-61d4-cd09-761a7deae5ce/7898104660922.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5044e1b0-4be6-4d78-9c06-72983c779208",
+        "itunes": "https://music.apple.com/us/album/beijos-de-corpo/624082701?i=624082895&uo=4",
+        "deezer": "https://www.deezer.com/track/75524306"
+      }
+    },
+    "lyricPath": "/lyrics/98495.txt"
+  }
+]

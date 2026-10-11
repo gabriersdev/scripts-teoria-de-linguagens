@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98592,
+    "metadata": {
+      "title": "Beber Até Morrer",
+      "artists": [
+        "Ratos De Porão"
+      ],
+      "album": "Overloaded",
+      "releaseDate": "2015-10-30",
+      "durationMs": 125000,
+      "genres": [],
+      "isrc": "BRELD0500198",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3728662d4464d8c0d1e6790a4de046f1/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/eabad035-2e07-4bad-b4e1-0539100c7dfe",
+        "deezer": "https://www.deezer.com/track/111007776"
+      }
+    },
+    "lyricPath": "/lyrics/98592.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98788,
+    "metadata": {
+      "title": "Até Você Voltar - Ao Vivo",
+      "artists": [
+        "Henrique & Juliano"
+      ],
+      "album": "Ao vivo em Brasília",
+      "releaseDate": "2014-09-15",
+      "durationMs": 192347,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1400045",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/41/9c/b7419cae-9f05-be20-46f3-ac901e027c73/00602438992638_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/083799ed-e0ac-4957-a4f0-b5f1172ef235",
+        "itunes": "https://music.apple.com/us/album/at%C3%A9-voc%C3%AA-voltar-ao-vivo/1882027469?i=1882027471&uo=4",
+        "deezer": "https://www.deezer.com/track/3878854251"
+      }
+    },
+    "lyricPath": "/lyrics/98788.txt"
+  }
+]

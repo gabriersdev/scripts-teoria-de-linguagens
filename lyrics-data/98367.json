@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98367,
+    "metadata": {
+      "title": "Salmo 23",
+      "artists": [
+        "Projota"
+      ],
+      "album": "Duetos com Aline Barros",
+      "releaseDate": "2020-04-10",
+      "durationMs": 171000,
+      "genres": [],
+      "isrc": "BRUM72000777",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b677a922d13fb71ae895a034f1219e9d/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/21748069-968d-4f5b-bb20-1f2b5c85891a",
+        "deezer": "https://www.deezer.com/track/922007412"
+      }
+    },
+    "lyricPath": "/lyrics/98367.txt"
+  }
+]

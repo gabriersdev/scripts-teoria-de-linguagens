@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99064,
+    "metadata": {
+      "title": "Primavera",
+      "artists": [
+        "YUNG LIXO"
+      ],
+      "album": "João Ninguém",
+      "releaseDate": "2006",
+      "durationMs": 212000,
+      "genres": [],
+      "isrc": "QZZ7X2403693",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/a01cc5f5bbb09711637d4927e9ab83cd/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/fa6ad9f1-4a17-48a8-af2e-0d263c266a95",
+        "deezer": "https://www.deezer.com/track/3144564021"
+      }
+    },
+    "lyricPath": "/lyrics/99064.txt"
+  }
+]

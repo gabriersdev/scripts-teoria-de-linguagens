@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99077,
+    "metadata": {
+      "title": "Veste Prada",
+      "artists": [
+        "Duzz"
+      ],
+      "album": "Veste",
+      "releaseDate": "2022-03-25",
+      "durationMs": 211500,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "QZW9M2319593",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3f/c6/0b/3fc60bdd-6e53-77d2-da39-419071ad6199/196871558013.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/06db5ae7-7316-40d9-bd74-92aa20e2c30e",
+        "itunes": "https://music.apple.com/us/album/the-box-medley-3/1713256842?i=1713257199&uo=4",
+        "deezer": "https://www.deezer.com/track/2589999362"
+      }
+    },
+    "lyricPath": "/lyrics/99077.txt"
+  }
+]

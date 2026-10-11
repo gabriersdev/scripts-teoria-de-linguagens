@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98828,
+    "metadata": {
+      "title": "DAMN!",
+      "artists": [
+        "Ryu, The Runner, Emitê Único, Salve Crazy, Luk The Real, 6ee"
+      ],
+      "album": "Essa é a vida de um corredor",
+      "releaseDate": "2023-03-03",
+      "durationMs": 136000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/8a/0b/368a0baf-1406-c96c-617d-d7a57173b2ee/5034644310879.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ef4cc7fe-5645-4fed-a37f-be55e255eeb7",
+        "itunes": "https://music.apple.com/us/album/vivendo-igual-ig-feat-veigh-niink/1782229735?i=1782229749&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98828.txt"
+  }
+]

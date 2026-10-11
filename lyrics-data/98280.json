@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98280,
+    "metadata": {
+      "title": "Poesia Acústica 13",
+      "artists": [
+        "Pineapple StormTv, Chris MC, Salve Malak, Tz da Coronel, MC Cabelinho, Chefin, L7NNON, Luísa Sonza, Oruam, Xamã"
+      ],
+      "album": "Poesia Acústica #13",
+      "releaseDate": "2022-09-20T12:00:00Z",
+      "durationMs": 628124,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/be/0f/d6be0f27-8bbe-a11c-b5f6-931d2771deee/198391599217.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/dc201beb-5436-48f6-bef9-4eaab02df24c",
+        "itunes": "https://music.apple.com/us/album/poesia-ac%C3%BAstica-13/1737490881?i=1737490891&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98280.txt"
+  }
+]

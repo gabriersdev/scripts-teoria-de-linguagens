@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98963,
+    "metadata": {
+      "title": "Instinto - A COLORS SHOW",
+      "artists": [
+        "Alee, COLORS"
+      ],
+      "album": "2X2 (A COLORS SHOW) - Single",
+      "releaseDate": "2026-04-13T12:00:00Z",
+      "durationMs": 185666,
+      "genres": [
+        "R&B/Soul"
+      ],
+      "isrc": "DEXC82600021",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/1a/8c/141a8c1e-42d5-6660-2980-5a49d584120e/840054914331.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d354d692-8bff-4e93-8a99-89bdda39e4eb",
+        "itunes": "https://music.apple.com/us/album/instinto-a-colors-show/1890210115?i=1890210118&uo=4",
+        "deezer": "https://www.deezer.com/track/3938964121"
+      }
+    },
+    "lyricPath": "/lyrics/98963.txt"
+  }
+]

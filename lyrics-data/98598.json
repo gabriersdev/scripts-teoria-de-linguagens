@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98598,
+    "metadata": {
+      "title": "Sobremesa",
+      "artists": [
+        "Pitty"
+      ],
+      "album": "Vinyl Raritäten 21",
+      "releaseDate": "2004",
+      "durationMs": 115000,
+      "genres": [
+        "schlager"
+      ],
+      "isrc": "BRDEP2600310",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0c067deba18d84d7e51a493a2d951df5/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b2a1d025-7693-450b-8810-f54969fe14a7",
+        "deezer": "https://www.deezer.com/track/4257086441"
+      }
+    },
+    "lyricPath": "/lyrics/98598.txt"
+  }
+]

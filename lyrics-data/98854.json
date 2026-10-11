@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98854,
+    "metadata": {
+      "title": "Oração à Violência",
+      "artists": [
+        "D$ Luqi"
+      ],
+      "album": "O Emblema do Infinito",
+      "releaseDate": "2024-08-08",
+      "durationMs": 106000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BKLL22400008",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/7c/c9/537cc9d2-cd56-ccc2-c18e-b12b322c93f3/198391834929.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/cf1e72a6-bde2-4b1d-87ba-ecf1831e02e4",
+        "itunes": "https://music.apple.com/us/album/paralisia-do-sono-ao-vivo/1741043699?i=1741043708&uo=4",
+        "deezer": "https://www.deezer.com/track/2858477962"
+      }
+    },
+    "lyricPath": "/lyrics/98854.txt"
+  }
+]

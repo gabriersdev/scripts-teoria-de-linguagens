@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98131,
+    "metadata": {
+      "title": "5 mentes",
+      "artists": [
+        "MC Davi"
+      ],
+      "album": "Promotional Greatest Hits CD",
+      "releaseDate": "2016-12-18T12:00:00Z",
+      "durationMs": 327200,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "QZ5AB1646075",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0f/74/47/0f744788-72ac-1639-af50-ce85be5cf19e/00043972272341_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4af63fed-e4da-4fe4-901a-3e8eed84a9dc",
+        "itunes": "https://music.apple.com/us/album/5-mentes/1508602427?i=1508602430&uo=4",
+        "deezer": "https://www.deezer.com/track/934192712"
+      }
+    },
+    "lyricPath": "/lyrics/98131.txt"
+  }
+]

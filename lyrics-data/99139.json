@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99139,
+    "metadata": {
+      "title": "Para de Mentir",
+      "artists": [
+        "Oruam, WIU, Chris MC, Mainstreet"
+      ],
+      "album": "Para de mentir",
+      "releaseDate": "2022-07-19",
+      "durationMs": 208686,
+      "genres": [],
+      "isrc": "BCM9A2300096",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/ac515bda08fc4e4825d30b6d2f45d741/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/94b00a7e-e05e-463f-abd0-24550ecac6fc",
+        "deezer": "https://www.deezer.com/track/2542544001"
+      }
+    },
+    "lyricPath": "/lyrics/99139.txt"
+  }
+]

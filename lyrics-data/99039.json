@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99039,
+    "metadata": {
+      "title": "BAPE ROSA",
+      "artists": [
+        "Fahel, Tevito, Boaventura, Sxntoz, Analogic"
+      ],
+      "album": "Traga!",
+      "releaseDate": "1995",
+      "durationMs": 106000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5ac49e73-a684-4f34-863e-35d236c6cf3f"
+      }
+    },
+    "lyricPath": "/lyrics/99039.txt"
+  }
+]

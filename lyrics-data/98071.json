@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98071,
+    "metadata": {
+      "title": "Calafrio",
+      "artists": [
+        "DJ KN DE VILA VELHA, DJ Arana, MC Ryan SP, Vulgo FK, TDK Rec, MC Jvila"
+      ],
+      "album": "Samma uns ehrlich",
+      "releaseDate": "2007-06-30",
+      "durationMs": 292000,
+      "genres": [
+        "Funk"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/ef/92/c9ef92a4-518e-8540-9dcf-9f890e9bf91a/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/906928e3-6ea7-43a8-9bc6-36b583afaef6",
+        "itunes": "https://music.apple.com/us/album/calafrio-feat-mc-jvila/1867611708?i=1867611709&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98071.txt"
+  }
+]

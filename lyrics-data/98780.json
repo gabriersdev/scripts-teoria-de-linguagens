@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98780,
+    "metadata": {
+      "title": "Tudo Acabou - Ao Vivo",
+      "artists": [
+        "Rionegro & Solimões"
+      ],
+      "album": "Bate o pé (ao vivo)",
+      "releaseDate": "1999-11-19T12:00:00Z",
+      "durationMs": 259866,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRMCA0000034",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/32/2a/e5/322ae5e1-94a9-95e6-98b7-edb1e9d2dd3a/3610154209029.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b3420550-6142-4ade-9b5b-198ef1f0ce56",
+        "itunes": "https://music.apple.com/us/album/tudo-acabou-ao-vivo/1469984305?i=1469984591&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98780.txt"
+  }
+]

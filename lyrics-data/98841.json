@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98841,
+    "metadata": {
+      "title": "PANTHER",
+      "artists": [
+        "Alee, NADAMAL, Dallass"
+      ],
+      "album": "CAOS DLX",
+      "releaseDate": "2025-07-24",
+      "durationMs": 78005,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BKNDN2400009",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/87/d5/6887d58d-66d3-fec4-b486-8f5cd6df3ca8/766262.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2daa4af2-dcf3-420a-b642-7fb47b09b808",
+        "itunes": "https://music.apple.com/us/album/alee-on-the-radar-freestyle-feat-nadamal/1819801521?i=1819801522&uo=4",
+        "deezer": "https://www.deezer.com/track/2675770042"
+      }
+    },
+    "lyricPath": "/lyrics/98841.txt"
+  }
+]

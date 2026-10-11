@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98490,
+    "metadata": {
+      "title": "Barrados No Baile - Ao Vivo",
+      "artists": [
+        "Eduardo Dussek"
+      ],
+      "album": "Minha História",
+      "releaseDate": "2007-07-31T12:00:00Z",
+      "durationMs": 288000,
+      "genres": [
+        "Worldwide"
+      ],
+      "isrc": "BRDEP1100404",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/83/7b/7f/837b7f83-7b90-94e1-dc2a-9ae510505387/7898324305511.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e41d9e34-f9e9-4da4-acca-2c6740281da8",
+        "itunes": "https://music.apple.com/us/album/barrados-no-baile-ao-vivo/977463756?i=977463769&uo=4",
+        "deezer": "https://www.deezer.com/track/96003444"
+      }
+    },
+    "lyricPath": "/lyrics/98490.txt"
+  }
+]

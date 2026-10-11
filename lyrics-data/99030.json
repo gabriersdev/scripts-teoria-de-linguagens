@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99030,
+    "metadata": {
+      "title": "Sabor da Mulher Brasileira",
+      "artists": [
+        "BIN, Kizzy"
+      ],
+      "album": "Sabor da Mulher Brasileira - Single",
+      "releaseDate": "2026-03-16T12:00:00Z",
+      "durationMs": 596000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BKTKP2600005",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/f2/39/dbf239f1-317c-7e28-3d54-af2e6cd46684/cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/cfe24b58-0d1c-4ebd-aa66-0180747dea06",
+        "itunes": "https://music.apple.com/us/album/sabor-da-mulher-brasileira/1882752003?i=1882752312&uo=4",
+        "deezer": "https://www.deezer.com/track/3881597581"
+      }
+    },
+    "lyricPath": "/lyrics/99030.txt"
+  }
+]

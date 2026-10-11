@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98746,
+    "metadata": {
+      "title": "Na Hora de Amar - Ao Vivo",
+      "artists": [
+        "Gusttavo Lima"
+      ],
+      "album": "O Embaixador",
+      "releaseDate": "2018-10-26",
+      "durationMs": 325000,
+      "genres": [
+        "Worldwide"
+      ],
+      "isrc": "BXBAL1800020",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/51/b4/19/51b41984-3b56-71a0-65c7-b163bfebf41c/196589304230.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/90e94eae-a9e5-4c10-8be6-05447436bdb9",
+        "itunes": "https://music.apple.com/us/album/na-hora-de-amar-ao-vivo/1634841894?i=1634841913&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98746.txt"
+  }
+]

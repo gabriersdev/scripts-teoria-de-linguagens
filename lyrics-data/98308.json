@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98308,
+    "metadata": {
+      "title": "Cocaína",
+      "artists": [
+        "Sabotage"
+      ],
+      "album": "Putas y cocheros",
+      "releaseDate": "2009-04-24",
+      "durationMs": 313000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1455258",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/ea/09/bbea09b3-1cae-5bd6-39c1-13046493ceca/702730616994_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e0a22403-32a4-4ae4-8cba-55a0a1a9a1e1",
+        "itunes": "https://music.apple.com/us/album/um-bom-lugar-feat-black-alien/1510761195?i=1510761201&uo=4",
+        "deezer": "https://www.deezer.com/track/945986062"
+      }
+    },
+    "lyricPath": "/lyrics/98308.txt"
+  }
+]

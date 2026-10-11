@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98800,
+    "metadata": {
+      "title": "Aquele 1%",
+      "artists": [
+        "Marcos & Belutti"
+      ],
+      "album": "Acústico tão feliz",
+      "releaseDate": "2015-09-11",
+      "durationMs": 177000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BR3T81500021",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/6f/c7/ac/6fc7ac52-ea6c-44b3-5cd2-595285eb64fc/7891430047375.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4a35fb6b-b9b8-4c9f-b096-2ea0abd8a60f",
+        "itunes": "https://music.apple.com/us/album/aquele-1-feat-wesley-safad%C3%A3o/1005899162?i=1005899163&uo=4",
+        "deezer": "https://www.deezer.com/track/102345206"
+      }
+    },
+    "lyricPath": "/lyrics/98800.txt"
+  }
+]

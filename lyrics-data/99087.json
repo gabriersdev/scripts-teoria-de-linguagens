@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99087,
+    "metadata": {
+      "title": "Eles São Fracos",
+      "artists": [
+        "Blxck"
+      ],
+      "album": "Até aqui, Slip nos ajudou",
+      "releaseDate": "2024-09-13",
+      "durationMs": 153290,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/21/f4/4821f48c-2147-1341-4777-164d5cde4d9e/4571625731342_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/eb13c943-0b4f-4217-84a4-7ab8394403c7",
+        "itunes": "https://music.apple.com/us/album/uhyeah/6801038689?i=6801038811&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/99087.txt"
+  }
+]

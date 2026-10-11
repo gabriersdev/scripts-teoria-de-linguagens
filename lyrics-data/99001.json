@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99001,
+    "metadata": {
+      "title": "Grama Verde",
+      "artists": [
+        "Filipe Ret, Prod.MTS"
+      ],
+      "album": "Nume - Epílogo",
+      "releaseDate": "2025-07-17",
+      "durationMs": 176275,
+      "genres": [],
+      "isrc": "BRRGE2502614",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6f909ca08aab01d20e7a4252ad1f5bff/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/938c59d2-e381-4a49-a425-313d84921ecd",
+        "deezer": "https://www.deezer.com/track/3450782921"
+      }
+    },
+    "lyricPath": "/lyrics/99001.txt"
+  }
+]

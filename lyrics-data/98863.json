@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98863,
+    "metadata": {
+      "title": "Nunca tenha medo",
+      "artists": [
+        "Ark King, NIKK"
+      ],
+      "album": "Antídoto Pra Todo Tipo de Veneno",
+      "releaseDate": "2023-09-15",
+      "durationMs": 265148,
+      "genres": [],
+      "isrc": "GBWUL2489072",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/257d53ae218bc10c1a49d682f574ce8f/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/454b8d67-dd3e-4ce9-8e78-17cfd365fd4f",
+        "deezer": "https://www.deezer.com/track/2761818291"
+      }
+    },
+    "lyricPath": "/lyrics/98863.txt"
+  }
+]

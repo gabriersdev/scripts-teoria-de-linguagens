@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98606,
+    "metadata": {
+      "title": "200 Reais",
+      "artists": [
+        "Cleber & Cauan"
+      ],
+      "album": "Surreal",
+      "releaseDate": "2019-09-06",
+      "durationMs": 143000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE1906794",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e2/66/c8/e266c898-1c06-4ef5-9ad5-39aa9fb2b906/7891430404475.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/68d14ddf-53b7-4e30-a2a9-cfaef3c562d6",
+        "itunes": "https://music.apple.com/us/album/200-reais-ao-vivo/1477868116?i=1477868486&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98606.txt"
+  }
+]

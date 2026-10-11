@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98063,
+    "metadata": {
+      "title": "BONITA POR FOTO",
+      "artists": [
+        "MC Gustavinho, Gt do Mira"
+      ],
+      "album": "Madroños Al Niño Una Zambomba Flamenca",
+      "releaseDate": "2015-11-27",
+      "durationMs": 217069,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": "QT5M52551911",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/2c/da/be2cda65-1e41-86d5-166a-a9b408832708/044317234673.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/82b81d60-4775-4cc3-aa50-00449c99edf5",
+        "itunes": "https://music.apple.com/us/album/bonita-por-foto/1848368620?i=1848368621&uo=4",
+        "deezer": "https://www.deezer.com/track/3617023012"
+      }
+    },
+    "lyricPath": "/lyrics/98063.txt"
+  }
+]

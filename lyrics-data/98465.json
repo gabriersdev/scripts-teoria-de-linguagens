@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98465,
+    "metadata": {
+      "title": "Despedida",
+      "artists": [
+        "Selvagens à Procura de Lei"
+      ],
+      "album": "Paraíso Portátil",
+      "releaseDate": "2019-11-08",
+      "durationMs": 220194,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRB6X1300005",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/22/78/fe/2278fe2e-5f9b-b0c0-dc5f-76f68ed64067/5054960523869_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d826a83e-59df-4184-a0b5-86f5fb4ae35b",
+        "itunes": "https://music.apple.com/us/album/despedida/1330815810?i=1330817130&uo=4",
+        "deezer": "https://www.deezer.com/track/445967302"
+      }
+    },
+    "lyricPath": "/lyrics/98465.txt"
+  }
+]

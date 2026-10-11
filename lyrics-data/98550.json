@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98550,
+    "metadata": {
+      "title": "Ciúme - Ao Vivo",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "E-collection",
+      "releaseDate": "2012-04-23",
+      "durationMs": 248840,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRMZA1100038",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/e5/1f/54/e51f5427-7b97-7cc5-1a3d-2c59d86c7712/Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/68645441-014e-45f8-bc34-180da17bee9d",
+        "itunes": "https://music.apple.com/us/album/ci%C3%BAme-ao-vivo/567964995?i=567965134&uo=4",
+        "deezer": "https://www.deezer.com/track/61152847"
+      }
+    },
+    "lyricPath": "/lyrics/98550.txt"
+  }
+]

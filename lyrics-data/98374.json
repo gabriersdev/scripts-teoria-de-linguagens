@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98374,
+    "metadata": {
+      "title": "Estilo Vagabundo 3",
+      "artists": [
+        "MV Bill, DJ Caique, Kmila Cdd"
+      ],
+      "album": "Estilo Vagabundo",
+      "releaseDate": "2013-07-29T12:00:00Z",
+      "durationMs": 257056,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1679509",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d0/30/7c/d0307c3a-7f99-e2df-4145-8ea2fe9fb50c/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/56be601f-c939-4ecf-8f23-36a92ace088d",
+        "itunes": "https://music.apple.com/us/album/estilo-vagabundo-3-feat-kmila-cdd/1469437633?i=1469437638&uo=4",
+        "deezer": "https://www.deezer.com/track/3665028012"
+      }
+    },
+    "lyricPath": "/lyrics/98374.txt"
+  }
+]

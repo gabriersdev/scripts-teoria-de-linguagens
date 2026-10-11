@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98043,
+    "metadata": {
+      "title": "Sequência da Botação",
+      "artists": [
+        "DJ Ryder, Dj Dudu Coupper, Mc Gw, DJ Victor Falcão"
+      ],
+      "album": "TONIASVERSO",
+      "releaseDate": "2024-02-01",
+      "durationMs": 136615,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": "BRSME2301901",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/c9/a5/b8c9a5f4-78a1-cdeb-4cad-0c01573bf145/1264313.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/11e01065-2694-4def-840d-bfc4eddcc5e7",
+        "itunes": "https://music.apple.com/us/album/sequ%C3%AAncia-da-bota%C3%A7%C3%A3o/1889637549?i=1889637554&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98043.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98360,
+    "metadata": {
+      "title": "Gangorra",
+      "artists": [
+        "Haikaiss"
+      ],
+      "album": "Disco de platina",
+      "releaseDate": "2000",
+      "durationMs": 197106,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BX3291900004",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/72/fc/04/72fc04bd-e89a-3337-8e22-90e387bd5928/7891430433376.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/872ec3fb-b6ad-4fc9-b50b-d577cc26c564",
+        "itunes": "https://music.apple.com/us/album/gangorra/1482470368?i=1482470375&uo=4",
+        "deezer": "https://www.deezer.com/track/920963592"
+      }
+    },
+    "lyricPath": "/lyrics/98360.txt"
+  }
+]

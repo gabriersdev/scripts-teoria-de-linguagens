@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98455,
+    "metadata": {
+      "title": "Toda Forma De Poder",
+      "artists": [
+        "Engenheiros Do Hawaii"
+      ],
+      "album": "Jam 80",
+      "releaseDate": "1986-01-01T08:00:00Z",
+      "durationMs": 194533,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRBMG8600000",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features/65/82/5e/dj.gpyfoxes.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ebda0a9a-53e1-402a-b751-74d41d59b6ef",
+        "itunes": "https://music.apple.com/us/album/toda-forma-de-poder/321840349?i=321840358&uo=4",
+        "deezer": "https://www.deezer.com/track/13310114"
+      }
+    },
+    "lyricPath": "/lyrics/98455.txt"
+  }
+]

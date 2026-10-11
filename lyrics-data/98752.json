@@ -1,0 +1,27 @@
+[
+  {
+    "id": 98752,
+    "metadata": {
+      "title": "Nem Gosto Tanto Assim de Country",
+      "artists": [
+        "Bison e Comassetto"
+      ],
+      "album": "Bang!",
+      "releaseDate": "2015-10-13",
+      "durationMs": 198731,
+      "genres": [
+        "mpb",
+        "funk",
+        "samba",
+        "happy"
+      ],
+      "isrc": "BRWMB1500174",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/14/ed/3814ed64-6257-b689-7e22-23e1351735f9/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3f382fb2-1aba-451b-9604-fccb9fc7e513",
+        "itunes": "https://music.apple.com/us/album/nem-gosto-tanto-assim-de-country/6801317946?i=6801317950&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98752.txt"
+  }
+]

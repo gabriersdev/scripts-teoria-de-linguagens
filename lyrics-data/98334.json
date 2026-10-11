@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98334,
+    "metadata": {
+      "title": "Pipa Voada (feat. Emicida)",
+      "artists": [
+        "Rashid, Lukinhas, Emicida"
+      ],
+      "album": "Tão Real",
+      "releaseDate": "2020-01-22",
+      "durationMs": 185364,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BX3FM1900032",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/38/4a/eb/384aeb87-fe2b-0a26-0422-80fec69bee18/886448190080.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2a825668-7587-497a-b1ea-742ca18540da",
+        "itunes": "https://music.apple.com/us/album/pipa-voada-feat-emicida/1493805214?i=1493805433&uo=4",
+        "deezer": "https://www.deezer.com/track/847313032"
+      }
+    },
+    "lyricPath": "/lyrics/98334.txt"
+  }
+]

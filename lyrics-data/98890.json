@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98890,
+    "metadata": {
+      "title": "Contas",
+      "artists": [
+        "Sidoka"
+      ],
+      "album": "Curado",
+      "releaseDate": "2016-09-16",
+      "durationMs": 255080,
+      "genres": [],
+      "isrc": "QZFZ31924492",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6638635fb2b11e898f797b935b9fa447/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/59e8c354-56e3-45aa-9076-11b74014d220",
+        "deezer": "https://www.deezer.com/track/1844112967"
+      }
+    },
+    "lyricPath": "/lyrics/98890.txt"
+  }
+]

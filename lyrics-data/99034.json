@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99034,
+    "metadata": {
+      "title": "Zóio",
+      "artists": [
+        "MC Igu, Loudpacc, Chulo"
+      ],
+      "album": "Egezhzev",
+      "releaseDate": "2023-01-08",
+      "durationMs": 600000,
+      "genres": [],
+      "isrc": "USLZJ2666722",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c5353a6b5b8fddec5ae7a526f7ff891e/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/23c59c89-5a89-47d1-af7c-03977ee0a0cc",
+        "deezer": "https://www.deezer.com/track/3913587361"
+      }
+    },
+    "lyricPath": "/lyrics/99034.txt"
+  }
+]

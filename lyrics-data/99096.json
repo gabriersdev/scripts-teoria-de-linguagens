@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99096,
+    "metadata": {
+      "title": "Render",
+      "artists": [
+        "Duzz"
+      ],
+      "album": "AudioMicroDevice",
+      "releaseDate": "2001-11",
+      "durationMs": 339213,
+      "genres": [],
+      "isrc": "BC4MX2400010",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/27cb81ba54cd9027224c5d7afbb9c4b9/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b34d2943-851e-47d4-b6bb-a237f37c5bc8",
+        "deezer": "https://www.deezer.com/track/2690448662"
+      }
+    },
+    "lyricPath": "/lyrics/99096.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98240,
+    "metadata": {
+      "title": "Crack com Mussilon",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "333",
+      "releaseDate": "2024-09-09",
+      "durationMs": 154418,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BXW922400045",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/ac/95/9cac9567-6ffa-e640-d619-46564733b11f/196874248850.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c362b75b-7f1b-443b-9f98-1c340b540841",
+        "itunes": "https://music.apple.com/us/album/crack-com-mussilon/1888592730?i=1888592731&uo=4",
+        "deezer": "https://www.deezer.com/track/3926128911"
+      }
+    },
+    "lyricPath": "/lyrics/98240.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98635,
+    "metadata": {
+      "title": "Baqueado",
+      "artists": [
+        "Panda, Ícaro e Gilmar & Humberto & Ronaldo"
+      ],
+      "album": "Cê Tá Doido (São José Do Rio Preto) [Ao Vivo]",
+      "releaseDate": "2025-02-20",
+      "durationMs": 278133,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "QZNJX2578383",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/e7/3a/97e73a26-e84f-4431-e7a9-ecf66a781575/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/67e57f83-fcf8-4ef1-b432-aef2809ce2de",
+        "itunes": "https://music.apple.com/us/album/baqueado-ao-vivo/1784480459?i=1784480460&uo=4",
+        "deezer": "https://www.deezer.com/track/3455698891"
+      }
+    },
+    "lyricPath": "/lyrics/98635.txt"
+  }
+]

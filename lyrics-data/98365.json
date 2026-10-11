@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98365,
+    "metadata": {
+      "title": "Minha Dama",
+      "artists": [
+        "Tangi, Pedro Qualy, The B Brothers"
+      ],
+      "album": "Opareisen Rausim Kwik",
+      "releaseDate": "1997",
+      "durationMs": 264000,
+      "genres": [],
+      "isrc": "QZTVM2434993",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d4b8ad983c9199d59bb1622f9d95babf/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/27c26ef7-c4e0-433c-affb-5c25d31ac435",
+        "deezer": "https://www.deezer.com/track/3012420261"
+      }
+    },
+    "lyricPath": "/lyrics/98365.txt"
+  }
+]

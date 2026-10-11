@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98027,
+    "metadata": {
+      "title": "Amo Minha Favela",
+      "artists": [
+        "DJ Japa NK, MC Meno K"
+      ],
+      "album": "*KO/USK-",
+      "releaseDate": "1997",
+      "durationMs": 1465693,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BKUNW2500036",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/be/54/e8be544d-048d-e1c5-03f5-80385caeb4c2/820233584357.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a10a2e8b-3a7f-483d-8b02-8e0907c44386",
+        "itunes": "https://music.apple.com/us/album/festa-todo-dia-feat-dj-will-tn/6774357872?i=6774357884&uo=4",
+        "deezer": "https://www.deezer.com/track/3871188191"
+      }
+    },
+    "lyricPath": "/lyrics/98027.txt"
+  }
+]

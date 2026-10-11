@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98278,
+    "metadata": {
+      "title": "Amor de Fim de Noite",
+      "artists": [
+        "Orochi, Papatinho"
+      ],
+      "album": "Vamos Dar Play No Nathanzinho",
+      "releaseDate": "2021-01-14",
+      "durationMs": 197485,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "QZHZ41915435",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/43/91/40/4391409e-1958-d609-4ac6-4f835851edd8/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0b8006e5-9756-45e8-b52e-1f3511b50443",
+        "itunes": "https://music.apple.com/us/album/amor-de-fim-de-noite/1482409660?i=1482409661&uo=4",
+        "deezer": "https://www.deezer.com/track/769551042"
+      }
+    },
+    "lyricPath": "/lyrics/98278.txt"
+  }
+]

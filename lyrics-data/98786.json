@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98786,
+    "metadata": {
+      "title": "Podcast - Ao Vivo",
+      "artists": [
+        "Felipe e Rodrigo"
+      ],
+      "album": "Questão De Tempo (Ao Vivo)",
+      "releaseDate": "2026-02-26T12:00:00Z",
+      "durationMs": 177369,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKMKR2600007",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/c3/8d/55c38d42-77ca-275f-8ded-36bc3d848993/823375142560_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/dac197e2-6036-4de6-85cf-a96f798d99b1",
+        "itunes": "https://music.apple.com/us/album/podcast-ao-vivo/6766316956?i=6766316966&uo=4",
+        "deezer": "https://www.deezer.com/track/3871706471"
+      }
+    },
+    "lyricPath": "/lyrics/98786.txt"
+  }
+]

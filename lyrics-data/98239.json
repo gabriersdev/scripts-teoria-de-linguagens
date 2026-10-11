@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98239,
+    "metadata": {
+      "title": "Gangstar",
+      "artists": [
+        "Oruam, Chefin, Salvador Da Rima, Real Fuba, Elow, Kabeh, Vertigo, NovaChance"
+      ],
+      "album": "Oblivion",
+      "releaseDate": null,
+      "durationMs": 224000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9dd3e601-713d-44ed-869c-48de4731a088"
+      }
+    },
+    "lyricPath": "/lyrics/98239.txt"
+  }
+]

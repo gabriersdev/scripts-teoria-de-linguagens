@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98974,
+    "metadata": {
+      "title": "Princípios de um Campeão",
+      "artists": [
+        "Chefin, LB Único, Theuzz011"
+      ],
+      "album": "Princípios de um Campeão - Single",
+      "releaseDate": "2025-06-03T12:00:00Z",
+      "durationMs": 193770,
+      "genres": [
+        "Funk"
+      ],
+      "isrc": "BK7652500023",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/34/20/a63420c1-58a7-06d4-14d6-c211482bda1c/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/princ%C3%ADpios-de-um-campe%C3%A3o/1863138613?i=1863138614&uo=4",
+        "deezer": "https://www.deezer.com/track/3730803452"
+      }
+    },
+    "lyricPath": "/lyrics/98974.txt"
+  }
+]

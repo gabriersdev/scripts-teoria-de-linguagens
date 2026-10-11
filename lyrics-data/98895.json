@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98895,
+    "metadata": {
+      "title": "Água",
+      "artists": [
+        "Sidoka, Delatorvi, Gu$tavera"
+      ],
+      "album": "Doka Language",
+      "releaseDate": "2019-07-07",
+      "durationMs": 222000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/60b8b565-12e0-42e7-896e-99640ccda054"
+      }
+    },
+    "lyricPath": "/lyrics/98895.txt"
+  }
+]

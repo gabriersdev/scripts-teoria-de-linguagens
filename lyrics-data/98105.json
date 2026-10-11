@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98105,
+    "metadata": {
+      "title": "Bola Uma Vela (Trava Chip)",
+      "artists": [
+        "MC Meno K, Dj Yuri Pedrada"
+      ],
+      "album": "MESMALUA",
+      "releaseDate": "2004-09-06",
+      "durationMs": 272000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRWMB2600199",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/6d/9d/c96d9daa-6968-7789-f2a9-e8e88e3c5ca3/5026854774442.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9e8e09e0-d940-4e59-b12a-688e6e713fe1",
+        "itunes": "https://music.apple.com/us/album/bola-uma-vela-trava-chip/1879550505?i=1879550512&uo=4",
+        "deezer": "https://www.deezer.com/track/3862372001"
+      }
+    },
+    "lyricPath": "/lyrics/98105.txt"
+  }
+]

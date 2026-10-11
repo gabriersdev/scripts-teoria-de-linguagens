@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98326,
+    "metadata": {
+      "title": "Sem Graça",
+      "artists": [
+        "Haikaiss"
+      ],
+      "album": "SEM GRAÇA!",
+      "releaseDate": "2026-06-22",
+      "durationMs": 120656,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "SE6SA2680607",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/46/d0/0e/46d00eaf-aa0b-9fab-14f9-7142bc42cf6c/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9468c985-4e13-4557-a68d-4e9d9d1f0bbc",
+        "itunes": "https://music.apple.com/us/album/sem-gra%C3%A7a/948954480?i=948954531&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98326.txt"
+  }
+]

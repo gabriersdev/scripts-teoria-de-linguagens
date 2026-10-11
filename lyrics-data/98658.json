@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98658,
+    "metadata": {
+      "title": "Saudade Estranha - Du Nada",
+      "artists": [
+        "Murilo Huff"
+      ],
+      "album": "Ao vivão 3",
+      "releaseDate": "2022-12-02",
+      "durationMs": 200401,
+      "genres": [
+        "Country"
+      ],
+      "isrc": "BCARN2200050",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/eb/78/1feb7889-f4ec-4ecc-1ca3-f01ff111191e/820200252999.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/fc4c5fa8-e17f-4ab8-851d-b3db7dc76e9d",
+        "itunes": "https://music.apple.com/us/album/saudade-estranha-du-nada-ao-vivo/1876313250?i=1876313712&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98658.txt"
+  }
+]

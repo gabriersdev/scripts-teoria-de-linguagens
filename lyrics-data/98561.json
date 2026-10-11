@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98561,
+    "metadata": {
+      "title": "Rebelde Sem Causa - Acústico",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "2 é demais",
+      "releaseDate": "1996",
+      "durationMs": 199826,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP0500355",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/15/c4/9f15c409-dc83-6022-a6bf-d82976207fd9/7898324301889.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f01d9549-3c93-4fd5-9f55-167e21b0511e",
+        "itunes": "https://music.apple.com/us/album/rebelde-sem-causa/977474314?i=977474485&uo=4",
+        "deezer": "https://www.deezer.com/track/96168072"
+      }
+    },
+    "lyricPath": "/lyrics/98561.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98026,
+    "metadata": {
+      "title": "VOLTEI PRA PUTARIA",
+      "artists": [
+        "DJ MIAC"
+      ],
+      "album": "Rei Dos Graves",
+      "releaseDate": "2025-10-30",
+      "durationMs": 174000,
+      "genres": [],
+      "isrc": "QT8BV2643246",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/44fd14db298d5ac893291b8ce64b78f5/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/442beb56-7b72-40aa-96d9-29ff280c7fbe",
+        "deezer": "https://www.deezer.com/track/4038456331"
+      }
+    },
+    "lyricPath": "/lyrics/98026.txt"
+  }
+]

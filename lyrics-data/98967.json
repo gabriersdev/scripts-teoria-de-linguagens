@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98967,
+    "metadata": {
+      "title": "Santo",
+      "artists": [
+        "Japa, Lucchini, Cheek"
+      ],
+      "album": "lol",
+      "releaseDate": "2015-08-21",
+      "durationMs": 115663,
+      "genres": [],
+      "isrc": "BCMUB2500001",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/53d11b771371044c2f45c4c5a9000d46/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0cfe490b-e137-4816-ab6e-9395bbdcb216",
+        "deezer": "https://www.deezer.com/track/3675279832"
+      }
+    },
+    "lyricPath": "/lyrics/98967.txt"
+  }
+]

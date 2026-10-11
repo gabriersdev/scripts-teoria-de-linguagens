@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98494,
+    "metadata": {
+      "title": "Minha Vida E Rock 'N' Roll",
+      "artists": [
+        "Made In Brazil"
+      ],
+      "album": "Minha Vida É Rock 'n' Roll",
+      "releaseDate": "1981",
+      "durationMs": 174880,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRBMG8100009",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0b/99/e4/0b99e416-e953-f141-306b-928116dc4f3c/196589142320.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/916c21d0-2c4b-42bb-bcfb-bf31b0b2e053",
+        "itunes": "https://music.apple.com/us/album/minha-vida-e-rock-n-roll/1651267653?i=1651267664&uo=4",
+        "deezer": "https://www.deezer.com/track/15410902"
+      }
+    },
+    "lyricPath": "/lyrics/98494.txt"
+  }
+]

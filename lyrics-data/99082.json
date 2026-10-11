@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99082,
+    "metadata": {
+      "title": "Poesia Acústica 15",
+      "artists": [
+        "Pineapple StormTv, Salve Malak, Mc Poze do Rodo, Luiz Lins, MC Hariel, Azzy, JayA Luuck, Oruam, Slipmami, MC Cabelinho"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [],
+      "isrc": "BX6Y62300063",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/5a4b8b279805e7a019cda88bfe4ce0db/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "deezer": "https://www.deezer.com/track/2595363802"
+      }
+    },
+    "lyricPath": "/lyrics/99082.txt"
+  }
+]

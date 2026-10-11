@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98884,
+    "metadata": {
+      "title": "A Última",
+      "artists": [
+        "D$ Luqi"
+      ],
+      "album": "O Emblema do Infinito",
+      "releaseDate": "2024-08-08",
+      "durationMs": 121000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BKLL22400018",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/eb/bd/d7ebbda0-a390-f34b-891b-2cf47a5f99e0/cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0ed600c4-83f6-44ab-8a09-b2f54041a16b",
+        "itunes": "https://music.apple.com/us/album/coisa-ruim/1816275749?i=1816275757&uo=4",
+        "deezer": "https://www.deezer.com/track/2858478092"
+      }
+    },
+    "lyricPath": "/lyrics/98884.txt"
+  }
+]

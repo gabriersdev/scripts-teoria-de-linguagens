@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98762,
+    "metadata": {
+      "title": "Palhaça - Ao Vivo",
+      "artists": [
+        "Naiara Azevedo & Ana Castela"
+      ],
+      "album": "Palhaça",
+      "releaseDate": "2023-01-12",
+      "durationMs": 170191,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BX8WE2200062",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7d/62/e6/7d62e682-4c90-476b-80d9-9c32729e8438/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9253c108-0a21-4a11-9a4c-b4b74b4353eb",
+        "itunes": "https://music.apple.com/us/album/palha%C3%A7a-ao-vivo/1664195330?i=1664195331&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98762.txt"
+  }
+]

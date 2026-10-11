@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98751,
+    "metadata": {
+      "title": "Leão",
+      "artists": [
+        "Marília Mendonça"
+      ],
+      "album": "Para Todas as Mulheres Que Já Rimei",
+      "releaseDate": "2020-09-30",
+      "durationMs": 114000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV2200185",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ed/f6/a7/edf6a74f-15fa-1b0e-f172-6c99841d1c32/7891430726072.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/81759f1d-aab1-4dbc-a965-2664a0c64bda",
+        "itunes": "https://music.apple.com/us/album/le%C3%A3o/1658237091?i=1658237095&uo=4",
+        "deezer": "https://www.deezer.com/track/2056080287"
+      }
+    },
+    "lyricPath": "/lyrics/98751.txt"
+  }
+]

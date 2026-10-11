@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98622,
+    "metadata": {
+      "title": "Eu Te Seguro",
+      "artists": [
+        "Zé Vaqueiro"
+      ],
+      "album": "Eu Te Seguro - Single",
+      "releaseDate": "2026-07-24T12:00:00Z",
+      "durationMs": 139842,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": "BX8WE2500011",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/75/ad/ea75adce-fc13-1de5-8e8c-200dda1d7525/3758889.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/eu-te-seguro/6793496929?i=6793496931&uo=4",
+        "deezer": "https://www.deezer.com/track/3546914011"
+      }
+    },
+    "lyricPath": "/lyrics/98622.txt"
+  }
+]

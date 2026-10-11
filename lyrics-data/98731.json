@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98731,
+    "metadata": {
+      "title": "Alô Porteiro - Ao Vivo",
+      "artists": [
+        "Marília Mendonça"
+      ],
+      "album": "Marília Mendonça (Ao Vivo)",
+      "releaseDate": "2016-03-04T12:00:00Z",
+      "durationMs": 196818,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1500063",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1e/68/40/1e684061-025d-60a4-28d6-16cb4e0b37b7/7891430399023.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/al%C3%B4-porteiro-ao-vivo/1087546611?i=1087547333&uo=4",
+        "deezer": "https://www.deezer.com/track/119849600"
+      }
+    },
+    "lyricPath": "/lyrics/98731.txt"
+  }
+]

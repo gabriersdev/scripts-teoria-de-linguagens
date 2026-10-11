@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98687,
+    "metadata": {
+      "title": "Tanto",
+      "artists": [
+        "Seu Desejo"
+      ],
+      "album": "Seu Desejo",
+      "releaseDate": "2023-11-22",
+      "durationMs": 234545,
+      "genres": [
+        "Forró"
+      ],
+      "isrc": "QZTPX2417413",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/58/6b/f9586b03-0620-004a-d983-835cb4b061f0/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3f4ac41a-049c-4e4b-9750-3fa84108d815",
+        "itunes": "https://music.apple.com/us/album/tanto-seu-desejo/6789929118?i=6789929119&uo=4",
+        "deezer": "https://www.deezer.com/track/2963090091"
+      }
+    },
+    "lyricPath": "/lyrics/98687.txt"
+  }
+]

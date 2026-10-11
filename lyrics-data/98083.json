@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98083,
+    "metadata": {
+      "title": "TO CORRENDO DE LAÇO",
+      "artists": [
+        "MC Gustavinho, Gt do Mira"
+      ],
+      "album": "In questo mondo di ladri",
+      "releaseDate": "2011",
+      "durationMs": 250000,
+      "genres": [],
+      "isrc": "QT5M52552281",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/38a224090dda1f465ccb6c9c9aeda40b/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/1cf1f9c7-c0d0-4a58-8180-d24a61c5403c",
+        "deezer": "https://www.deezer.com/track/3598586612"
+      }
+    },
+    "lyricPath": "/lyrics/98083.txt"
+  }
+]

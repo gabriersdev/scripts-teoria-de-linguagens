@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98404,
+    "metadata": {
+      "title": "Sangue latino",
+      "artists": [
+        "Secos & Molhados"
+      ],
+      "album": "Opereta do Recife",
+      "releaseDate": "2021",
+      "durationMs": 215040,
+      "genres": [
+        "MPB"
+      ],
+      "isrc": "BRWMB9802394",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/81/cf/d1/81cfd1ab-7ecb-6525-eb20-22d8dc857766/085365739253.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5f8e3bfa-37db-4054-a311-3d600bfdbcb6",
+        "itunes": "https://music.apple.com/us/album/sangue-latino/281165288?i=281165319&uo=4",
+        "deezer": "https://www.deezer.com/track/12334774"
+      }
+    },
+    "lyricPath": "/lyrics/98404.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98624,
+    "metadata": {
+      "title": "Só Com Ela",
+      "artists": [
+        "Murilo Huff & Matheus Fernandes"
+      ],
+      "album": "Transe Acústico",
+      "releaseDate": "2026-06-11T12:00:00Z",
+      "durationMs": 225000,
+      "genres": [
+        "Country"
+      ],
+      "isrc": "BKMWS2600004",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/d8/2b/c1d82b92-4bb9-14f2-e434-06bc37d3b617/820233553131.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ca62f622-99dd-4b88-8df0-e3fa9c480fb4",
+        "itunes": "https://music.apple.com/us/album/s%C3%B3-com-ela-ao-vivo/6776008403?i=6776008406&uo=4",
+        "deezer": "https://www.deezer.com/track/4059462101"
+      }
+    },
+    "lyricPath": "/lyrics/98624.txt"
+  }
+]

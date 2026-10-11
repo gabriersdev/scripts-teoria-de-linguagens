@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98979,
+    "metadata": {
+      "title": "TUDO DE NOVO",
+      "artists": [
+        "Alee, Filipe Ret, Qualywav1"
+      ],
+      "album": "CAOS DLX",
+      "releaseDate": "2025-07-24",
+      "durationMs": 225391,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BKNDN2500119",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/23/de/2423de3e-60a7-b615-c685-21c09588f6fb/199479466261-copy-7fdad258.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b402a3ee-9806-4301-a6e7-dc0fb3011df7",
+        "itunes": "https://music.apple.com/us/album/tudo-de-novo-feat-filipe-ret/1827104990?i=1827105084&uo=4",
+        "deezer": "https://www.deezer.com/track/3457797121"
+      }
+    },
+    "lyricPath": "/lyrics/98979.txt"
+  }
+]

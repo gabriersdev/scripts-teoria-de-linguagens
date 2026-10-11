@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98125,
+    "metadata": {
+      "title": "Fácil Dizer Que Me Ama",
+      "artists": [
+        "Mc João, MC Hariel"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [],
+      "isrc": "QZ5AB1648738",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/f53a4167d5946473f84201f214ae0c03/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "deezer": "https://www.deezer.com/track/925574872"
+      }
+    },
+    "lyricPath": "/lyrics/98125.txt"
+  }
+]

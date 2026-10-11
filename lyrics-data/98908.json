@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98908,
+    "metadata": {
+      "title": "Período Composto",
+      "artists": [
+        "D$ Luqi, loonyjetski"
+      ],
+      "album": "O Emblema do Infinito",
+      "releaseDate": "2024-08-08",
+      "durationMs": 108000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c048bff9-aa38-4ef7-be86-4fff00881d63"
+      }
+    },
+    "lyricPath": "/lyrics/98908.txt"
+  }
+]

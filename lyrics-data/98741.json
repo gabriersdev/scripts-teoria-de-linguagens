@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98741,
+    "metadata": {
+      "title": "Termina Comigo Antes - Ao Vivo",
+      "artists": [
+        "Gusttavo Lima"
+      ],
+      "album": "Termina Comigo Antes",
+      "releaseDate": "2022",
+      "durationMs": 187000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BXBAL2200001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/c6/97/41c697b7-f807-a922-119b-e7effc303ad1/196589038401.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/44c4fee0-c0f7-4594-9c83-e44dc97d739f",
+        "itunes": "https://music.apple.com/us/album/termina-comigo-antes/1615470449?i=1615470453&uo=4",
+        "deezer": "https://www.deezer.com/track/3060636171"
+      }
+    },
+    "lyricPath": "/lyrics/98741.txt"
+  }
+]

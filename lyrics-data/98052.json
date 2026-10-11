@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98052,
+    "metadata": {
+      "title": "Ela é Magrinha do Bundão",
+      "artists": [
+        "cjnobeat, Mc Gimenes, Mc Gw, MC BN"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [],
+      "isrc": "SGB502612379",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1debc072e82767bfa95547eace0cbc6a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "deezer": "https://www.deezer.com/track/3936348691"
+      }
+    },
+    "lyricPath": "/lyrics/98052.txt"
+  }
+]

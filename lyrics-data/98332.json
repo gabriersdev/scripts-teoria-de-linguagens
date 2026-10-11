@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98332,
+    "metadata": {
+      "title": "Vivência Maldita",
+      "artists": [
+        "LEALL, Rock Danger, Sain, Erick Jay, Babidi"
+      ],
+      "album": "Eu ainda tenho coração",
+      "releaseDate": "2023-12-13",
+      "durationMs": 142133,
+      "genres": [],
+      "isrc": "BXQZW2300047",
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/62890c8b-20ba-4856-8727-8b3adad5bae0"
+      }
+    },
+    "lyricPath": "/lyrics/98332.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98215,
+    "metadata": {
+      "title": "Maturidade",
+      "artists": [
+        "Filtr Music Brasil, Pelé MilFlows, WEY, Fepache"
+      ],
+      "album": "Bunte Fußballwelt",
+      "releaseDate": "2006-01-15",
+      "durationMs": 151000,
+      "genres": [],
+      "isrc": "BK2222600001",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/01640dfdd29aca9206dedfef12d79549/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b9b8ede0-7af3-44a7-89e6-1a71301a2083",
+        "deezer": "https://www.deezer.com/track/4219876362"
+      }
+    },
+    "lyricPath": "/lyrics/98215.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98208,
+    "metadata": {
+      "title": "Quem é você?",
+      "artists": [
+        "Akashi Cruz"
+      ],
+      "album": "Parque do Gugu",
+      "releaseDate": "1996",
+      "durationMs": 193000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BC2GV2600005",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/ff/04/73ff0452-d8ca-4c02-01ff-a95c24ae0c35/196874062760.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/16178626-7835-46e9-8006-9e993c8f0108",
+        "itunes": "https://music.apple.com/us/album/quem-%C3%A9-voc%C3%AA/1874069031?i=1874069032&uo=4",
+        "deezer": "https://www.deezer.com/track/3818630421"
+      }
+    },
+    "lyricPath": "/lyrics/98208.txt"
+  }
+]

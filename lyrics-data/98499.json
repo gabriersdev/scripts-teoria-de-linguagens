@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98499,
+    "metadata": {
+      "title": "Aluga-Se",
+      "artists": [
+        "Raul Seixas"
+      ],
+      "album": "Eu Raul Seixas",
+      "releaseDate": "1991",
+      "durationMs": 150000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRSME8000003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/36/86/71/mzi.aypaqvsb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/1cc5f7f8-2a63-4976-ac65-d458102e87fb",
+        "itunes": "https://music.apple.com/us/album/aluga-se/401665703?i=401665732&uo=4",
+        "deezer": "https://www.deezer.com/track/15354187"
+      }
+    },
+    "lyricPath": "/lyrics/98499.txt"
+  }
+]

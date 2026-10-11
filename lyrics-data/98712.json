@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98712,
+    "metadata": {
+      "title": "Coração Bandido",
+      "artists": [
+        "Marília Mendonça, Maiara & Maraisa"
+      ],
+      "album": "Para Todas as Mulheres Que Já Rimei",
+      "releaseDate": "2020-09-30",
+      "durationMs": 114000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV2000088",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/4b/9c/334b9c64-7de9-1f3b-f90d-722cade4c870/7891430498276.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/81759f1d-aab1-4dbc-a965-2664a0c64bda",
+        "itunes": "https://music.apple.com/us/album/cora%C3%A7%C3%A3o-bandido/1528979177?i=1528979853&uo=4",
+        "deezer": "https://www.deezer.com/track/1006151462"
+      }
+    },
+    "lyricPath": "/lyrics/98712.txt"
+  }
+]

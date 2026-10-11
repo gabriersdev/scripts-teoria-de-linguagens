@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98234,
+    "metadata": {
+      "title": "Saudade",
+      "artists": [
+        "Luiz Lins, Konai, Mazili"
+      ],
+      "album": "Bastard",
+      "releaseDate": "2017-12-20T12:00:00Z",
+      "durationMs": 138000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "QZ5AB1821385",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/23/86/44/23864412-ec84-daee-e98b-5c69ee0e9298/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e083a7b2-b4c5-4cb7-91ec-fb86d66abf6c",
+        "itunes": "https://music.apple.com/us/album/saudade-feat-konai-mazili/1328331526?i=1328331531&uo=4",
+        "deezer": "https://www.deezer.com/track/443785232"
+      }
+    },
+    "lyricPath": "/lyrics/98234.txt"
+  }
+]

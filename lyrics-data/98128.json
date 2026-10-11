@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98128,
+    "metadata": {
+      "title": "NUNCA MUDA?",
+      "artists": [
+        "Scythermane, NXGHT!, MC Fabinho da Osk"
+      ],
+      "album": "NUNCA MUDA?",
+      "releaseDate": "2025-01-09",
+      "durationMs": 81500,
+      "genres": [
+        "Dance"
+      ],
+      "isrc": "SGW502245352",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/43/c8/4443c857-5236-b4c3-3288-c90067c55db8/1043394.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bca1fe80-c0d5-433a-9470-8510ae04d0e8",
+        "itunes": "https://music.apple.com/us/album/nunca-muda/6766706647?i=6766706648&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98128.txt"
+  }
+]

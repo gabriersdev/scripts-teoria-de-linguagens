@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98142,
+    "metadata": {
+      "title": "Tava na Rua",
+      "artists": [
+        "MC Pikachu"
+      ],
+      "album": "A Barca apresenta: Coleção Turista Aprendiz",
+      "releaseDate": "2007-10-02",
+      "durationMs": 222133,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "US7VG1595110",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/40/17/16/401716aa-d54a-bed2-5613-f5f2d2f8fb24/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b4c53147-57c1-4bc8-8afc-cd4af902804f",
+        "itunes": "https://music.apple.com/us/album/tava-na-rua/944400410?i=944400414&uo=4",
+        "deezer": "https://www.deezer.com/track/99066964"
+      }
+    },
+    "lyricPath": "/lyrics/98142.txt"
+  }
+]

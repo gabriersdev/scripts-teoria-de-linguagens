@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99134,
+    "metadata": {
+      "title": "Mesma História",
+      "artists": [
+        "Orochi, Caio Luccas, Pedro Lotto, Mainstreet, Galdino, Ribb"
+      ],
+      "album": "Despedida",
+      "releaseDate": "2018-08-03",
+      "durationMs": 206648,
+      "genres": [],
+      "isrc": "QZ5AB1983766",
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4633de1f-27dd-4c6d-9cdf-9824326bec53"
+      }
+    },
+    "lyricPath": "/lyrics/99134.txt"
+  }
+]

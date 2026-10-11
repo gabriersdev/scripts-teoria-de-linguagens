@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98603,
+    "metadata": {
+      "title": "Cuida Bem Dela",
+      "artists": [
+        "Henrique & Juliano"
+      ],
+      "album": "Ao vivo em Brasília",
+      "releaseDate": "2014-09-15",
+      "durationMs": 200000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1400063",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/41/9c/b7419cae-9f05-be20-46f3-ac901e027c73/00602438992638_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c33bc421-6725-49ef-8301-52a75d4191fd",
+        "itunes": "https://music.apple.com/us/album/cuida-bem-dela-ao-vivo/1882027469?i=1882027958&uo=4",
+        "deezer": "https://www.deezer.com/track/3878854351"
+      }
+    },
+    "lyricPath": "/lyrics/98603.txt"
+  }
+]

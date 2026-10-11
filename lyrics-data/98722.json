@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98722,
+    "metadata": {
+      "title": "Status Que Eu Não Queria - Ao Vivo",
+      "artists": [
+        "Zé Neto & Cristiano"
+      ],
+      "album": "Esquece o mundo lá fora",
+      "releaseDate": "2018-07-13",
+      "durationMs": 154000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1800112",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/27/73/1427732e-521b-fe86-e72a-fb742ca6b592/7891430284176.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0075640d-9b55-44e8-8b5e-9ef8c14f2990",
+        "itunes": "https://music.apple.com/us/album/status-que-eu-n%C3%A3o-queria-ao-vivo/1408564288?i=1408566613&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98722.txt"
+  }
+]

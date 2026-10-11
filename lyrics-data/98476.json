@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98476,
+    "metadata": {
+      "title": "Mundo Animal",
+      "artists": [
+        "Mamonas Assassinas"
+      ],
+      "album": "Mamonas Assassinas",
+      "releaseDate": "1995-01-01T12:00:00Z",
+      "durationMs": 236560,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BREMI9500365",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/4f/0b/fa4f0b92-098b-92dd-f9e7-1907a6fed64a/13UMGIM90180.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/mundo-animal/713659451?i=713659511&uo=4",
+        "deezer": "https://www.deezer.com/track/3105909"
+      }
+    },
+    "lyricPath": "/lyrics/98476.txt"
+  }
+]

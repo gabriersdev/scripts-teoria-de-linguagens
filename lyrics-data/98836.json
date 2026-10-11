@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98836,
+    "metadata": {
+      "title": "TWERK",
+      "artists": [
+        "Ryu, The Runner, Derek, dvrkness13, No Cutty, Salve Crazy"
+      ],
+      "album": "Essa é a vida de um corredor",
+      "releaseDate": "2023-03-03",
+      "durationMs": 144000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f61ff662-21a8-44fc-a92a-4109ae9abe24"
+      }
+    },
+    "lyricPath": "/lyrics/98836.txt"
+  }
+]

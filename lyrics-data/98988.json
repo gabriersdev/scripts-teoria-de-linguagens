@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98988,
+    "metadata": {
+      "title": "Só Rock 3",
+      "artists": [
+        "Major RD, Borges, MC Cabelinho, Young Ganni, Rock Danger, meLLo"
+      ],
+      "album": "MC Rock",
+      "releaseDate": "1979",
+      "durationMs": 529000,
+      "genres": [],
+      "isrc": "BXQZW2500001",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/04984889a4024d617d8fcaab1267365d/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e69b7b8f-fa35-4f5c-9f81-0a988deb1472",
+        "deezer": "https://www.deezer.com/track/3245128631"
+      }
+    },
+    "lyricPath": "/lyrics/98988.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98260,
+    "metadata": {
+      "title": "Vampiro",
+      "artists": [
+        "Matuê, WIU, Teto"
+      ],
+      "album": "Maior Que o Tempo",
+      "releaseDate": "2025-03-27",
+      "durationMs": 228349,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BXW922100034",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/e2/41/65e241fa-3319-80b6-d011-ffc22f60368d/886449853229.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6a2d7466-f09d-451e-87e6-51ebb1a2ba7d",
+        "itunes": "https://music.apple.com/us/album/vampiro/1605400390?i=1605400395&uo=4",
+        "deezer": "https://www.deezer.com/track/1623099982"
+      }
+    },
+    "lyricPath": "/lyrics/98260.txt"
+  }
+]

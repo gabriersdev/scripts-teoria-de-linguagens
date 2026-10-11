@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98106,
+    "metadata": {
+      "title": "Se Eu Ficar Pá Nem Me Testa",
+      "artists": [
+        "Mc J9, DJ Guh Mix, Mc Don Juan, MC Ryan SP, Mc Negão Original, Menor Richard, Mc Alan JR, Mc IG, DJ Japa NK"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [],
+      "isrc": "BKUNW2600015",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0bca20276be03bb0e6bce5d3b8c24232/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "deezer": "https://www.deezer.com/track/3867019451"
+      }
+    },
+    "lyricPath": "/lyrics/98106.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98743,
+    "metadata": {
+      "title": "Atrasadinha - Live",
+      "artists": [
+        "Felipe Araújo, Ferrugem"
+      ],
+      "album": "Por Inteiro",
+      "releaseDate": "2019-01-17",
+      "durationMs": 173000,
+      "genres": [],
+      "isrc": "BRUM71802663",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/645917a8cfe2148c67e43c8249e134b5/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/49dbfefb-a1c3-4ad8-ac8b-e25572a995fd",
+        "deezer": "https://www.deezer.com/track/555274642"
+      }
+    },
+    "lyricPath": "/lyrics/98743.txt"
+  }
+]

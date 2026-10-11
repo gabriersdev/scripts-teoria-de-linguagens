@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98713,
+    "metadata": {
+      "title": "Barulho Do Foguete - Ao Vivo",
+      "artists": [
+        "Zé Neto & Cristiano"
+      ],
+      "album": "Escolhas, vol. 2",
+      "releaseDate": "2023-06-22",
+      "durationMs": 133546,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE2300443",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/d4/70/20d470c4-315c-fde2-d0bd-b3e99d140854/7891430814472.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a10b968a-00fd-4c55-b988-4065865786c5",
+        "itunes": "https://music.apple.com/us/album/barulho-do-foguete-ao-vivo/1701669504?i=1701669515&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98713.txt"
+  }
+]

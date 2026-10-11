@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98768,
+    "metadata": {
+      "title": "Bebida Na Ferida - Ao Vivo",
+      "artists": [
+        "Zé Neto & Cristiano"
+      ],
+      "album": "Esquece o mundo lá fora",
+      "releaseDate": "2018-07-13",
+      "durationMs": 199000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1800114",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/27/73/1427732e-521b-fe86-e72a-fb742ca6b592/7891430284176.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/328772ef-cb27-4e22-a516-4bb3a9709b1e",
+        "itunes": "https://music.apple.com/us/album/bebida-na-ferida-ao-vivo/1408564288?i=1408564291&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98768.txt"
+  }
+]

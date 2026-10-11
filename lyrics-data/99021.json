@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99021,
+    "metadata": {
+      "title": "100% MOLHO",
+      "artists": [
+        "Brandão85, Jovem Dex, Leviano, Alee"
+      ],
+      "album": "ISSO É TRAP",
+      "releaseDate": "2025-06-18",
+      "durationMs": 291374,
+      "genres": [],
+      "isrc": "BXW922500083",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/823c311b28a72801b809da4d99c621f4/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ce7cfba2-0532-4811-88c3-f3d797e5c111",
+        "deezer": "https://www.deezer.com/track/3429620541"
+      }
+    },
+    "lyricPath": "/lyrics/99021.txt"
+  }
+]

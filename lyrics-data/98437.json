@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98437,
+    "metadata": {
+      "title": "Gita",
+      "artists": [
+        "Raul Seixas"
+      ],
+      "album": "Acústico Ao Vivo",
+      "releaseDate": "2008",
+      "durationMs": 325226,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRMCA7400124",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/10/7f/4d107fdd-0d4b-8bdc-f674-5270223534e7/06UMGIM27054.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/851f8259-7856-44b4-bb7a-f7feb65302ba",
+        "itunes": "https://music.apple.com/us/album/g%C3%AEt%C3%A2/1443657990?i=1443658866&uo=4",
+        "deezer": "https://www.deezer.com/track/81328316"
+      }
+    },
+    "lyricPath": "/lyrics/98437.txt"
+  }
+]

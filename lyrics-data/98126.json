@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98126,
+    "metadata": {
+      "title": "Bala Perdida",
+      "artists": [
+        "MC Hariel"
+      ],
+      "album": "El calcetín",
+      "releaseDate": "2020-10-09T12:00:00Z",
+      "durationMs": 211120,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BXG6R1700186",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/64/08/58640896-d1f6-ae8b-6b72-1a3168524532/192641573460_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d72bd064-136c-4b7f-b02d-6e573048d651",
+        "itunes": "https://music.apple.com/us/album/favela-pede-paz-feat-mc-lele-jp-mc-neguinho-do-kaxeta/1534246135?i=1534246140&uo=4",
+        "deezer": "https://www.deezer.com/track/1442956272"
+      }
+    },
+    "lyricPath": "/lyrics/98126.txt"
+  }
+]

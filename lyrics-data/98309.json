@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98309,
+    "metadata": {
+      "title": "Love Song (A Maior Dor de um Homem)",
+      "artists": [
+        "Sabotage & Mano Brown"
+      ],
+      "album": "Love Song (A Maior Dor de um Homem)",
+      "releaseDate": "2018-11-23",
+      "durationMs": 256000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BXTM81800011",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/42/44/fe/4244febd-17a5-5921-97e8-3b656276753d/759108520186_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4122fdb8-31bc-481d-93dc-a2a000652ff9",
+        "itunes": "https://music.apple.com/us/album/love-song-a-maior-dor-de-um-homem/1510767799?i=1510767800&uo=4",
+        "deezer": "https://www.deezer.com/track/946016742"
+      }
+    },
+    "lyricPath": "/lyrics/98309.txt"
+  }
+]

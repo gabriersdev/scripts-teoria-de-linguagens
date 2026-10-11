@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98970,
+    "metadata": {
+      "title": "BACKSTAGE",
+      "artists": [
+        "Matuê, BNYX®, Azul Wynter, Bryan Yepes"
+      ],
+      "album": "Every Step of the Way",
+      "releaseDate": "2001",
+      "durationMs": 243906,
+      "genres": [],
+      "isrc": "BXW922500117",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c9b023c07f75e26f5998c8eeddb39fcb/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/73d0b168-7ff9-4727-a43d-052ae425aefc",
+        "deezer": "https://www.deezer.com/track/3700579852"
+      }
+    },
+    "lyricPath": "/lyrics/98970.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99090,
+    "metadata": {
+      "title": "geada",
+      "artists": [
+        "Slipmami"
+      ],
+      "album": "Die Grobschnitt Story 4: Illegal Live",
+      "releaseDate": "2003",
+      "durationMs": 134306,
+      "genres": [],
+      "isrc": "BX3AW2100002",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/a9949599744ba9454d14cd4fd310c0fc/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c013111d-6630-451e-b238-a36eb8188f3b",
+        "deezer": "https://www.deezer.com/track/3535180511"
+      }
+    },
+    "lyricPath": "/lyrics/99090.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98964,
+    "metadata": {
+      "title": "WARZONE",
+      "artists": [
+        "Brandão85"
+      ],
+      "album": "Uncharted 2: Among Thieves",
+      "releaseDate": "2009-10-13",
+      "durationMs": 133000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "USGSS0900150",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/2b/d0/2b2bd0e2-7e6f-f068-0f50-830aba9d58b9/8718521080921.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a5a6b71a-57aa-4c5d-b9b9-0f12c15843d9",
+        "itunes": "https://music.apple.com/us/album/warzone/1891123236?i=1891123542&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98964.txt"
+  }
+]

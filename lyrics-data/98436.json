@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98436,
+    "metadata": {
+      "title": "Amor Meu Grande Amor",
+      "artists": [
+        "Angela Ro Ro"
+      ],
+      "album": "Inger Lise",
+      "releaseDate": "2022-05",
+      "durationMs": 182480,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BR8NB1100090",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/78/22/f2/7822f291-ea0e-fa67-afd5-09b3bb7cdee4/00044001723926.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f920b36a-0a98-4e61-8240-322fa68ec1d4",
+        "itunes": "https://music.apple.com/us/album/amor-meu-grande-amor/1443595653?i=1443595995&uo=4",
+        "deezer": "https://www.deezer.com/track/69155565"
+      }
+    },
+    "lyricPath": "/lyrics/98436.txt"
+  }
+]

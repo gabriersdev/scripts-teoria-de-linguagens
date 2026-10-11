@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98320,
+    "metadata": {
+      "title": "Irmão DQbrada!",
+      "artists": [
+        "Costa Gold"
+      ],
+      "album": "Studies",
+      "releaseDate": "2016-11-18",
+      "durationMs": 114000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRRGE1907803",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1a/80/a0/1a80a0d2-8393-567e-967f-c8562269a527/7891430422172.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/720a2a61-a154-44ca-a01b-d17ec302f754",
+        "itunes": "https://music.apple.com/us/album/irm%C3%A3o-dqbrada/1477567445?i=1477567448&uo=4",
+        "deezer": "https://www.deezer.com/track/738240092"
+      }
+    },
+    "lyricPath": "/lyrics/98320.txt"
+  }
+]

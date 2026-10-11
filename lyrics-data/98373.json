@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98373,
+    "metadata": {
+      "title": "Infame, Parte II",
+      "artists": [
+        "Haikaiss, Neo Beats, Shaw, Sandrão RZO"
+      ],
+      "album": "Fotografia de um Instante",
+      "releaseDate": "2014",
+      "durationMs": 285000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BR5VT1500005",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/70/bb/b8/70bbb86b-cdf0-0629-b634-7c4b57826113/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c9269ab9-fb7f-4137-9665-8593231f3455",
+        "itunes": "https://music.apple.com/us/album/infame-pt-ii-feat-shaw-sandr%C3%A3o-rzo/1065929801?i=1065929806&uo=4",
+        "deezer": "https://www.deezer.com/track/114855782"
+      }
+    },
+    "lyricPath": "/lyrics/98373.txt"
+  }
+]

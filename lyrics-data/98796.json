@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98796,
+    "metadata": {
+      "title": "Sentimento Louco - Ao Vivo",
+      "artists": [
+        "Marília Mendonça"
+      ],
+      "album": "Marília Mendonça",
+      "releaseDate": "2014-01-09",
+      "durationMs": 171220,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWKW1400100",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1e/68/40/1e684061-025d-60a4-28d6-16cb4e0b37b7/7891430399023.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/fe11da83-87b7-455a-8a3d-63f391e5d20f",
+        "itunes": "https://music.apple.com/us/album/sentimento-louco-ao-vivo/1087546611?i=1087547349&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98796.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98363,
+    "metadata": {
+      "title": "Não Há",
+      "artists": [
+        "Cacife Gold, Costa Gold, Cacife Clandestino, Pedro Lotto"
+      ],
+      "album": ".155",
+      "releaseDate": "2015",
+      "durationMs": 251000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "USLZJ2016160",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/76/7f/51767f7a-018f-670a-4ed1-c3c11e464e92/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/54c001e9-81e1-42cb-91b3-1b7850dd0c80",
+        "itunes": "https://music.apple.com/us/album/o-corre-feat-cacife-clandestino/1399115217?i=1399115218&uo=4",
+        "deezer": "https://www.deezer.com/track/1074577442"
+      }
+    },
+    "lyricPath": "/lyrics/98363.txt"
+  }
+]

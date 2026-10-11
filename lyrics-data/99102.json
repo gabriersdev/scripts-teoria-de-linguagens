@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99102,
+    "metadata": {
+      "title": "Groupies",
+      "artists": [
+        "Doode, Teto, Matuê"
+      ],
+      "album": "333",
+      "releaseDate": "2024-09-09",
+      "durationMs": 204923,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BXW922100020",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/70/20/92702045-d228-32ae-fbdc-ba3ea1ccfe62/886449559404.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/701c7727-47cb-4af8-8add-1125ca184dd1",
+        "itunes": "https://music.apple.com/us/album/groupies/1584409037?i=1584409042&uo=4",
+        "deezer": "https://www.deezer.com/track/1484845972"
+      }
+    },
+    "lyricPath": "/lyrics/99102.txt"
+  }
+]

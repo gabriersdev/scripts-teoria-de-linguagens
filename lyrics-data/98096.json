@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98096,
+    "metadata": {
+      "title": "Fui Mlk",
+      "artists": [
+        "Nilo, Mc Paiva ZS, DJ Di Marques, Tropa da W&S, FamousKyo"
+      ],
+      "album": "Fui Mlk",
+      "releaseDate": "2024-11-22",
+      "durationMs": 178000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/05f6133a-9413-4840-884c-92b28fe553a9"
+      }
+    },
+    "lyricPath": "/lyrics/98096.txt"
+  }
+]

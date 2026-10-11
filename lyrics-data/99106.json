@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99106,
+    "metadata": {
+      "title": "Porsche",
+      "artists": [
+        "Jovem Dex"
+      ],
+      "album": "Crioulo",
+      "releaseDate": "2019-10-31T12:00:00Z",
+      "durationMs": 281640,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "QZHZ41956745",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/c7/3f/a6c73f86-e393-e2d2-b409-9e6696bd5428/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2aba0c6a-dea3-4096-bf53-d2df7bfcf457",
+        "itunes": "https://music.apple.com/us/album/porsche/1484696524?i=1484696525&uo=4",
+        "deezer": "https://www.deezer.com/track/782985442"
+      }
+    },
+    "lyricPath": "/lyrics/99106.txt"
+  }
+]

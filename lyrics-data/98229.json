@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98229,
+    "metadata": {
+      "title": "Poesia Acústica #9 Melhor Forma",
+      "artists": [
+        "Pineapple StormTv, L7NNON, Chris MC, Xamã, Lourena, Cesar Mc, Djonga, Filipe Ret, Salve Malak"
+      ],
+      "album": "Poesia Acústica 14 - Single",
+      "releaseDate": "2023-07-20T12:00:00Z",
+      "durationMs": 849231,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4e/66/b7/4e66b71e-196e-7d2d-0f8f-810e1bcf9cb6/197189352881.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/poesia-ac%C3%BAstica-14/1696192718?i=1696193061&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98229.txt"
+  }
+]

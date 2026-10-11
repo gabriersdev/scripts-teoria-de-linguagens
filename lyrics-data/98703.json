@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98703,
+    "metadata": {
+      "title": "Medo Bobo - Ao Vivo",
+      "artists": [
+        "Maiara & Maraisa"
+      ],
+      "album": "Ao vivo em Goiânia",
+      "releaseDate": "2016-03-04",
+      "durationMs": 174000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1600015",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/c3/74/e1/c374e1a3-00a4-65d7-5ef7-01804294a5c1/7891430419929.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4ac3dcca-1d8f-420e-a610-eb1dfab2283e",
+        "itunes": "https://music.apple.com/us/album/medo-bobo-ao-vivo/1088351565?i=1088353320&uo=4",
+        "deezer": "https://www.deezer.com/track/119976334"
+      }
+    },
+    "lyricPath": "/lyrics/98703.txt"
+  }
+]

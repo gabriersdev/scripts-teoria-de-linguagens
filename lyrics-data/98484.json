@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98484,
+    "metadata": {
+      "title": "Menina Veneno",
+      "artists": [
+        "Ritchie"
+      ],
+      "album": "Seleção essencial",
+      "releaseDate": "2013",
+      "durationMs": 256760,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRSME9500372",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/94/50/fa/mzi.qrmcncyn.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/92173191-9c3e-4150-8ad1-aca2bddef848",
+        "itunes": "https://music.apple.com/us/album/menina-veneno/321575669?i=321575685&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98484.txt"
+  }
+]

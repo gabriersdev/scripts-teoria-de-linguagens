@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99100,
+    "metadata": {
+      "title": "Cada Momento",
+      "artists": [
+        "RIEY"
+      ],
+      "album": "Yo seguiré cantando",
+      "releaseDate": "1974",
+      "durationMs": 168000,
+      "genres": [],
+      "isrc": "QZPLR2476871",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/580e8a8a44cb8bc469c059f150af6d5f/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6fbda032-2137-4eca-8460-dfdbe978fe2d",
+        "deezer": "https://www.deezer.com/track/3966652331"
+      }
+    },
+    "lyricPath": "/lyrics/99100.txt"
+  }
+]

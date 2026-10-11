@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98781,
+    "metadata": {
+      "title": "Mal Feito - Ao Vivo",
+      "artists": [
+        "Hugo & Guilherme & Marília Mendonça"
+      ],
+      "album": "Próximo passo",
+      "releaseDate": "2022-08-05",
+      "durationMs": 177934,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV2100087",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/75/d6/0775d63c-7de3-8c7f-ee5d-a2d1b29a9670/7891430634773.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/128cdef2-6042-411e-95f3-07c8c1715980",
+        "itunes": "https://music.apple.com/us/album/mal-feito/1600153991?i=1600153994&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98781.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98932,
+    "metadata": {
+      "title": "Labirintoz",
+      "artists": [
+        "Sidoka, Pluto"
+      ],
+      "album": "Doka Language",
+      "releaseDate": "2019-07-07",
+      "durationMs": 143000,
+      "genres": [],
+      "isrc": "QFFZ31924486",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6638635fb2b11e898f797b935b9fa447/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8c1a4ad6-9431-4bf2-9acd-f0c7d10ddd2a",
+        "deezer": "https://www.deezer.com/track/1844112907"
+      }
+    },
+    "lyricPath": "/lyrics/98932.txt"
+  }
+]

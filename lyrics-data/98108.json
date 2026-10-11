@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98108,
+    "metadata": {
+      "title": "SET DO JAPA NK 2.0",
+      "artists": [
+        "DJ Japa NK, MC Ryan SP, MC Meno K, Mc IG, MC LUUKY, Mc Jacaré, Mc Rodrigo do CN, MC GH do 7, Mc Lele JP, MC Jvila"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [],
+      "isrc": "BKUNW2500017",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/a291c75e70fe163269106d42c7be5940/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "deezer": "https://www.deezer.com/track/3657130232"
+      }
+    },
+    "lyricPath": "/lyrics/98108.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98474,
+    "metadata": {
+      "title": "Luz Dos Olhos",
+      "artists": [
+        "Nando Reis"
+      ],
+      "album": "A: A letra a",
+      "releaseDate": "2003",
+      "durationMs": 333986,
+      "genres": [
+        "MPB"
+      ],
+      "isrc": "BRUM70700420",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/fa/15/59fa15d1-760b-ac6f-82fe-fcfa4d7f446e/mzm.xtguxtqs.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/de086f0c-2b22-4bf8-94ec-eb40e53d72b5",
+        "itunes": "https://music.apple.com/us/album/luz-dos-olhos-ao-vivo/1056765289?i=1056765499&uo=4",
+        "deezer": "https://www.deezer.com/track/145438126"
+      }
+    },
+    "lyricPath": "/lyrics/98474.txt"
+  }
+]

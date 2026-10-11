@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98073,
+    "metadata": {
+      "title": "Ela Quer Relacionamento",
+      "artists": [
+        "MC Gustavinho, Gt do Mira"
+      ],
+      "album": "Dê o Seu Real",
+      "releaseDate": "2015-12-11",
+      "durationMs": 277000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/118ab9f8-e89c-4cd9-933c-ce773f7c48b8"
+      }
+    },
+    "lyricPath": "/lyrics/98073.txt"
+  }
+]

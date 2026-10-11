@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98428,
+    "metadata": {
+      "title": "Sujeito De Sorte",
+      "artists": [
+        "Belchior"
+      ],
+      "album": "Emicida",
+      "releaseDate": "2022-04-29",
+      "durationMs": 328079,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRMCA7600027",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b0/77/6d/b0776d39-bd5a-0810-8ed5-f3ab5a59aef1/190296858444.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c7617140-3bf5-4862-9436-31f4074cbce5",
+        "itunes": "https://music.apple.com/us/album/sujeito-de-sorte/1541223345?i=1541223365&uo=4",
+        "deezer": "https://www.deezer.com/track/133583620"
+      }
+    },
+    "lyricPath": "/lyrics/98428.txt"
+  }
+]

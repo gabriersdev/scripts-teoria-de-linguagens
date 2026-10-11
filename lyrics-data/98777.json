@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98777,
+    "metadata": {
+      "title": "Caso Indefinido - Ao Vivo",
+      "artists": [
+        "Cristiano Araújo"
+      ],
+      "album": "In the Cities: Ao vivo em Cuiabá",
+      "releaseDate": "2014-11-17",
+      "durationMs": 313267,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRTXU1400015",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/29/7d/48/297d4822-dc9b-3da3-f08c-97994a920c33/7891430371425.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/76fe39af-0c3f-4a34-8449-19cbc9110b67",
+        "itunes": "https://music.apple.com/us/album/caso-indefinido-ao-vivo/934242905?i=934245011&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98777.txt"
+  }
+]

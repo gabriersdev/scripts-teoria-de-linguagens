@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98583,
+    "metadata": {
+      "title": "Anarkia Oi!",
+      "artists": [
+        "Garotos Podres"
+      ],
+      "album": "Class Pride World Wide, Volume 2",
+      "releaseDate": "2002",
+      "durationMs": 188840,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "QZHZ61908604",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/a4/f1/40a4f154-b2ae-7e79-0ac9-05b720a21678/26270.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f2b5bfee-3ab3-4289-ac65-b1283476fdf5",
+        "itunes": "https://music.apple.com/us/album/anarkia-oi/1863752418?i=1863752430&uo=4",
+        "deezer": "https://www.deezer.com/track/863956002"
+      }
+    },
+    "lyricPath": "/lyrics/98583.txt"
+  }
+]

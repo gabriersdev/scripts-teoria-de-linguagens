@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98185,
+    "metadata": {
+      "title": "Destino No Waze",
+      "artists": [
+        "Mc Leo da Baixada"
+      ],
+      "album": "Princesinha da Baixada",
+      "releaseDate": "2020-10-23",
+      "durationMs": 130000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BXG6R1700435",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/50/6d/d3/506dd37f-dd20-960e-e233-13b114e898b8/00889845938279_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b07f43d6-34d2-47fd-8aec-beff3ca16aed",
+        "itunes": "https://music.apple.com/us/album/destino-no-waze/1577309932?i=1577309942&uo=4",
+        "deezer": "https://www.deezer.com/track/1439130032"
+      }
+    },
+    "lyricPath": "/lyrics/98185.txt"
+  }
+]

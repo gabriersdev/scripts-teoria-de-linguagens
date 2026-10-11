@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98243,
+    "metadata": {
+      "title": "Melhor Agora",
+      "artists": [
+        "Filipe Ret, Dallass, Honaiser, LODONI"
+      ],
+      "album": "LUME",
+      "releaseDate": "2022-06-16",
+      "durationMs": 121463,
+      "genres": [],
+      "isrc": "BRRGE2200354",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/966c622d2a432a7bffff340ef36836c7/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3118e4d7-535b-4567-9f61-ecdcd08613ae",
+        "deezer": "https://www.deezer.com/track/1766475857"
+      }
+    },
+    "lyricPath": "/lyrics/98243.txt"
+  }
+]

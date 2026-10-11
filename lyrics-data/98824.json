@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98824,
+    "metadata": {
+      "title": "Olha Pro Oclin",
+      "artists": [
+        "Sidoka, FBC"
+      ],
+      "album": "Doka Language",
+      "releaseDate": "2019-07-07",
+      "durationMs": 221000,
+      "genres": [],
+      "isrc": "QZFZ31924487",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6638635fb2b11e898f797b935b9fa447/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1844112917"
+      }
+    },
+    "lyricPath": "/lyrics/98824.txt"
+  }
+]

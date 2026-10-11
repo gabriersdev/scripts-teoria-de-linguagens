@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98691,
+    "metadata": {
+      "title": "Mentirosa",
+      "artists": [
+        "Hugo & Guilherme"
+      ],
+      "album": "Trilha sonora para ninguém em especial",
+      "releaseDate": "2003",
+      "durationMs": 166000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKSGS2400031",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/99/b6/8b99b65a-51a0-9619-d03e-e6e780d35dbe/196872738278.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5f39db78-a187-4b4e-a8f3-3ebb55ba1648",
+        "itunes": "https://music.apple.com/us/album/mentirosa-ao-vivo/1783652790?i=1783652793&uo=4",
+        "deezer": "https://www.deezer.com/track/3128797471"
+      }
+    },
+    "lyricPath": "/lyrics/98691.txt"
+  }
+]

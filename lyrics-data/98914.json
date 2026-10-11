@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98914,
+    "metadata": {
+      "title": "Garoa, Pt. 2",
+      "artists": [
+        "Ryu, The Runner, No Cutty, Salve Crazy"
+      ],
+      "album": "Essa é a vida de um corredor",
+      "releaseDate": "2023-03-03",
+      "durationMs": 122000,
+      "genres": [],
+      "isrc": "BCY5N2300003",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/782cef210cd47fa6908ba6ed4b6a484b/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e4c985ed-3ae7-47db-9b04-4d99b9ef6314",
+        "deezer": "https://www.deezer.com/track/4030006821"
+      }
+    },
+    "lyricPath": "/lyrics/98914.txt"
+  }
+]

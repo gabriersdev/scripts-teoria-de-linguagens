@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98445,
+    "metadata": {
+      "title": "Santa Sampa",
+      "artists": [
+        "Vespas Mandarinas"
+      ],
+      "album": "Animal Nacional",
+      "releaseDate": "2013-04-09",
+      "durationMs": 242000,
+      "genres": [
+        "brazilian"
+      ],
+      "isrc": "BRDEP1200522",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/17/03/94/170394e8-f94a-d357-a576-0206604194fb/7898324309984.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8bb68b8d-4a46-4c06-87c5-6b496bf6176a",
+        "itunes": "https://music.apple.com/us/album/santa-sampa/977451714?i=977452493&uo=4",
+        "deezer": "https://www.deezer.com/track/95947128"
+      }
+    },
+    "lyricPath": "/lyrics/98445.txt"
+  }
+]

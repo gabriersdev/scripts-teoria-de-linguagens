@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98649,
+    "metadata": {
+      "title": "DONA",
+      "artists": [
+        "Luan Santana & Léo Foguete"
+      ],
+      "album": "AbiaA",
+      "releaseDate": "2024-03-25",
+      "durationMs": 378764,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BR27R2500005",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/91/3b/c3913bff-d255-8de5-7011-e95953740ef3/196873077468.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7ba5b4e3-fd1f-4712-9dcb-717fdc2f0958",
+        "itunes": "https://music.apple.com/us/album/dona-ao-vivo/1808555160?i=1808555161&uo=4",
+        "deezer": "https://www.deezer.com/track/3324993701"
+      }
+    },
+    "lyricPath": "/lyrics/98649.txt"
+  }
+]

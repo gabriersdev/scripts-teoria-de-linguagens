@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98432,
+    "metadata": {
+      "title": "Um Girassol Da Cor Do Seu Cabelo",
+      "artists": [
+        "Lô Borges"
+      ],
+      "album": "Clube da Esquina",
+      "releaseDate": "1972-03-01T08:00:00Z",
+      "durationMs": 252800,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BREMI7100101",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5a/6b/f6/5a6bf61f-835f-3d5c-9d5c-149f7bd5a721/13UABIM51333.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/um-girassol-da-cor-do-seu-cabelo/725786220?i=725787001&uo=4",
+        "deezer": "https://www.deezer.com/track/716531432"
+      }
+    },
+    "lyricPath": "/lyrics/98432.txt"
+  }
+]

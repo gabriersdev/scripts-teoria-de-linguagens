@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98259,
+    "metadata": {
+      "title": "NOITE PERFEITA",
+      "artists": [
+        "Brandão85"
+      ],
+      "album": "Paixão Nacional",
+      "releaseDate": "2023-05-08",
+      "durationMs": 147542,
+      "genres": [],
+      "isrc": "BXW922500066",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/823c311b28a72801b809da4d99c621f4/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/16b55a8e-76be-4a7e-8ad7-cb4dc0744a6f",
+        "deezer": "https://www.deezer.com/track/3429620641"
+      }
+    },
+    "lyricPath": "/lyrics/98259.txt"
+  }
+]

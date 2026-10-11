@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98161,
+    "metadata": {
+      "title": "Rap da Princesa",
+      "artists": [
+        "Furacão 2000, MC Marcinho"
+      ],
+      "album": "Sonhos",
+      "releaseDate": "2015-09-28",
+      "durationMs": 187586,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRFUP0300017",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1f/4d/e3/1f4de390-3eba-98a1-ddbe-bb876d8c1239/718598141868.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f9ff7b89-63fd-4547-b57c-e9658e9d13ec",
+        "itunes": "https://music.apple.com/us/album/rap-da-princesa/1563949299?i=1563949308&uo=4",
+        "deezer": "https://www.deezer.com/track/1341687512"
+      }
+    },
+    "lyricPath": "/lyrics/98161.txt"
+  }
+]

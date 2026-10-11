@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98628,
+    "metadata": {
+      "title": "Pena Que Cê Já Namora",
+      "artists": [
+        "Marcos & Belutti"
+      ],
+      "album": "Daily Breakthrough",
+      "releaseDate": "2026-01-22",
+      "durationMs": 218955,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "US39N2622775",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/0d/ee/730dee37-ce29-0490-7918-f659770050c0/196874541661.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/86ba5892-7863-4ea6-9843-1d0dae6c9cf9",
+        "itunes": "https://music.apple.com/us/album/pena-que-c%C3%AA-j%C3%A1-namora/6783499848?i=6783499852&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98628.txt"
+  }
+]

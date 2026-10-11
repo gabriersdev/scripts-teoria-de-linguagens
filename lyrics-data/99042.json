@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99042,
+    "metadata": {
+      "title": "Boladão Escutando Orochi",
+      "artists": [
+        "Orochi, Oruam, Portugal No Beat, Galdino"
+      ],
+      "album": "Endless Street",
+      "releaseDate": "2024-04-17",
+      "durationMs": 140000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bcccdcfd-6e87-40d3-be86-bbeb1ad1a441"
+      }
+    },
+    "lyricPath": "/lyrics/99042.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98381,
+    "metadata": {
+      "title": "Continuação de um sonho",
+      "artists": [
+        "BK, JXNV$, Gigantes"
+      ],
+      "album": "ICARUS",
+      "releaseDate": "2022-11-17",
+      "durationMs": 205000,
+      "genres": [],
+      "isrc": "BXA5K2200012",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/927397ea14b00eba92454a88ec4f352d/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4f48f770-56d8-4bf4-acc6-2062db7d4219",
+        "deezer": "https://www.deezer.com/track/3261553641"
+      }
+    },
+    "lyricPath": "/lyrics/98381.txt"
+  }
+]

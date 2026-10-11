@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98174,
+    "metadata": {
+      "title": "Amar Amei",
+      "artists": [
+        "MC Don Juan"
+      ],
+      "album": "Ao vivo em Goiânia",
+      "releaseDate": "2018-10-30",
+      "durationMs": 187826,
+      "genres": [
+        "Música tropical"
+      ],
+      "isrc": "BRFGL1800040",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/bf/30/16bf30f1-9d33-208a-2a2f-c9b1e99eb2ae/888815.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6ec0b002-77c9-479e-a151-6c41f329be29",
+        "itunes": "https://music.apple.com/us/album/amar-amei/1836553733?i=1836553735&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98174.txt"
+  }
+]

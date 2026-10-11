@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98175,
+    "metadata": {
+      "title": "A Gente Brigou",
+      "artists": [
+        "MC Don Juan"
+      ],
+      "album": "A Gente Brigou (feat. Mc Don Juan) [Remix] - Single",
+      "releaseDate": "2025-02-03T12:00:00Z",
+      "durationMs": 132000,
+      "genres": [
+        "Forró"
+      ],
+      "isrc": "BXG6R1700090",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/64/b8/e864b831-3a8b-8fc1-d533-f5bc4b5f6e8d/cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/a-gente-brigou-feat-mc-don-juan-remix/1793790799?i=1793790816&uo=4",
+        "deezer": "https://www.deezer.com/track/1441730772"
+      }
+    },
+    "lyricPath": "/lyrics/98175.txt"
+  }
+]

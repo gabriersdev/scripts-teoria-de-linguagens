@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98623,
+    "metadata": {
+      "title": "Saudade Proibida",
+      "artists": [
+        "Simone Mendes"
+      ],
+      "album": "Emeralds",
+      "releaseDate": "2016-03-25",
+      "durationMs": 87999,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": "BRUM72402694",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/0f/3f/470f3f4c-57ab-c688-bf3a-032085ff5544/8721253697268.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d7f9ecff-e787-4209-83b2-f3dfc1d2363f",
+        "itunes": "https://music.apple.com/us/album/saudade-proibida/1799799242?i=1799799256&uo=4",
+        "deezer": "https://www.deezer.com/track/3298437061"
+      }
+    },
+    "lyricPath": "/lyrics/98623.txt"
+  }
+]

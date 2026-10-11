@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98109,
+    "metadata": {
+      "title": "Faz Parte De Mim",
+      "artists": [
+        "MC Tuto, DJ Oreia"
+      ],
+      "album": "Só Não Bastam Palavras",
+      "releaseDate": "1994-06",
+      "durationMs": 245973,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BCSOR2600024",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/a5/a1/63a5a127-cb15-c2fd-f6fa-85e5013378a0/196872018301.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d121c1dd-8a90-4d29-aa0a-f47a1f7a4603",
+        "itunes": "https://music.apple.com/us/album/the-box-medley-funk-2/1740221242?i=1740221258&uo=4",
+        "deezer": "https://www.deezer.com/track/3814512552"
+      }
+    },
+    "lyricPath": "/lyrics/98109.txt"
+  }
+]

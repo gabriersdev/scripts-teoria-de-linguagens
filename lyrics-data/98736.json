@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98736,
+    "metadata": {
+      "title": "Lembrança Boa",
+      "artists": [
+        "Pedro e Benicio"
+      ],
+      "album": "25 Anos",
+      "releaseDate": "1998",
+      "durationMs": 209640,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "QRPBP2600006",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/23/fb/7723fbfb-1761-7883-4102-c43264911755/2c05d237-6b07-4ed6-b038-937d95adc27a.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8f20bcb5-42b6-4ef4-bd06-77b2ba490919",
+        "itunes": "https://music.apple.com/us/album/lembran%C3%A7a-boa/1895424795?i=6763663339&uo=4",
+        "deezer": "https://www.deezer.com/track/3984420331"
+      }
+    },
+    "lyricPath": "/lyrics/98736.txt"
+  }
+]

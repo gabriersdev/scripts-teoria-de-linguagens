@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98199,
+    "metadata": {
+      "title": "Maldita Dose",
+      "artists": [
+        "DJ ARTHUZIIN"
+      ],
+      "album": "Onde Nasce o Som, Vol. 2 (ao Vivo)",
+      "releaseDate": "2018-10-19",
+      "durationMs": 186000,
+      "genres": [],
+      "isrc": "BKARF2500003",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/06841015fcb34943449489586bcc6b26/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/82cffda0-ef77-4249-9f27-cb8a73a0f071",
+        "deezer": "https://www.deezer.com/track/3500157671"
+      }
+    },
+    "lyricPath": "/lyrics/98199.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98939,
+    "metadata": {
+      "title": "Nightlife",
+      "artists": [
+        "Sidoka"
+      ],
+      "album": "Silver Fox Blues Box 8",
+      "releaseDate": "2019-07-07",
+      "durationMs": 280800,
+      "genres": [],
+      "isrc": "QZFZ31924493",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6638635fb2b11e898f797b935b9fa447/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4ade4340-c433-4ce8-8421-186cae3277ab",
+        "deezer": "https://www.deezer.com/track/1844112977"
+      }
+    },
+    "lyricPath": "/lyrics/98939.txt"
+  }
+]

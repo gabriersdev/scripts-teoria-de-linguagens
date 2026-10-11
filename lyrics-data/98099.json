@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98099,
+    "metadata": {
+      "title": "365 Dias (Vida Mansa)",
+      "artists": [
+        "MC Marks, MC Ryan SP, MC Jvila, MC Bruno MS, Mc Magal, Aaron Modesto, DJ Dael, MC LUUKY"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [],
+      "isrc": "BK4DA2449853",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/5ccbc74854f9ffb551d36850ff725411/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "deezer": "https://www.deezer.com/track/3016378181"
+      }
+    },
+    "lyricPath": "/lyrics/98099.txt"
+  }
+]

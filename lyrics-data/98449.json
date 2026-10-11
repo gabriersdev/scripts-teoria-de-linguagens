@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98449,
+    "metadata": {
+      "title": "Até Quando Esperar",
+      "artists": [
+        "Plebe Rude"
+      ],
+      "album": "Almanaque Años 80",
+      "releaseDate": "1985-03-25T12:00:00Z",
+      "durationMs": 268160,
+      "genres": [
+        "MPB"
+      ],
+      "isrc": "BREMI8500018",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cd/5e/01/cd5e0166-4844-91cb-b329-738eb81e1aae/13UMGIM90949.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/ate-quando-esperar/806221451?i=806221774&uo=4",
+        "deezer": "https://www.deezer.com/track/49582591"
+      }
+    },
+    "lyricPath": "/lyrics/98449.txt"
+  }
+]

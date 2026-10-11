@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98293,
+    "metadata": {
+      "title": "Te Amo Disgraça",
+      "artists": [
+        "Baco Exu do Blues"
+      ],
+      "album": "Esú",
+      "releaseDate": "2017-09-04",
+      "durationMs": 291000,
+      "genres": [
+        "R&B/Soul"
+      ],
+      "isrc": "QZ5AB1740783",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ad/d5/e2/add5e298-8cea-8286-e3e7-f63b4a66b063/0732535773325.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e5b23116-1c35-4281-87b1-ee3991a400f3",
+        "itunes": "https://music.apple.com/us/album/fica-a-vontade-feat-annie-gaya-v-boy/1528102362?i=1528102364&uo=4",
+        "deezer": "https://www.deezer.com/track/445019772"
+      }
+    },
+    "lyricPath": "/lyrics/98293.txt"
+  }
+]

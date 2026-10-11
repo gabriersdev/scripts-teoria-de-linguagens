@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98818,
+    "metadata": {
+      "title": "Modo Avião",
+      "artists": [
+        "Yung Nobre"
+      ],
+      "album": "Novaterra Vol. 1",
+      "releaseDate": "2020-10-02",
+      "durationMs": 100381,
+      "genres": [],
+      "isrc": "BXZYA2200020",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4f7761e9e84e79b123c3e82add035a69/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2948496c-5626-4028-8804-77107a077243",
+        "deezer": "https://www.deezer.com/track/1817431567"
+      }
+    },
+    "lyricPath": "/lyrics/98818.txt"
+  }
+]

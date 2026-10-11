@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98984,
+    "metadata": {
+      "title": "VAI DESCE BABY",
+      "artists": [
+        "Tz da Coronel, Veigh"
+      ],
+      "album": "Dos Prédios Deluxe",
+      "releaseDate": "2023-05-19",
+      "durationMs": 188497,
+      "genres": [],
+      "isrc": "QZMWW2396003",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/2e2eb4cc1dee31b0acd5df3593656ed0/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bebd4ee4-8dc3-463f-bfa1-79d898c457b3",
+        "deezer": "https://www.deezer.com/track/3680442122"
+      }
+    },
+    "lyricPath": "/lyrics/98984.txt"
+  }
+]

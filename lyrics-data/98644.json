@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98644,
+    "metadata": {
+      "title": "Voltável",
+      "artists": [
+        "Tarcísio do Acordeon"
+      ],
+      "album": "Meu Sonho - Pt. 2",
+      "releaseDate": "2021-07-02",
+      "durationMs": 182000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BKTWA2600002",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/4c/4b/9c4c4b43-7d24-4762-a07f-8c70e25d1398/8721466703398.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8fa3b0e8-8b2c-4ac1-a353-6ea6331cb7d5",
+        "itunes": "https://music.apple.com/us/album/volt%C3%A1vel/6819864456?i=6819864463&uo=4",
+        "deezer": "https://www.deezer.com/track/3966134851"
+      }
+    },
+    "lyricPath": "/lyrics/98644.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98514,
+    "metadata": {
+      "title": "Tora Tora",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "MAXIMUM PERFECT BEST",
+      "releaseDate": "2015-12-23",
+      "durationMs": 225000,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "JPB609610201",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3f/a4/f8/3fa4f883-d23e-1845-984e-9d1ae2b268eb/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/87964b25-607c-481a-aab0-1e41fdbd254a",
+        "itunes": "https://music.apple.com/us/album/tora-tora-ao-vivo/879819848?i=879819869&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98514.txt"
+  }
+]

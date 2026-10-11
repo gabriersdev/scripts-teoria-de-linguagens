@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98195,
+    "metadata": {
+      "title": "Oh nanana",
+      "artists": [
+        "Bonde R300"
+      ],
+      "album": "L'album",
+      "releaseDate": "2018-09-17T12:00:00Z",
+      "durationMs": 219426,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "US7VG1770309",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/79/e7/bf/79e7bf32-8436-a2a4-8e62-bf25d018c854/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b54ca86a-566f-4000-beca-96503463595d",
+        "itunes": "https://music.apple.com/us/album/oh-nanana-feat-xang-mayklove-remix/1437086789?i=1437086793&uo=4",
+        "deezer": "https://www.deezer.com/track/365783551"
+      }
+    },
+    "lyricPath": "/lyrics/98195.txt"
+  }
+]

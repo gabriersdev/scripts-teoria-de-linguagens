@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98719,
+    "metadata": {
+      "title": "Estranho - Ao Vivo | Acústico",
+      "artists": [
+        "Marília Mendonça"
+      ],
+      "album": "Agora é que são elas 2: Acústico (ao vivo)",
+      "releaseDate": "2018-04-13",
+      "durationMs": 158000,
+      "genres": [],
+      "isrc": "BRWNV1800018",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/010b91440e66716ebe048325ced9c8e5/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/48d83c2a-5b6c-4b93-a47f-254a533d55cd",
+        "deezer": "https://www.deezer.com/track/485228902"
+      }
+    },
+    "lyricPath": "/lyrics/98719.txt"
+  }
+]

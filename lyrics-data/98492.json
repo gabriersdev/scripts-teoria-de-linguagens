@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98492,
+    "metadata": {
+      "title": "Roots Bloody Roots",
+      "artists": [
+        "Sepultura"
+      ],
+      "album": "Killer Kovers",
+      "releaseDate": "2015-06-19",
+      "durationMs": 190586,
+      "genres": [
+        "Metal"
+      ],
+      "isrc": "NLA329513650",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/30/aa/c9/30aac975-fe35-e53c-0aa7-a9126455e6e0/603497866250.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4cc6e46b-1811-4567-a25b-f42e9771078f",
+        "itunes": "https://music.apple.com/us/album/roots-bloody-roots-remastered/1299151419?i=1299151618&uo=4",
+        "deezer": "https://www.deezer.com/track/717542"
+      }
+    },
+    "lyricPath": "/lyrics/98492.txt"
+  }
+]

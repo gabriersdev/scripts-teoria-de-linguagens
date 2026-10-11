@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98296,
+    "metadata": {
+      "title": "Conexões de Máfia (feat. Rich The Kid)",
+      "artists": [
+        "Matuê, Rich The Kid"
+      ],
+      "album": "Conexões de Máfia",
+      "releaseDate": "2023-04-30",
+      "durationMs": 221538,
+      "genres": [],
+      "isrc": "BXW922200014",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/aa79ed078b14f2d351bf9154b11490f9/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4db8ef2c-8441-45ba-aec8-5047c437b38b",
+        "deezer": "https://www.deezer.com/track/2255304187"
+      }
+    },
+    "lyricPath": "/lyrics/98296.txt"
+  }
+]

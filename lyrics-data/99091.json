@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99091,
+    "metadata": {
+      "title": "Vai, Slip",
+      "artists": [
+        "Slipmami"
+      ],
+      "album": "Até aqui, Slip nos ajudou",
+      "releaseDate": "2024-09-13",
+      "durationMs": 137142,
+      "genres": [],
+      "isrc": "QZNMV2457751",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7b56dc6e6b1dbf07c9c19de22d5a3ed9/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bc130140-a8fc-44e0-89e9-8162edfd3595",
+        "deezer": "https://www.deezer.com/track/2981570941"
+      }
+    },
+    "lyricPath": "/lyrics/99091.txt"
+  }
+]

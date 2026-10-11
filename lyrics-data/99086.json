@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99086,
+    "metadata": {
+      "title": "Malvadeza",
+      "artists": [
+        "Slipmami"
+      ],
+      "album": "Malvadeza",
+      "releaseDate": "2021-07-07",
+      "durationMs": 120000,
+      "genres": [],
+      "isrc": "BX3AW2100008",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/59a6228d03fed9564ba61684aaad3807/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ecc761b1-3444-4445-8a26-df53e47a2cec",
+        "deezer": "https://www.deezer.com/track/3535362911"
+      }
+    },
+    "lyricPath": "/lyrics/99086.txt"
+  }
+]

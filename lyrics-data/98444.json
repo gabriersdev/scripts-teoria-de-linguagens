@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98444,
+    "metadata": {
+      "title": "Eu Não Matei Joana d'Arc",
+      "artists": [
+        "Camisa de Vênus"
+      ],
+      "album": "Viva (Ao Vivo)",
+      "releaseDate": "1986-01-01T12:00:00Z",
+      "durationMs": 269453,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRSGL8500080",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/49/b3/73/49b3731d-7a61-75b6-02cb-baa039f35219/7891430097578.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/eu-n%C3%A3o-matei-joana-darc-ao-vivo/1147264774?i=1147265184&uo=4",
+        "deezer": "https://www.deezer.com/track/136765244"
+      }
+    },
+    "lyricPath": "/lyrics/98444.txt"
+  }
+]

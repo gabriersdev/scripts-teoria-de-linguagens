@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98526,
+    "metadata": {
+      "title": "Os Cegos do Castelo - Ao Vivo",
+      "artists": [
+        "Pitty & Nando Reis"
+      ],
+      "album": "PITTYNANDO – As suas, as minhas e as nossas",
+      "releaseDate": "2023-03-17T12:00:00Z",
+      "durationMs": 262947,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BXST42200003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/00/8b/fb008bfc-9a19-862a-00cc-4cda539e0ee0/7898324327940.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/27ba3b2e-14f6-43ff-9a7a-aed4cf6bb8d4",
+        "itunes": "https://music.apple.com/us/album/os-cegos-do-castelo-ao-vivo/1729848040?i=1729848609&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98526.txt"
+  }
+]

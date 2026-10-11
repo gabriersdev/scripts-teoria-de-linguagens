@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98045,
+    "metadata": {
+      "title": "Mentira ou Verdade",
+      "artists": [
+        "DJ Biel do Furduncinho, MC Jvila, $CAM, DJ Dael, Ian Durso"
+      ],
+      "album": "Beats e Rimas",
+      "releaseDate": "2005",
+      "durationMs": 198000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/1ec0be84-c5fc-4cd0-a0c6-3b6da4eda5e4"
+      }
+    },
+    "lyricPath": "/lyrics/98045.txt"
+  }
+]

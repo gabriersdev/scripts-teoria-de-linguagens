@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98613,
+    "metadata": {
+      "title": "Oi, Tudo Bem?",
+      "artists": [
+        "Zé Neto & Cristiano"
+      ],
+      "album": "Vocês & Deus, Vol. 1 (Ao Vivo no Rio de Janeiro)",
+      "releaseDate": "2026-04-07",
+      "durationMs": 187750,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE2600455",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/af/a3/63afa3c3-7c7b-bc39-a050-6f66a2dcb53d/196874264478.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e2cb5a46-5a34-474f-97ff-85555915bd88",
+        "itunes": "https://music.apple.com/us/album/oi-tudo-bem-ao-vivo/6774797126?i=6774797446&uo=4",
+        "deezer": "https://www.deezer.com/track/4053915901"
+      }
+    },
+    "lyricPath": "/lyrics/98613.txt"
+  }
+]

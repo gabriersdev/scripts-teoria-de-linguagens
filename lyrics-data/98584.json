@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98584,
+    "metadata": {
+      "title": "Papai Noel, Velho Batuta",
+      "artists": [
+        "Garotos Podres"
+      ],
+      "album": "Live In Rio",
+      "releaseDate": "1985-04-30T12:00:00Z",
+      "durationMs": 109000,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BR03D2101283",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/a4/f1/40a4f154-b2ae-7e79-0ac9-05b720a21678/26270.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0763a1fe-1b3c-4fe7-aab1-3bb446206f4f",
+        "itunes": "https://music.apple.com/us/album/papai-noel-velho-batuta/1863752418?i=1863752436&uo=4",
+        "deezer": "https://www.deezer.com/track/1381996742"
+      }
+    },
+    "lyricPath": "/lyrics/98584.txt"
+  }
+]

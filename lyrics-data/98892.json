@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98892,
+    "metadata": {
+      "title": "Beyoncé",
+      "artists": [
+        "Ryu, The Runner, Stef, Tommy Gun, Salve Crazy"
+      ],
+      "album": "Essa é a vida de um corredor",
+      "releaseDate": "2023-03-03",
+      "durationMs": 137000,
+      "genres": [],
+      "isrc": "QZ5FN2388684",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/782cef210cd47fa6908ba6ed4b6a484b/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f3e3c254-f598-46ba-8459-a9dfdca0eb55",
+        "deezer": "https://www.deezer.com/track/4030006811"
+      }
+    },
+    "lyricPath": "/lyrics/98892.txt"
+  }
+]

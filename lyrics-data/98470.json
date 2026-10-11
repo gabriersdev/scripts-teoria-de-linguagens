@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98470,
+    "metadata": {
+      "title": "Respeito É a Lei",
+      "artists": [
+        "RANCORE"
+      ],
+      "album": "Sabotage",
+      "releaseDate": "2016-10-17",
+      "durationMs": 247746,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRTOC0800002",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/74/0a/da/740ada53-9efb-9a5f-e98e-e890c3095535/mzm.eblshjax.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c28b9436-64e8-40a2-b3ff-40e067c2c732",
+        "itunes": "https://music.apple.com/us/album/respeito-%C3%A9-a-lei/1059008831?i=1059008835&uo=4",
+        "deezer": "https://www.deezer.com/track/112870168"
+      }
+    },
+    "lyricPath": "/lyrics/98470.txt"
+  }
+]

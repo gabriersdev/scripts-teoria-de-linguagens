@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98339,
+    "metadata": {
+      "title": "Canto Alto",
+      "artists": [
+        "Filipe Ret, Daniel Shadow, Mãolee"
+      ],
+      "album": "Vivaz",
+      "releaseDate": "2012-12-20T12:00:00Z",
+      "durationMs": 234614,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BRRGE2502619",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/01/23/03/012303d7-e5e7-50d3-bce8-b724c9233740/e03f42af-8868-439e-951e-aa9e0c8ca3f3.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/dutumob-feat-daniel-shadow/1715731251?i=1715731254&uo=4",
+        "deezer": "https://www.deezer.com/track/3450782941"
+      }
+    },
+    "lyricPath": "/lyrics/98339.txt"
+  }
+]

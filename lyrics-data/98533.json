@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98533,
+    "metadata": {
+      "title": "Porque Eu Sei Que É Amor - Acústico",
+      "artists": [
+        "Titãs"
+      ],
+      "album": "Sacos plásticos",
+      "releaseDate": "2009",
+      "durationMs": 195000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BR3751900111",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6d/07/25/6d07258c-896b-fdc0-2579-0826cd0dddd9/795935679857.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c63d6f86-3536-4b40-b920-d52d601c5023",
+        "itunes": "https://music.apple.com/us/album/porque-eu-sei-que-%C3%A9-amor-ac%C3%BAstico/1590222407?i=1590222486&uo=4",
+        "deezer": "https://www.deezer.com/track/1521304302"
+      }
+    },
+    "lyricPath": "/lyrics/98533.txt"
+  }
+]

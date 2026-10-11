@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98877,
+    "metadata": {
+      "title": "Clone",
+      "artists": [
+        "Yung Nobre, Kyan, Mu540"
+      ],
+      "album": "UM Quebrada Inteligente",
+      "releaseDate": "2023-07-14",
+      "durationMs": 200000,
+      "genres": [],
+      "isrc": "BKRQM2300013",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7416e67167d4961557d31af417d8335a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5ded971d-748c-480b-b09b-cfbc4d0f9620",
+        "deezer": "https://www.deezer.com/track/1807363377"
+      }
+    },
+    "lyricPath": "/lyrics/98877.txt"
+  }
+]

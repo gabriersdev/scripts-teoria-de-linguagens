@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98949,
+    "metadata": {
+      "title": "WAH?",
+      "artists": [
+        "Nosred, 3X"
+      ],
+      "album": "Catch These Vibes",
+      "releaseDate": "2017-11-17",
+      "durationMs": 207000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "USAT21704720",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/08/58/600858ec-0464-4f46-e513-f371a98e0356/1452486.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/207ed305-5d85-47b8-b9e7-1cb15d8c4591",
+        "itunes": "https://music.apple.com/us/album/vaporeon-mp3-remix/6817344135?i=6817344137&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98949.txt"
+  }
+]

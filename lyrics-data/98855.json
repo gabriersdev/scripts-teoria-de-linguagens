@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98855,
+    "metadata": {
+      "title": "Peixe",
+      "artists": [
+        "Brandão85, Alee"
+      ],
+      "album": "CAOS DLX",
+      "releaseDate": "2025-07-24",
+      "durationMs": 151030,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BKNDN2400097",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/7b/34/c77b345a-e6de-e0cb-3ee7-dea22ab247dc/703441368431.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5940f6cc-ec48-4631-a84c-8dd87af33c35",
+        "itunes": "https://music.apple.com/us/album/peixe/1790985604?i=1790985614&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98855.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98901,
+    "metadata": {
+      "title": "F.Q.O.M.V.M.A.",
+      "artists": [
+        "D$ Luqi, Ugovhb"
+      ],
+      "album": "UNDERGROUND STARS",
+      "releaseDate": "2023-03-24",
+      "durationMs": 101147,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BXIV82329338",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/f2/bf/07f2bfb3-135b-edd8-59c4-95bb5c12a73b/cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f6bc1e8b-c2ca-4b69-a1da-50d701184b0d",
+        "itunes": "https://music.apple.com/us/album/dont-stop-feat-french-montana-rick-ross-drake-lil-wayne/591626352?i=591626364&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98901.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98770,
+    "metadata": {
+      "title": "Ausência - Ao Vivo | Acústico",
+      "artists": [
+        "Marília Mendonça"
+      ],
+      "album": "Ausência",
+      "releaseDate": "2018-03-14",
+      "durationMs": 149995,
+      "genres": [],
+      "isrc": "BRWNV1800016",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/010b91440e66716ebe048325ced9c8e5/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/896d42f7-abe0-4327-8138-e8c90a89c0ac",
+        "deezer": "https://www.deezer.com/track/485228852"
+      }
+    },
+    "lyricPath": "/lyrics/98770.txt"
+  }
+]

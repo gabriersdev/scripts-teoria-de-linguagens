@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98568,
+    "metadata": {
+      "title": "Nada a Declarar - Ao Vivo",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "Acústico MTV",
+      "releaseDate": "2005",
+      "durationMs": 186093,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRMZA1100040",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/e5/1f/54/e51f5427-7b97-7cc5-1a3d-2c59d86c7712/Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/799b62ac-1244-4ce7-abb1-a8e5f0aca176",
+        "itunes": "https://music.apple.com/us/album/nada-a-declarar-ao-vivo/567964995?i=567965146&uo=4",
+        "deezer": "https://www.deezer.com/track/61152849"
+      }
+    },
+    "lyricPath": "/lyrics/98568.txt"
+  }
+]

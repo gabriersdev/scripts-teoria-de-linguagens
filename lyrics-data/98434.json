@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98434,
+    "metadata": {
+      "title": "Bichos escrotos",
+      "artists": [
+        "Titãs"
+      ],
+      "album": "Rock In Rio Ao Vivo",
+      "releaseDate": "2012",
+      "durationMs": 209000,
+      "genres": [
+        "Electronic"
+      ],
+      "isrc": "BRWMB9600805",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/25/93/1c2593f1-3df9-5bcd-d3b5-0c2b3544e878/4050538773033.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3d68b451-7496-48be-806e-413720476e6a",
+        "itunes": "https://music.apple.com/us/album/bichos-escrotos-remix-extended-mix/1598865589?i=1598865592&uo=4",
+        "deezer": "https://www.deezer.com/track/62791487"
+      }
+    },
+    "lyricPath": "/lyrics/98434.txt"
+  }
+]

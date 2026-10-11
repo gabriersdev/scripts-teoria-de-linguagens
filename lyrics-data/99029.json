@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99029,
+    "metadata": {
+      "title": "pela família",
+      "artists": [
+        "Dfideliz"
+      ],
+      "album": "Os Melhores Cânticos De Fé",
+      "releaseDate": "2008",
+      "durationMs": 288693,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "GBRKQ2612748",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/45/34/b3/4534b3cd-2bb3-595e-728f-2891fd013cd0/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/1eea664b-3ad5-493b-bf38-b5897d4a7779",
+        "itunes": "https://music.apple.com/us/album/favelado-tamb%C3%A9m-pode-feat-dfideliz/1470058389?i=1470058390&uo=4",
+        "deezer": "https://www.deezer.com/track/3945586261"
+      }
+    },
+    "lyricPath": "/lyrics/99029.txt"
+  }
+]

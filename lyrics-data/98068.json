@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98068,
+    "metadata": {
+      "title": "Vai Tomando Pock Pock",
+      "artists": [
+        "Mc Lele JP, MC Leozinho ZS, MC GH Original, MC Menor ZL, DJ GORDINHO DA VF, MC Meno K, MC PR"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [
+        "Hip-Hop"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/67/af/30/67af30b4-c1c8-722b-1c7a-1588c0957057/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "itunes": "https://music.apple.com/us/album/cypher-do-ladr%C3%A3o/1601270185?i=1601270186&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98068.txt"
+  }
+]

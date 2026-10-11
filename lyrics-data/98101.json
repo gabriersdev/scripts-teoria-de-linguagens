@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98101,
+    "metadata": {
+      "title": "POR AÍ",
+      "artists": [
+        "DJ TOPO, Mc Livinho"
+      ],
+      "album": "Recado",
+      "releaseDate": "1979",
+      "durationMs": 195692,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BCDMP2500010",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/6c/8c/006c8cd9-7611-f673-bb88-00a882509dcb/196874360330.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c5b09b60-5122-4c62-bac9-2119472f7e2d",
+        "itunes": "https://music.apple.com/us/album/por-a%C3%AD/6766382685?i=6766382686&uo=4",
+        "deezer": "https://www.deezer.com/track/3809626522"
+      }
+    },
+    "lyricPath": "/lyrics/98101.txt"
+  }
+]

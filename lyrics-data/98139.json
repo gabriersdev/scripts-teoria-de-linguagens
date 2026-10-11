@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98139,
+    "metadata": {
+      "title": "Vai Safada",
+      "artists": [
+        "Mc Pikachu, DJ R7, Mc Brinquedo"
+      ],
+      "album": "Samma uns ehrlich",
+      "releaseDate": "2007-06-30",
+      "durationMs": 292000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BXG6R1700133",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/d2/5f/79d25f7d-1001-fd33-b9cb-5aac3934087b/5021732752970.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/906928e3-6ea7-43a8-9bc6-36b583afaef6",
+        "itunes": "https://music.apple.com/us/album/contexto-da-noite-feat-mc-brinquedo-brenninho-vj-menor/1804183035?i=1804183037&uo=4",
+        "deezer": "https://www.deezer.com/track/1443966672"
+      }
+    },
+    "lyricPath": "/lyrics/98139.txt"
+  }
+]

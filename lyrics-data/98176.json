@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98176,
+    "metadata": {
+      "title": "Beat do Megatron",
+      "artists": [
+        "MC Kitinho, MC Lustosa"
+      ],
+      "album": "Hap Hip Hop",
+      "releaseDate": "2021-07-31",
+      "durationMs": 109000,
+      "genres": [],
+      "isrc": "BXG6R1800057",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/321c1696040ed969d289f902085ccdd6/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8369439a-c37e-415d-837a-a336ad1be2e2",
+        "deezer": "https://www.deezer.com/track/1442899222"
+      }
+    },
+    "lyricPath": "/lyrics/98176.txt"
+  }
+]

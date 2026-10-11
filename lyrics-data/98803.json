@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98803,
+    "metadata": {
+      "title": "Dejavu",
+      "artists": [
+        "Sidoka, Dogor"
+      ],
+      "album": "Elevate",
+      "releaseDate": "2018-12-28",
+      "durationMs": 228000,
+      "genres": [],
+      "isrc": "QZFZ31924496",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6638635fb2b11e898f797b935b9fa447/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8adb82ac-b674-4e17-b195-9cc961a78356",
+        "deezer": "https://www.deezer.com/track/1844113007"
+      }
+    },
+    "lyricPath": "/lyrics/98803.txt"
+  }
+]

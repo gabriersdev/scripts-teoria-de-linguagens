@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98032,
+    "metadata": {
+      "title": "Set Dj Gm 6.0",
+      "artists": [
+        "Dj GM, Mc Paiva ZS, Triz, MC Paulin da Capital, Mc Lipi, Mc Lele JP, MC Ryan SP, Gabb MC, Mc Daniel, MC Cebezinho"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/69/dd/ef69dde4-04a7-08b1-949a-92e8ad6481c8/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "itunes": "https://music.apple.com/us/album/set-dj-gm-6-0/1722657165?i=1722657500&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98032.txt"
+  }
+]

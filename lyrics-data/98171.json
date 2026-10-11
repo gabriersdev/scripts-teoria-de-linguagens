@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98171,
+    "metadata": {
+      "title": "Catucar",
+      "artists": [
+        "MC Marcinho"
+      ],
+      "album": "Sonhos",
+      "releaseDate": "2015-09-28",
+      "durationMs": 189013,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": "BRFUP0300105",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/39/a1/e8/39a1e86c-eae9-4757-373d-fd133c695a2f/8720766176680.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a914d1ea-bb64-448f-88c0-669900733879",
+        "itunes": "https://music.apple.com/us/album/catucar/1628112525?i=1628112533&uo=4",
+        "deezer": "https://www.deezer.com/track/1336105902"
+      }
+    },
+    "lyricPath": "/lyrics/98171.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98115,
+    "metadata": {
+      "title": "Passa Devagar",
+      "artists": [
+        "MC Hariel"
+      ],
+      "album": "Coverin' Thoughts",
+      "releaseDate": "2019-04-24T12:00:00Z",
+      "durationMs": 176000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "US7VG1547166",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b3/cc/07/b3cc077e-c352-e214-c7b5-16582bd142d2/00193483763828_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/feb3d42f-9f9e-4213-b935-77b7388abae5",
+        "itunes": "https://music.apple.com/us/album/fazendo-amor/1577346863?i=1577346869&uo=4",
+        "deezer": "https://www.deezer.com/track/864191422"
+      }
+    },
+    "lyricPath": "/lyrics/98115.txt"
+  }
+]

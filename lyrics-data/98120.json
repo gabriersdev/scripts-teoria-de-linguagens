@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98120,
+    "metadata": {
+      "title": "Jogo de Palavras 2",
+      "artists": [
+        "Mc Kevin, MC Hariel"
+      ],
+      "album": "Hommage À Marius Cultier",
+      "releaseDate": "1994",
+      "durationMs": 285133,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "QZ5AB1611629",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/78/be/98/78be989c-d6ba-3044-68dd-b0f605ac8cee/00645789134654_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7cf6f56f-8152-4948-b624-7a5c1f5b64eb",
+        "itunes": "https://music.apple.com/us/album/jogo-de-palavras-2/1509584349?i=1509584350&uo=4",
+        "deezer": "https://www.deezer.com/track/939002282"
+      }
+    },
+    "lyricPath": "/lyrics/98120.txt"
+  }
+]

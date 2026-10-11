@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99133,
+    "metadata": {
+      "title": "Novo Balanço",
+      "artists": [
+        "Veigh, Bvga Beatz, Prod Malax, Supernova Ent"
+      ],
+      "album": "Dos Prédios Deluxe",
+      "releaseDate": "2023-05-19",
+      "durationMs": 140322,
+      "genres": [],
+      "isrc": "QZMWW2396002",
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/36a25812-885d-4e8f-bcfc-583154109941"
+      }
+    },
+    "lyricPath": "/lyrics/99133.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98485,
+    "metadata": {
+      "title": "Primeiros Erros (Chove)",
+      "artists": [
+        "Kiko Zambianchi"
+      ],
+      "album": "Retratos",
+      "releaseDate": "2006-01-16",
+      "durationMs": 220733,
+      "genres": [
+        "MPB"
+      ],
+      "isrc": "BREMI8500048",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/98/18/45/981845bf-a1c8-c1a4-b258-6d5a5afe9573/13UABIM50291.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5c5a99da-ab14-4965-88db-a69b0759dc87",
+        "itunes": "https://music.apple.com/us/album/primeiros-erros-chove/724089648?i=724089711&uo=4",
+        "deezer": "https://www.deezer.com/track/3522862"
+      }
+    },
+    "lyricPath": "/lyrics/98485.txt"
+  }
+]

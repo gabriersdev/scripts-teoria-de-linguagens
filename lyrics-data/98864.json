@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98864,
+    "metadata": {
+      "title": "Cogulândia",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "Máquina do Tempo",
+      "releaseDate": "2020-09-10",
+      "durationMs": 120000,
+      "genres": [],
+      "isrc": "BXW922000008",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9ad06bcb9f0bfe52bbd5e6ff464e4ca4/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/63f76841-047c-436e-bbde-a69f6a8b8421",
+        "deezer": "https://www.deezer.com/track/1049882292"
+      }
+    },
+    "lyricPath": "/lyrics/98864.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98710,
+    "metadata": {
+      "title": "Apelido Carinhoso",
+      "artists": [
+        "Gusttavo Lima"
+      ],
+      "album": "Juliana Diniz",
+      "releaseDate": "2005",
+      "durationMs": 189000,
+      "genres": [
+        "Worldwide"
+      ],
+      "isrc": "BXBAL1700066",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5c/d4/1a/5cd41a92-c182-553a-68f1-a2ddf3322118/196589304254.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/72730014-b230-4c7e-a5b5-a937f052cd8e",
+        "itunes": "https://music.apple.com/us/album/apelido-carinhoso/1634841600?i=1634841602&uo=4",
+        "deezer": "https://www.deezer.com/track/1826940407"
+      }
+    },
+    "lyricPath": "/lyrics/98710.txt"
+  }
+]

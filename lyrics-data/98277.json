@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98277,
+    "metadata": {
+      "title": "Da Onde Eu Venho",
+      "artists": [
+        "Filipe Ret, Mãolee"
+      ],
+      "album": "Universo Adverso - Quem Sabe no Futuro",
+      "releaseDate": "2025-10-23T12:00:00Z",
+      "durationMs": 135879,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRRGE2401130",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/71/43/8b7143c5-c069-2507-5ba1-23c46dda24c0/196873684741.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4e4a88e6-e7b5-44e8-a202-ba23aa1618d1",
+        "itunes": "https://music.apple.com/us/album/da-onde-eu-venho-ao-vivo/1844682563?i=1844682567&uo=4",
+        "deezer": "https://www.deezer.com/track/3074647161"
+      }
+    },
+    "lyricPath": "/lyrics/98277.txt"
+  }
+]

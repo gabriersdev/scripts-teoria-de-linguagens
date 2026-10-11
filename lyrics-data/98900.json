@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98900,
+    "metadata": {
+      "title": "GRAÇA",
+      "artists": [
+        "ohayomatsu, hatyro, NIKK"
+      ],
+      "album": "1000 Tracks For TV1000",
+      "releaseDate": "2017-04-15",
+      "durationMs": 1098,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/06d220e0-668a-4f89-89b0-127d33c547b9"
+      }
+    },
+    "lyricPath": "/lyrics/98900.txt"
+  }
+]

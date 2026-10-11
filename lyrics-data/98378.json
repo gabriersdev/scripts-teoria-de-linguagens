@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98378,
+    "metadata": {
+      "title": "Mais uma Semana",
+      "artists": [
+        "Tangi, Pelé MilFlows, Neo Beats, inBlack, Tio Thulio, CP no Beat"
+      ],
+      "album": "Continua",
+      "releaseDate": "2013-09-23",
+      "durationMs": 208000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/cb09718a-2993-4ba4-aef3-9dbf755fcdec"
+      }
+    },
+    "lyricPath": "/lyrics/98378.txt"
+  }
+]

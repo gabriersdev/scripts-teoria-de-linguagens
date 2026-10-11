@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98503,
+    "metadata": {
+      "title": "Meio Psicopata",
+      "artists": [
+        "Matanza"
+      ],
+      "album": "MTV Apresenta: Matanza",
+      "releaseDate": "2008-04",
+      "durationMs": 127000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP0600434",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/40/b7/4340b728-c3b3-543b-af7f-fa26ce4edf37/7898324302602.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/29ef4fca-917b-4a26-b95e-e975ba7d4d0c",
+        "itunes": "https://music.apple.com/us/album/meio-psicopata/977391848?i=977391854&uo=4",
+        "deezer": "https://www.deezer.com/track/96188834"
+      }
+    },
+    "lyricPath": "/lyrics/98503.txt"
+  }
+]

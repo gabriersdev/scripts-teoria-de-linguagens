@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98753,
+    "metadata": {
+      "title": "Sorte Que Cê Beija Bem - Ao Vivo",
+      "artists": [
+        "Maiara & Maraisa"
+      ],
+      "album": "Maiara & Maraisa (ao vivo)",
+      "releaseDate": "2017-01-13",
+      "durationMs": 154661,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1600315",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/0d/fb/4a/0dfb4a9e-801e-a006-096d-356923285311/7891430448226.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/028b45f9-1c03-4749-9f5e-ff070d512999",
+        "itunes": "https://music.apple.com/us/album/sorte-que-c%C3%AA-beija-bem-ao-vivo/1215354469?i=1215354560&uo=4",
+        "deezer": "https://www.deezer.com/track/144210952"
+      }
+    },
+    "lyricPath": "/lyrics/98753.txt"
+  }
+]

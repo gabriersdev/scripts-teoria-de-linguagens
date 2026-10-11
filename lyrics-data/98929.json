@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98929,
+    "metadata": {
+      "title": "90's",
+      "artists": [
+        "Ark King, Gum64ll"
+      ],
+      "album": "花標 ～アトリエシリーズ アレンジヴォーカルアルバム Feat.堀江真美 Vol.2～",
+      "releaseDate": "2012-06-27",
+      "durationMs": 295000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b2be7f96-785a-4677-92cc-aa155c84d066"
+      }
+    },
+    "lyricPath": "/lyrics/98929.txt"
+  }
+]

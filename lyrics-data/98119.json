@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98119,
+    "metadata": {
+      "title": "Mundão Girou 2",
+      "artists": [
+        "MC Hariel"
+      ],
+      "album": "Moloch: Book of Angels, Volume 6",
+      "releaseDate": "2006-11-21",
+      "durationMs": 301866,
+      "genres": [
+        "jazz",
+        "contemporary jazz"
+      ],
+      "isrc": "US7VG1548464",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3b/34/3a/3b343a0e-f9e7-0bd4-9f28-98938a594c39/00632103089011_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/831b75e8-9666-450b-bae2-cd8a897b9ec1",
+        "itunes": "https://music.apple.com/us/album/mund%C3%A3o-girou-2/1507292172?i=1507292181&uo=4",
+        "deezer": "https://www.deezer.com/track/927541902"
+      }
+    },
+    "lyricPath": "/lyrics/98119.txt"
+  }
+]

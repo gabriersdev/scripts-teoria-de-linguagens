@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98046,
+    "metadata": {
+      "title": "TAKA LA DENTRO",
+      "artists": [
+        "SEKIMANE, shonci, Mc Gw"
+      ],
+      "album": "TAKA LA DENTRO",
+      "releaseDate": "2026-02-27",
+      "durationMs": 109846,
+      "genres": [
+        "Electronic"
+      ],
+      "isrc": "QT5M42653797",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/6c/22/366c22be-fc12-53a3-cf61-8c9a66a5cf8f/2253747.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4d4ebf75-ffc2-48fc-8511-adcfbda82db8",
+        "itunes": "https://music.apple.com/us/album/taka-la-dentro-instrumental/1892267490?i=1892267491&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98046.txt"
+  }
+]

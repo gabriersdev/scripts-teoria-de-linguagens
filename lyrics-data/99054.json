@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99054,
+    "metadata": {
+      "title": "A moderação",
+      "artists": [
+        "LUCKHAOS"
+      ],
+      "album": "Shittrap 7 (Músicas boas, irônicas, surreais e dadaístas)",
+      "releaseDate": "2020-10-19T12:00:00Z",
+      "durationMs": 97079,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BXIV82348323",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/e3/f6/52e3f6e1-68ee-8377-65e1-095763e96d87/5059654051949_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/ednaldo-pereira-freestyle/1536990765?i=1536990773&uo=4",
+        "deezer": "https://www.deezer.com/track/2326571295"
+      }
+    },
+    "lyricPath": "/lyrics/99054.txt"
+  }
+]

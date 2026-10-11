@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99074,
+    "metadata": {
+      "title": "Carruagem",
+      "artists": [
+        "Hungria"
+      ],
+      "album": "Carruagem",
+      "releaseDate": "2015-05-24",
+      "durationMs": 230000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BRGU91500001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/49/61/9c/49619c09-1975-d717-f0ae-4efcb3792721/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3ddf1fff-a87a-4a47-80a0-4d288ef994b4",
+        "itunes": "https://music.apple.com/us/album/carruagem/964502162?i=964502867&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/99074.txt"
+  }
+]

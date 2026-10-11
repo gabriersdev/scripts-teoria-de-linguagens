@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98673,
+    "metadata": {
+      "title": "Vida Vazia",
+      "artists": [
+        "Bruno & Marrone"
+      ],
+      "album": "Acústico",
+      "releaseDate": "2000",
+      "durationMs": 230186,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRBMG0100452",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/13/1a/2f/131a2f5a-aab2-6f87-b2f0-d2e0cc25c398/mzi.odzfwzzh.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/10c9fdc0-0021-4cc7-b05e-5f956451f472",
+        "itunes": "https://music.apple.com/us/album/vida-vazia-ao-vivo/316916160?i=316916365&uo=4",
+        "deezer": "https://www.deezer.com/track/13304046"
+      }
+    },
+    "lyricPath": "/lyrics/98673.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98283,
+    "metadata": {
+      "title": "Quer Voar",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "Quer Voar",
+      "releaseDate": "2021-08-11",
+      "durationMs": 187636,
+      "genres": [],
+      "isrc": "BXW922100012",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d55994c64798a408619d647c60e1c249/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/27168e21-2753-4aea-97fe-548dca0b0523",
+        "deezer": "https://www.deezer.com/track/1451144022"
+      }
+    },
+    "lyricPath": "/lyrics/98283.txt"
+  }
+]

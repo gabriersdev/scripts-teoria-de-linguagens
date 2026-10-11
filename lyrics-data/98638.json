@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98638,
+    "metadata": {
+      "title": "Calcinha de Renda",
+      "artists": [
+        "Panda & Gusttavo Lima"
+      ],
+      "album": "Do outro lado da moeda",
+      "releaseDate": "2016-02-16",
+      "durationMs": 176000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRUXD1300270",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/03/05/d203053d-814c-643d-750b-43a0392a9e50/196873878027.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bf3b974c-cbfe-40f6-949f-951b92631f72",
+        "itunes": "https://music.apple.com/us/album/calcinha-de-renda-ao-vivo/1855713409?i=1855713652&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98638.txt"
+  }
+]

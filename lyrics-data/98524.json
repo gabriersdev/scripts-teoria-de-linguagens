@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98524,
+    "metadata": {
+      "title": "Epitáfio",
+      "artists": [
+        "Titãs"
+      ],
+      "album": "Gigantes",
+      "releaseDate": "2018-10-31",
+      "durationMs": 294000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRAMD0100815",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/23/23/dd232396-4f77-3822-84a7-5fd58339aa8c/mzi.zeqjfsrw.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4e606f75-5a69-4ff3-8536-8bc80e7b166c",
+        "itunes": "https://music.apple.com/us/album/epit%C3%A1fio/321498960?i=321499021&uo=4",
+        "deezer": "https://www.deezer.com/track/13305103"
+      }
+    },
+    "lyricPath": "/lyrics/98524.txt"
+  }
+]

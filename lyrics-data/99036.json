@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99036,
+    "metadata": {
+      "title": "Regra Nº 5",
+      "artists": [
+        "Chris MC, L7NNON, JP Diazz"
+      ],
+      "album": "Minas de Ouro",
+      "releaseDate": "2022-04-07",
+      "durationMs": 274285,
+      "genres": [],
+      "isrc": "BKLOT2600001",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/eb50736c7448bbb892f94e6f7496b636/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/60608620-6554-4b43-83a3-cee640f11e70",
+        "deezer": "https://www.deezer.com/track/3932862031"
+      }
+    },
+    "lyricPath": "/lyrics/99036.txt"
+  }
+]

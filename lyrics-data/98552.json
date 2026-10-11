@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98552,
+    "metadata": {
+      "title": "Rebelde sem causa",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "E-collection",
+      "releaseDate": "2012-04-23",
+      "durationMs": 203306,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP0500355",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/15/c4/9f15c409-dc83-6022-a6bf-d82976207fd9/7898324301889.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a85b7981-ab9f-4c77-a02e-861c161e7615",
+        "itunes": "https://music.apple.com/us/album/rebelde-sem-causa/977474314?i=977474485&uo=4",
+        "deezer": "https://www.deezer.com/track/96168072"
+      }
+    },
+    "lyricPath": "/lyrics/98552.txt"
+  }
+]

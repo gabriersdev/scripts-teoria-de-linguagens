@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98997,
+    "metadata": {
+      "title": "Van Cleef",
+      "artists": [
+        "Orochi, Filipe Ret, Portugal No Beat"
+      ],
+      "album": "My Video Game And Anime Rip Collection, VOL 1!!",
+      "releaseDate": "2017-10-02",
+      "durationMs": 230974,
+      "genres": [],
+      "isrc": "BCM9A2500024",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/54242856fe4dc95a4d40a5c6175f76d9/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/37fa14a0-1c62-4f3f-961b-36aaa964c145",
+        "deezer": "https://www.deezer.com/track/3408789721"
+      }
+    },
+    "lyricPath": "/lyrics/98997.txt"
+  }
+]

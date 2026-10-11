@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98279,
+    "metadata": {
+      "title": "XTRANHO",
+      "artists": [
+        "Matuê, Brandão85"
+      ],
+      "album": "XTRANHO",
+      "releaseDate": "2025-12-10",
+      "durationMs": 213000,
+      "genres": [],
+      "isrc": "BXW922500137",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c9b023c07f75e26f5998c8eeddb39fcb/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2f2502f8-ffe0-419e-805b-ba66fb46495d",
+        "deezer": "https://www.deezer.com/track/3700579842"
+      }
+    },
+    "lyricPath": "/lyrics/98279.txt"
+  }
+]

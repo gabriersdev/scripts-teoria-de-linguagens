@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98196,
+    "metadata": {
+      "title": "Maldita de Ex",
+      "artists": [
+        "MC Leozin"
+      ],
+      "album": "MTG QUEM NÃO QUER SOU EU - Single",
+      "releaseDate": "2024-05-08T12:00:00Z",
+      "durationMs": 164000,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "QZGLM1938270",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/bf/b4/62bfb42c-0c5f-0d96-849a-313601cd29ef/1963629611066_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4819e89b-4174-4ea9-aca0-fa684273bdda",
+        "itunes": "https://music.apple.com/us/album/mtg-quem-n%C3%A3o-quer-sou-eu/1746283954?i=1746283955&uo=4",
+        "deezer": "https://www.deezer.com/track/704336972"
+      }
+    },
+    "lyricPath": "/lyrics/98196.txt"
+  }
+]

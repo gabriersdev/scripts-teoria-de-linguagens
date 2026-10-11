@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98615,
+    "metadata": {
+      "title": "Mulher Nunca Foi Pra Menino",
+      "artists": [
+        "Danilo e Davi"
+      ],
+      "album": "Pintando O Oito",
+      "releaseDate": "1983-09-01",
+      "durationMs": 216199,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BC9T42600017",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/02/0e/64020ed1-017a-124f-ecc8-aac0b34ed4d7/196874533604.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b9b5caea-98df-4802-8433-463b5507a4fc",
+        "itunes": "https://music.apple.com/us/album/mulher-nunca-foi-pra-menino-ao-vivo/6783977192?i=6783977199&uo=4",
+        "deezer": "https://www.deezer.com/track/4111700361"
+      }
+    },
+    "lyricPath": "/lyrics/98615.txt"
+  }
+]

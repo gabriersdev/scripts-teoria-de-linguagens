@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98405,
+    "metadata": {
+      "title": "É Preciso Dar Um Jeito, Meu Amigo",
+      "artists": [
+        "Erasmo Carlos"
+      ],
+      "album": "Meus Lados B (Ao Vivo)",
+      "releaseDate": "2015-06-09T12:00:00Z",
+      "durationMs": 232387,
+      "genres": [
+        "MPB"
+      ],
+      "isrc": "BRMCA7100047",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/b1/be/6f/b1be6fff-f02d-fe6e-1b35-d0d2483b46d8/7891430250775.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/%C3%A9-preciso-dar-um-jeito-meu-amigo-ao-vivo/1361919486?i=1361919886&uo=4",
+        "deezer": "https://www.deezer.com/track/16558838"
+      }
+    },
+    "lyricPath": "/lyrics/98405.txt"
+  }
+]

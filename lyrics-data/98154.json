@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98154,
+    "metadata": {
+      "title": "Video Não",
+      "artists": [
+        "MC Rick"
+      ],
+      "album": "Certified Crack: MMG Vs YMCMB",
+      "releaseDate": "2012-03-22",
+      "durationMs": 120973,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "QZNJV2361486",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/48/de/f4/48def459-90d2-8488-57aa-955113c59e64/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7d4e8604-d8a9-4c59-bd50-89f6fd264cd4",
+        "itunes": "https://music.apple.com/us/album/me-jogou-no-lixo/1466814540?i=1466814543&uo=4",
+        "deezer": "https://www.deezer.com/track/2290237945"
+      }
+    },
+    "lyricPath": "/lyrics/98154.txt"
+  }
+]

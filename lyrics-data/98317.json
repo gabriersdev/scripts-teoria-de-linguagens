@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98317,
+    "metadata": {
+      "title": "Vago",
+      "artists": [
+        "Costa Gold"
+      ],
+      "album": "Prodromi di finzioni sovrapposte",
+      "releaseDate": "1999",
+      "durationMs": 395000,
+      "genres": [],
+      "isrc": "US7VG1542546",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7a7d0e06035ecdd04d5ff32cca7be8ad/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7bc5cdf5-385f-4f8a-aef3-a53353ba4509",
+        "deezer": "https://www.deezer.com/track/3491741061"
+      }
+    },
+    "lyricPath": "/lyrics/98317.txt"
+  }
+]

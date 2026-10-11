@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98697,
+    "metadata": {
+      "title": "Quarto 67",
+      "artists": [
+        "Guilherme & Benuto & Luan Santana"
+      ],
+      "album": "Lo mejor",
+      "releaseDate": "2002",
+      "durationMs": 356000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BCVV82400084",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/b7/87/b3b787a9-47bf-6729-4e29-b024df6ef750/196873486598.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0b283336-ee27-4b5d-a1a6-19ea970a25e5",
+        "itunes": "https://music.apple.com/us/album/quarto-67-ao-vivo/1838594969?i=1838594972&uo=4",
+        "deezer": "https://www.deezer.com/track/3546988071"
+      }
+    },
+    "lyricPath": "/lyrics/98697.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98645,
+    "metadata": {
+      "title": "Assunto",
+      "artists": [
+        "Maiara & Maraisa"
+      ],
+      "album": "Balada Prime",
+      "releaseDate": "2015",
+      "durationMs": 212000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV2000124",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/c3/74/e1/c374e1a3-00a4-65d7-5ef7-01804294a5c1/7891430419929.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/26933c1a-dda9-418f-b221-e4081e4f3dbd",
+        "itunes": "https://music.apple.com/us/album/10-ao-vivo/1088351565?i=1088352490&uo=4",
+        "deezer": "https://www.deezer.com/track/1045939822"
+      }
+    },
+    "lyricPath": "/lyrics/98645.txt"
+  }
+]

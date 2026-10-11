@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98468,
+    "metadata": {
+      "title": "Faroeste Caboclo",
+      "artists": [
+        "Legião Urbana"
+      ],
+      "album": "#NOFILTER",
+      "releaseDate": "2014-07-29",
+      "durationMs": 225000,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BR4W41400039",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/1b/03/181b0329-0b99-5349-da2f-564ab83dc10c/13UABIM70453.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/53ef9285-9169-4035-82c3-a3d130ca9115",
+        "itunes": "https://music.apple.com/us/album/faroeste-caboclo/713691722?i=713691787&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98468.txt"
+  }
+]

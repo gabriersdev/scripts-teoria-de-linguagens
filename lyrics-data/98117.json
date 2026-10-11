@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98117,
+    "metadata": {
+      "title": "Ninguém Me Segura",
+      "artists": [
+        "MC Hariel"
+      ],
+      "album": "Paradise",
+      "releaseDate": "2014-06-23",
+      "durationMs": 190000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "US7VG1530814",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/01/d1/dd/01d1dd63-d9fc-0eff-200a-7bdd6dacc1bf/00632103045833_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ae3e227c-426e-400d-b2e9-dbd5a4e572d3",
+        "itunes": "https://music.apple.com/us/album/ningu%C3%A9m-me-segura/1507292016?i=1507292017&uo=4",
+        "deezer": "https://www.deezer.com/track/927541632"
+      }
+    },
+    "lyricPath": "/lyrics/98117.txt"
+  }
+]

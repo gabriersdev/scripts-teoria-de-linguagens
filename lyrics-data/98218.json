@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98218,
+    "metadata": {
+      "title": "Hong Kong",
+      "artists": [
+        "Yago Oproprio, Rô Rosa, Patricio Sid, EME Lab"
+      ],
+      "album": "O Inquilino",
+      "releaseDate": "2023-03-03",
+      "durationMs": 219000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/64/bb/5264bb22-1dd2-ce75-e541-39bc9375af96/196874385890.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/620af125-8c0d-412d-96f5-683c7fae9259",
+        "itunes": "https://music.apple.com/us/album/hong-kong/6767747483?i=6767747490&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98218.txt"
+  }
+]

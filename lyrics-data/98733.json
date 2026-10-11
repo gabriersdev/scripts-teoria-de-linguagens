@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98733,
+    "metadata": {
+      "title": "Baby Me Atende",
+      "artists": [
+        "Matheus Fernandes, Dilsinho"
+      ],
+      "album": "Na Praia",
+      "releaseDate": "2021-10-01",
+      "durationMs": 225671,
+      "genres": [
+        "Forró"
+      ],
+      "isrc": "BKDIT2200002",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c6/6c/14/c66c14c6-1601-accb-6b8f-16d0e95408a4/7891430548476.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b481da82-cce2-447a-ac79-27ea61262930",
+        "itunes": "https://music.apple.com/us/album/baby-me-atende/1553564423?i=1553564434&uo=4",
+        "deezer": "https://www.deezer.com/track/1868294107"
+      }
+    },
+    "lyricPath": "/lyrics/98733.txt"
+  }
+]

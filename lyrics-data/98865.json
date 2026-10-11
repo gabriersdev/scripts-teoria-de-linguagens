@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98865,
+    "metadata": {
+      "title": "Esta ação terá consequências",
+      "artists": [
+        "D$ Luqi, YUNG LIXO"
+      ],
+      "album": "O Emblema do Infinito",
+      "releaseDate": "2024-08-08",
+      "durationMs": 142000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BKLL22400007",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/a0/d1/48a0d107-bf05-c622-e7a5-ffee2f67ebda/cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/98d153a4-d418-42df-b71f-e5b2262655b9",
+        "itunes": "https://music.apple.com/us/album/esta-a%C3%A7%C3%A3o-ter%C3%A1-consequ%C3%AAncias/1750332074?i=1750332422&uo=4",
+        "deezer": "https://www.deezer.com/track/2832300672"
+      }
+    },
+    "lyricPath": "/lyrics/98865.txt"
+  }
+]

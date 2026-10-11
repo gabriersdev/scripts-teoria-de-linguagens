@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98104,
+    "metadata": {
+      "title": "QUANDO EU TOMO GIN DE 10",
+      "artists": [
+        "Mc Neguinho do Morro, MC NINA, MITOS ENTRETENIMENTO"
+      ],
+      "album": "また逢う日まで",
+      "releaseDate": "2021",
+      "durationMs": 76759,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "JPB722100830",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/c6/3e/55c63e37-9009-dd10-73cf-4930069e02c3/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b53ff884-3728-4eb4-82d4-299976676a83",
+        "itunes": "https://music.apple.com/us/album/quando-eu-tomo-gin-de-10/6796525816?i=6796525817&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98104.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98040,
+    "metadata": {
+      "title": "Vou Tacar na Peka",
+      "artists": [
+        "Coral das Quebradas, MC Kauan PV, MC Zignani, Mc DR, Oracioh MC"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": "QT8C22644524",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/5e/bd/f25ebdde-1d74-fa0e-52cd-cea381621e15/4081381.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "itunes": "https://music.apple.com/us/album/vou-tacar-na-peka-feat-oracioh-mc/6799453922?i=6799453927&uo=4",
+        "deezer": "https://www.deezer.com/track/4227729002"
+      }
+    },
+    "lyricPath": "/lyrics/98040.txt"
+  }
+]

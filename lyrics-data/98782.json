@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98782,
+    "metadata": {
+      "title": "O Que Falta Em Você Sou Eu - Ao Vivo",
+      "artists": [
+        "Marília Mendonça"
+      ],
+      "album": "Marília Mendonça",
+      "releaseDate": "2014-01-09",
+      "durationMs": 197034,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWKW1400103",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1e/68/40/1e684061-025d-60a4-28d6-16cb4e0b37b7/7891430399023.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0fce1154-881c-4f60-bbf8-4e3c91d964db",
+        "itunes": "https://music.apple.com/us/album/o-que-falta-em-voc%C3%AA-sou-eu-ao-vivo/1087546611?i=1087547594&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98782.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98189,
+    "metadata": {
+      "title": "Maresias",
+      "artists": [
+        "MC Hariel, DJ Jorgin"
+      ],
+      "album": "Coverin' Thoughts",
+      "releaseDate": null,
+      "durationMs": 176000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/feb3d42f-9f9e-4213-b935-77b7388abae5"
+      }
+    },
+    "lyricPath": "/lyrics/98189.txt"
+  }
+]

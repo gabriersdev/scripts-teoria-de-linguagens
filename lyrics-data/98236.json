@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98236,
+    "metadata": {
+      "title": "Imprevisto",
+      "artists": [
+        "Yago Oproprio, Rô Rosa, Skeeter Beats"
+      ],
+      "album": "Imprevisto",
+      "releaseDate": "2022-08-12",
+      "durationMs": 139703,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BXYGQ2200002",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/1e/03/3b1e03e8-eeb2-319e-876d-3f07bcce9a5e/7891430890773.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/17fd2262-b72b-4ada-bd89-f4a4b122d94b",
+        "itunes": "https://music.apple.com/us/album/imprevisto-speed/1739441053?i=1739441268&uo=4",
+        "deezer": "https://www.deezer.com/track/2736259281"
+      }
+    },
+    "lyricPath": "/lyrics/98236.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98391,
+    "metadata": {
+      "title": "Eu(S)",
+      "artists": [
+        "Sid"
+      ],
+      "album": "Coligações Expressivas 4",
+      "releaseDate": "2017-11-03T12:00:00Z",
+      "durationMs": 438860,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BXQHQ2200014",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/9d/02/339d02fd-0071-db47-2312-6bf456863c97/7892920104202.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/sem-r%C3%A9dia/1638025593?i=1638026699&uo=4",
+        "deezer": "https://www.deezer.com/track/2395494035"
+      }
+    },
+    "lyricPath": "/lyrics/98391.txt"
+  }
+]

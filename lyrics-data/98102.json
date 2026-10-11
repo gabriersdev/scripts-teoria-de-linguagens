@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98102,
+    "metadata": {
+      "title": "Novinha Safadinha",
+      "artists": [
+        "Os Gemeos da Putaria, MC Pânico, MC LORIN DA ZL"
+      ],
+      "album": "Absolut",
+      "releaseDate": "2001",
+      "durationMs": 394000,
+      "genres": [],
+      "isrc": "QZW9K2546041",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/35b1a5c10d42552469e4cd478736b22f/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a07c0f5f-ac25-44c1-a625-8570bd0227ba",
+        "deezer": "https://www.deezer.com/track/3657674102"
+      }
+    },
+    "lyricPath": "/lyrics/98102.txt"
+  }
+]

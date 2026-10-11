@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98671,
+    "metadata": {
+      "title": "Saudade De Quem Eu Sou",
+      "artists": [
+        "Henrique & Juliano"
+      ],
+      "album": "Manifesto Musical 2 (Ao Vivo) [EP4] - EP",
+      "releaseDate": "2025-03-14T12:00:00Z",
+      "durationMs": 153103,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BCVDD2400046",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/0a/10/1c0a1006-7139-a1d6-3945-f890dbf8b146/00602475975052_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/saudade-de-quem-eu-sou-ao-vivo/1881788607?i=1881788608&uo=4",
+        "deezer": "https://www.deezer.com/track/3876592281"
+      }
+    },
+    "lyricPath": "/lyrics/98671.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98431,
+    "metadata": {
+      "title": "Cavaleiro De Aruanda",
+      "artists": [
+        "Ronnie Von"
+      ],
+      "album": "Tecnomacumba",
+      "releaseDate": "2006-06-13",
+      "durationMs": 291520,
+      "genres": [
+        "MPB"
+      ],
+      "isrc": "BRMCA6700777",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/2e/b6/40/2eb64089-70a7-302b-30b7-abcb8a66a165/00602537663927.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/1537b47b-a819-4041-af50-c746854a2f16",
+        "itunes": "https://music.apple.com/us/album/cavaleiro-de-aruanda/1443281930?i=1443282679&uo=4",
+        "deezer": "https://www.deezer.com/track/75723825"
+      }
+    },
+    "lyricPath": "/lyrics/98431.txt"
+  }
+]

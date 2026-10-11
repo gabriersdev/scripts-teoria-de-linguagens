@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98601,
+    "metadata": {
+      "title": "Te Esperando",
+      "artists": [
+        "Luan Santana"
+      ],
+      "album": "Te Esperando - Single",
+      "releaseDate": "2013-04-09T12:00:00Z",
+      "durationMs": 245682,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE1300069",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/dd/05/9c/dd059c91-ae26-2111-026f-6984012045de/7891430294922.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/te-esperando/628202365?i=628202794&uo=4",
+        "deezer": "https://www.deezer.com/track/67796035"
+      }
+    },
+    "lyricPath": "/lyrics/98601.txt"
+  }
+]

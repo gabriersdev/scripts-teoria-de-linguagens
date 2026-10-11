@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98806,
+    "metadata": {
+      "title": "Isso é o vazio",
+      "artists": [
+        "D$ Luqi, Raiashi, BDK"
+      ],
+      "album": "O Emblema do Infinito",
+      "releaseDate": "2024-08-08",
+      "durationMs": 207000,
+      "genres": [
+        "Alternative Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/43/ca/1743ca2d-0e39-a1da-0fb3-982f1b02c02b/cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/987988e5-c350-44b3-b225-ce966bed7724",
+        "itunes": "https://music.apple.com/us/album/isso-%C3%A9-o-vazio/1753335503?i=1753336369&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98806.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98602,
+    "metadata": {
+      "title": "Meteoro de Paixão",
+      "artists": [
+        "Luan Santana"
+      ],
+      "album": "Si No Tienes Nada Que Decir Entonces Calla (Remaster)",
+      "releaseDate": "2009-11-02T12:00:00Z",
+      "durationMs": 218021,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE0900243",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/8c/c9/b3/mzi.vlcvarth.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/293cfe47-17be-47ff-b99b-716c246698c6",
+        "itunes": "https://music.apple.com/us/album/meteoro/368841382?i=368841428&uo=4",
+        "deezer": "https://www.deezer.com/track/11098823"
+      }
+    },
+    "lyricPath": "/lyrics/98602.txt"
+  }
+]

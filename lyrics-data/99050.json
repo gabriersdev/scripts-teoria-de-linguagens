@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99050,
+    "metadata": {
+      "title": "Ambatukam!",
+      "artists": [
+        "LUCKHAOS"
+      ],
+      "album": "Shittrap 10 (O funeral da ironia)",
+      "releaseDate": "2023-07-08",
+      "durationMs": 121697,
+      "genres": [],
+      "isrc": "BXIV82395499",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1f15400fe2c7a24a0ac93270091a095c/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ddac4a08-5009-4dee-b269-3bce4a94ae4d",
+        "deezer": "https://www.deezer.com/track/2326571255"
+      }
+    },
+    "lyricPath": "/lyrics/99050.txt"
+  }
+]

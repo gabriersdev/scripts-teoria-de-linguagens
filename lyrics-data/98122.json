@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98122,
+    "metadata": {
+      "title": "Embarca no Sorriso",
+      "artists": [
+        "MC Hariel, DJ R7"
+      ],
+      "album": "Coverin' Thoughts",
+      "releaseDate": "2016-10-19",
+      "durationMs": 176000,
+      "genres": [],
+      "isrc": "QZ5AB1621543",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/a6bb21c9db6cc8f14ee387d41d2d82ee/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/feb3d42f-9f9e-4213-b935-77b7388abae5",
+        "deezer": "https://www.deezer.com/track/927253412"
+      }
+    },
+    "lyricPath": "/lyrics/98122.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98808,
+    "metadata": {
+      "title": "Tática",
+      "artists": [
+        "Ark King"
+      ],
+      "album": "Ark Tape #1",
+      "releaseDate": "2022-10-25",
+      "durationMs": 79000,
+      "genres": [],
+      "isrc": "QZW9L2209359",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cbd88b640c7e84becdfb84ca3684de18/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2046582167"
+      }
+    },
+    "lyricPath": "/lyrics/98808.txt"
+  }
+]

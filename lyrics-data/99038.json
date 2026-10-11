@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99038,
+    "metadata": {
+      "title": "AMIGA DE VERDADE",
+      "artists": [
+        "Aka Rasta, C7, Art"
+      ],
+      "album": "Amiga de Verdade",
+      "releaseDate": "1988",
+      "durationMs": 276000,
+      "genres": [],
+      "isrc": "BKG1M2600001",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6fb848c80ba74045b114572ba14ca784/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/813b4456-54fc-4d9f-95dd-f572935d8e46",
+        "deezer": "https://www.deezer.com/track/3910705051"
+      }
+    },
+    "lyricPath": "/lyrics/99038.txt"
+  }
+]

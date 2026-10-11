@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98707,
+    "metadata": {
+      "title": "Vou Ter Que Superar - Ao Vivo",
+      "artists": [
+        "Matheus & Kauan, Marília Mendonça"
+      ],
+      "album": "Tem moda pra tudo",
+      "releaseDate": "2019-03-22",
+      "durationMs": 189059,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BRUM71900076",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/99/23/64/992364ea-2da4-f1c4-0809-1a7904381876/17UM1IM33398.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bed3e965-6783-4b94-9317-02ff12856634",
+        "itunes": "https://music.apple.com/us/album/deixa-ela-beijar/1444853786?i=1444853797&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98707.txt"
+  }
+]

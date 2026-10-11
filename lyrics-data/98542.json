@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98542,
+    "metadata": {
+      "title": "Provas de Amor",
+      "artists": [
+        "Titãs"
+      ],
+      "album": "Seleção Essencial: Grandes Sucessos - Titãs",
+      "releaseDate": "2003-11-01T12:00:00Z",
+      "durationMs": 198693,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRBMG0500259",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/97/8e/50/978e50e6-1538-7307-393f-8829956c3502/mzm.tzroyhhg.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/provas-de-amor/1054522062?i=1054522070&uo=4",
+        "deezer": "https://www.deezer.com/track/137199654"
+      }
+    },
+    "lyricPath": "/lyrics/98542.txt"
+  }
+]

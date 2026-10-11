@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98268,
+    "metadata": {
+      "title": "Coração de Gelo",
+      "artists": [
+        "WIU"
+      ],
+      "album": "leviano",
+      "releaseDate": "2023-01-19T12:00:00Z",
+      "durationMs": 168000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BXW922200010",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0b/f8/74/0bf87408-7db8-7904-76ac-78bba3805456/8445824075919_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/25d3b449-c28e-47f3-91e4-b2dc23d90da6",
+        "itunes": "https://music.apple.com/us/album/cora%C3%A7%C3%A3o-de-gelo/1666666060?i=1666666376&uo=4",
+        "deezer": "https://www.deezer.com/track/2012086207"
+      }
+    },
+    "lyricPath": "/lyrics/98268.txt"
+  }
+]

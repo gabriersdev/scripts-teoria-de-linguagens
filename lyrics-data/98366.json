@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98366,
+    "metadata": {
+      "title": "Como Deus É Bom",
+      "artists": [
+        "Kawe, NOG, André Nine"
+      ],
+      "album": "Volume III",
+      "releaseDate": "2021-07-29T12:00:00Z",
+      "durationMs": 249125,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BCENK2100050",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/95/fb/f1/95fbf13f-7679-5882-fc6e-003b51e2d75d/7891430578473.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ed6d0721-e65e-454b-ab15-71b4901e343f",
+        "itunes": "https://music.apple.com/us/album/se-essa-bunda/1576888799?i=1576888804&uo=4",
+        "deezer": "https://www.deezer.com/track/1420110872"
+      }
+    },
+    "lyricPath": "/lyrics/98366.txt"
+  }
+]

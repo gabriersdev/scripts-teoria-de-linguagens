@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98221,
+    "metadata": {
+      "title": "Dum Dum",
+      "artists": [
+        "Rincon Sapiência"
+      ],
+      "album": "Tour CD",
+      "releaseDate": "2006",
+      "durationMs": 17000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "QMBZ92636998",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ef/e9/a1efe95f-d30e-5dff-3931-7f56e8e357e1/820233793223.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/97f55f18-f94a-4606-ab83-81d9c49aa599",
+        "itunes": "https://music.apple.com/us/album/dum-dum/6781384423?i=6781384891&uo=4",
+        "deezer": "https://www.deezer.com/track/4094456061"
+      }
+    },
+    "lyricPath": "/lyrics/98221.txt"
+  }
+]

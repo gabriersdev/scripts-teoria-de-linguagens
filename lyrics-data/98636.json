@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98636,
+    "metadata": {
+      "title": "Doce Mel",
+      "artists": [
+        "Priscila Senna & Gusttavo Lima"
+      ],
+      "album": "Xuxa só para baixinhos 6 - Xuxa festa",
+      "releaseDate": "2005-12-09",
+      "durationMs": 205066,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "QRPRR2600001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/96/6e/ef966e2e-d607-7c97-32df-d1f2a1acbb91/cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/778b26a0-9010-41fc-8ab1-e3fedf0766d3",
+        "itunes": "https://music.apple.com/us/album/doce-mel-ao-vivo/6794367866?i=6794367869&uo=4",
+        "deezer": "https://www.deezer.com/track/4168752042"
+      }
+    },
+    "lyricPath": "/lyrics/98636.txt"
+  }
+]

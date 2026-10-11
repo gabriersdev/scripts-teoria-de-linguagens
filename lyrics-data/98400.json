@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98400,
+    "metadata": {
+      "title": "Safadinha",
+      "artists": [
+        "UCLÃ"
+      ],
+      "album": "Volume 15",
+      "releaseDate": "2008",
+      "durationMs": 128226,
+      "genres": [],
+      "isrc": "BRND31900048",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/ae064867458c41495c3d44c236a44270/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8cd1b976-a614-4a96-9a12-89fca5ecefcf",
+        "deezer": "https://www.deezer.com/track/827831182"
+      }
+    },
+    "lyricPath": "/lyrics/98400.txt"
+  }
+]

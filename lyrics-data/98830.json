@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98830,
+    "metadata": {
+      "title": "O Circo das Panelas",
+      "artists": [
+        "D$ Luqi, loopcinema"
+      ],
+      "album": "O Emblema do Infinito",
+      "releaseDate": "2024-08-08",
+      "durationMs": 224000,
+      "genres": [],
+      "isrc": "BKLL22400016",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3ab40bdd7c87b75c21401f79028b3dcf/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/485d457d-3226-4423-a508-8ddaaf482998",
+        "deezer": "https://www.deezer.com/track/2858478052"
+      }
+    },
+    "lyricPath": "/lyrics/98830.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98257,
+    "metadata": {
+      "title": "Extraordinária",
+      "artists": [
+        "Ebony"
+      ],
+      "album": "KM2",
+      "releaseDate": "2025-05-12",
+      "durationMs": 167626,
+      "genres": [],
+      "isrc": "BREBY2500007",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4c505b0735f4ea66e91793f88840aed2/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/99fd0719-5084-4ba9-a97f-a1ee30fd7bd3",
+        "deezer": "https://www.deezer.com/track/3351722991"
+      }
+    },
+    "lyricPath": "/lyrics/98257.txt"
+  }
+]

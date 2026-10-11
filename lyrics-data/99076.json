@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99076,
+    "metadata": {
+      "title": "Lost in Translation",
+      "artists": [
+        "YUNG LIXO"
+      ],
+      "album": "Cascadia",
+      "releaseDate": "2004",
+      "durationMs": 265373,
+      "genres": [],
+      "isrc": "QZZ7X2403692",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/a01cc5f5bbb09711637d4927e9ab83cd/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2d5576de-7690-4444-ae93-db9d78822d82",
+        "deezer": "https://www.deezer.com/track/3144564011"
+      }
+    },
+    "lyricPath": "/lyrics/99076.txt"
+  }
+]

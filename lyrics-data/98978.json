@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98978,
+    "metadata": {
+      "title": "Não Temos Medo - Remix",
+      "artists": [
+        "Tz da Coronel, Filipe Ret, Orochi"
+      ],
+      "album": "Último Siso",
+      "releaseDate": "2014-09-12",
+      "durationMs": 156487,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BC2TS2400053",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/8d/26/f18d262c-a587-ad13-b726-b27608605934/198588591840.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/97e94759-dcda-4aad-9a6f-d238392a68e1",
+        "itunes": "https://music.apple.com/us/album/poesia-ac%C3%BAstica-16/1755651183?i=1755651184&uo=4",
+        "deezer": "https://www.deezer.com/track/3088812911"
+      }
+    },
+    "lyricPath": "/lyrics/98978.txt"
+  }
+]

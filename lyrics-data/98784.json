@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98784,
+    "metadata": {
+      "title": "Bombonzinho - Ao Vivo",
+      "artists": [
+        "Israel & Rodolffo & Ana Castela"
+      ],
+      "album": "Let’s bora, vol. 1",
+      "releaseDate": "2022-12-01",
+      "durationMs": 154701,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE2200815",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/06/52/10/06521064-c44b-54ff-0ae4-befc3bd515ac/7891430724078.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a11a99e9-9967-4f7a-af89-1b70c1e80a61",
+        "itunes": "https://music.apple.com/us/album/bombonzinho-ao-vivo/1651063803?i=1651063809&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98784.txt"
+  }
+]

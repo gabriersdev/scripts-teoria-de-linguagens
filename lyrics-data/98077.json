@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98077,
+    "metadata": {
+      "title": "VEM JOGAR",
+      "artists": [
+        "MC Gustavinho, Gt do Mira"
+      ],
+      "album": "Jogar",
+      "releaseDate": "2014-07-07",
+      "durationMs": 182000,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BXG212500009",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/34/c4/3034c4e5-8f04-275e-d9dd-160d41d86934/038557550631.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/db6be654-50b0-4264-8d06-a5dc7778c701",
+        "itunes": "https://music.apple.com/us/album/vem-jogar/1831792454?i=1831792455&uo=4",
+        "deezer": "https://www.deezer.com/track/3494946541"
+      }
+    },
+    "lyricPath": "/lyrics/98077.txt"
+  }
+]

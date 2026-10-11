@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98305,
+    "metadata": {
+      "title": "Respeito É pra Quem Tem",
+      "artists": [
+        "Sabotage"
+      ],
+      "album": "Sabotage 50",
+      "releaseDate": "2024-04-03",
+      "durationMs": 234090,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "US7VG1455262",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/f6/d5/f1f6d5c9-1194-85aa-dfd4-b1727b7b83d1/7891430885373.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a03f64b4-ff00-4a68-be89-34a0f3504a8f",
+        "itunes": "https://music.apple.com/us/album/respeito-%C3%A9-pra-quem-tem-sabotage-50/1737832501?i=1737833001&uo=4",
+        "deezer": "https://www.deezer.com/track/945986102"
+      }
+    },
+    "lyricPath": "/lyrics/98305.txt"
+  }
+]

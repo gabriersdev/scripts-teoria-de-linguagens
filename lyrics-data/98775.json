@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98775,
+    "metadata": {
+      "title": "Impressionando Os Anjos - Ao Vivo",
+      "artists": [
+        "Diego Costa"
+      ],
+      "album": "Ao vivo em São Paulo / SP",
+      "releaseDate": "2017-12-22",
+      "durationMs": 208917,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3f/d2/a9/3fd2a942-07f1-b4ac-e130-5f4c86655b3a/5479.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8b42a9a7-9baf-4c44-be9a-7a8043b0441d",
+        "itunes": "https://music.apple.com/us/album/impressionando-os-anjos-ao-vivo/1516531022?i=1516531342&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98775.txt"
+  }
+]

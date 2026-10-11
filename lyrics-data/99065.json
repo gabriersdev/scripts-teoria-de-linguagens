@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99065,
+    "metadata": {
+      "title": "Prefiro Morrer",
+      "artists": [
+        "YUNG LIXO"
+      ],
+      "album": "Bittersweet Memories",
+      "releaseDate": "2023-12-18",
+      "durationMs": 170000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "QZWFN2391017",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/18/8a/a6/188aa6e3-e5b0-231b-f5d2-dc41e9d14019/artwork.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e951647e-28f6-4c9a-9c4f-1b4fc3965b12",
+        "itunes": "https://music.apple.com/us/album/let-it-pour-feat-biffe-hakuro/1722050847?i=1722050850&uo=4",
+        "deezer": "https://www.deezer.com/track/2590750612"
+      }
+    },
+    "lyricPath": "/lyrics/99065.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98167,
+    "metadata": {
+      "title": "Aquecimento do Anjim",
+      "artists": [
+        "MC Anjim"
+      ],
+      "album": "Mixagens e Assombrações",
+      "releaseDate": "2025-10-22",
+      "durationMs": 151765,
+      "genres": [],
+      "isrc": "QZHZ42227223",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/79b16ba0fc48ecd488ab2f39b275850e/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/180a90f2-8f9e-4c75-a1e3-8adff380df9c",
+        "deezer": "https://www.deezer.com/track/1712838807"
+      }
+    },
+    "lyricPath": "/lyrics/98167.txt"
+  }
+]

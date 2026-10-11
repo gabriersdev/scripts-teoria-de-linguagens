@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98253,
+    "metadata": {
+      "title": "Acima De Mim Só Deus",
+      "artists": [
+        "Filipe Ret, Mãolee, Maru2D"
+      ],
+      "album": "NUME",
+      "releaseDate": "2024-11-14",
+      "durationMs": 150000,
+      "genres": [],
+      "isrc": "BRRGE2401132",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/735f983abbbd69f722fd24af7148dac6/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3074647171"
+      }
+    },
+    "lyricPath": "/lyrics/98253.txt"
+  }
+]

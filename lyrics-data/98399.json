@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98399,
+    "metadata": {
+      "title": "Quit Cat - Acústico",
+      "artists": [
+        "Duzz"
+      ],
+      "album": "Solo café, volumen uno (acústico)",
+      "releaseDate": "2023-01-06",
+      "durationMs": 180000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG2309151",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4e/89/ae/4e89ae0c-e1b7-834c-2eb5-01fed5835173/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/93f561df-f9c5-4468-a756-9224399d4372",
+        "itunes": "https://music.apple.com/us/album/quit-cat-feat-kamaitachi-ac%C3%BAstico/1465669020?i=1465669024&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98399.txt"
+  }
+]

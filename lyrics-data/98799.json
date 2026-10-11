@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98799,
+    "metadata": {
+      "title": "Deu PT - Ao Vivo",
+      "artists": [
+        "Wesley Safadão & Matheus e Kauan"
+      ],
+      "album": "Em Casa",
+      "releaseDate": "2016-09-16",
+      "durationMs": 183000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRWRT1600054",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f5/b9/5a/f5b95a31-6e4e-b3e7-c588-26b7fde12f77/7891430121471.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a713ba4c-f79b-48eb-b038-504e9271123b",
+        "itunes": "https://music.apple.com/us/album/meu-cora%C3%A7%C3%A3o-deu-pt-ao-vivo/1654003213?i=1654003481&uo=4",
+        "deezer": "https://www.deezer.com/track/2010117127"
+      }
+    },
+    "lyricPath": "/lyrics/98799.txt"
+  }
+]

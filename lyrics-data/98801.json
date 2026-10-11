@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98801,
+    "metadata": {
+      "title": "BACKSTAGE",
+      "artists": [
+        "Matuê, BNYX, Azul Wynter, Bryan Yepes"
+      ],
+      "album": "Addendum",
+      "releaseDate": "2021-03-16",
+      "durationMs": 50000,
+      "genres": [],
+      "isrc": "BXW922500117",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c9b023c07f75e26f5998c8eeddb39fcb/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e1bcfaf3-5da1-4c74-bc5d-234368dd08be",
+        "deezer": "https://www.deezer.com/track/3700579852"
+      }
+    },
+    "lyricPath": "/lyrics/98801.txt"
+  }
+]

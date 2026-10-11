@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99126,
+    "metadata": {
+      "title": "Big Big",
+      "artists": [
+        "Duzz, Leozin, Volp"
+      ],
+      "album": "Studies 01-20",
+      "releaseDate": "2020-02-07",
+      "durationMs": 257088,
+      "genres": [],
+      "isrc": "QZHZ32012269",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/875235c932d7aaa68b898f84caceb840/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/55019186-f60f-4ecc-8d42-994bda4ff78f",
+        "deezer": "https://www.deezer.com/track/942669012"
+      }
+    },
+    "lyricPath": "/lyrics/99126.txt"
+  }
+]

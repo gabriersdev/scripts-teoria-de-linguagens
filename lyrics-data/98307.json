@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98307,
+    "metadata": {
+      "title": "Na Zona Sul",
+      "artists": [
+        "Sabotage"
+      ],
+      "album": "Rap é o Hino que me Mantém Vivo",
+      "releaseDate": "2008",
+      "durationMs": 315000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1455259",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/ea/09/bbea09b3-1cae-5bd6-39c1-13046493ceca/702730616994_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2f9b869d-a247-4a01-b808-fc9259a13683",
+        "itunes": "https://music.apple.com/us/album/na-zona-sul-feat-heli%C3%A3o-casc%C3%A3o-dj-cia/1510761195?i=1510761206&uo=4",
+        "deezer": "https://www.deezer.com/track/945986072"
+      }
+    },
+    "lyricPath": "/lyrics/98307.txt"
+  }
+]

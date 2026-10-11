@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98930,
+    "metadata": {
+      "title": "Business",
+      "artists": [
+        "Ryu, The Runner, Gu$Z, Salve Crazy"
+      ],
+      "album": "Essa é a vida de um corredor",
+      "releaseDate": "2023-03-03",
+      "durationMs": 132000,
+      "genres": [],
+      "isrc": "BCY5N2300001",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/392ea8652ac3c4d8c1aa4a6cca1e79e5/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/24e6f48f-9fc9-4188-9e17-6f5e1828e9db",
+        "deezer": "https://www.deezer.com/track/4030006141"
+      }
+    },
+    "lyricPath": "/lyrics/98930.txt"
+  }
+]

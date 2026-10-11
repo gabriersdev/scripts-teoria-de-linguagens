@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98097,
+    "metadata": {
+      "title": "A Firma Segue Lucrando",
+      "artists": [
+        "MC Meno K, Fepache, DJ Oreia, DJ Hyago"
+      ],
+      "album": "Samma uns ehrlich",
+      "releaseDate": "2007-06-30",
+      "durationMs": 292000,
+      "genres": [],
+      "isrc": "BCE7P2503764",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1b08b9aed3e779526d81763e63a5fb02/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/906928e3-6ea7-43a8-9bc6-36b583afaef6",
+        "deezer": "https://www.deezer.com/track/3867573601"
+      }
+    },
+    "lyricPath": "/lyrics/98097.txt"
+  }
+]

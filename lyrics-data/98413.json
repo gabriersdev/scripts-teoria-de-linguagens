@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98413,
+    "metadata": {
+      "title": "Proibida Pra Mim (Grazon)",
+      "artists": [
+        "Charlie Brown Jr."
+      ],
+      "album": "20 anos de Rock Brasil, Volume 3 & 4",
+      "releaseDate": "2003",
+      "durationMs": 204000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BREMI9700213",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/08/5b/b8085bc2-59a6-d62b-ad98-85d7b95e1db3/13UABIM34074.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/1300a3ee-85ba-45e0-9ad3-a173f158dd8c",
+        "itunes": "https://music.apple.com/us/album/proibida-pra-mim-grazon/723587580?i=723588361&uo=4",
+        "deezer": "https://www.deezer.com/track/3413349"
+      }
+    },
+    "lyricPath": "/lyrics/98413.txt"
+  }
+]

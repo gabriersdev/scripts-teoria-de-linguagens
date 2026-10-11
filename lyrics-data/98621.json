@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98621,
+    "metadata": {
+      "title": "A Cena",
+      "artists": [
+        "Pablo"
+      ],
+      "album": "A coragem da luz",
+      "releaseDate": "2016-03-18",
+      "durationMs": 203000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BKU822600009",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4c/a3/d7/4ca3d732-fd57-be59-3499-d443125cb4b1/cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e6b91b99-b113-4cd5-937f-6a70b8697b5e",
+        "itunes": "https://music.apple.com/us/album/a-cena/1487982397?i=1487983056&uo=4",
+        "deezer": "https://www.deezer.com/track/3836019251"
+      }
+    },
+    "lyricPath": "/lyrics/98621.txt"
+  }
+]

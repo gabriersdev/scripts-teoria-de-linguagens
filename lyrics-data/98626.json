@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98626,
+    "metadata": {
+      "title": "Moça Pra Casar",
+      "artists": [
+        "Diego & Victor Hugo"
+      ],
+      "album": "A Shot in the Dark",
+      "releaseDate": "2026-06-17T12:00:00Z",
+      "durationMs": 161863,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BC29Q2600021",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/4f/21/3b4f21f3-cc1d-4729-ae53-a9413b7f9293/196874169780.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6f3207e4-d48d-4f31-b9c8-c474e4cf894e",
+        "itunes": "https://music.apple.com/us/album/mo%C3%A7a-pra-casar-ao-vivo/6778190006?i=6778190010&uo=4",
+        "deezer": "https://www.deezer.com/track/4072646311"
+      }
+    },
+    "lyricPath": "/lyrics/98626.txt"
+  }
+]

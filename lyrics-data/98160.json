@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98160,
+    "metadata": {
+      "title": "Plaque de 100",
+      "artists": [
+        "MC Guimê"
+      ],
+      "album": "Plaquê de 100",
+      "releaseDate": "2013-08-30",
+      "durationMs": 174000,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BRXM91300004",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/4c/da/66/4cda66f5-417a-e439-af85-7cd992103b8a/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2735d346-bbbf-4b27-8223-dd6508cf2f5a",
+        "itunes": "https://music.apple.com/us/album/plaque-de-100/959696276?i=959696642&uo=4",
+        "deezer": "https://www.deezer.com/track/93822256"
+      }
+    },
+    "lyricPath": "/lyrics/98160.txt"
+  }
+]

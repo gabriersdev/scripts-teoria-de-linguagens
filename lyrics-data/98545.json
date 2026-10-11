@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98545,
+    "metadata": {
+      "title": "Pelo Avesso",
+      "artists": [
+        "Titãs"
+      ],
+      "album": "Como Estão Vocês?",
+      "releaseDate": "2003-11-01T08:00:00Z",
+      "durationMs": 161880,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRBMG0300734",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/02/07/5f/02075ff9-5d6c-2c3a-02ef-fa907fdae486/888880313645.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/pelo-avesso/1133727190?i=1133727503&uo=4",
+        "deezer": "https://www.deezer.com/track/128441339"
+      }
+    },
+    "lyricPath": "/lyrics/98545.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98527,
+    "metadata": {
+      "title": "É preciso saber viver",
+      "artists": [
+        "Lulu Santos"
+      ],
+      "album": "Lulu Canta & Toca Roberto e Erasmo",
+      "releaseDate": "2013-05-06T12:00:00Z",
+      "durationMs": 268880,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRSME1300435",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/b7/55/11/b75511e1-f43b-4eea-55e6-1ae310293a16/886443891333.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/%C3%A9-preciso-saber-viver/635304959?i=635305558&uo=4",
+        "deezer": "https://www.deezer.com/track/66544636"
+      }
+    },
+    "lyricPath": "/lyrics/98527.txt"
+  }
+]

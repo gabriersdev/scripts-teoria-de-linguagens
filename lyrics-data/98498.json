@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98498,
+    "metadata": {
+      "title": "I Saw You Saying - That You Say That You Saw",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Música de Brinquedo, a Série - Temporada 1",
+      "releaseDate": "2025-02-14",
+      "durationMs": 205650,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRWMB9702647",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3f/a4/f8/3fa4f883-d23e-1845-984e-9d1ae2b268eb/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7a4de536-7955-4755-b92a-14154ba5f257",
+        "itunes": "https://music.apple.com/us/album/i-saw-you-saying-that-you-say-that-you-saw-ao-vivo/879819848?i=879819864&uo=4",
+        "deezer": "https://www.deezer.com/track/3895377"
+      }
+    },
+    "lyricPath": "/lyrics/98498.txt"
+  }
+]

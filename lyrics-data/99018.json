@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99018,
+    "metadata": {
+      "title": "Pente 270!",
+      "artists": [
+        "Kyan, Mu540, Veigh"
+      ],
+      "album": "UM Quebrada Inteligente",
+      "releaseDate": "2023-07-14",
+      "durationMs": 162000,
+      "genres": [],
+      "isrc": "BKRQM2300012",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1d79c379962c7cab65ecb7b6016b8060/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/22c2e68e-7b69-44c7-ae88-3f48bb2c7f71",
+        "deezer": "https://www.deezer.com/track/3371041861"
+      }
+    },
+    "lyricPath": "/lyrics/99018.txt"
+  }
+]

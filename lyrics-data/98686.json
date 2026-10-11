@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98686,
+    "metadata": {
+      "title": "Cortando as BR (F&J 10 Anos)",
+      "artists": [
+        "Fiduma & Jeca & Fernando & Sorocaba"
+      ],
+      "album": "Adventure Time! A Demo EP",
+      "releaseDate": "2012-10-07",
+      "durationMs": 149592,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BXCHP2400001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/77/71/b8777125-fe8f-6097-220b-a6b3e8314de5/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d0436aac-ea02-44b8-b843-98ff6c5b8260",
+        "itunes": "https://music.apple.com/us/album/cortando-as-br-ao-vivo/1782980953?i=1782980954&uo=4",
+        "deezer": "https://www.deezer.com/track/2782993362"
+      }
+    },
+    "lyricPath": "/lyrics/98686.txt"
+  }
+]

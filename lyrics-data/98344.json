@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98344,
+    "metadata": {
+      "title": "até sua alma",
+      "artists": [
+        "Djonga, Coyote Beatz, Tasha & Tracie"
+      ],
+      "album": "O Dono do Lugar",
+      "releaseDate": "2022-10-13",
+      "durationMs": 300298,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BCQAL2200027",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/19/17/1b/19171b41-5337-0099-8897-b141145e5d67/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/28ca7228-45f3-4f13-9f9d-85abf872ad5f",
+        "itunes": "https://music.apple.com/us/album/at%C3%A9-sua-alma/1648719866?i=1648720058&uo=4",
+        "deezer": "https://www.deezer.com/track/1933819557"
+      }
+    },
+    "lyricPath": "/lyrics/98344.txt"
+  }
+]

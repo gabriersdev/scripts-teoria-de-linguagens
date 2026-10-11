@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98150,
+    "metadata": {
+      "title": "Sentadão",
+      "artists": [
+        "MC Rick"
+      ],
+      "album": "Sentadão",
+      "releaseDate": "2018-09-21",
+      "durationMs": 129000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "QZGLS1943543",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3b/b9/46/3bb94695-df07-9351-8091-45aaedfab9a5/650245898841_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/847d339d-e27c-4654-9676-5973ccce53c1",
+        "itunes": "https://music.apple.com/us/album/sentad%C3%A3o-feat-mc-rick-mc-l-da-vinte/1638325277?i=1638325290&uo=4",
+        "deezer": "https://www.deezer.com/track/668384742"
+      }
+    },
+    "lyricPath": "/lyrics/98150.txt"
+  }
+]

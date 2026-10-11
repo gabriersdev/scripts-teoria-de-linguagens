@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99073,
+    "metadata": {
+      "title": "Au Revoir",
+      "artists": [
+        "Black Alien"
+      ],
+      "album": "Gaston + Charles",
+      "releaseDate": "2012",
+      "durationMs": 60000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BXXEK1900007",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fa/7d/ad/fa7dad81-9b56-8743-3b63-c81c2ad6722c/8429006378821.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/71c931b4-5cbd-46dd-83a3-0cbfbeea1e23",
+        "itunes": "https://music.apple.com/us/album/au-revoir/1457376751?i=1457377059&uo=4",
+        "deezer": "https://www.deezer.com/track/3224431221"
+      }
+    },
+    "lyricPath": "/lyrics/99073.txt"
+  }
+]

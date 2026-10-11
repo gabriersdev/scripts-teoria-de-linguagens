@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98512,
+    "metadata": {
+      "title": "Puteiro em João Pessoa (Roda Viva)",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Roda Viva",
+      "releaseDate": "2011",
+      "durationMs": 212000,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRWMB9600969",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3f/a4/f8/3fa4f883-d23e-1845-984e-9d1ae2b268eb/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0d3c2741-fe54-4dc3-bbda-c80d0285fe60",
+        "itunes": "https://music.apple.com/us/album/puteiro-em-jo%C3%A3o-pessoa-ao-vivo/879819848?i=879819874&uo=4",
+        "deezer": "https://www.deezer.com/track/80134928"
+      }
+    },
+    "lyricPath": "/lyrics/98512.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98903,
+    "metadata": {
+      "title": "Top Boy 2",
+      "artists": [
+        "Yung Nobre"
+      ],
+      "album": "Yung Boy",
+      "releaseDate": "2020-02-21",
+      "durationMs": 175964,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "FR10S2042675",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/d4/1d/56d41d20-8ca8-c9ef-39f1-07f392aa3ecd/196871557788.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a4c99144-6345-4a5c-a62d-4c5e80bb610f",
+        "itunes": "https://music.apple.com/us/album/the-box-medley/1713261345?i=1713261346&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98903.txt"
+  }
+]

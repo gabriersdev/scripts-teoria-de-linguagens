@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98853,
+    "metadata": {
+      "title": "Jaguar (Uuu) [Beck de Mel]",
+      "artists": [
+        "Brandão85"
+      ],
+      "album": "Compilation Release: Sampler 01",
+      "releaseDate": "1999",
+      "durationMs": 188000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BXXCT2200009",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/7b/34/c77b345a-e6de-e0cb-3ee7-dea22ab247dc/703441368431.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0c0a627d-f855-40d5-bc9d-12e8753290ac",
+        "itunes": "https://music.apple.com/us/album/jaguar-uuu-beck-de-mel/1790985604?i=1790985613&uo=4",
+        "deezer": "https://www.deezer.com/track/3189136671"
+      }
+    },
+    "lyricPath": "/lyrics/98853.txt"
+  }
+]

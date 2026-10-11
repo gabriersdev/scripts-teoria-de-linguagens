@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98965,
+    "metadata": {
+      "title": "BUG NA MATRIX",
+      "artists": [
+        "Brandão85"
+      ],
+      "album": "It’s Always Been You",
+      "releaseDate": "2024-07-19",
+      "durationMs": 168240,
+      "genres": [],
+      "isrc": "QZWDD2499280",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/f8f28df8f88073f58407f1d75d23b0d7/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2770f6fd-61aa-49d4-9f72-3b5877312661",
+        "deezer": "https://www.deezer.com/track/3945162301"
+      }
+    },
+    "lyricPath": "/lyrics/98965.txt"
+  }
+]

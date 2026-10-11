@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98873,
+    "metadata": {
+      "title": "Antes",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "The Village",
+      "releaseDate": "2013-01-29",
+      "durationMs": 172000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BXW922000005",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/b5/f9/b0b5f973-0202-3b62-e72d-5dbf4bc96aa8/045399547842.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/440a674f-78e9-490d-bb83-4fb548cc9291",
+        "itunes": "https://music.apple.com/us/album/lama-no-copo/1842386036?i=1842386259&uo=4",
+        "deezer": "https://www.deezer.com/track/1049882302"
+      }
+    },
+    "lyricPath": "/lyrics/98873.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98573,
+    "metadata": {
+      "title": "O Mundo Não Para De Girar! (Por Isso Eu Estou Tonto!!)",
+      "artists": [
+        "Garotos Podres"
+      ],
+      "album": "Com a corda toda",
+      "releaseDate": "1997",
+      "durationMs": 205000,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BR03D2101275",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/1f/a7/a71fa714-9b0e-2623-c228-2c6aec79788e/7908067183472.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6f9eb2a1-a4d8-43af-b898-e3fb38cfc0a6",
+        "itunes": "https://music.apple.com/us/album/o-mundo-n%C3%A3o-para-de-girar-por-isso-eu-estou-tonto/1569274905?i=1569274906&uo=4",
+        "deezer": "https://www.deezer.com/track/1381996632"
+      }
+    },
+    "lyricPath": "/lyrics/98573.txt"
+  }
+]

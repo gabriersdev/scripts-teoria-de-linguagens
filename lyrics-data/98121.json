@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98121,
+    "metadata": {
+      "title": "Tempo Perdido",
+      "artists": [
+        "MC Hariel"
+      ],
+      "album": "Moloch: Book of Angels, Volume 6",
+      "releaseDate": "2006-11-21",
+      "durationMs": 301866,
+      "genres": [
+        "jazz",
+        "contemporary jazz"
+      ],
+      "isrc": "QZ5AB1646488",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/b5/ac/4cb5acb6-321c-dc97-536c-6a98768429d9/190296354687.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/831b75e8-9666-450b-bae2-cd8a897b9ec1",
+        "itunes": "https://music.apple.com/us/album/tempo-perdido-ao-vivo/1609934275?i=1609934281&uo=4",
+        "deezer": "https://www.deezer.com/track/934468122"
+      }
+    },
+    "lyricPath": "/lyrics/98121.txt"
+  }
+]

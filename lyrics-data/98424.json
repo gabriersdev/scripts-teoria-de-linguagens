@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98424,
+    "metadata": {
+      "title": "Metamorfose Ambulante",
+      "artists": [
+        "Raul Seixas"
+      ],
+      "album": "City of God",
+      "releaseDate": "2002",
+      "durationMs": 227613,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRMCA7300118",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/37/0d/00370d59-7a40-4657-4c34-1c30929e8cb5/06UMGIM38143.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ee806362-f8b6-4e19-8b8f-8d3525fb8b9c",
+        "itunes": "https://music.apple.com/us/album/metamorfose-ambulante/1443561414?i=1443561817&uo=4",
+        "deezer": "https://www.deezer.com/track/4676600"
+      }
+    },
+    "lyricPath": "/lyrics/98424.txt"
+  }
+]

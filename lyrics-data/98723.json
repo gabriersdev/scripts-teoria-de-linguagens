@@ -1,0 +1,29 @@
+[
+  {
+    "id": 98723,
+    "metadata": {
+      "title": "Cê Perdeu (Igual Eu) - Ao Vivo",
+      "artists": [
+        "Simone Mendes"
+      ],
+      "album": "Ensaios da Anitta",
+      "releaseDate": "2024-12-06",
+      "durationMs": 145500,
+      "genres": [
+        "freestyle",
+        "brega",
+        "euro house",
+        "happy",
+        "axé",
+        "favela funk"
+      ],
+      "isrc": "BRUM72402485",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/13/e9/5513e9a2-bc6b-23b8-43f2-ceeafed5f4b0/24UM1IM21749.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ad1c103c-598e-4684-95e1-ba1d2bedc3e1",
+        "itunes": "https://music.apple.com/us/album/perdeu/1787074587?i=1787074596&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98723.txt"
+  }
+]

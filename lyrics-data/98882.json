@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98882,
+    "metadata": {
+      "title": "FACAS E MACHADOS",
+      "artists": [
+        "Matuê, FAB GODAMN, okie"
+      ],
+      "album": "XTRANHO",
+      "releaseDate": "2025-12-10",
+      "durationMs": 112000,
+      "genres": [
+        "experimental",
+        "trap",
+        "hard trap"
+      ],
+      "isrc": "BXW922500119",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c9b023c07f75e26f5998c8eeddb39fcb/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9383b194-b286-48c2-8edf-d4e538f52ae6",
+        "deezer": "https://www.deezer.com/track/3700579812"
+      }
+    },
+    "lyricPath": "/lyrics/98882.txt"
+  }
+]

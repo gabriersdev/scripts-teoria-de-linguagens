@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98778,
+    "metadata": {
+      "title": "Amigo Taxista - Ao Vivo",
+      "artists": [
+        "Zé Neto & Cristiano"
+      ],
+      "album": "Amigo Taxista (Ao Vivo) - Single",
+      "releaseDate": "2012-01-01T12:00:00Z",
+      "durationMs": 197970,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1600162",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/91/17/2b/91172b17-78e4-8254-bc50-3e8f519cd9f1/191773990305.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/amigo-taxista-ao-vivo/1319356570?i=1319357027&uo=4",
+        "deezer": "https://www.deezer.com/track/141045109"
+      }
+    },
+    "lyricPath": "/lyrics/98778.txt"
+  }
+]

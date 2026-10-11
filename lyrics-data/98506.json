@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98506,
+    "metadata": {
+      "title": "A mais pedida (feat. Érika Martins)",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Só No Forevis",
+      "releaseDate": "1999",
+      "durationMs": 233733,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRWMB9900516",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/af/ce/dc/afcedc75-5136-c941-e19d-955c4865534f/889176400421.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a6920fb7-d1f6-4b53-a0e9-d17d287bbc02",
+        "itunes": "https://music.apple.com/us/album/a-mais-pedida-feat-raimundos/958222756?i=958222761&uo=4",
+        "deezer": "https://www.deezer.com/track/761234"
+      }
+    },
+    "lyricPath": "/lyrics/98506.txt"
+  }
+]

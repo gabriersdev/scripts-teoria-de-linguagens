@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98107,
+    "metadata": {
+      "title": "Vingança",
+      "artists": [
+        "Mc Jacaré, MC LUUKY, dj andreoli"
+      ],
+      "album": "Samma uns ehrlich",
+      "releaseDate": "2007-06-30",
+      "durationMs": 292000,
+      "genres": [],
+      "isrc": "BKC3C2600008",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7f20c6eedc1d480971ff0d0a6a250614/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/906928e3-6ea7-43a8-9bc6-36b583afaef6",
+        "deezer": "https://www.deezer.com/track/3954031321"
+      }
+    },
+    "lyricPath": "/lyrics/98107.txt"
+  }
+]

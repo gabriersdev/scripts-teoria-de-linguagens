@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99143,
+    "metadata": {
+      "title": "zumzumzum",
+      "artists": [
+        "Teto"
+      ],
+      "album": "ノーゲーム・ノーライフ VOLUME.05 スペシャルCD サウンドトラック Vol.3",
+      "releaseDate": "2014-10-29",
+      "durationMs": 152293,
+      "genres": [],
+      "isrc": "JPD731401036",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c2168abc5381f364beb2fd7158fa2fe0/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6634f83a-7698-414e-bf55-9d9f16dcf1e8",
+        "deezer": "https://www.deezer.com/track/2637796772"
+      }
+    },
+    "lyricPath": "/lyrics/99143.txt"
+  }
+]

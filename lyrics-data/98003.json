@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98003,
+    "metadata": {
+      "title": "Obra de Arte",
+      "artists": [
+        "Bielzin, Mc Poze do Rodo, DJ DAVI DOGDOG"
+      ],
+      "album": "40˚.40",
+      "releaseDate": "2020-07-16",
+      "durationMs": 187000,
+      "genres": [
+        "Hip-Hop"
+      ],
+      "isrc": "BCM9A2600109",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/f9/2a/91f92ae8-d283-e8b1-692f-a73e3fe99142/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/79e74b1e-a41b-4c15-b7f8-6b0acb6937fd",
+        "itunes": "https://music.apple.com/us/album/obra-de-arte/6794462200?i=6794462201&uo=4",
+        "deezer": "https://www.deezer.com/track/4175440172"
+      }
+    },
+    "lyricPath": "/lyrics/98003.txt"
+  }
+]

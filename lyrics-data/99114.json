@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99114,
+    "metadata": {
+      "title": "Tá Onde, Vida?",
+      "artists": [
+        "jonaveliz"
+      ],
+      "album": "Quem vai mandar no mundo é a mulher",
+      "releaseDate": "2009",
+      "durationMs": 132000,
+      "genres": [],
+      "isrc": "BCYJQ2300003",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b8dbecd1f77d66884dc8c25d0e44e0c0/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/eb634182-99ee-4e22-9fa4-2b7c7f390053",
+        "deezer": "https://www.deezer.com/track/2163477167"
+      }
+    },
+    "lyricPath": "/lyrics/99114.txt"
+  }
+]

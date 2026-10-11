@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98983,
+    "metadata": {
+      "title": "Talvez você precise de mim",
+      "artists": [
+        "Veigh, Supernova Ent"
+      ],
+      "album": "Eu Venci o Mundo",
+      "releaseDate": "2025-06-27",
+      "durationMs": 126800,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/17/48/cf17485f-f660-b464-f122-00a966da2a1a/711209040871_5w4D4nM-copy-c2b07859.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2e154246-55a0-4c90-a99f-36535b5eeee2",
+        "itunes": "https://music.apple.com/us/album/talvez-voc%C3%AA-precise-de-mim-ao-vivo/6818330559?i=6818330737&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98983.txt"
+  }
+]

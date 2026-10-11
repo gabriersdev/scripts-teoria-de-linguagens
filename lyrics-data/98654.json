@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98654,
+    "metadata": {
+      "title": "Me Leva Pra Casa / Escrito Nas Estrelas / Saudade",
+      "artists": [
+        "Zezé Di Camargo"
+      ],
+      "album": "Raiz Goiânia",
+      "releaseDate": "2023-10-12",
+      "durationMs": 265450,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRUM72300362",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/b2/5d/79/b25d79ac-327d-6446-dc7c-67e851c9b44a/889176581267.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bd380590-9dc6-44ea-8d28-463fea78401e",
+        "itunes": "https://music.apple.com/us/album/saudade-feat-zez%C3%A9-di-camargo-luciano-ao-vivo/1015673227?i=1015674955&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98654.txt"
+  }
+]

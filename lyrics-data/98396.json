@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98396,
+    "metadata": {
+      "title": "Oh Shit",
+      "artists": [
+        "KANT"
+      ],
+      "album": "Bizarre Ride II the Pharcyde",
+      "releaseDate": "2012-07-23",
+      "durationMs": 269000,
+      "genres": [],
+      "isrc": "QZGLS2045454",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/351f8e2d3fe2fff8f9e3ef8f6d378a7e/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d7ed6d2d-fb29-41f1-ab3f-a1ad6d9ca212",
+        "deezer": "https://www.deezer.com/track/935253492"
+      }
+    },
+    "lyricPath": "/lyrics/98396.txt"
+  }
+]

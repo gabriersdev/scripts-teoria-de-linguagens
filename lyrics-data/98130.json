@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98130,
+    "metadata": {
+      "title": "Kika uma Vez",
+      "artists": [
+        "Brendow, Kelven Barbosa, Mc Pikachu, Mc Pedrinho"
+      ],
+      "album": "Baile do Satyr #2",
+      "releaseDate": "2020-11-04",
+      "durationMs": 268800,
+      "genres": [],
+      "isrc": "BKHYR2500217",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/771d394e0daaca69d5890c12bc47b7c8/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8a15cbed-d1ab-47c3-9a1c-1d66d71f9cd3",
+        "deezer": "https://www.deezer.com/track/3358227931"
+      }
+    },
+    "lyricPath": "/lyrics/98130.txt"
+  }
+]

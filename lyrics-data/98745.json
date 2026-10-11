@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98745,
+    "metadata": {
+      "title": "Briga Feia - Ao Vivo",
+      "artists": [
+        "Henrique & Juliano"
+      ],
+      "album": "Briga feia",
+      "releaseDate": "2019-12-13",
+      "durationMs": 194580,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1900346",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/62/51/106251c9-750d-3ed1-21d9-0cd24e080b3c/00602438598670_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/98ee1713-0f84-4f1f-a619-5139afb1bd60",
+        "itunes": "https://music.apple.com/us/album/briga-feia-ao-vivo/1882058820?i=1882058825&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98745.txt"
+  }
+]

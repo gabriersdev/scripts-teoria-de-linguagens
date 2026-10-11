@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98488,
+    "metadata": {
+      "title": "Bixo da seda",
+      "artists": [
+        "Bixo Da Seda"
+      ],
+      "album": "Bixo Da Seda",
+      "releaseDate": "1976",
+      "durationMs": 198773,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRWMB0200741",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/20/1f/35/201f3575-15f0-8812-18a3-7648032aaa32/mzi.tvvddqqe.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d345302d-27e0-483b-bbc9-51f7ac74830a",
+        "itunes": "https://music.apple.com/us/album/o-reverendo-rock-ga%C3%BAcho/399948161?i=399948297&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98488.txt"
+  }
+]

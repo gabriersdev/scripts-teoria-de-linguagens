@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99124,
+    "metadata": {
+      "title": "Astro Nauta",
+      "artists": [
+        "Pineapple StormTv, JayA Luuck, Jogzz"
+      ],
+      "album": "Astro Nauta",
+      "releaseDate": "2020-04-09",
+      "durationMs": 185000,
+      "genres": [],
+      "isrc": "BXYVJ2000014",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/107be329b7b42a7add986a74dd87db87/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2792246872"
+      }
+    },
+    "lyricPath": "/lyrics/99124.txt"
+  }
+]

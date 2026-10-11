@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98839,
+    "metadata": {
+      "title": "Jaguar",
+      "artists": [
+        "Sidoka"
+      ],
+      "album": "Pop Songs",
+      "releaseDate": "2017-06-13",
+      "durationMs": 358130,
+      "genres": [],
+      "isrc": "QZFZ42063720",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/befa4056b17bfa6192bc237e33ad9747/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7693391c-d0ad-4fa2-b1ae-d504371d75da",
+        "deezer": "https://www.deezer.com/track/1843447917"
+      }
+    },
+    "lyricPath": "/lyrics/98839.txt"
+  }
+]

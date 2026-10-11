@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98906,
+    "metadata": {
+      "title": "PERSONALIDADES",
+      "artists": [
+        "Nosred, 3X"
+      ],
+      "album": "Personalidades Plásticas",
+      "releaseDate": "2013",
+      "durationMs": 150000,
+      "genres": [],
+      "isrc": "BCE7P2501068",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d010c9d4a01d750a107b9bb866aa3c67/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2c1aca1d-f532-41a3-b7db-bd0ef92d3d94",
+        "deezer": "https://www.deezer.com/track/3296254031"
+      }
+    },
+    "lyricPath": "/lyrics/98906.txt"
+  }
+]

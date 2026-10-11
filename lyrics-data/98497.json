@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98497,
+    "metadata": {
+      "title": "Hoje Nós",
+      "artists": [
+        "David Ballot, Esteban Tavares"
+      ],
+      "album": "Mundo Rabida",
+      "releaseDate": "2017-07-06T12:00:00Z",
+      "durationMs": 227108,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "AEA0Q2124105",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1e/8e/e6/1e8ee6fb-29f6-51f1-43f7-a6f45535d42e/cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c805e5bf-546b-4914-9ded-99184f3ba337",
+        "itunes": "https://music.apple.com/us/album/hoje-n%C3%B3s-feat-esteban-tavares/1567248670?i=1567248675&uo=4",
+        "deezer": "https://www.deezer.com/track/1371719922"
+      }
+    },
+    "lyricPath": "/lyrics/98497.txt"
+  }
+]

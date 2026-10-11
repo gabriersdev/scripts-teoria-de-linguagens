@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98829,
+    "metadata": {
+      "title": "CINEREOUS",
+      "artists": [
+        "Nosred, 3X"
+      ],
+      "album": "Cold Skin",
+      "releaseDate": "2013-11-15",
+      "durationMs": 224966,
+      "genres": [],
+      "isrc": "BCE7P2501069",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d010c9d4a01d750a107b9bb866aa3c67/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6e6be60c-bc82-4dc0-8754-4db63caaf5dc",
+        "deezer": "https://www.deezer.com/track/3296254001"
+      }
+    },
+    "lyricPath": "/lyrics/98829.txt"
+  }
+]

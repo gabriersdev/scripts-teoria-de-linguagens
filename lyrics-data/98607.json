@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98607,
+    "metadata": {
+      "title": "Guerra Diária",
+      "artists": [
+        "Panda & Ícaro e Gilmar"
+      ],
+      "album": "Panda Sem Moderação (Ao Vivo)",
+      "releaseDate": "2024-12-19",
+      "durationMs": 146750,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BX8WE2600054",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/ff/43/42ff43ae-82e3-bfb0-ca37-12c7ec0c49df/196874306307.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9936a4e6-ffbd-42b0-b58c-8173a28e56cf",
+        "itunes": "https://music.apple.com/us/album/guerra-di%C3%A1ria-ao-vivo/1893186162?i=1893186164&uo=4",
+        "deezer": "https://www.deezer.com/track/3958819911"
+      }
+    },
+    "lyricPath": "/lyrics/98607.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98410,
+    "metadata": {
+      "title": "Infinita Highway",
+      "artists": [
+        "Engenheiros Do Hawaii"
+      ],
+      "album": "O Essencial de Engenheiros do Hawaii",
+      "releaseDate": "1999",
+      "durationMs": 371667,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRBMG8700021",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0c/4b/40/0c4b40db-dfb2-ccf8-8a95-b2a0bef2ac70/mzi.syylzozb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c38805f2-85a6-46fa-9e96-e496644a7664",
+        "itunes": "https://music.apple.com/us/album/infinita-highway/321838535?i=321838544&uo=4",
+        "deezer": "https://www.deezer.com/track/13310165"
+      }
+    },
+    "lyricPath": "/lyrics/98410.txt"
+  }
+]

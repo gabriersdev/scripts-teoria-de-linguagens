@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98091,
+    "metadata": {
+      "title": "Deixa Eu Mandar Meu Passinho",
+      "artists": [
+        "Dj Aguilar, Dj Tchouzen, MC Marlon PH"
+      ],
+      "album": "Samma uns ehrlich",
+      "releaseDate": "2007-06-30",
+      "durationMs": 292000,
+      "genres": [
+        "Funk"
+      ],
+      "isrc": "US7VG2564025",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/b5/ba/eeb5baee-e919-9ed7-b6f8-0787955a01b3/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/906928e3-6ea7-43a8-9bc6-36b583afaef6",
+        "itunes": "https://music.apple.com/us/album/deixa-eu-mandar-meu-passinho-speed-up-feat-dj-samuel-aguilar/1833995392?i=1833995394&uo=4",
+        "deezer": "https://www.deezer.com/track/3194180851"
+      }
+    },
+    "lyricPath": "/lyrics/98091.txt"
+  }
+]

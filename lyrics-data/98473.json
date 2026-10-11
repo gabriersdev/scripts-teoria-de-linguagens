@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98473,
+    "metadata": {
+      "title": "O Anjo Mais Velho (Ao Vivo)",
+      "artists": [
+        "O Teatro Mágico"
+      ],
+      "album": "Recombinando atos: Ao vivo em São Paulo",
+      "releaseDate": "2013",
+      "durationMs": 351466,
+      "genres": [
+        "Alternative Folk"
+      ],
+      "isrc": "BRFOE1300026",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/c8/31/f5/c831f561-595f-6070-434e-bd155a7b9bba/7898934833558.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8b6678e2-b9fb-42d9-9e83-e420c703547c",
+        "itunes": "https://music.apple.com/us/album/o-anjo-mais-velho-ao-vivo/1135020934?i=1135021158&uo=4",
+        "deezer": "https://www.deezer.com/track/128679059"
+      }
+    },
+    "lyricPath": "/lyrics/98473.txt"
+  }
+]

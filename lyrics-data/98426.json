@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98426,
+    "metadata": {
+      "title": "O Tempo Não Pára",
+      "artists": [
+        "Cazuza"
+      ],
+      "album": "Cazuza: O tempo não pára",
+      "releaseDate": "2004",
+      "durationMs": 199920,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": "BRPGD8800024",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/b7/bf/22b7bf8b-5dbf-e53d-37d6-de53249b33c6/7908067160060.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/84af6e57-7eac-4c68-b88d-3583b97872b8",
+        "itunes": "https://music.apple.com/us/album/o-tempo-n%C3%A3o-para-cazuza-o-poeta-vive/1779096278?i=1779096553&uo=4",
+        "deezer": "https://www.deezer.com/track/2760120"
+      }
+    },
+    "lyricPath": "/lyrics/98426.txt"
+  }
+]

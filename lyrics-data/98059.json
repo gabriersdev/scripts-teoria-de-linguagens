@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98059,
+    "metadata": {
+      "title": "MACETEI",
+      "artists": [
+        "MC Gustavinho, Gt do Mira"
+      ],
+      "album": "Macetei Com Amor",
+      "releaseDate": "2022-12-15",
+      "durationMs": 220705,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": "AEA3A1930849",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/58/f5/4858f509-3247-2a9b-e674-31b3c4a3bfcf/1341965.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9bbd6fdc-7618-405b-8f26-46a7e5deac51",
+        "itunes": "https://music.apple.com/us/album/macetei/1890022028?i=1890022029&uo=4",
+        "deezer": "https://www.deezer.com/track/3944479751"
+      }
+    },
+    "lyricPath": "/lyrics/98059.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98188,
+    "metadata": {
+      "title": "Fácil Demais",
+      "artists": [
+        "MC Hariel, Mc Davi"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BXG6R1800850",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/36/63/b0/3663b0ad-33b4-7d50-3a45-b626383d049b/00193483166667_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "itunes": "https://music.apple.com/us/album/f%C3%A1cil-demais/1577346240?i=1577346426&uo=4",
+        "deezer": "https://www.deezer.com/track/1439227292"
+      }
+    },
+    "lyricPath": "/lyrics/98188.txt"
+  }
+]

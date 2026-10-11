@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98261,
+    "metadata": {
+      "title": "Deusa",
+      "artists": [
+        "BK, 2ZDinizz, Anchietx, Nansy Silvvz"
+      ],
+      "album": "PRODUTO DO AMBIENTE",
+      "releaseDate": "2025-12-16",
+      "durationMs": 274000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/61/4e/93614e0e-5732-f65e-ae0e-9890bc8121bc/199806625002.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/02d9a786-79a7-40b5-bc5a-b4fe928194af",
+        "itunes": "https://music.apple.com/us/album/deusa-feat-nansy-silvvz/1858079934?i=1858080344&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98261.txt"
+  }
+]

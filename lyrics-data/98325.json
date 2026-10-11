@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98325,
+    "metadata": {
+      "title": "penumbra",
+      "artists": [
+        "Djonga, Rapaz do Dread, Sarah Guedes"
+      ],
+      "album": "O Dono do Lugar",
+      "releaseDate": "2022-10-13",
+      "durationMs": 184554,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BCQAL2200025",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/19/17/1b/19171b41-5337-0099-8897-b141145e5d67/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5d6107e1-038b-4da7-bf86-9c1c14b82530",
+        "itunes": "https://music.apple.com/us/album/penumbra/1648719866?i=1648720054&uo=4",
+        "deezer": "https://www.deezer.com/track/1933819537"
+      }
+    },
+    "lyricPath": "/lyrics/98325.txt"
+  }
+]

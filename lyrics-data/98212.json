@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98212,
+    "metadata": {
+      "title": "CAÇA DO TESOURO",
+      "artists": [
+        "THE BOX, MC Fr da Norte, Boaventura, Ouroempessoa, Rucinni, Fahel"
+      ],
+      "album": "Cara da Caça do Deic",
+      "releaseDate": "2021-12-17",
+      "durationMs": 194522,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/24/03/d8240366-b924-ea62-b9f9-62088b0b7208/196874541340.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c01f4a1d-5a64-4d8a-868e-13a7addf89da",
+        "itunes": "https://music.apple.com/us/album/ca%C3%A7a-do-tesouro/6781880219?i=6781880220&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98212.txt"
+  }
+]

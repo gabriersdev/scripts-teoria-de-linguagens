@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98358,
+    "metadata": {
+      "title": "Sintoniza",
+      "artists": [
+        "IZA, Djonga"
+      ],
+      "album": "Sintoniza",
+      "releaseDate": "2003-02-03",
+      "durationMs": 74000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRWMB2301047",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/01/14/7c/01147c3b-cccd-cece-713c-197a9c184db6/5054197769955.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/04fc7c92-4335-4674-9a85-a7b383f81371",
+        "itunes": "https://music.apple.com/us/album/sintoniza/1699702254?i=1699702504&uo=4",
+        "deezer": "https://www.deezer.com/track/2386420005"
+      }
+    },
+    "lyricPath": "/lyrics/98358.txt"
+  }
+]

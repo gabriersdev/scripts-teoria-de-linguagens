@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98620,
+    "metadata": {
+      "title": "Última Saudade",
+      "artists": [
+        "Henrique & Juliano"
+      ],
+      "album": "Um Tijolo Com Seu Nome",
+      "releaseDate": "2023-08-29",
+      "durationMs": 134000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BCVDD2400001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/1f/e5/821fe59c-d4da-2c50-cb2c-e30645daa817/00602475298236_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f94bcee2-7f4d-49c4-a413-47417e51d4a8",
+        "itunes": "https://music.apple.com/us/album/%C3%BAltima-saudade-ao-vivo/1881788120?i=1881788123&uo=4",
+        "deezer": "https://www.deezer.com/track/3876591901"
+      }
+    },
+    "lyricPath": "/lyrics/98620.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98966,
+    "metadata": {
+      "title": "FÉRIAS",
+      "artists": [
+        "Ryu, The Runner, 6ee"
+      ],
+      "album": "SEMRÉH",
+      "releaseDate": "2024-05-23",
+      "durationMs": 69000,
+      "genres": [],
+      "isrc": "BRRGE2600526",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/75f957fc7c42730db1ed2b6486986ded/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f674c058-5920-4eee-8a6a-9cebcd6a284a",
+        "deezer": "https://www.deezer.com/track/3957770781"
+      }
+    },
+    "lyricPath": "/lyrics/98966.txt"
+  }
+]

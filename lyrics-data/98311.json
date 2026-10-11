@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98311,
+    "metadata": {
+      "title": "Doce Veneno",
+      "artists": [
+        "Costa Gold"
+      ],
+      "album": ".155",
+      "releaseDate": "2015",
+      "durationMs": 235000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1523016",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/63/67/366367fa-db31-cc87-dac4-6a38c6d40d85/632103031225.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/480bb2c7-5557-4292-81c1-ef9ab477d5f5",
+        "itunes": "https://music.apple.com/us/album/doce-veneno-v%C3%ADrus-da-carne/1832638784?i=1832638785&uo=4",
+        "deezer": "https://www.deezer.com/track/3491739091"
+      }
+    },
+    "lyricPath": "/lyrics/98311.txt"
+  }
+]

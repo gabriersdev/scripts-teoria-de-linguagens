@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98430,
+    "metadata": {
+      "title": "Festa de Arromba",
+      "artists": [
+        "Erasmo Carlos"
+      ],
+      "album": "Lulu canta & toca Roberto e Erasmo",
+      "releaseDate": "2013-05-06",
+      "durationMs": 181853,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRSGL6500001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/48/47/2448470d-7bfb-5df3-583a-4e32416c84a4/196873519869.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9ab7ad92-4bf0-4638-b44e-314b715ba68d",
+        "itunes": "https://music.apple.com/us/album/festa-de-arromba-2025-remasterizado/1835022110?i=1835022121&uo=4",
+        "deezer": "https://www.deezer.com/track/117873596"
+      }
+    },
+    "lyricPath": "/lyrics/98430.txt"
+  }
+]

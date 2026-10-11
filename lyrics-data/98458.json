@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98458,
+    "metadata": {
+      "title": "Revanche",
+      "artists": [
+        "Lobão"
+      ],
+      "album": "Os Carvoeiros",
+      "releaseDate": "1999",
+      "durationMs": 214836,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRBMG8600062",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/5c/11/1f/mzi.sxwafbgd.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/87be4371-53a6-4940-bbd3-56b66bbb8e84",
+        "itunes": "https://music.apple.com/us/album/revanche-ao-vivo/401771639?i=401771886&uo=4",
+        "deezer": "https://www.deezer.com/track/61017829"
+      }
+    },
+    "lyricPath": "/lyrics/98458.txt"
+  }
+]

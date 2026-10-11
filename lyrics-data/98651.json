@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98651,
+    "metadata": {
+      "title": "Ai Que Dó",
+      "artists": [
+        "Thaeme & Thiago"
+      ],
+      "album": "Ao vivo em Londrina",
+      "releaseDate": "2012",
+      "durationMs": 197000,
+      "genres": [
+        "MPB"
+      ],
+      "isrc": "BR3T81200002",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/c7/5a/04/c75a0481-30e8-797d-52f1-22e53d3d1dc0/dj.qfzhgalm.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e1f92e70-95ac-42c5-b382-d9e6dc21c7e7",
+        "itunes": "https://music.apple.com/us/album/ai-que-d%C3%B3-ao-vivo/530298089?i=530298097&uo=4",
+        "deezer": "https://www.deezer.com/track/34397311"
+      }
+    },
+    "lyricPath": "/lyrics/98651.txt"
+  }
+]

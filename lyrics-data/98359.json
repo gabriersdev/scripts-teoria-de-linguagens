@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98359,
+    "metadata": {
+      "title": "Conexão Jamaica",
+      "artists": [
+        "Felp 22, Medellin"
+      ],
+      "album": "Censurado pela Mídia, Amado pelas Ruas",
+      "releaseDate": "2023-08-04",
+      "durationMs": 180000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BCD592100058",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/0e/11/3c0e11f6-6e16-ab35-48f4-8bbf1c38bec8/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/aa98bd90-649d-4f2b-89bb-e4bd9b1dbccb",
+        "itunes": "https://music.apple.com/us/album/conex%C3%A3o-jamaica/1574188034?i=1574188036&uo=4",
+        "deezer": "https://www.deezer.com/track/1412475262"
+      }
+    },
+    "lyricPath": "/lyrics/98359.txt"
+  }
+]

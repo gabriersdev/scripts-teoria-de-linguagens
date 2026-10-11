@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98927,
+    "metadata": {
+      "title": "Scott Pillgrim",
+      "artists": [
+        "Ark King, JKM, D$ Luqi"
+      ],
+      "album": "An Artisan’s Exhibition",
+      "releaseDate": "2026-04-17",
+      "durationMs": 163500,
+      "genres": [],
+      "isrc": "NLE802500630",
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/43494585-2b39-4227-81c0-48baf1f05fbb"
+      }
+    },
+    "lyricPath": "/lyrics/98927.txt"
+  }
+]

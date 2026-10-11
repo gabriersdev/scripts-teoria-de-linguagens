@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98164,
+    "metadata": {
+      "title": "Passinho do Romano",
+      "artists": [
+        "MC Bin Laden"
+      ],
+      "album": "Hallucinogen Remixes",
+      "releaseDate": "2015-12-25",
+      "durationMs": 166000,
+      "genres": [
+        "Funk"
+      ],
+      "isrc": "GBBPW1500309",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/70/f8/7d/70f87d91-418c-ca79-9937-3b7a8af3af0a/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/efa28a5c-6ddf-4a07-927d-1d541f9dc7f3",
+        "itunes": "https://music.apple.com/us/album/passinho-do-romano/933037584?i=933037838&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98164.txt"
+  }
+]

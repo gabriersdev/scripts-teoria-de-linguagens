@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98057,
+    "metadata": {
+      "title": "Resenha Na Laje",
+      "artists": [
+        "Kew, DJGILCASTRO"
+      ],
+      "album": "Pra Quem Gosta de Samba, Volume 2",
+      "releaseDate": "2012",
+      "durationMs": 92585,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BK4DA2607103",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/9d/11/c69d1100-46dd-1acb-b9f3-6a7fe34e24ab/5026854611143.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b8b9412e-f78c-4908-bcbd-1e005b38c8a2",
+        "itunes": "https://music.apple.com/us/album/resenha-na-laje/1872203857?i=1872203858&uo=4",
+        "deezer": "https://www.deezer.com/track/3804705852"
+      }
+    },
+    "lyricPath": "/lyrics/98057.txt"
+  }
+]

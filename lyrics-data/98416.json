@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98416,
+    "metadata": {
+      "title": "Veraneio Vascaina",
+      "artists": [
+        "Capital Inicial"
+      ],
+      "album": "Radikalkur / Jason",
+      "releaseDate": "2003-05-05",
+      "durationMs": 131600,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRBMG0000518",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/37/cb/23/37cb2373-6194-cf1f-3e33-495c1ac620da/886443273061.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/df9bc29f-017e-4a4a-bb20-dd7e8f843440",
+        "itunes": "https://music.apple.com/us/album/veraneio-vasca%C3%ADna/654818571?i=654818672&uo=4",
+        "deezer": "https://www.deezer.com/track/137199474"
+      }
+    },
+    "lyricPath": "/lyrics/98416.txt"
+  }
+]

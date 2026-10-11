@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98760,
+    "metadata": {
+      "title": "Quero Você do Jeito Que Quiser",
+      "artists": [
+        "Maiara & Maraisa"
+      ],
+      "album": "Piseiro Sofrência",
+      "releaseDate": "2021-04-29",
+      "durationMs": 185000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV2000120",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/4b/9c/334b9c64-7de9-1f3b-f90d-722cade4c870/7891430498276.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4a14de69-d37d-4bd0-8284-b1b23ed225d8",
+        "itunes": "https://music.apple.com/us/album/quero-voc%C3%AA-do-jeito-que-quiser/1528979177?i=1528979556&uo=4",
+        "deezer": "https://www.deezer.com/track/1006151442"
+      }
+    },
+    "lyricPath": "/lyrics/98760.txt"
+  }
+]

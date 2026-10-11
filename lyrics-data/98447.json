@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98447,
+    "metadata": {
+      "title": "Me Odeie",
+      "artists": [
+        "Reação Em Cadeia"
+      ],
+      "album": "Neural",
+      "releaseDate": "2002",
+      "durationMs": 361013,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRACT0300792",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5c/7b/2c/5c7b2cef-7002-c027-eea8-607ebea8b2b5/192562194218.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d398735f-7096-4376-8a3d-9fc3b2e6d27a",
+        "itunes": "https://music.apple.com/us/album/me-odeie/1360889709?i=1360890904&uo=4",
+        "deezer": "https://www.deezer.com/track/474119512"
+      }
+    },
+    "lyricPath": "/lyrics/98447.txt"
+  }
+]

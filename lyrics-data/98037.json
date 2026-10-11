@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98037,
+    "metadata": {
+      "title": "Reliquia do 2T",
+      "artists": [
+        "DJ Gu, MC Vine7, MC Tuto, MC Joãozinho VT, Mc Dkziin, MC Fr da Norte"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [],
+      "isrc": "BCSOR2600026",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/2a00193ed619598a810bdb0f7b1a8f73/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "deezer": "https://www.deezer.com/track/3820606441"
+      }
+    },
+    "lyricPath": "/lyrics/98037.txt"
+  }
+]

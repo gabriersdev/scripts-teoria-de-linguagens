@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98812,
+    "metadata": {
+      "title": "Vandame",
+      "artists": [
+        "Ryu, The Runner"
+      ],
+      "album": "EVDC DELUXE",
+      "releaseDate": "2023-07-28",
+      "durationMs": 159000,
+      "genres": [],
+      "isrc": "BRRGE2300587",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/5e8e22c4e8d4374738a0871ca0008af7/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/802d5513-15ca-4b0c-8f88-c6df0490e628",
+        "deezer": "https://www.deezer.com/track/2368901335"
+      }
+    },
+    "lyricPath": "/lyrics/98812.txt"
+  }
+]

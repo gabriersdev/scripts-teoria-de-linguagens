@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98790,
+    "metadata": {
+      "title": "Bagunça Minha Vida - Ao Vivo Em Goiânia / 2019",
+      "artists": [
+        "Maiara & Maraisa"
+      ],
+      "album": "O florista (Ao vivo)",
+      "releaseDate": "2023-05-26",
+      "durationMs": 232746,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6f/c7/cb/6fc7cb10-973f-25bb-ea48-44a668911a70/7891430254377.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6f07e3aa-3ed4-4374-87f4-07505626e850",
+        "itunes": "https://music.apple.com/us/album/a-culpa-%C3%A9-dele-feat-maiara-maraisa-ac%C3%BAstico/1371052287?i=1371053046&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98790.txt"
+  }
+]

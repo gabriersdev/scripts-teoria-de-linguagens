@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98368,
+    "metadata": {
+      "title": "Somos Nos (feat. Pedro Qualy)",
+      "artists": [
+        "Primeira Classe, Pedro Qualy"
+      ],
+      "album": "Debate sobre a erva",
+      "releaseDate": "2017-05-08",
+      "durationMs": 128215,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "USLZJ1662244",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/55/45/5a/55455a79-7d69-fea7-b3df-bc0f63e3ea34/811869110966_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f6951998-1b8a-48ca-b3e0-85f1385ed3a4",
+        "itunes": "https://music.apple.com/us/album/somos-nos-feat-pedro-qualy/1119742005?i=1119742496&uo=4",
+        "deezer": "https://www.deezer.com/track/125787865"
+      }
+    },
+    "lyricPath": "/lyrics/98368.txt"
+  }
+]

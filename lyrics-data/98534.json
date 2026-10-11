@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98534,
+    "metadata": {
+      "title": "Nós Estamos Bem",
+      "artists": [
+        "Titãs"
+      ],
+      "album": "Grandes Sucessos (Seleção Essencial)",
+      "releaseDate": "2010",
+      "durationMs": 147653,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRBMG0300724",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/97/8e/50/978e50e6-1538-7307-393f-8829956c3502/mzm.tzroyhhg.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bfc2d8cd-2e52-469f-980d-a5c7ab05bf45",
+        "itunes": "https://music.apple.com/us/album/n%C3%B3s-estamos-bem/1054522062?i=1054522082&uo=4",
+        "deezer": "https://www.deezer.com/track/128441315"
+      }
+    },
+    "lyricPath": "/lyrics/98534.txt"
+  }
+]

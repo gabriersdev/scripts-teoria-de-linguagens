@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98345,
+    "metadata": {
+      "title": "De Novo",
+      "artists": [
+        "Xamã, Bagua Records, Neo Beats"
+      ],
+      "album": "Cangaço Sessions: Bailão Otaku Edition",
+      "releaseDate": "2026",
+      "durationMs": 131000,
+      "genres": [],
+      "isrc": "QZHZ42053476",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6dd3ae333ace124d47242399660cc151/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f14ca5a0-7ad6-480b-b8c9-7fc46e47b0d3",
+        "deezer": "https://www.deezer.com/track/983630662"
+      }
+    },
+    "lyricPath": "/lyrics/98345.txt"
+  }
+]

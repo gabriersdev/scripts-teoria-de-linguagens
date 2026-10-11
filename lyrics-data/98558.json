@@ -1,0 +1,29 @@
+[
+  {
+    "id": 98558,
+    "metadata": {
+      "title": "Independente Futebol Clube - Acústico",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "2 é demais",
+      "releaseDate": "1996",
+      "durationMs": 153400,
+      "genres": [
+        "rock",
+        "pop",
+        "hard rock",
+        "classic rock",
+        "pop rock"
+      ],
+      "isrc": "BRDEP0500353",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/15/c4/9f15c409-dc83-6022-a6bf-d82976207fd9/7898324301889.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a26d30b0-1555-4c8d-939c-0caeee36064f",
+        "itunes": "https://music.apple.com/us/album/independente-futebol-clube/977474314?i=977474481&uo=4",
+        "deezer": "https://www.deezer.com/track/96168066"
+      }
+    },
+    "lyricPath": "/lyrics/98558.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98145,
+    "metadata": {
+      "title": "Aquariano Nato",
+      "artists": [
+        "MC Saci"
+      ],
+      "album": "Rave do Aquariano Nato - Single",
+      "releaseDate": "2024-05-31T12:00:00Z",
+      "durationMs": 169846,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BKCMX2300009",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/d4/1b/bcd41bf7-fd5f-e902-e5bd-98573dd30ca8/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/rave-do-aquariano-nato/1747354544?i=1747354546&uo=4",
+        "deezer": "https://www.deezer.com/track/2364299055"
+      }
+    },
+    "lyricPath": "/lyrics/98145.txt"
+  }
+]

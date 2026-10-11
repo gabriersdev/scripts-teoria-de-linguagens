@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98594,
+    "metadata": {
+      "title": "Heroína Suicida",
+      "artists": [
+        "Ratos De Porão"
+      ],
+      "album": "Dead Brains for Brain Dead",
+      "releaseDate": "2015-06-08",
+      "durationMs": 23000,
+      "genres": [],
+      "isrc": "BRELD0500200",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3728662d4464d8c0d1e6790a4de046f1/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0745703d-1097-44ee-9e79-a1ba27dae2c3",
+        "deezer": "https://www.deezer.com/track/111007780"
+      }
+    },
+    "lyricPath": "/lyrics/98594.txt"
+  }
+]

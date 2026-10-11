@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98206,
+    "metadata": {
+      "title": "PREDESTINADA",
+      "artists": [
+        "Muse Maya, Nagalli"
+      ],
+      "album": "Archivo RCA: 1951 / 1957",
+      "releaseDate": "2002",
+      "durationMs": 235000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BKSUV2600068",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/ef/ae/5befae6e-ccc8-cc77-392d-c0fd04827f85/196874691090.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/aa3d062d-82b5-4486-975f-7a75f6480254",
+        "itunes": "https://music.apple.com/us/album/predestinada/6800757147?i=6800757153&uo=4",
+        "deezer": "https://www.deezer.com/track/4219503402"
+      }
+    },
+    "lyricPath": "/lyrics/98206.txt"
+  }
+]

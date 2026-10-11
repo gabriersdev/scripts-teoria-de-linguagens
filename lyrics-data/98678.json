@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98678,
+    "metadata": {
+      "title": "Você Virou Saudade / Maus Bocados",
+      "artists": [
+        "Traia Véia"
+      ],
+      "album": "Bom Astral",
+      "releaseDate": "2000",
+      "durationMs": 239906,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKC0B2400004",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/2f/7f/202f7fd7-9bf5-ff55-6de6-1228a3367af8/a3c37b4c-8a0a-4e63-867f-e496157aa4ae.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ebde51bb-7608-4deb-acc6-fea08dfe2365",
+        "itunes": "https://music.apple.com/us/album/voce-virou-saudade-maus-bocados-ao-vivo/1742864873?i=1742864876&uo=4",
+        "deezer": "https://www.deezer.com/track/2763922571"
+      }
+    },
+    "lyricPath": "/lyrics/98678.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98891,
+    "metadata": {
+      "title": "La Fleur",
+      "artists": [
+        "Ark King, deadpeace, Junim"
+      ],
+      "album": "INSOMNIAC",
+      "releaseDate": "2024-11-01",
+      "durationMs": 103812,
+      "genres": [],
+      "isrc": "QZWFT2416752",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cbd88b640c7e84becdfb84ca3684de18/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6d672cb0-dd7a-4a51-b78c-651d2b6c704a",
+        "deezer": "https://www.deezer.com/track/2046582187"
+      }
+    },
+    "lyricPath": "/lyrics/98891.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98516,
+    "metadata": {
+      "title": "O pão da minha prima",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "Dose Dupla",
+      "releaseDate": "2011",
+      "durationMs": 161515,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRDEP1200319",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/89/0d/c4/890dc449-8765-cc39-7af0-b7fa7fcaf486/7898324306426.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/65d7e6a5-12f5-4157-9773-f3f1444f1ddb",
+        "itunes": "https://music.apple.com/us/album/o-p%C3%A3o-da-minha-prima/977389559?i=977389564&uo=4",
+        "deezer": "https://www.deezer.com/track/96003648"
+      }
+    },
+    "lyricPath": "/lyrics/98516.txt"
+  }
+]

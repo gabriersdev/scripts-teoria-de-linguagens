@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98389,
+    "metadata": {
+      "title": "Sitio do Tio Harry",
+      "artists": [
+        "Sid, NOG, André Nine, Chiocki"
+      ],
+      "album": "Coisas Que Eu Só Falaria Brincando",
+      "releaseDate": "2022-02-11",
+      "durationMs": 292000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/319372fc-f33f-4a91-bfae-84e0dc23c837"
+      }
+    },
+    "lyricPath": "/lyrics/98389.txt"
+  }
+]

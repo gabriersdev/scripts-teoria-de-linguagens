@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98509,
+    "metadata": {
+      "title": "A Mais Pedida - Ao Vivo | Acústico",
+      "artists": [
+        "Raimundos, Ivete Sangalo"
+      ],
+      "album": "Acústico - Ao Vivo",
+      "releaseDate": "2017-04-28",
+      "durationMs": 222000,
+      "genres": [],
+      "isrc": "BRRGE1700295",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/e5ce2511bfbc22e708ca46e95b88c2ef/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/350038551"
+      }
+    },
+    "lyricPath": "/lyrics/98509.txt"
+  }
+]

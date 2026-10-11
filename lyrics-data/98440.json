@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98440,
+    "metadata": {
+      "title": "Tédio",
+      "artists": [
+        "Biquini Cavadão"
+      ],
+      "album": "Coletânea 1986-1993",
+      "releaseDate": "2015-04-21T12:00:00Z",
+      "durationMs": 211920,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRBQN0700018",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/f3/5c/bef35ce6-a036-1784-0ec9-bc80953fef5c/7898324309373.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4101e3a2-e9c9-4d96-b013-1c06718ce1e5",
+        "itunes": "https://music.apple.com/us/album/t%C3%A9dio/980648275?i=980648501&uo=4",
+        "deezer": "https://www.deezer.com/track/357232951"
+      }
+    },
+    "lyricPath": "/lyrics/98440.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98267,
+    "metadata": {
+      "title": "É Sal",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "Máquina do Tempo",
+      "releaseDate": "2020-09-10",
+      "durationMs": 157000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BXW922000004",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/ac/95/9cac9567-6ffa-e640-d619-46564733b11f/196874248850.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/16092a96-67ac-433f-a115-6ac346bd7356",
+        "itunes": "https://music.apple.com/us/album/isso-%C3%A9-s%C3%A9rio/1888592730?i=1888592735&uo=4",
+        "deezer": "https://www.deezer.com/track/1049882342"
+      }
+    },
+    "lyricPath": "/lyrics/98267.txt"
+  }
+]

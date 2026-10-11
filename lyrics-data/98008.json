@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98008,
+    "metadata": {
+      "title": "Pau Pra Toda Obra",
+      "artists": [
+        "Mc Jacaré, MC Ryan SP, Mc IG, Mc Lele JP"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BKC3C2600020",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/09/02/ab/0902ab50-35b9-5fa5-1198-ed5bc332c9cc/192641498060_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
+        "itunes": "https://music.apple.com/us/album/set-do-dj-pedro-3-0/1513265706?i=1513265724&uo=4",
+        "deezer": "https://www.deezer.com/track/4100657281"
+      }
+    },
+    "lyricPath": "/lyrics/98008.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99108,
+    "metadata": {
+      "title": "Pijama",
+      "artists": [
+        "jonaveliz"
+      ],
+      "album": "Notte d'albero",
+      "releaseDate": "2002",
+      "durationMs": 143557,
+      "genres": [
+        "Hip-Hop"
+      ],
+      "isrc": "QZNJX2140563",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/9b/26/e09b26e3-3a62-8673-b665-0942b0d07964/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e306cef6-fa20-46bb-b225-4356da11234f",
+        "itunes": "https://music.apple.com/us/album/pijama/1589596571?i=1589596572&uo=4",
+        "deezer": "https://www.deezer.com/track/1517348612"
+      }
+    },
+    "lyricPath": "/lyrics/99108.txt"
+  }
+]

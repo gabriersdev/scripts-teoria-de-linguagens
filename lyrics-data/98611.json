@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98611,
+    "metadata": {
+      "title": "Gosta De Rua",
+      "artists": [
+        "Felipe e Rodrigo"
+      ],
+      "album": "trends que estão bombando",
+      "releaseDate": "2024-03-29T12:00:00Z",
+      "durationMs": 171335,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKMKR2400004",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/60/98/89609886-4cd7-9c03-0f3e-41df28924f9e/00602465587210_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/512ca9ca-be08-47dd-9fde-fb9d250ce7e8",
+        "itunes": "https://music.apple.com/us/album/gosta-de-rua-ao-vivo/1869066432?i=1869066434&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98611.txt"
+  }
+]

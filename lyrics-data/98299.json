@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98299,
+    "metadata": {
+      "title": "Qual é seu desejo?",
+      "artists": [
+        "TZ da Coronel"
+      ],
+      "album": "Qual é o seu desejo?",
+      "releaseDate": "2024-02-29",
+      "durationMs": 153000,
+      "genres": [
+        "Worldwide"
+      ],
+      "isrc": "BC2TS2400002",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/65/a4/a865a4dd-f7ea-1791-ed35-57bf1439d43f/197190021349.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/fd3c95f7-9f5a-4da0-82ad-349f4bcd120a",
+        "itunes": "https://music.apple.com/us/album/ela-joga-no-7-feat-dj-murillo-e-lt-no-beat-cupula/1708996623?i=1708997893&uo=4",
+        "deezer": "https://www.deezer.com/track/2670809602"
+      }
+    },
+    "lyricPath": "/lyrics/98299.txt"
+  }
+]

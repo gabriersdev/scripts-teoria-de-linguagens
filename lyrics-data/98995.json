@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98995,
+    "metadata": {
+      "title": "MEDICINA",
+      "artists": [
+        "Teto, WIU"
+      ],
+      "album": "UNDER THE INFLUENCE",
+      "releaseDate": "2026-06-19",
+      "durationMs": 145920,
+      "genres": [],
+      "isrc": "BXW922600003",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/19b15bdd0ffa8937bbb5011da73291d3/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e3258ddc-f67c-450c-821a-9f9ccbc60f38",
+        "deezer": "https://www.deezer.com/track/3786886862"
+      }
+    },
+    "lyricPath": "/lyrics/98995.txt"
+  }
+]

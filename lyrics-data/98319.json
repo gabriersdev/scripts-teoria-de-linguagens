@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98319,
+    "metadata": {
+      "title": "Mãos Ao Alto!",
+      "artists": [
+        "Costa Gold"
+      ],
+      "album": "Fôlego",
+      "releaseDate": "2016-10-28",
+      "durationMs": 185392,
+      "genres": [
+        "Electronic"
+      ],
+      "isrc": "USLZJ2016190",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/41/dd/e9/41dde974-a693-2549-6145-da31a33873c9/053000239659_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/eb42ec7a-e24c-404f-b73f-a7462b6841fa",
+        "itunes": "https://music.apple.com/us/album/m%C3%A3os-ao-alto/1435407199?i=1435407215&uo=4",
+        "deezer": "https://www.deezer.com/track/1074577352"
+      }
+    },
+    "lyricPath": "/lyrics/98319.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99088,
+    "metadata": {
+      "title": "SALA VERMELHA #31 - Slipmami",
+      "artists": [
+        "Slipmami & Mahai"
+      ],
+      "album": "Até aqui, Slip nos ajudou",
+      "releaseDate": "2024-09-13",
+      "durationMs": 134157,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/a1/69/54a1694a-b038-e523-d953-5d9777a45b5f/199355637303.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f693b89a-930e-4ee6-a468-c71ee5fcc160",
+        "itunes": "https://music.apple.com/us/album/sala-vermelha-31-slipmami/1816786393?i=1816786395&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/99088.txt"
+  }
+]

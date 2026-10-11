@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98313,
+    "metadata": {
+      "title": "Nada Bom",
+      "artists": [
+        "Costa Gold"
+      ],
+      "album": "Noe nog krachtiger",
+      "releaseDate": "2014-11-20T12:00:00Z",
+      "durationMs": 209000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1579769",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/fc/b87bfcc5-33fa-6f68-bc7f-ac8eb8cb1693/646809667718.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4989cd49-e821-4b9a-b99f-9dff4100a7b5",
+        "itunes": "https://music.apple.com/us/album/nada-bom/1832639302?i=1832639306&uo=4",
+        "deezer": "https://www.deezer.com/track/3491740101"
+      }
+    },
+    "lyricPath": "/lyrics/98313.txt"
+  }
+]

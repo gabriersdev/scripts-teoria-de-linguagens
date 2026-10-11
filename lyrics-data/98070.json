@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98070,
+    "metadata": {
+      "title": "Lembrei de Tu",
+      "artists": [
+        "MC Meno K, Oruam, Fepache"
+      ],
+      "album": "Live in Japan",
+      "releaseDate": "2006",
+      "durationMs": 176000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRWMB2600115",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/68/e5/2768e598-8931-fc6d-7665-84ee9eb524e6/5026854648156.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4abf5851-4188-4573-95ee-4fc445565ab7",
+        "itunes": "https://music.apple.com/us/album/lembrei-de-tu/1874341113?i=1874341115&uo=4",
+        "deezer": "https://www.deezer.com/track/3820767581"
+      }
+    },
+    "lyricPath": "/lyrics/98070.txt"
+  }
+]

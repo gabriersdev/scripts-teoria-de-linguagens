@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98581,
+    "metadata": {
+      "title": "Zé Ninguém",
+      "artists": [
+        "Biquini Cavadão"
+      ],
+      "album": "Violência & Sobrevivência",
+      "releaseDate": "1982-09",
+      "durationMs": 303440,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRPGD9100015",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/f3/5c/bef35ce6-a036-1784-0ec9-bc80953fef5c/7898324309373.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/155e1e28-7a02-4c6d-8a87-b0efb0be112a",
+        "itunes": "https://music.apple.com/us/album/z%C3%A9-ningu%C3%A9m/980648275?i=980648759&uo=4",
+        "deezer": "https://www.deezer.com/track/413745962"
+      }
+    },
+    "lyricPath": "/lyrics/98581.txt"
+  }
+]

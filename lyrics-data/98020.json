@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98020,
+    "metadata": {
+      "title": "RECEBA",
+      "artists": [
+        "MC Gustavinho, Gt do Mira"
+      ],
+      "album": "Sementes da Fé",
+      "releaseDate": "2005",
+      "durationMs": 235000,
+      "genres": [],
+      "isrc": "QT8BU2636985",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/daa506224b4cac08a31f23b5525b311a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/04c62d71-f2fd-47df-8685-e34b0aa986e2",
+        "deezer": "https://www.deezer.com/track/4012846771"
+      }
+    },
+    "lyricPath": "/lyrics/98020.txt"
+  }
+]

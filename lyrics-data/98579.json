@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98579,
+    "metadata": {
+      "title": "1406",
+      "artists": [
+        "Mamonas Assassinas"
+      ],
+      "album": "PROJECT RETINA",
+      "releaseDate": "2025-04-12",
+      "durationMs": 95000,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BREMI9500360",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/4f/0b/fa4f0b92-098b-92dd-f9e7-1907a6fed64a/13UMGIM90180.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ea095050-44c8-44b5-a0e7-b26a8ed80ff1",
+        "itunes": "https://music.apple.com/us/album/1406/713659451?i=713659454&uo=4",
+        "deezer": "https://www.deezer.com/track/3105901"
+      }
+    },
+    "lyricPath": "/lyrics/98579.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99070,
+    "metadata": {
+      "title": "Corrida",
+      "artists": [
+        "YUNG LIXO"
+      ],
+      "album": "João Ninguém",
+      "releaseDate": "2006",
+      "durationMs": 212000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "QZZ7X2403688",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/cc/b9/d0ccb9d6-2b3d-a967-f132-6c0905813005/733923.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/fa6ad9f1-4a17-48a8-af2e-0d263c266a95",
+        "itunes": "https://music.apple.com/us/album/boys-from-the-west-sped-up/1816003406?i=1816003407&uo=4",
+        "deezer": "https://www.deezer.com/track/3144563971"
+      }
+    },
+    "lyricPath": "/lyrics/99070.txt"
+  }
+]

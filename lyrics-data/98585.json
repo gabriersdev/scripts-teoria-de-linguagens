@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98585,
+    "metadata": {
+      "title": "Subúrbio Operário",
+      "artists": [
+        "Garotos Podres"
+      ],
+      "album": "Class Pride World Wide, Volume 2",
+      "releaseDate": "2002",
+      "durationMs": 188840,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BR03D2101284",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/1f/a7/a71fa714-9b0e-2623-c228-2c6aec79788e/7908067183472.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f2b5bfee-3ab3-4289-ac65-b1283476fdf5",
+        "itunes": "https://music.apple.com/us/album/sub%C3%BArbio-oper%C3%A1rio/1569274905?i=1569274924&uo=4",
+        "deezer": "https://www.deezer.com/track/1381996752"
+      }
+    },
+    "lyricPath": "/lyrics/98585.txt"
+  }
+]

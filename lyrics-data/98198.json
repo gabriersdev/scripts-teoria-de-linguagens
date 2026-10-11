@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98198,
+    "metadata": {
+      "title": "Novinha",
+      "artists": [
+        "Mc Leozin, Mc Menor DN, DJ ARTHUZIIN"
+      ],
+      "album": "Samma uns ehrlich",
+      "releaseDate": "2007-06-30",
+      "durationMs": 292000,
+      "genres": [],
+      "isrc": "QZ5FN2687093",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c919e8f55ddb0b7018c205eaf0b204d4/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/906928e3-6ea7-43a8-9bc6-36b583afaef6",
+        "deezer": "https://www.deezer.com/track/3841353601"
+      }
+    },
+    "lyricPath": "/lyrics/98198.txt"
+  }
+]

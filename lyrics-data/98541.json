@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98541,
+    "metadata": {
+      "title": "Esperando para Atravessar a Rua",
+      "artists": [
+        "Titãs"
+      ],
+      "album": "Como estão vocês?",
+      "releaseDate": "2003-11",
+      "durationMs": 191480,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRBMG0300730",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/02/07/5f/02075ff9-5d6c-2c3a-02ef-fa907fdae486/888880313645.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7ebe168c-2cbf-4e0b-a543-641472cfeebf",
+        "itunes": "https://music.apple.com/us/album/esperando-para-atravessar-a-rua/1133727190?i=1133727499&uo=4",
+        "deezer": "https://www.deezer.com/track/128441331"
+      }
+    },
+    "lyricPath": "/lyrics/98541.txt"
+  }
+]

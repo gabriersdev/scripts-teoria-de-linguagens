@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98683,
+    "metadata": {
+      "title": "Cronômetro",
+      "artists": [
+        "Zé Vaqueiro"
+      ],
+      "album": "Cronômetro",
+      "releaseDate": "2025-10-31",
+      "durationMs": 138000,
+      "genres": [],
+      "isrc": "QMFMG2505608",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/ef1d11f12aa02260034a9fa3dbcbc4bf/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3640201842"
+      }
+    },
+    "lyricPath": "/lyrics/98683.txt"
+  }
+]

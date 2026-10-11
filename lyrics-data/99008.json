@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99008,
+    "metadata": {
+      "title": "MEU CEMITÉRIO",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "MEU CEMITÉRIO",
+      "releaseDate": "2025-12-08",
+      "durationMs": 207000,
+      "genres": [
+        "trap"
+      ],
+      "isrc": "BXW922500123",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c9b023c07f75e26f5998c8eeddb39fcb/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/68856905-3925-4988-b434-2383ea95a42d",
+        "deezer": "https://www.deezer.com/track/3700579772"
+      }
+    },
+    "lyricPath": "/lyrics/99008.txt"
+  }
+]

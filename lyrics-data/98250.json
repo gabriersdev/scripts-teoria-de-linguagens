@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98250,
+    "metadata": {
+      "title": "Kenny G",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "Sax & Sex 1995, Volume 5",
+      "releaseDate": "2025-10-09T12:00:00Z",
+      "durationMs": 250753,
+      "genres": [
+        "Forró"
+      ],
+      "isrc": "BX2M81900002",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/a9/9c/96a99c45-f9be-92ac-b371-98b7fbbdec8f/5026854056739.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/47336ec2-d0b3-4545-98d5-d00703273e62",
+        "itunes": "https://music.apple.com/us/album/kenny-g/1853671229?i=1853671235&uo=4",
+        "deezer": "https://www.deezer.com/track/732547372"
+      }
+    },
+    "lyricPath": "/lyrics/98250.txt"
+  }
+]

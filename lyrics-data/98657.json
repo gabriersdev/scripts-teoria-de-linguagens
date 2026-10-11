@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98657,
+    "metadata": {
+      "title": "Olha Onde Eu Tô",
+      "artists": [
+        "Ana Castela"
+      ],
+      "album": "Boiadeira Internacional",
+      "releaseDate": "2024-02-23",
+      "durationMs": 173557,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKA7Y2300023",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/31/fb/d531fbc9-6f59-0268-71eb-6da4f5816cba/8447352922390.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/17b74b89-b681-4616-8ec6-d26385aeb393",
+        "itunes": "https://music.apple.com/us/album/olha-onde-eu-t%C3%B4/1813244635?i=1813244636&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98657.txt"
+  }
+]

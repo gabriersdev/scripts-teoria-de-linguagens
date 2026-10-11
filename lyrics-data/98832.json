@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98832,
+    "metadata": {
+      "title": "Eu não confio nem na minha mãe",
+      "artists": [
+        "D$ Luqi"
+      ],
+      "album": "Calado! - Single",
+      "releaseDate": "2022-08-26T12:00:00Z",
+      "durationMs": 240005,
+      "genres": [
+        "Hip-Hop"
+      ],
+      "isrc": "BKLL22400006",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ef/1c/c3/ef1cc361-15a0-205c-041b-11e1cd9857ac/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/calado/1641390492?i=1641390493&uo=4",
+        "deezer": "https://www.deezer.com/track/2822342312"
+      }
+    },
+    "lyricPath": "/lyrics/98832.txt"
+  }
+]

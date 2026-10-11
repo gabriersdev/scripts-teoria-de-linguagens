@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98869,
+    "metadata": {
+      "title": "PENSAMENTOS PERIGOSOS",
+      "artists": [
+        "Matuê, LPT Zlatan"
+      ],
+      "album": "XTRANHO",
+      "releaseDate": "2025-12-10",
+      "durationMs": 214000,
+      "genres": [],
+      "isrc": "BXW922500127",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c9b023c07f75e26f5998c8eeddb39fcb/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/dbeb7507-857b-4be4-9398-8101186dc06d",
+        "deezer": "https://www.deezer.com/track/3700579832"
+      }
+    },
+    "lyricPath": "/lyrics/98869.txt"
+  }
+]

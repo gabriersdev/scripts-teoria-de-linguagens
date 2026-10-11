@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98323,
+    "metadata": {
+      "title": "Dharma",
+      "artists": [
+        "AJULLIACOSTA, Dj KLJay, Maffalda"
+      ],
+      "album": "Novo Testamento",
+      "releaseDate": "2025-09-16",
+      "durationMs": 156500,
+      "genres": [],
+      "isrc": "BXULA2500003",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/30bc1601e6596323b79f92258e21fd05/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/11405069-e973-47be-98e7-5b0dade1c951",
+        "deezer": "https://www.deezer.com/track/3537912421"
+      }
+    },
+    "lyricPath": "/lyrics/98323.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98114,
+    "metadata": {
+      "title": "FUNK ABNORMAL - SLOWED",
+      "artists": [
+        "DJ V12"
+      ],
+      "album": "FUNK ABNORMAL",
+      "releaseDate": "2026-03-04",
+      "durationMs": 90348,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "QM6MZ2615340",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/97/a6/9197a6b8-efe6-4255-eaea-2f72ca7cc76b/cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2059197d-28e8-4196-9e69-bc9587b2137c",
+        "itunes": "https://music.apple.com/us/album/funk-da-sprite-v2-super-slowed/1786355366?i=1786355671&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98114.txt"
+  }
+]

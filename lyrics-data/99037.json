@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99037,
+    "metadata": {
+      "title": "Blindado",
+      "artists": [
+        "Gapes, Delua Og"
+      ],
+      "album": "El beso de la muerte",
+      "releaseDate": "1991",
+      "durationMs": 126000,
+      "genres": [],
+      "isrc": "BKBGE2600001",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8e10105b75d00578b662fd5e1d5b465a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c08d1997-a5a5-4d47-9484-891456b863a7",
+        "deezer": "https://www.deezer.com/track/3919420401"
+      }
+    },
+    "lyricPath": "/lyrics/99037.txt"
+  }
+]

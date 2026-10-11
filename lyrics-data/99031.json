@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99031,
+    "metadata": {
+      "title": "ROCKSTAR, GANGSTAR",
+      "artists": [
+        "Leviano"
+      ],
+      "album": "HUNTER×HUNTER BEST SOUND COLLECTION",
+      "releaseDate": "2004-11-25",
+      "durationMs": 86000,
+      "genres": [],
+      "isrc": "JPD600300670",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4709b68d09d0d7952d9bae620c553198/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d6f26147-e798-4ae9-999d-95b6683d888b",
+        "deezer": "https://www.deezer.com/track/3947837751"
+      }
+    },
+    "lyricPath": "/lyrics/99031.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98529,
+    "metadata": {
+      "title": "Marvin - Ao vivo",
+      "artists": [
+        "Jeito Moleque"
+      ],
+      "album": "Me faz feliz",
+      "releaseDate": "2005",
+      "durationMs": 187000,
+      "genres": [
+        "Pagode"
+      ],
+      "isrc": "BRMCA0500305",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c0/dc/de/c0dcde55-22fa-1e15-9129-25dc98d2faf2/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2575e0b5-105b-4cb7-92e9-69d70b8d8771",
+        "itunes": "https://music.apple.com/us/album/marvin-ao-vivo/1460852466?i=1460852546&uo=4",
+        "deezer": "https://www.deezer.com/track/380065691"
+      }
+    },
+    "lyricPath": "/lyrics/98529.txt"
+  }
+]

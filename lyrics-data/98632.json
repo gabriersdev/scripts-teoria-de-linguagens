@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98632,
+    "metadata": {
+      "title": "Ignora",
+      "artists": [
+        "Felipe e Rodrigo"
+      ],
+      "album": "Tudo pa bo",
+      "releaseDate": "2003",
+      "durationMs": 271000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKMKR2500042",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/64/5f/2b645f97-1759-9a74-8018-097e5a3d55c9/198704879593_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4f288de7-f24d-42fa-81f8-001eeef69e8b",
+        "itunes": "https://music.apple.com/us/album/ignora-ao-vivo/1856690580?i=1856690583&uo=4",
+        "deezer": "https://www.deezer.com/track/3682660782"
+      }
+    },
+    "lyricPath": "/lyrics/98632.txt"
+  }
+]

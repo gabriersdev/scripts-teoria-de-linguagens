@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98041,
+    "metadata": {
+      "title": "MONTAGEM CAMERA LENTA",
+      "artists": [
+        "DJ DUARTE, DJ ORBITAL, Dj Rs"
+      ],
+      "album": "Montagem Mandrak",
+      "releaseDate": "2026-04-12",
+      "durationMs": 103000,
+      "genres": [
+        "Electronic"
+      ],
+      "isrc": "QT82T2669407",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/68/fb/e368fbbd-bbea-94ca-e70f-b39858d82baa/663918811436.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ca37bd12-64c9-4aa7-939d-b8ee6d110be2",
+        "itunes": "https://music.apple.com/us/album/montagem-c%C3%A2mera-lenta-mega-funk-feat-dj-orbital/6778177833?i=6778177834&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98041.txt"
+  }
+]

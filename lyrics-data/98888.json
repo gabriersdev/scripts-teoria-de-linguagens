@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98888,
+    "metadata": {
+      "title": "Corsa Freestyle",
+      "artists": [
+        "Ryu, The Runner, Braão, PAKO BEATZ, Salve Crazy"
+      ],
+      "album": "Essa é a vida de um corredor",
+      "releaseDate": "2023-03-03",
+      "durationMs": 137000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6347f4bf-220b-4729-8103-11eec179f099"
+      }
+    },
+    "lyricPath": "/lyrics/98888.txt"
+  }
+]

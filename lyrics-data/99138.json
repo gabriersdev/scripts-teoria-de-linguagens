@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99138,
+    "metadata": {
+      "title": "Engana Dizendo Que Ama",
+      "artists": [
+        "Veigh, Tz da Coronel, Toledo, Nagalli, Bvga Beatz, Supernova Ent"
+      ],
+      "album": "Dos Prédios Deluxe",
+      "releaseDate": "2023-05-19",
+      "durationMs": 188497,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "QZMWW2396003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/c7/c3/35c7c37b-b594-08da-ee78-69e5edc9bbc9/197089883430.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bebd4ee4-8dc3-463f-bfa1-79d898c457b3",
+        "itunes": "https://music.apple.com/us/album/mil-maneiras-feat-lywie-toledo-bvga-beatz/1654244442?i=1654244443&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/99138.txt"
+  }
+]

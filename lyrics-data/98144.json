@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98144,
+    "metadata": {
+      "title": "Veracruz",
+      "artists": [
+        "MC Kevin"
+      ],
+      "album": "incompetracks",
+      "releaseDate": "2025-08-13",
+      "durationMs": 96162,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "US7VG1601528",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f0/d5/8d/f0d58d5b-4713-2682-b922-cd5a0c67be07/00191773303198_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/89d421bb-6b92-4a6f-8eb8-1358bd73463c",
+        "itunes": "https://music.apple.com/us/album/vencedor/1577909866?i=1577909873&uo=4",
+        "deezer": "https://www.deezer.com/track/952083242"
+      }
+    },
+    "lyricPath": "/lyrics/98144.txt"
+  }
+]

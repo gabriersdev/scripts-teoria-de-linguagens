@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98062,
+    "metadata": {
+      "title": "JETSKI",
+      "artists": [
+        "PEDRO SAMPAIO, MC Meno K, Melody"
+      ],
+      "album": "JETSKI",
+      "releaseDate": "2025-12-18",
+      "durationMs": 148000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRSME2501833",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4a/b2/e4/4ab2e47c-a105-4ab3-1050-ede4e17b2176/5054197197185.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5726a312-8a41-4ee9-9a7d-8555b490d5e5",
+        "itunes": "https://music.apple.com/us/album/dan%C3%A7arina-feat-nicky-jam-mc-pedrinho-remix/1627610678?i=1627610679&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98062.txt"
+  }
+]

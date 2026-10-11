@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98479,
+    "metadata": {
+      "title": "Não Espero Mais",
+      "artists": [
+        "O Terno"
+      ],
+      "album": "Malhação - Vidas Brasileiras (Music from the Original TV Series)",
+      "releaseDate": "2018-07-20",
+      "durationMs": 252000,
+      "genres": [
+        "Rock & Roll"
+      ],
+      "isrc": "BR73M1600003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/c2/fb/0b/c2fb0b77-d368-9be3-42b2-3720499a27df/O_Terno_Melhor_do_Que_Parece_7898614908323.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6cae6a11-f08f-494e-847b-e15de48a8fdc",
+        "itunes": "https://music.apple.com/us/album/n%C3%A3o-espero-mais/1144757029?i=1144757039&uo=4",
+        "deezer": "https://www.deezer.com/track/3293254461"
+      }
+    },
+    "lyricPath": "/lyrics/98479.txt"
+  }
+]

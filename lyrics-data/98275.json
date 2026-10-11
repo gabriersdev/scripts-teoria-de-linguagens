@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98275,
+    "metadata": {
+      "title": "Felina",
+      "artists": [
+        "WIU, MC Ryan SP"
+      ],
+      "album": "UNDER THE INFLUENCE",
+      "releaseDate": "2026-06-19",
+      "durationMs": 145920,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BXW922200018",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/16/1c/2d161c0f-d5f0-96e6-a948-1cd84cf412ec/196589496935.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e3258ddc-f67c-450c-821a-9f9ccbc60f38",
+        "itunes": "https://music.apple.com/us/album/felina/1645953492?i=1645953493&uo=4",
+        "deezer": "https://www.deezer.com/track/1921411397"
+      }
+    },
+    "lyricPath": "/lyrics/98275.txt"
+  }
+]

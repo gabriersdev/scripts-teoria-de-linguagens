@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98116,
+    "metadata": {
+      "title": "VAI VAI TRAIR",
+      "artists": [
+        "DJ Asul"
+      ],
+      "album": "Vai Vai Trair",
+      "releaseDate": "2025-07-25",
+      "durationMs": 90352,
+      "genres": [],
+      "isrc": "SGW502501883",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/68804e86ef50f22dc1422d850b06d152/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e31f9042-cc0f-439f-9656-80dc5c3ea7d1",
+        "deezer": "https://www.deezer.com/track/3470693051"
+      }
+    },
+    "lyricPath": "/lyrics/98116.txt"
+  }
+]

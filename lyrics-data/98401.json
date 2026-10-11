@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98401,
+    "metadata": {
+      "title": "A Minha Menina",
+      "artists": [
+        "Os Mutantes"
+      ],
+      "album": "Japanimation",
+      "releaseDate": "2026-07-13",
+      "durationMs": 10177,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRPGD6800016",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d7/fd/d1/d7fdd1ea-9025-6346-0834-48ed931dd62f/00602537449460.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c6a38679-e6ab-4e77-9e05-a3c5f9ef6684",
+        "itunes": "https://music.apple.com/us/album/a-minha-menina/1443152697?i=1443152710&uo=4",
+        "deezer": "https://www.deezer.com/track/1560122"
+      }
+    },
+    "lyricPath": "/lyrics/98401.txt"
+  }
+]

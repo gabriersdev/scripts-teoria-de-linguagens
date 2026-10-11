@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98747,
+    "metadata": {
+      "title": "Amante Não Tem Lar - Ao Vivo",
+      "artists": [
+        "Marília Mendonça"
+      ],
+      "album": "Realidade: Ao vivo em Manaus",
+      "releaseDate": "2017-03-06",
+      "durationMs": 184000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1600232",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/0f/a4/be/0fa4be68-1e48-15f0-f1c0-fb5022b98564/7891430141875.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/29f2203e-3925-4780-8c72-b62b3f1d8dd4",
+        "itunes": "https://music.apple.com/us/album/amante-n%C3%A3o-tem-lar-ao-vivo/1192785016?i=1192785121&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98747.txt"
+  }
+]

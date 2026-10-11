@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98565,
+    "metadata": {
+      "title": "Ponto de Ônibus - Ao Vivo",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "Acústico MTV",
+      "releaseDate": "2005",
+      "durationMs": 210760,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP0500360",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/15/c4/9f15c409-dc83-6022-a6bf-d82976207fd9/7898324301889.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0538fdec-1867-4fbd-a653-90f0070deb65",
+        "itunes": "https://music.apple.com/us/album/ponto-de-%C3%B4nibus/977474314?i=977474490&uo=4",
+        "deezer": "https://www.deezer.com/track/96168082"
+      }
+    },
+    "lyricPath": "/lyrics/98565.txt"
+  }
+]

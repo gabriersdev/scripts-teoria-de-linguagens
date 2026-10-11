@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98981,
+    "metadata": {
+      "title": "Amiri",
+      "artists": [
+        "Yunk Vino, Veigh"
+      ],
+      "album": "Dos Prédios",
+      "releaseDate": "2022-11-18",
+      "durationMs": 132923,
+      "genres": [],
+      "isrc": "QZNMY2242351",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/79e2622ecea8a45f55368f533950af42/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/376a9d9d-c67f-4fcb-8731-5f1699b6b46b",
+        "deezer": "https://www.deezer.com/track/3909787211"
+      }
+    },
+    "lyricPath": "/lyrics/98981.txt"
+  }
+]

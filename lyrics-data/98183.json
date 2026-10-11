@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98183,
+    "metadata": {
+      "title": "Pé Direito",
+      "artists": [
+        "MC Davi"
+      ],
+      "album": "Pode Sambar",
+      "releaseDate": "2014-08-01",
+      "durationMs": 244195,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "QZ5AB1621538",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d9/e0/df/d9e0dfdd-ac53-7f48-d339-bd31d211ec80/192641714122_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ef7e213b-8a52-41f7-9d91-a8447405dfe9",
+        "itunes": "https://music.apple.com/us/album/minha-lady/1562418700?i=1562418701&uo=4",
+        "deezer": "https://www.deezer.com/track/940262112"
+      }
+    },
+    "lyricPath": "/lyrics/98183.txt"
+  }
+]

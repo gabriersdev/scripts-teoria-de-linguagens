@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98178,
+    "metadata": {
+      "title": "Roça Roça",
+      "artists": [
+        "MC Brinquedo"
+      ],
+      "album": "É isso ai, Simples como a vida",
+      "releaseDate": "2016-05-27T12:00:00Z",
+      "durationMs": 163639,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BXKLP1500003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/46/dd/3c/46dd3c3a-c8d6-eaa7-929c-ef108a99fffd/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/086a17b9-43e0-4515-ac33-d5e03cc5c42b",
+        "itunes": "https://music.apple.com/us/album/ro%C3%A7a-ro%C3%A7a-2/1114268719?i=1114268722&uo=4",
+        "deezer": "https://www.deezer.com/track/144331830"
+      }
+    },
+    "lyricPath": "/lyrics/98178.txt"
+  }
+]

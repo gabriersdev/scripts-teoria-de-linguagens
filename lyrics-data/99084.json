@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99084,
+    "metadata": {
+      "title": "Potranca",
+      "artists": [
+        "Slipmami"
+      ],
+      "album": "Pa' la kalle: 1972 the Beginning...",
+      "releaseDate": "2005-12-06",
+      "durationMs": 176000,
+      "genres": [],
+      "isrc": "BX3AW2100031",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/bb61632432d797fb4e642bc60d28ba5b/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/87bfc2c4-592e-4ac2-b2ef-418c6ef00d7f",
+        "deezer": "https://www.deezer.com/track/3540228131"
+      }
+    },
+    "lyricPath": "/lyrics/99084.txt"
+  }
+]

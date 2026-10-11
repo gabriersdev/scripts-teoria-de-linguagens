@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98441,
+    "metadata": {
+      "title": "Carta aos Missionários",
+      "artists": [
+        "Uns E Outros"
+      ],
+      "album": "Uns E Outros",
+      "releaseDate": "1990-01-01T12:00:00Z",
+      "durationMs": 236027,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRSME8900072",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/b7/0c/b1/mzi.ctwcjtsb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/carta-aos-mission%C3%A1rios/402164066?i=402164077&uo=4",
+        "deezer": "https://www.deezer.com/track/14936590"
+      }
+    },
+    "lyricPath": "/lyrics/98441.txt"
+  }
+]

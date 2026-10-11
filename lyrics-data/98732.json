@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98732,
+    "metadata": {
+      "title": "Meu Silêncio - Ao Vivo",
+      "artists": [
+        "Matheus & Kauan, Simone Mendes"
+      ],
+      "album": "Na Praia - Ao Vivo Em Brasilia",
+      "releaseDate": "2016",
+      "durationMs": 181000,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BKU8M2600004",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/99/23/64/992364ea-2da4-f1c4-0809-1a7904381876/17UM1IM33398.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/54b6c291-3d78-44ef-9d2d-c0e3837d31c7",
+        "itunes": "https://music.apple.com/us/album/deixa-ela-beijar/1444853786?i=1444853797&uo=4",
+        "deezer": "https://www.deezer.com/track/4008581661"
+      }
+    },
+    "lyricPath": "/lyrics/98732.txt"
+  }
+]

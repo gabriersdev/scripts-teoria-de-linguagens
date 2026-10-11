@@ -1,0 +1,27 @@
+[
+  {
+    "id": 98421,
+    "metadata": {
+      "title": "Será",
+      "artists": [
+        "Legião Urbana"
+      ],
+      "album": "Legião Urbana",
+      "releaseDate": "1995",
+      "durationMs": 149026,
+      "genres": [
+        "rock",
+        "alternative rock",
+        "punk",
+        "pop rock"
+      ],
+      "isrc": "BREMI8400036",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e5/73/09/e57309a2-eaf7-daa4-9e7d-94ea5977a2f2/13UMGIM90171.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e6b5ea48-1159-482e-8f0c-f68bb8c498a4",
+        "itunes": "https://music.apple.com/us/album/ser%C3%A1/713555430?i=713555494&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98421.txt"
+  }
+]

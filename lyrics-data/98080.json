@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98080,
+    "metadata": {
+      "title": "Vovô Ele É 157, e da Tropa do 7",
+      "artists": [
+        "Biurifol, MC YARA OFICIAL, MC LEON, DJ Yuri Chagas, DJ Nego Jhow"
+      ],
+      "album": "Samma uns ehrlich",
+      "releaseDate": "2007-06-30",
+      "durationMs": 292000,
+      "genres": [
+        "Funk"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/b7/a5/15b7a5b0-292e-a4b4-19fb-d7cd107eefd8/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/906928e3-6ea7-43a8-9bc6-36b583afaef6",
+        "itunes": "https://music.apple.com/us/album/vov%C3%B4-ele-%C3%A9-157-e-da-tropa-do-7/1880443839?i=1880443840&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98080.txt"
+  }
+]

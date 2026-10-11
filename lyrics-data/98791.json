@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98791,
+    "metadata": {
+      "title": "Peão Todo Tatuado",
+      "artists": [
+        "Jeninho, Mariana Fagundes"
+      ],
+      "album": "No Pique do Véi",
+      "releaseDate": "2026-08-14",
+      "durationMs": 128848,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRKUY2500072",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/84/ae/e484ae74-42d3-d896-bd63-50fb1d7c4484/971745.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f67d3e21-94f4-4742-b15b-8a21e10ceb8d",
+        "itunes": "https://music.apple.com/us/album/pe%C3%A3o-todo-tatuado/1884169310?i=1884169311&uo=4",
+        "deezer": "https://www.deezer.com/track/3893226711"
+      }
+    },
+    "lyricPath": "/lyrics/98791.txt"
+  }
+]

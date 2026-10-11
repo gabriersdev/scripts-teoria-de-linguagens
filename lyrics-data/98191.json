@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98191,
+    "metadata": {
+      "title": "Amassa a Placa",
+      "artists": [
+        "Mc Kevin"
+      ],
+      "album": "Me pone",
+      "releaseDate": "2005",
+      "durationMs": 243000,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "QZ5AB1648735",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6f/87/84/6f87843c-6490-b4e0-99e7-69f5dcd0d9c7/00645789146879_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d97c0cca-26b7-44a1-9a60-20f79cb60bce",
+        "itunes": "https://music.apple.com/us/album/amassa-a-placa/1507283465?i=1507283655&uo=4",
+        "deezer": "https://www.deezer.com/track/1054626352"
+      }
+    },
+    "lyricPath": "/lyrics/98191.txt"
+  }
+]

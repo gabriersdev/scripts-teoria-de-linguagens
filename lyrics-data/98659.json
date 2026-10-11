@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98659,
+    "metadata": {
+      "title": "Foi Intenso",
+      "artists": [
+        "Zé Neto & Cristiano & Ana Castela"
+      ],
+      "album": "Intenso, Vol. 3 (Ao Vivo)",
+      "releaseDate": "2024-05-02T12:00:00Z",
+      "durationMs": 132057,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE2400203",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/6b/00/1c6b009c-2529-e4d5-42e5-e0ffec89151a/196872718591.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c4ebf483-fe32-4adc-bf99-3e3b922d767b",
+        "itunes": "https://music.apple.com/us/album/foi-intenso-ao-vivo/1783200196?i=1783200419&uo=4",
+        "deezer": "https://www.deezer.com/track/2758972861"
+      }
+    },
+    "lyricPath": "/lyrics/98659.txt"
+  }
+]

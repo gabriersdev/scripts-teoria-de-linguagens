@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98271,
+    "metadata": {
+      "title": "Luxúria",
+      "artists": [
+        "Xamã, Bagua Records, Neo Beats, Matuê"
+      ],
+      "album": "Pecado Capital",
+      "releaseDate": "2018-05-24",
+      "durationMs": 185310,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BXIV81600068",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/57/53/11/57531104-a501-c631-e623-28cec781ed96/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/74cf6fc4-47ba-4260-b8a3-80e9d4634c6f",
+        "itunes": "https://music.apple.com/us/album/lux%C3%BAria-feat-matu%C3%AA/1390340015?i=1390340383&uo=4",
+        "deezer": "https://www.deezer.com/track/505638592"
+      }
+    },
+    "lyricPath": "/lyrics/98271.txt"
+  }
+]

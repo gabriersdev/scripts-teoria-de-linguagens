@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99132,
+    "metadata": {
+      "title": "10 Carros",
+      "artists": [
+        "Chefin, Mainstreet, LB Único"
+      ],
+      "album": "Lueg vorus",
+      "releaseDate": "2012-01-27",
+      "durationMs": 151280,
+      "genres": [],
+      "isrc": "BCM9A2300098",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/980ab2876ccfb811cb378f7fa8a785ba/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d09ac841-b924-42ef-97c5-2ea326992e83",
+        "deezer": "https://www.deezer.com/track/2545994772"
+      }
+    },
+    "lyricPath": "/lyrics/99132.txt"
+  }
+]

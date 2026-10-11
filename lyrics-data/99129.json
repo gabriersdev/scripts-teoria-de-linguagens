@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99129,
+    "metadata": {
+      "title": "Qual é seu desejo?",
+      "artists": [
+        "Tz da Coronel, Ryu, The Runner, Nagalli, Cúpula"
+      ],
+      "album": null,
+      "releaseDate": null,
+      "durationMs": 153000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d170bf8c-0688-4c77-9902-e02ca70fc116"
+      }
+    },
+    "lyricPath": "/lyrics/99129.txt"
+  }
+]

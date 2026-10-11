@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99083,
+    "metadata": {
+      "title": "Oompa Loompa",
+      "artists": [
+        "Slipmami"
+      ],
+      "album": "Oompa Loompa (feat. Leo Justi) - Single",
+      "releaseDate": "2022-06-22T12:00:00Z",
+      "durationMs": 194885,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BX3AW2200035",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/25/78/97257866-fd54-5744-f97f-5b5522e82868/197875547300_1qpvB1I-copy-08f3703d.png/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/oompa-loompa-feat-leo-justi/1704387540?i=1704387541&uo=4",
+        "deezer": "https://www.deezer.com/track/2097374747"
+      }
+    },
+    "lyricPath": "/lyrics/99083.txt"
+  }
+]

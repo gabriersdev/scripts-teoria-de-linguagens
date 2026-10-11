@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98937,
+    "metadata": {
+      "title": "FORAGIDO",
+      "artists": [
+        "Nosred, 3X"
+      ],
+      "album": "Sette",
+      "releaseDate": "2014-10-30",
+      "durationMs": 204000,
+      "genres": [],
+      "isrc": "BCE7P2501073",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d010c9d4a01d750a107b9bb866aa3c67/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4f48794e-4f1a-4f18-ae79-6f4f907769a0",
+        "deezer": "https://www.deezer.com/track/3296254051"
+      }
+    },
+    "lyricPath": "/lyrics/98937.txt"
+  }
+]

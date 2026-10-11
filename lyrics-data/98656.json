@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98656,
+    "metadata": {
+      "title": "Retrovisor",
+      "artists": [
+        "Gusttavo Lima"
+      ],
+      "album": "Do outro lado da moeda",
+      "releaseDate": "2016-02-16",
+      "durationMs": 176000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRUXD1300270",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/d8/a6/3bd8a697-f495-6018-689f-e9b505278bf5/196874116920.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bf3b974c-cbfe-40f6-949f-951b92631f72",
+        "itunes": "https://music.apple.com/us/album/retrovisor/1879644140?i=1879644279&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98656.txt"
+  }
+]

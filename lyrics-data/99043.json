@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99043,
+    "metadata": {
+      "title": "MUNDÃO ESTRANHO",
+      "artists": [
+        "OG BRITTO, Yuri Redicopa, maiarealplug, GFM"
+      ],
+      "album": "Gemido de Madalena",
+      "releaseDate": "1989",
+      "durationMs": 203000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9a497ce6-4bee-4a06-b80c-62b3ec876424"
+      }
+    },
+    "lyricPath": "/lyrics/99043.txt"
+  }
+]

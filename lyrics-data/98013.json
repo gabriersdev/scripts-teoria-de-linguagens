@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98013,
+    "metadata": {
+      "title": "Que Se Foda é Tudo Puta",
+      "artists": [
+        "MC MN, DJ Felipe Original, Club Marconex Records, Tropa da W&S"
+      ],
+      "album": "Cérebro dormente",
+      "releaseDate": "2024-10-17",
+      "durationMs": 106273,
+      "genres": [],
+      "isrc": "GX5MY2449985",
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/35749055-20f4-4be0-b8c5-fcd3eac1ab6e"
+      }
+    },
+    "lyricPath": "/lyrics/98013.txt"
+  }
+]

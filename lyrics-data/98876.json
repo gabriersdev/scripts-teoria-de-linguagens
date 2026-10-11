@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98876,
+    "metadata": {
+      "title": "Vigarista",
+      "artists": [
+        "Yung Nobre, Puterrier"
+      ],
+      "album": "Som Brasil Axé",
+      "releaseDate": "1997",
+      "durationMs": 232760,
+      "genres": [],
+      "isrc": "BXZYA2200022",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4f7761e9e84e79b123c3e82add035a69/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/78137f8a-20e2-419a-b674-6d3e4ef85f3a",
+        "deezer": "https://www.deezer.com/track/1817431617"
+      }
+    },
+    "lyricPath": "/lyrics/98876.txt"
+  }
+]

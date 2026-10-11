@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98813,
+    "metadata": {
+      "title": "QUEM FAZ A ONDA?",
+      "artists": [
+        "Lil Chainz"
+      ],
+      "album": "Só Há Um Caminho a Seguir",
+      "releaseDate": "2021-03-26",
+      "durationMs": 214000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BC2GV2400027",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/e7/7a/43e77ac3-036a-c4d5-d82e-0577cac43431/196872133967.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ce980312-33e6-4f50-a078-fed76c582d0e",
+        "itunes": "https://music.apple.com/us/album/trap-story/1760066029?i=1760066030&uo=4",
+        "deezer": "https://www.deezer.com/track/2811575282"
+      }
+    },
+    "lyricPath": "/lyrics/98813.txt"
+  }
+]

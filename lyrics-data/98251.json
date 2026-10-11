@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98251,
+    "metadata": {
+      "title": "Fuso",
+      "artists": [
+        "Duquesa, Go Dassisti"
+      ],
+      "album": "Céu",
+      "releaseDate": "2020-12-18",
+      "durationMs": 160500,
+      "genres": [],
+      "isrc": "BXBGP2400062",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4ad62aa067822becb2fa8dc1a6f1862a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f416b431-8171-4cb6-9111-cfcf61daa082",
+        "deezer": "https://www.deezer.com/track/3128838811"
+      }
+    },
+    "lyricPath": "/lyrics/98251.txt"
+  }
+]

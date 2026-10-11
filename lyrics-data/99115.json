@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99115,
+    "metadata": {
+      "title": "Você Sabe",
+      "artists": [
+        "Raffa Moreira"
+      ],
+      "album": "Eu e Cris",
+      "releaseDate": "2013-09-01",
+      "durationMs": 200800,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "QZGLS2093496",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d2/23/88/d223887c-675a-f28d-805d-a11814a59959/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8b99c225-4b5e-4d53-a4de-247bce5e4f7e",
+        "itunes": "https://music.apple.com/us/album/devia-ter-feito-isso-antes/1440471528?i=1440471529&uo=4",
+        "deezer": "https://www.deezer.com/track/1449726552"
+      }
+    },
+    "lyricPath": "/lyrics/99115.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99006,
+    "metadata": {
+      "title": "ISSO AQUI É BRASIL",
+      "artists": [
+        "Teto, WIU, Deekapz"
+      ],
+      "album": "COLAPSO GLOBAL",
+      "releaseDate": "2026-01-27",
+      "durationMs": 138022,
+      "genres": [],
+      "isrc": "BXW922600001",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/ee1bec77761b6c9f86ff3947e3559d9a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/888ac823-0ab9-4ab7-8807-a886123f91ea",
+        "deezer": "https://www.deezer.com/track/3774856472"
+      }
+    },
+    "lyricPath": "/lyrics/99006.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98450,
+    "metadata": {
+      "title": "You Don't Know Me",
+      "artists": [
+        "Caetano Veloso"
+      ],
+      "album": "If Things Were to Go Wrong",
+      "releaseDate": "2003-03-04",
+      "durationMs": 87466,
+      "genres": [
+        "MPB"
+      ],
+      "isrc": "BRMCA7200152",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/12/b2/2712b23f-21d2-7e27-6896-8af0d216509d/00602537065974.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/915b3e1a-8de8-4aa3-a224-62b25554d8c0",
+        "itunes": "https://music.apple.com/us/album/you-dont-know-me/1443511751?i=1443511758&uo=4",
+        "deezer": "https://www.deezer.com/track/877265"
+      }
+    },
+    "lyricPath": "/lyrics/98450.txt"
+  }
+]

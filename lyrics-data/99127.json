@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99127,
+    "metadata": {
+      "title": "Manda Esperar",
+      "artists": [
+        "Sidoka, Dj Coala"
+      ],
+      "album": "Adventure Has A New Name... NAPOLEON",
+      "releaseDate": "1997",
+      "durationMs": 232000,
+      "genres": [],
+      "isrc": "US3DF2295279",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/32ce70b927e0929450bb8af24db1f07d/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f350ae99-5104-400a-810e-0676c0cee185",
+        "deezer": "https://www.deezer.com/track/1881254587"
+      }
+    },
+    "lyricPath": "/lyrics/99127.txt"
+  }
+]

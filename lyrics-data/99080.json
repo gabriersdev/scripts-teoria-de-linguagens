@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99080,
+    "metadata": {
+      "title": "Não Me Faça Falar",
+      "artists": [
+        "YUNG LIXO"
+      ],
+      "album": "13 Lentes de um Final Feliz",
+      "releaseDate": "2024-12-20",
+      "durationMs": 266000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "QZZ7X2403697",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2f/5e/f6/2f5ef6ad-d41e-22a1-f5ac-9a7bba5f7715/artwork.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/fd8a6ef4-fbbe-4b73-90f3-ce6af5ba77c6",
+        "itunes": "https://music.apple.com/us/album/tomodachi-feat-sho-sensei/1537492930?i=1537492940&uo=4",
+        "deezer": "https://www.deezer.com/track/3144564061"
+      }
+    },
+    "lyricPath": "/lyrics/99080.txt"
+  }
+]

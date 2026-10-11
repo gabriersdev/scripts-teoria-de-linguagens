@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98310,
+    "metadata": {
+      "title": "O Gatilho",
+      "artists": [
+        "Sabotage, Céu, BNegão, Rodrigo Brandao, Instituto, Ganjaman, Quincas"
+      ],
+      "album": "Sabotage",
+      "releaseDate": "2016-10-17",
+      "durationMs": 247746,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c28b9436-64e8-40a2-b3ff-40e067c2c732"
+      }
+    },
+    "lyricPath": "/lyrics/98310.txt"
+  }
+]

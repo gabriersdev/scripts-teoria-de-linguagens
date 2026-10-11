@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98537,
+    "metadata": {
+      "title": "Kgb",
+      "artists": [
+        "ADÉLA"
+      ],
+      "album": "Adéla ještě nevečeřela",
+      "releaseDate": "2008-10-20",
+      "durationMs": 191503,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "USUM72601922",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/77/c7/9377c737-b62b-f9fe-c8a0-db76e1e0cd5a/26UMGIM26044.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0ef5a45e-6a80-4219-bd9e-596bf9b76ddb",
+        "itunes": "https://music.apple.com/us/album/kgb/1891160363?i=1891160372&uo=4",
+        "deezer": "https://www.deezer.com/track/4250696671"
+      }
+    },
+    "lyricPath": "/lyrics/98537.txt"
+  }
+]

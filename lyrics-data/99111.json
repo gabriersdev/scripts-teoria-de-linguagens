@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99111,
+    "metadata": {
+      "title": "Causando Acidente",
+      "artists": [
+        "jonaveliz"
+      ],
+      "album": "SUPERNOVA",
+      "releaseDate": "2024-06-12",
+      "durationMs": 186504,
+      "genres": [
+        "Hip-Hop"
+      ],
+      "isrc": "QZNJW2037084",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f9/99/fa/f999fa37-b475-5e48-0656-e7625a6a5b88/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b95c871a-2ca5-49ae-93e2-3720963fe08c",
+        "itunes": "https://music.apple.com/us/album/causando-acidente/1538475495?i=1538475496&uo=4",
+        "deezer": "https://www.deezer.com/track/1129511032"
+      }
+    },
+    "lyricPath": "/lyrics/99111.txt"
+  }
+]

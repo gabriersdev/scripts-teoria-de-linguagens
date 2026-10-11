@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99121,
+    "metadata": {
+      "title": "Jordan",
+      "artists": [
+        "Kawe, JayA Luuck, Original Quality"
+      ],
+      "album": "E$TÉTICA",
+      "releaseDate": "2022-06-15",
+      "durationMs": 139500,
+      "genres": [
+        "Hip-Hop"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/45/81/4d/45814d04-603b-fafd-61d9-aab692375be9/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/03d5de78-b087-4e6a-a4db-7d03dfccd97b",
+        "itunes": "https://music.apple.com/us/album/jordan/1489974504?i=1489974505&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/99121.txt"
+  }
+]

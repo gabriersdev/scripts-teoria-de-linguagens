@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99141,
+    "metadata": {
+      "title": "Ballena",
+      "artists": [
+        "Vulgo FK, MC PH, Veigh, Pedro Lotto, Fepache"
+      ],
+      "album": "By Request, Vol. 223",
+      "releaseDate": "2023-08-09",
+      "durationMs": 199000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "AUXN22352993",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d7/51/e4/d751e4c3-ff91-4267-b794-8bff0db5f8e9/7891430801175.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f6236203-9027-42e5-8b56-059310dc4704",
+        "itunes": "https://music.apple.com/us/album/ballena-feat-pedro-lotto-fepache/1695643378?i=1695643937&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/99141.txt"
+  }
+]

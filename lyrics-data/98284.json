@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98284,
+    "metadata": {
+      "title": "Enigma",
+      "artists": [
+        "Yago Oproprio, Patricio Sid"
+      ],
+      "album": "O Inquilino",
+      "releaseDate": "2023-03-03",
+      "durationMs": 219000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRRGE2400250",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/ff/28/48ff28b4-67f5-6527-3ead-7a9d9f0e523a/7891430891176.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/620af125-8c0d-412d-96f5-683c7fae9259",
+        "itunes": "https://music.apple.com/us/album/n%C3%B4made-v-feat-patricio-sid/1739435841?i=1739435864&uo=4",
+        "deezer": "https://www.deezer.com/track/2782462602"
+      }
+    },
+    "lyricPath": "/lyrics/98284.txt"
+  }
+]

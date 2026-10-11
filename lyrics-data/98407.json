@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98407,
+    "metadata": {
+      "title": "Pro Dia Nascer Feliz",
+      "artists": [
+        "Barão Vermelho"
+      ],
+      "album": "Ao vivo",
+      "releaseDate": "1992",
+      "durationMs": 299000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRSGL8300130",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/d7/ac/c1/d7acc18b-d82a-990b-7daf-562479752112/888831944218.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/df853dd5-d0e3-4faf-9c5e-2497d11b4a4a",
+        "itunes": "https://music.apple.com/us/album/pro-dia-nascer-feliz/923762143?i=923762158&uo=4",
+        "deezer": "https://www.deezer.com/track/87149227"
+      }
+    },
+    "lyricPath": "/lyrics/98407.txt"
+  }
+]

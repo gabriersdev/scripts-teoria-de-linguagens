@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98821,
+    "metadata": {
+      "title": "Vlone",
+      "artists": [
+        "Sidoka, Dalua"
+      ],
+      "album": "Merci £",
+      "releaseDate": "2020-02-18",
+      "durationMs": 257000,
+      "genres": [],
+      "isrc": "QZFZ42063728",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/befa4056b17bfa6192bc237e33ad9747/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/92913b90-07e8-459c-89e8-ad1a01516e5b",
+        "deezer": "https://www.deezer.com/track/1843447997"
+      }
+    },
+    "lyricPath": "/lyrics/98821.txt"
+  }
+]

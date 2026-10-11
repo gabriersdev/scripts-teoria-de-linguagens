@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98055,
+    "metadata": {
+      "title": "Treme o Bumbum",
+      "artists": [
+        "Mc Leléto"
+      ],
+      "album": "Ao vivo em Recife",
+      "releaseDate": "2017",
+      "durationMs": 145894,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BXWC52200037",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/de/99/2c/de992c57-5755-e37c-908a-2f8836124aa3/190296901515.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/cd1778af-c68e-4f52-8ede-ed9e54208ef1",
+        "itunes": "https://music.apple.com/us/album/polpinha/1424531960?i=1424531961&uo=4",
+        "deezer": "https://www.deezer.com/track/1894135917"
+      }
+    },
+    "lyricPath": "/lyrics/98055.txt"
+  }
+]

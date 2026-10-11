@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98350,
+    "metadata": {
+      "title": "Parabellum",
+      "artists": [
+        "Dalsin, Alaska, Gioprod"
+      ],
+      "album": "Danger de vie",
+      "releaseDate": "1986",
+      "durationMs": 217333,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BCSKA2100001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/57/f2/e5/57f2e5a4-a055-223f-54e4-089554adede7/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f0a6f1a5-793f-4999-a70c-67d834660efb",
+        "itunes": "https://music.apple.com/us/album/parabellum/1582212312?i=1582212313&uo=4",
+        "deezer": "https://www.deezer.com/track/1469635792"
+      }
+    },
+    "lyricPath": "/lyrics/98350.txt"
+  }
+]

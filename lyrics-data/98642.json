@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98642,
+    "metadata": {
+      "title": "Imagina Eu",
+      "artists": [
+        "Eduardo Costa"
+      ],
+      "album": "Na Praia 2",
+      "releaseDate": "2017",
+      "durationMs": 197837,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKCX42600005",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/8b/64/bf8b64d3-3313-5dde-a626-906587ca6edc/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2555da40-a3d2-474c-877b-fa05b77c462b",
+        "itunes": "https://music.apple.com/us/album/imagina-eu-ao-vivo/6766943775?i=6766943776&uo=4",
+        "deezer": "https://www.deezer.com/track/4005347071"
+      }
+    },
+    "lyricPath": "/lyrics/98642.txt"
+  }
+]

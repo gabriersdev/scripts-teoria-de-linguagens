@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98972,
+    "metadata": {
+      "title": "Gabriela",
+      "artists": [
+        "Oreozin, Orochi, Oruam, Evinha, JP Diazz"
+      ],
+      "album": "Live in Japan",
+      "releaseDate": "2006",
+      "durationMs": 176000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4abf5851-4188-4573-95ee-4fc445565ab7"
+      }
+    },
+    "lyricPath": "/lyrics/98972.txt"
+  }
+]

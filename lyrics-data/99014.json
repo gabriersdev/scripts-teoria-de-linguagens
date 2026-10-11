@@ -1,0 +1,23 @@
+[
+  {
+    "id": 99014,
+    "metadata": {
+      "title": "LIDO COM CRISES",
+      "artists": [
+        "Ryu, The Runner, Vulgo FK, Neckklace, 6ee"
+      ],
+      "album": "ADULTO IDEAL",
+      "releaseDate": "2025-10-15T12:00:00Z",
+      "durationMs": 190588,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/b4/49/f3b4490d-294c-7aa2-abc9-620f81a7f5a6/196873629445.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/edward-feat-tuti-novachance-neckklace/1844958383?i=1844958388&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/99014.txt"
+  }
+]

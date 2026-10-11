@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99105,
+    "metadata": {
+      "title": "Não Me Sinto Mal Mais",
+      "artists": [
+        "Sidoka"
+      ],
+      "album": "Não Me Sinto Mal Mais",
+      "releaseDate": "2019-10-18",
+      "durationMs": 265000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "QZHN81985352",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/dd/a7/e0dda733-6d25-df3c-08e1-60a884dbad7b/8445162063326.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/38fc986a-18de-4dbe-8448-16d99f654f26",
+        "itunes": "https://music.apple.com/us/album/ufa-feat-sidoka-sant-coyote-beatz/1506095456?i=1506095465&uo=4",
+        "deezer": "https://www.deezer.com/track/1851531777"
+      }
+    },
+    "lyricPath": "/lyrics/99105.txt"
+  }
+]

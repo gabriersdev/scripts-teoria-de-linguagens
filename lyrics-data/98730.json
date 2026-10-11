@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98730,
+    "metadata": {
+      "title": "Propaganda - Ao Vivo",
+      "artists": [
+        "Jorge & Mateus"
+      ],
+      "album": "Terra sem CEP",
+      "releaseDate": "2018-02-23",
+      "durationMs": 141935,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE1800746",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/ac/85/9cac8568-c3ce-20a4-8678-9fdbc806ef06/7891430462727.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/814e111a-97ea-4dc5-8e91-303275915266",
+        "itunes": "https://music.apple.com/us/album/propaganda-ao-vivo/1350040681?i=1350041630&uo=4",
+        "deezer": "https://www.deezer.com/track/463340522"
+      }
+    },
+    "lyricPath": "/lyrics/98730.txt"
+  }
+]

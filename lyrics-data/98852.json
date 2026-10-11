@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98852,
+    "metadata": {
+      "title": "A Menina Que Roubava",
+      "artists": [
+        "Sidoka, Pluto"
+      ],
+      "album": "Doka Language",
+      "releaseDate": "2019-07-07",
+      "durationMs": 206000,
+      "genres": [],
+      "isrc": "QZFZ31924488",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6638635fb2b11e898f797b935b9fa447/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2db0b3c7-0312-472d-bdbd-7be16511c4ff",
+        "deezer": "https://www.deezer.com/track/1844112927"
+      }
+    },
+    "lyricPath": "/lyrics/98852.txt"
+  }
+]

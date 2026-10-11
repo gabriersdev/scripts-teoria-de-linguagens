@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98483,
+    "metadata": {
+      "title": "Eva",
+      "artists": [
+        "Radio Taxi"
+      ],
+      "album": "Antologia 1974 - 99",
+      "releaseDate": "1999",
+      "durationMs": 286933,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRSME8300004",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/6d/a3/886da34c-8170-faa7-783b-0ab27b37e00f/886446776644.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/51199e26-3bb8-410f-9096-f570730061f4",
+        "itunes": "https://music.apple.com/us/album/eva/1407040741?i=1407041240&uo=4",
+        "deezer": "https://www.deezer.com/track/523190372"
+      }
+    },
+    "lyricPath": "/lyrics/98483.txt"
+  }
+]

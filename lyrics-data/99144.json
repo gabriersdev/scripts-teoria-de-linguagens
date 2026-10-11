@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99144,
+    "metadata": {
+      "title": "Foto da Unha",
+      "artists": [
+        "L7NNON, Veigh, Nagalli"
+      ],
+      "album": "Irrastreável",
+      "releaseDate": "2024-03-28",
+      "durationMs": 200000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BR5TG2300068",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b7/1b/e4/b71be4a7-3169-620f-e11f-9357520deb00/197338227442.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/65b68dc9-06fc-4a30-a641-63bfbd4c50c0",
+        "itunes": "https://music.apple.com/us/album/foto-da-unha/1717194897?i=1717194898&uo=4",
+        "deezer": "https://www.deezer.com/track/2547794322"
+      }
+    },
+    "lyricPath": "/lyrics/99144.txt"
+  }
+]

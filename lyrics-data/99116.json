@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99116,
+    "metadata": {
+      "title": "Avião",
+      "artists": [
+        "MC Caverinha"
+      ],
+      "album": "Ao Vivo",
+      "releaseDate": "2019-12-06T12:00:00Z",
+      "durationMs": 236974,
+      "genres": [
+        "Hip-Hop"
+      ],
+      "isrc": "QZHZ51939176",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/91/ea/40/91ea409d-c370-13ba-b0c0-1391aae8dce3/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6f36ecdb-bd8f-48b1-85cc-525ab321154f",
+        "itunes": "https://music.apple.com/us/album/avi%C3%A3o/1489628494?i=1489628495&uo=4",
+        "deezer": "https://www.deezer.com/track/823008812"
+      }
+    },
+    "lyricPath": "/lyrics/99116.txt"
+  }
+]

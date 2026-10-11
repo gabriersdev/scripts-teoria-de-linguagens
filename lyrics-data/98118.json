@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98118,
+    "metadata": {
+      "title": "MENTE MÁ",
+      "artists": [
+        "Nakama, MC Staff"
+      ],
+      "album": "MENTE MÁ",
+      "releaseDate": "2025-05-16",
+      "durationMs": 75000,
+      "genres": [
+        "Electronic"
+      ],
+      "isrc": "CA5KR2534261",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/39/2e/5a392eb5-6ee5-e230-1dab-36f1218efe9d/663918243725.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f46d969d-e21b-46a5-8038-03c00d8ca619",
+        "itunes": "https://music.apple.com/us/album/mente-m%C3%A1/1814703544?i=1814703545&uo=4",
+        "deezer": "https://www.deezer.com/track/3369249721"
+      }
+    },
+    "lyricPath": "/lyrics/98118.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99146,
+    "metadata": {
+      "title": "Lenda",
+      "artists": [
+        "Borges, Filipe Ret, TkN, Mindu"
+      ],
+      "album": "Irrastreável",
+      "releaseDate": "2024-03-28",
+      "durationMs": 192000,
+      "genres": [],
+      "isrc": "BCM9A2300106",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8b26dc71e6d9091e2d98207601f8e8b8/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/aa2f9106-fa72-4284-b543-f4283dfbb839",
+        "deezer": "https://www.deezer.com/track/2578003252"
+      }
+    },
+    "lyricPath": "/lyrics/99146.txt"
+  }
+]

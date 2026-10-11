@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98082,
+    "metadata": {
+      "title": "Tô na Brasilia com o Zigão",
+      "artists": [
+        "DJ Zigão, MC Roger"
+      ],
+      "album": "LSet 2 (feat. MC Maneirinho, MC Roger, & Mc Th) - Single",
+      "releaseDate": "2024-12-23T12:00:00Z",
+      "durationMs": 301154,
+      "genres": [
+        "Funk"
+      ],
+      "isrc": "BK7652500068",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/9f/7a/2e9f7ae6-edb0-7e9c-d045-43f0945496e8/5034644348988.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/lset-2-feat-mc-maneirinho-mc-roger-mc-th/1785749667?i=1785749670&uo=4",
+        "deezer": "https://www.deezer.com/track/3541335691"
+      }
+    },
+    "lyricPath": "/lyrics/98082.txt"
+  }
+]

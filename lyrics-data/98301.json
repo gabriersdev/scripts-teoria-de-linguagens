@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98301,
+    "metadata": {
+      "title": "Mun Rá",
+      "artists": [
+        "Sabotage, Instituto"
+      ],
+      "album": "Mun Rá (Edição Comemorativa) - Single",
+      "releaseDate": "2002-03-16T12:00:00Z",
+      "durationMs": 275373,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "QZ5AB1940198",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/78/ba/ca/78bacab9-1772-1fd8-bc9e-624529bcb9e9/616576623859_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/mun-r%C3%A1-feat-instituto/1510760657?i=1510760658&uo=4",
+        "deezer": "https://www.deezer.com/track/945982832"
+      }
+    },
+    "lyricPath": "/lyrics/98301.txt"
+  }
+]

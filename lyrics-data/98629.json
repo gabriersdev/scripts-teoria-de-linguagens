@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98629,
+    "metadata": {
+      "title": "Direitos Iguais",
+      "artists": [
+        "Simone Mendes"
+      ],
+      "album": "Volume 14",
+      "releaseDate": "2004-11-16",
+      "durationMs": 271000,
+      "genres": [],
+      "isrc": "BRUM72600064",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/bc7e4d8298609189bb2075cc3a07f162/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/94844a26-dd9c-467d-b165-eaec98e85e46",
+        "deezer": "https://www.deezer.com/track/3911857771"
+      }
+    },
+    "lyricPath": "/lyrics/98629.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98726,
+    "metadata": {
+      "title": "Penteadeira - Ao Vivo",
+      "artists": [
+        "Bruno & Marrone"
+      ],
+      "album": "Ao Vivo na Casa da Ribeira",
+      "releaseDate": "2021-08-06",
+      "durationMs": 134162,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWOS2600012",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/9d/71/5b9d71ad-1977-29db-05f1-c3c1d4d009b1/885288573152.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/43dc181e-d781-4141-a0d2-9e7926e9a916",
+        "itunes": "https://music.apple.com/us/album/penteadeira-ao-vivo/6812832462?i=6812832467&uo=4",
+        "deezer": "https://www.deezer.com/track/4290372942"
+      }
+    },
+    "lyricPath": "/lyrics/98726.txt"
+  }
+]

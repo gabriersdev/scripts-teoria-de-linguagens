@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98162,
+    "metadata": {
+      "title": "Os Mlk É Liso",
+      "artists": [
+        "MC Rodolfinho"
+      ],
+      "album": "Os mlk é liso (ACX Edit)",
+      "releaseDate": "2015-03-09",
+      "durationMs": 192000,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BCSOR2600193",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/68/7a/d5/687ad5c2-07cf-1af6-0765-3c9ab8d2d35d/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0ff3079b-75d8-491b-add4-cb4196e67f73",
+        "itunes": "https://music.apple.com/us/album/os-mlk-%C3%A9-liso/962987160?i=962987797&uo=4",
+        "deezer": "https://www.deezer.com/track/4141269971"
+      }
+    },
+    "lyricPath": "/lyrics/98162.txt"
+  }
+]

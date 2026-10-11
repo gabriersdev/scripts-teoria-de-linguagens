@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98690,
+    "metadata": {
+      "title": "Sou Eu / Tentei Te Esquecer",
+      "artists": [
+        "Matogrosso & Mathias"
+      ],
+      "album": "Lairton 5 (ao vivo)",
+      "releaseDate": "2016-10-17",
+      "durationMs": 245000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ff/60/b6/ff60b62b-a350-4c49-f41b-b71e293fc088/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d059f219-2b9a-40af-8b80-41c07c24867a",
+        "itunes": "https://music.apple.com/us/album/tentei-te-esquecer-ao-vivo/998668436?i=998668475&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98690.txt"
+  }
+]

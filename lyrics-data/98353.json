@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98353,
+    "metadata": {
+      "title": "Vivência",
+      "artists": [
+        "Ramonzin, BK"
+      ],
+      "album": "O Verdadeiro Forró",
+      "releaseDate": "2006",
+      "durationMs": 230000,
+      "genres": [],
+      "isrc": "BRUM72001149",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/54e1b8f196e36f4c4f2b0c9d88c6b36c/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8ab1f85d-e421-4fbb-acf6-553a059d7d46",
+        "deezer": "https://www.deezer.com/track/1040236872"
+      }
+    },
+    "lyricPath": "/lyrics/98353.txt"
+  }
+]

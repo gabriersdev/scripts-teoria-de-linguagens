@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98417,
+    "metadata": {
+      "title": "Balada Do Louco",
+      "artists": [
+        "Os Mutantes"
+      ],
+      "album": "Acústico",
+      "releaseDate": "1972-01-01T12:00:00Z",
+      "durationMs": 215466,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRPGD7200054",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c8/23/7e/c8237eac-b4a9-eb27-b28f-b45ad496f5bf/06UMGIM52528.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/341f24d8-016d-4133-a011-59b061784b4f",
+        "itunes": "https://music.apple.com/us/album/balada-do-louco/1443801595?i=1443801610&uo=4",
+        "deezer": "https://www.deezer.com/track/1559615"
+      }
+    },
+    "lyricPath": "/lyrics/98417.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98630,
+    "metadata": {
+      "title": "Escreve Aí",
+      "artists": [
+        "Luan Santana"
+      ],
+      "album": "De Bar em Bar 9",
+      "releaseDate": "2026-03-10",
+      "durationMs": 209000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE1500602",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/be/da/97/beda9749-c127-805a-1ffe-9a906b58d934/889176718014.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/41ec0542-4484-4f93-b68d-fb192c845e84",
+        "itunes": "https://music.apple.com/us/album/escreve-a%C3%AD/975625645?i=975626168&uo=4",
+        "deezer": "https://www.deezer.com/track/96904420"
+      }
+    },
+    "lyricPath": "/lyrics/98630.txt"
+  }
+]

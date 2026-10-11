@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98705,
+    "metadata": {
+      "title": "De Trás Pra Frente - Ao Vivo",
+      "artists": [
+        "Henrique & Juliano"
+      ],
+      "album": "O céu explica tudo",
+      "releaseDate": "2017",
+      "durationMs": 165000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1700186",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/a6/31/1da631bd-d3b0-5394-af95-514f9148d787/00602438991327_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/805ca8a0-4617-4c92-995d-53faec62ab26",
+        "itunes": "https://music.apple.com/us/album/de-tr%C3%A1s-pra-frente-ao-vivo/1882022879?i=1882022884&uo=4",
+        "deezer": "https://www.deezer.com/track/3879158731"
+      }
+    },
+    "lyricPath": "/lyrics/98705.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98338,
+    "metadata": {
+      "title": "Agora Sim",
+      "artists": [
+        "Pedro Qualy, NOG, Marinho 2v"
+      ],
+      "album": "A Festa Continua",
+      "releaseDate": "1975",
+      "durationMs": 179000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BRQVT2400005",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/ad/14/5dad14a2-d015-85c5-835d-e639aee1d6cd/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9959ef71-ece6-4e89-a92a-6164195e0686",
+        "itunes": "https://music.apple.com/us/album/agora-sim/1810494873?i=1810494874&uo=4",
+        "deezer": "https://www.deezer.com/track/2896200531"
+      }
+    },
+    "lyricPath": "/lyrics/98338.txt"
+  }
+]

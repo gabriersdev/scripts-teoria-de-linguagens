@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99053,
+    "metadata": {
+      "title": "EXO FREESTYLE",
+      "artists": [
+        "LUCKHAOS"
+      ],
+      "album": "Birth of a Flow (Vol. 3)",
+      "releaseDate": "2022-08-26",
+      "durationMs": 253500,
+      "genres": [],
+      "isrc": "GBCUW2200024",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1f15400fe2c7a24a0ac93270091a095c/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/22d4f57c-6253-4a0e-a0a7-bfe007dccbf9",
+        "deezer": "https://www.deezer.com/track/2326571285"
+      }
+    },
+    "lyricPath": "/lyrics/99053.txt"
+  }
+]

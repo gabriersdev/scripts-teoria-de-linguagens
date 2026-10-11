@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98136,
+    "metadata": {
+      "title": "Vou Te Rasgar",
+      "artists": [
+        "Mc Pikachu"
+      ],
+      "album": "Made in Heaven",
+      "releaseDate": "2010",
+      "durationMs": 218000,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "US7VG1546080",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/40/b6/cc40b67e-1107-9ae4-8672-47c2d3282df8/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0c8342dc-3f04-41b0-956a-d1654ee5d297",
+        "itunes": "https://music.apple.com/us/album/vou-te-rasgar/6768531440?i=6768531446&uo=4",
+        "deezer": "https://www.deezer.com/track/4015512561"
+      }
+    },
+    "lyricPath": "/lyrics/98136.txt"
+  }
+]

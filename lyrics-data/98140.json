@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98140,
+    "metadata": {
+      "title": "Tava no Fluxo - Mandelão",
+      "artists": [
+        "DJ Blakes, Mc Pikachu"
+      ],
+      "album": "Rei Dos Graves",
+      "releaseDate": "2025-10-30",
+      "durationMs": 154000,
+      "genres": [],
+      "isrc": "BCHBB2100110",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/bb74eff12f875ad366b4dcc425567878/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/93916ace-8e98-4098-89da-76180db08c1e",
+        "deezer": "https://www.deezer.com/track/1884636217"
+      }
+    },
+    "lyricPath": "/lyrics/98140.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98958,
+    "metadata": {
+      "title": "Estrela Cadente",
+      "artists": [
+        "Tz da Coronel"
+      ],
+      "album": "Ao Vivo",
+      "releaseDate": "2006",
+      "durationMs": 190360,
+      "genres": [],
+      "isrc": "BC2TS2600001",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/eccaf40c95cfda785d50a19ff826e4a2/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d1909754-e326-46d7-b252-473d6664b074",
+        "deezer": "https://www.deezer.com/track/3990256141"
+      }
+    },
+    "lyricPath": "/lyrics/98958.txt"
+  }
+]

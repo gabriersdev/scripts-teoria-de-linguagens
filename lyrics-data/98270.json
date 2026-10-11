@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98270,
+    "metadata": {
+      "title": "Só me ligar",
+      "artists": [
+        "BK, Julia Mestre, Sango, Gigantes"
+      ],
+      "album": "ICARUS",
+      "releaseDate": "2022-11-17",
+      "durationMs": 193697,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3b/2e/21/3b2e21b4-57f7-f735-16b1-2a622626e3a0/8445162776523.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bb6e961d-a864-4c09-8f9e-83710fa9dba7",
+        "itunes": "https://music.apple.com/us/album/s%C3%B3-me-ligar-feat-julia-mestre/1654046781?i=1654047428&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98270.txt"
+  }
+]

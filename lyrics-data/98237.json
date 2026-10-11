@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98237,
+    "metadata": {
+      "title": "Cacos De Vidro (sample: Esperar pra Ver)",
+      "artists": [
+        "BK, Kolo, Evinha"
+      ],
+      "album": "Diamantes, Lágrimas e Rostos para Esquecer",
+      "releaseDate": "2025-01-28T12:00:00Z",
+      "durationMs": 149373,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BXA5K2500015",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/98/4c/13984c56-f8fc-318e-9bc4-65b925b4783b/8447053281338.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/cacos-de-vidro/1792341554?i=1792342504&uo=4",
+        "deezer": "https://www.deezer.com/track/3280953131"
+      }
+    },
+    "lyricPath": "/lyrics/98237.txt"
+  }
+]

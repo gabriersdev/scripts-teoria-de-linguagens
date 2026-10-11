@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98899,
+    "metadata": {
+      "title": "Como?",
+      "artists": [
+        "D$ Luqi, Uxie Kid"
+      ],
+      "album": "UNDERGROUND STARS",
+      "releaseDate": "2023-03-24",
+      "durationMs": 118928,
+      "genres": [],
+      "isrc": "BXIV82327532",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3ab40bdd7c87b75c21401f79028b3dcf/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/18a8c3a6-1da7-4950-8a1a-22e5c4b75f23",
+        "deezer": "https://www.deezer.com/track/2858477982"
+      }
+    },
+    "lyricPath": "/lyrics/98899.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98990,
+    "metadata": {
+      "title": "THE BOX MEDLEY 12",
+      "artists": [
+        "THE BOX, L7NNON, Orochi, AJULLIACOSTA, MD Chefe, DomLaike, Neo Beats, Victor WAO, ProdbyFp"
+      ],
+      "album": "lvm Tape",
+      "releaseDate": "2020-02-19",
+      "durationMs": 112000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/91943d07-317b-4918-a4e1-2e36d6739dd7"
+      }
+    },
+    "lyricPath": "/lyrics/98990.txt"
+  }
+]

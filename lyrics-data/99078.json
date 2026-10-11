@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99078,
+    "metadata": {
+      "title": "Adeus",
+      "artists": [
+        "Bea Duarte"
+      ],
+      "album": "Mulheres que correm",
+      "releaseDate": "2023-07-07",
+      "durationMs": 211000,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BCQVW2300003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/1c/48/021c48d8-f78c-a0e9-a572-ffcbbdf3985a/2958357.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/08096068-e798-4aad-877c-74044c7ff9c5",
+        "itunes": "https://music.apple.com/us/album/adeus/1895416876?i=6763648679&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/99078.txt"
+  }
+]

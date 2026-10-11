@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99012,
+    "metadata": {
+      "title": "Me Deixe Leve",
+      "artists": [
+        "Filipe Ret, Alee, Dallass"
+      ],
+      "album": "Nume - Epílogo",
+      "releaseDate": "2025-07-17",
+      "durationMs": 174381,
+      "genres": [],
+      "isrc": "BRRGE2502618",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6f909ca08aab01d20e7a4252ad1f5bff/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e31ed487-7531-4b0f-b40f-bfe5b2008a8b",
+        "deezer": "https://www.deezer.com/track/3450782931"
+      }
+    },
+    "lyricPath": "/lyrics/99012.txt"
+  }
+]

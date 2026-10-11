@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98706,
+    "metadata": {
+      "title": "Pra Sempre Com Você - Ao Vivo",
+      "artists": [
+        "Jorge & Mateus"
+      ],
+      "album": "Como. Sempre Feito. Nunca",
+      "releaseDate": "2016-02-12",
+      "durationMs": 207000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE1508703",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/08/e5/8008e50e-7c33-acc3-7f9b-f4b5b09ce43b/7891430408121.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/85220895-eb91-40de-8fa2-993604d1b7f4",
+        "itunes": "https://music.apple.com/us/album/pra-sempre-com-voc%C3%AA-ao-vivo/1077863845?i=1077864159&uo=4",
+        "deezer": "https://www.deezer.com/track/118424912"
+      }
+    },
+    "lyricPath": "/lyrics/98706.txt"
+  }
+]

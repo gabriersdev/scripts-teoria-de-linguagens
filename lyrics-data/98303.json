@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98303,
+    "metadata": {
+      "title": "Canão Foi Tão Bom",
+      "artists": [
+        "Sabotage"
+      ],
+      "album": "Sabotage",
+      "releaseDate": "2016-10-17",
+      "durationMs": 330800,
+      "genres": [
+        "Old School Rap"
+      ],
+      "isrc": "BXTM81600002",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bc/ac/52/bcac5255-f53f-12a2-7612-94f454be2c62/195729571907_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c7bf11a8-ce1e-4a4c-a544-4874f22858b2",
+        "itunes": "https://music.apple.com/us/album/can%C3%A3o-foi-t%C3%A3o-bom-feat-daniel-ganjaman/1616712089?i=1616712398&uo=4",
+        "deezer": "https://www.deezer.com/track/945987592"
+      }
+    },
+    "lyricPath": "/lyrics/98303.txt"
+  }
+]

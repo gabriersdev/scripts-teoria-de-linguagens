@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98415,
+    "metadata": {
+      "title": "Me Chama (feat. Os Ronaldos)",
+      "artists": [
+        "Lobão, Os Ronaldos"
+      ],
+      "album": "Ronaldo Foi Pra Guerra (feat. Os Ronaldos)",
+      "releaseDate": "1984-03-30T12:00:00Z",
+      "durationMs": 222800,
+      "genres": [
+        "MPB"
+      ],
+      "isrc": "BRBMG8400023",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/e5/be/d0e5be3a-16df-b3d6-8d5b-e5d43fdae6a6/886443259270.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/me-chama-feat-os-ronaldos/1772693872?i=1772694296&uo=4",
+        "deezer": "https://www.deezer.com/track/61017825"
+      }
+    },
+    "lyricPath": "/lyrics/98415.txt"
+  }
+]

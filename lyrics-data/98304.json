@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98304,
+    "metadata": {
+      "title": "Um Bom Lugar",
+      "artists": [
+        "Sabotage"
+      ],
+      "album": "Rap é Compromisso",
+      "releaseDate": "2014-11-20",
+      "durationMs": 305386,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1455256",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/ea/09/bbea09b3-1cae-5bd6-39c1-13046493ceca/702730616994_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a696541c-cd3d-427f-8672-5f563e4c9259",
+        "itunes": "https://music.apple.com/us/album/um-bom-lugar-feat-black-alien/1510761195?i=1510761201&uo=4",
+        "deezer": "https://www.deezer.com/track/945986042"
+      }
+    },
+    "lyricPath": "/lyrics/98304.txt"
+  }
+]

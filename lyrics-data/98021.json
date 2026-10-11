@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98021,
+    "metadata": {
+      "title": "Toda Hora em Vv",
+      "artists": [
+        "DJ 2L de Vila Velha, Mc MV, Mc 2G Do SF, Mc Gorran, DJ KN DE VILA VELHA"
+      ],
+      "album": "Agosto",
+      "releaseDate": "2017-03-14",
+      "durationMs": 340000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/172d0cf3-12a3-406d-8f81-49033693a764"
+      }
+    },
+    "lyricPath": "/lyrics/98021.txt"
+  }
+]

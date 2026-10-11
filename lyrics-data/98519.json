@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98519,
+    "metadata": {
+      "title": "Esporrei na manivela",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Warner 25 Anos",
+      "releaseDate": "2001",
+      "durationMs": 248000,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRWMB9600970",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3f/a4/f8/3fa4f883-d23e-1845-984e-9d1ae2b268eb/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0e306231-8fc1-4010-ae16-961a1de02f88",
+        "itunes": "https://music.apple.com/us/album/esporrei-na-manivela-ao-vivo/879819848?i=879819851&uo=4",
+        "deezer": "https://www.deezer.com/track/3895374"
+      }
+    },
+    "lyricPath": "/lyrics/98519.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99145,
+    "metadata": {
+      "title": "Preferida",
+      "artists": [
+        "KayBlack, Wall Hein"
+      ],
+      "album": "Discreto",
+      "releaseDate": "2025-03-31",
+      "durationMs": 120937,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRWMB2300640",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/e1/1a/70e11a38-b7e5-0967-3120-945fd3b06b0f/5054197620263.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/74f4678e-8d96-4521-9af9-36ece32b19ed",
+        "itunes": "https://music.apple.com/us/album/preferida/1678468150?i=1678468646&uo=4",
+        "deezer": "https://www.deezer.com/track/2203364897"
+      }
+    },
+    "lyricPath": "/lyrics/99145.txt"
+  }
+]

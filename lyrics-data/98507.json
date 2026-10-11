@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98507,
+    "metadata": {
+      "title": "Me lambe",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Luau MTV",
+      "releaseDate": "2000",
+      "durationMs": 266000,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRWMB9900521",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3f/a4/f8/3fa4f883-d23e-1845-984e-9d1ae2b268eb/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2559ade6-c3aa-49aa-8ae7-cd8bfc6ff4b8",
+        "itunes": "https://music.apple.com/us/album/me-lambe-ao-vivo/879819848?i=879819865&uo=4",
+        "deezer": "https://www.deezer.com/track/761247"
+      }
+    },
+    "lyricPath": "/lyrics/98507.txt"
+  }
+]

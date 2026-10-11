@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98827,
+    "metadata": {
+      "title": "MOVIBE",
+      "artists": [
+        "Alee, NADAMAL, saboya, Dexter"
+      ],
+      "album": "Youtube Sessions",
+      "releaseDate": "2023-05-19",
+      "durationMs": 149281,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/1e682682-67e1-472a-acb8-ee160ffc888a"
+      }
+    },
+    "lyricPath": "/lyrics/98827.txt"
+  }
+]

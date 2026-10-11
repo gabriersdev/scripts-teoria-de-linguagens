@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98549,
+    "metadata": {
+      "title": "Nós vamos invadir sua praia - Avenida",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "Rock Brasil - CD1",
+      "releaseDate": "1998",
+      "durationMs": 255000,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": "BRWMB9901404",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/3e/6c/56/3e6c56ea-8156-3610-1121-fa083f80d261/dj.ujrgagiu.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/27f9a404-ea95-4697-a290-693667a73f98",
+        "itunes": "https://music.apple.com/us/album/n%C3%B3s-vamos-invadir-sua-praia/264602348?i=264602362&uo=4",
+        "deezer": "https://www.deezer.com/track/137275452"
+      }
+    },
+    "lyricPath": "/lyrics/98549.txt"
+  }
+]

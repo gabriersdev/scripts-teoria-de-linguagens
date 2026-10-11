@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98567,
+    "metadata": {
+      "title": "Eu Não Sei (Can't Explain) - Ao Vivo",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "Acústico MTV",
+      "releaseDate": "2005",
+      "durationMs": 129653,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP0500352",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/15/c4/9f15c409-dc83-6022-a6bf-d82976207fd9/7898324301889.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bba36b09-c0bb-4c27-b1da-1938ab9952e7",
+        "itunes": "https://music.apple.com/us/album/eu-n%C3%A3o-sei-cant-explain/977474314?i=977474492&uo=4",
+        "deezer": "https://www.deezer.com/track/96168086"
+      }
+    },
+    "lyricPath": "/lyrics/98567.txt"
+  }
+]

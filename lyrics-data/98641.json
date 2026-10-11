@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98641,
+    "metadata": {
+      "title": "Mil Adjetivos (Perfeita Pra Mim)",
+      "artists": [
+        "Cleber & Cauan"
+      ],
+      "album": "De Alma Aberta",
+      "releaseDate": "2018-05-11",
+      "durationMs": 219431,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BCSON2600031",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/69/2a/1a692a55-e220-45b5-1d8e-1832e78dc772/8721466548906.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f070791e-ac7a-48ee-b81e-f355b1b1eb0d",
+        "itunes": "https://music.apple.com/us/album/mil-adjetivos-perfeita-pra-mim-ao-vivo/1894770043?i=1894770044&uo=4",
+        "deezer": "https://www.deezer.com/track/3961321961"
+      }
+    },
+    "lyricPath": "/lyrics/98641.txt"
+  }
+]

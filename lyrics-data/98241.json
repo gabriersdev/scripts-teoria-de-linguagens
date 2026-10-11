@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98241,
+    "metadata": {
+      "title": "THE BOX MEDLEY 6",
+      "artists": [
+        "THE BOX, Raffé, Tchelo, TOKIODK, Lipinho Oficial"
+      ],
+      "album": "Ultimix 50 (Special Edition)",
+      "releaseDate": "1994",
+      "durationMs": 526000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BKF5C2300021",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c0/d6/00/c0d600e4-4e17-b61b-ed1f-1ed0553d1d44/196871685504.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ce1b3791-1621-456c-a2cd-c151a98ae2c5",
+        "itunes": "https://music.apple.com/us/album/the-box-medley-6/1718658280?i=1718658282&uo=4",
+        "deezer": "https://www.deezer.com/track/2560773892"
+      }
+    },
+    "lyricPath": "/lyrics/98241.txt"
+  }
+]

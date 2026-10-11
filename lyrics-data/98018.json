@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98018,
+    "metadata": {
+      "title": "pros menor da nova",
+      "artists": [
+        "G.A, Veigh, Mc Morena, Supernova Ent"
+      ],
+      "album": "Pros Menor Sagaz",
+      "releaseDate": "2025-04-22",
+      "durationMs": 120000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/8a/0b/368a0baf-1406-c96c-617d-d7a57173b2ee/5034644310879.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7a4916f5-f70a-4a5e-995e-c477fe554dd6",
+        "itunes": "https://music.apple.com/us/album/adora-a-bunda-odeia-o-rosto-feat-veigh-niink/1782229735?i=1782229757&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98018.txt"
+  }
+]

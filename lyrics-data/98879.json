@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98879,
+    "metadata": {
+      "title": "BEM-VINDO AO HARDMODE (INTRO)",
+      "artists": [
+        "Lil Chainz"
+      ],
+      "album": "Zabumba",
+      "releaseDate": "2019-07-23",
+      "durationMs": 60750,
+      "genres": [],
+      "isrc": "PT1GK1900091",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cdf4b8aa26818c96b2bd4406e8173f69/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ae613fee-120f-4af9-a393-6c3e8cb2a196",
+        "deezer": "https://www.deezer.com/track/2811575232"
+      }
+    },
+    "lyricPath": "/lyrics/98879.txt"
+  }
+]

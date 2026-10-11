@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99040,
+    "metadata": {
+      "title": "Sozinho",
+      "artists": [
+        "Senndy, Cassin"
+      ],
+      "album": "Sozinho",
+      "releaseDate": "2026-04-03",
+      "durationMs": 189000,
+      "genres": [],
+      "isrc": "BKB8A2600009",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6afbc2787dd3e60fb7aaa17864edef60/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3893431471"
+      }
+    },
+    "lyricPath": "/lyrics/99040.txt"
+  }
+]

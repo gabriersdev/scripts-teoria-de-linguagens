@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98548,
+    "metadata": {
+      "title": "Ciúme",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "I See Red",
+      "releaseDate": "2009",
+      "durationMs": 171000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRWMB9701844",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/15/c4/9f15c409-dc83-6022-a6bf-d82976207fd9/7898324301889.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/401f2b29-4439-4a48-8a11-312df17226e1",
+        "itunes": "https://music.apple.com/us/album/ci%C3%BAme/977474314?i=977474489&uo=4",
+        "deezer": "https://www.deezer.com/track/63652997"
+      }
+    },
+    "lyricPath": "/lyrics/98548.txt"
+  }
+]

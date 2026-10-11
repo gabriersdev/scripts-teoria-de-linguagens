@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98695,
+    "metadata": {
+      "title": "Inesquecível",
+      "artists": [
+        "Luan Santana"
+      ],
+      "album": "inesquecível - Single",
+      "releaseDate": "2020-10-09T12:00:00Z",
+      "durationMs": 186520,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRWMB2000909",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/75/f4/25/75f425f0-4cc9-5ede-8ffe-838d1e904a17/190296798399.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/inesquec%C3%ADvel/1533954736?i=1533954737&uo=4",
+        "deezer": "https://www.deezer.com/track/1100563322"
+      }
+    },
+    "lyricPath": "/lyrics/98695.txt"
+  }
+]

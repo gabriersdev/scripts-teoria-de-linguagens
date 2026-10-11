@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98643,
+    "metadata": {
+      "title": "Princesa",
+      "artists": [
+        "Gustavo Mioto"
+      ],
+      "album": "Ao vivo em Fortaleza",
+      "releaseDate": "2020-02-14",
+      "durationMs": 190341,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BXGU22000020",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/35/56/9c/35569c14-5b84-e2a1-5661-3130d3100bb5/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/dc2c7fd5-14ca-4e14-b066-662238fbb852",
+        "itunes": "https://music.apple.com/us/album/qu%C3%A9date-feat-gustavo-mioto/1438381092?i=1438381100&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98643.txt"
+  }
+]

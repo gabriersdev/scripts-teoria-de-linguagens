@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98403,
+    "metadata": {
+      "title": "Agora Só Falta Você",
+      "artists": [
+        "Rita Lee"
+      ],
+      "album": "Lança perfume e outras manias",
+      "releaseDate": "1994",
+      "durationMs": 206600,
+      "genres": [
+        "blues"
+      ],
+      "isrc": "BRPGD9800365",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d9/7f/a7/d97fa7ff-fac9-e0df-b218-740cd6961a02/13UABIM50287.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9a41709c-dc42-4330-aa40-101320418e8d",
+        "itunes": "https://music.apple.com/us/album/agora-s%C3%B3-falta-voc%C3%AA/712931448?i=712931780&uo=4",
+        "deezer": "https://www.deezer.com/track/140344287"
+      }
+    },
+    "lyricPath": "/lyrics/98403.txt"
+  }
+]

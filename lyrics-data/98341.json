@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98341,
+    "metadata": {
+      "title": "Mainstreet",
+      "artists": [
+        "Orochi"
+      ],
+      "album": "Orochi",
+      "releaseDate": "2018-12-21",
+      "durationMs": 598000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "QZ5AB2085736",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/d9/53/24d953d3-c7db-8164-b59c-474158d0406f/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/00b81f5e-8531-4e11-ab6f-70d40952843a",
+        "itunes": "https://music.apple.com/us/album/todo-t%C3%ADmido-feat-ajaxx/1587352875?i=1587352876&uo=4",
+        "deezer": "https://www.deezer.com/track/563213392"
+      }
+    },
+    "lyricPath": "/lyrics/98341.txt"
+  }
+]

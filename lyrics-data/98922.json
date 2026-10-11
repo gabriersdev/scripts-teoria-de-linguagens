@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98922,
+    "metadata": {
+      "title": "MULTIPLICA",
+      "artists": [
+        "Lil Chainz, Akashi Cruz, Ark King"
+      ],
+      "album": "HARDMODE",
+      "releaseDate": "2024-05-30",
+      "durationMs": 134000,
+      "genres": [],
+      "isrc": "BC2GV2400025",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cdf4b8aa26818c96b2bd4406e8173f69/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2811575272"
+      }
+    },
+    "lyricPath": "/lyrics/98922.txt"
+  }
+]

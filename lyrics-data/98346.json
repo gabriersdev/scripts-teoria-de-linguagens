@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98346,
+    "metadata": {
+      "title": "Peso do Mundo",
+      "artists": [
+        "Gorilla Concept Music, Felp 22, Sain, Froid, Major RD"
+      ],
+      "album": "Incinerar",
+      "releaseDate": "2024-11-21",
+      "durationMs": 165000,
+      "genres": [],
+      "isrc": "BCD592400135",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/735012e504c98705bc0950b7088424f8/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/027406e7-d355-4e5e-8c1e-d189522ae2da",
+        "deezer": "https://www.deezer.com/track/3092754551"
+      }
+    },
+    "lyricPath": "/lyrics/98346.txt"
+  }
+]

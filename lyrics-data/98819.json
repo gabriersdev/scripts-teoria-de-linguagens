@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98819,
+    "metadata": {
+      "title": "TEMPORADA DE CAÇA",
+      "artists": [
+        "Lil Chainz"
+      ],
+      "album": "A Saga do Cavaco Profano",
+      "releaseDate": "2016-12-10",
+      "durationMs": 212400,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BC2GV2400021",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/dc/1e/38dc1e44-1746-e171-ba92-b0b7723912f4/196872134179.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b865c349-770b-4fa6-a5fb-ebb743440507",
+        "itunes": "https://music.apple.com/us/album/faz-calor/1760066106?i=1760066109&uo=4",
+        "deezer": "https://www.deezer.com/track/2811575242"
+      }
+    },
+    "lyricPath": "/lyrics/98819.txt"
+  }
+]

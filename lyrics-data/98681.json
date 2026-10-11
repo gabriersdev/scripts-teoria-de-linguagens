@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98681,
+    "metadata": {
+      "title": "Sonho de Todo Casal",
+      "artists": [
+        "Marcos & Belutti"
+      ],
+      "album": "Jesus, o Brasil Te Adora",
+      "releaseDate": "2012-11-20",
+      "durationMs": 242000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BXS2B2500007",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/9e/37/569e372d-60a0-5201-eb5d-ce3024f808b9/196873082547.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4a820096-0ff7-406b-bfef-77a9a9746ece",
+        "itunes": "https://music.apple.com/us/album/sonho-de-todo-casal-ao-vivo/1808063431?i=1808063438&uo=4",
+        "deezer": "https://www.deezer.com/track/3321612271"
+      }
+    },
+    "lyricPath": "/lyrics/98681.txt"
+  }
+]

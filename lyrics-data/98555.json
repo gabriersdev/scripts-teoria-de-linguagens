@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98555,
+    "metadata": {
+      "title": "Ah, Se Eu Fosse Homem... - Acústico",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "Acústico MTV",
+      "releaseDate": "2005",
+      "durationMs": 185933,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP0500349",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/15/c4/9f15c409-dc83-6022-a6bf-d82976207fd9/7898324301889.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0dbaa833-2dca-4abe-885a-58c33fadd23a",
+        "itunes": "https://music.apple.com/us/album/ah-se-eu-fosse-homem/977474314?i=977474477&uo=4",
+        "deezer": "https://www.deezer.com/track/96168060"
+      }
+    },
+    "lyricPath": "/lyrics/98555.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98634,
+    "metadata": {
+      "title": "Cheiro De Culpado",
+      "artists": [
+        "Júnior e Cézar"
+      ],
+      "album": "Pento Season 2",
+      "releaseDate": "2023-06-07",
+      "durationMs": 238000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRUM72501930",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/0d/88/390d8861-2f47-a73b-eac8-95319760dfea/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/894e77d5-669c-44e0-bf64-5a249afba5da",
+        "itunes": "https://music.apple.com/us/album/cheiro-de-culpado-ao-vivo/6777525647?i=6777525661&uo=4",
+        "deezer": "https://www.deezer.com/track/3638422822"
+      }
+    },
+    "lyricPath": "/lyrics/98634.txt"
+  }
+]

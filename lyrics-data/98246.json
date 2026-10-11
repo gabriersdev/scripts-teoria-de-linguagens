@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98246,
+    "metadata": {
+      "title": "Foi assim",
+      "artists": [
+        "Sotam, Rob, Pulim"
+      ],
+      "album": "Água",
+      "releaseDate": "1977",
+      "durationMs": 255000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BCGSB2500020",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/f4/3a/55f43aeb-8701-22d7-12fa-a676eeaa8f33/881453737770_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a97444b4-c27f-4a18-8f01-11bf996442e6",
+        "itunes": "https://music.apple.com/us/album/epit%C3%A1fio-de-um-ex-apaixonado/6807603235?i=6807603236&uo=4",
+        "deezer": "https://www.deezer.com/track/3532639111"
+      }
+    },
+    "lyricPath": "/lyrics/98246.txt"
+  }
+]

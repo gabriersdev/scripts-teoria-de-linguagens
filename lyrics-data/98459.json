@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98459,
+    "metadata": {
+      "title": "Nosso Louco Amor",
+      "artists": [
+        "Gang 90 & Absurdetes"
+      ],
+      "album": "Charme do Mundo",
+      "releaseDate": "1997",
+      "durationMs": 197893,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRBMG8300228",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/f8/2c/e4/mzi.yfyfzqun.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b752a007-0401-406d-9793-c674854c39f7",
+        "itunes": "https://music.apple.com/us/album/noss%C3%B3-louco-amor/401783078?i=401783121&uo=4",
+        "deezer": "https://www.deezer.com/track/13330106"
+      }
+    },
+    "lyricPath": "/lyrics/98459.txt"
+  }
+]

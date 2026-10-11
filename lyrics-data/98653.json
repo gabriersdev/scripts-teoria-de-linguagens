@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98653,
+    "metadata": {
+      "title": "Jogado Na Rua / Casa Amarela",
+      "artists": [
+        "Guilherme & Santiago & Guilherme & Benuto"
+      ],
+      "album": "Trilha sonora para ninguém em especial",
+      "releaseDate": "2003",
+      "durationMs": 166000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BXSS92200016",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/78/04/0b78043e-42fd-a860-f92b-5b8233aa995e/5034644494982.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5f39db78-a187-4b4e-a8f3-3ebb55ba1648",
+        "itunes": "https://music.apple.com/us/album/jogado-na-rua-casa-amarela-ao-vivo/1798925606?i=1798925612&uo=4",
+        "deezer": "https://www.deezer.com/track/3253079091"
+      }
+    },
+    "lyricPath": "/lyrics/98653.txt"
+  }
+]

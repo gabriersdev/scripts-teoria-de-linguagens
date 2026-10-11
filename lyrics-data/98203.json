@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98203,
+    "metadata": {
+      "title": "O QUE SEPARA OS HOMENS DOS MENINOS 2",
+      "artists": [
+        "Sant, Emicida, LP Beatzz"
+      ],
+      "album": "O que separa os homens dos meninos (Vol.1)",
+      "releaseDate": "2015",
+      "durationMs": 204000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRRGE2601506",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/26/41/0326416b-c186-91c6-c142-feae18601e51/196874749210.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e9db69d0-7f36-4d36-9ead-151abe83b1b3",
+        "itunes": "https://music.apple.com/us/album/o-que-separa-os-homens-dos-meninos-2/6808798384?i=6808798385&uo=4",
+        "deezer": "https://www.deezer.com/track/4267207842"
+      }
+    },
+    "lyricPath": "/lyrics/98203.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98016,
+    "metadata": {
+      "title": "Jontex (fumaça do ice)",
+      "artists": [
+        "Mc Menor Rf, DJ GUIZIN DA SERRA"
+      ],
+      "album": "Déo do Baião",
+      "releaseDate": "2026-03-16T12:00:00Z",
+      "durationMs": 131000,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": "NL2J92613575",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/04/44/da04445d-64ad-1afe-b66a-69cb076ca73d/199891972012_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ef864e0c-7389-4ced-8c25-4305bd0038be",
+        "itunes": "https://music.apple.com/us/album/fuma%C3%A7a-do-ice/1893902047?i=1893902058&uo=4",
+        "deezer": "https://www.deezer.com/track/4019357991"
+      }
+    },
+    "lyricPath": "/lyrics/98016.txt"
+  }
+]

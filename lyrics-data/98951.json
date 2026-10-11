@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98951,
+    "metadata": {
+      "title": "OURO ROSE",
+      "artists": [
+        "MD Chefe, Maru2D, NandaTsunami, $CAM"
+      ],
+      "album": "Irrastreável",
+      "releaseDate": "2024-03-28",
+      "durationMs": 190000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b39296d9-f393-4e82-9919-5dc9f8c240b9"
+      }
+    },
+    "lyricPath": "/lyrics/98951.txt"
+  }
+]

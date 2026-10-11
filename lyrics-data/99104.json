@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99104,
+    "metadata": {
+      "title": "Doutora 3",
+      "artists": [
+        "Mc Kevin, Perera DJ"
+      ],
+      "album": "As Ressonâncias do Violão Tenor",
+      "releaseDate": "2021-03-31",
+      "durationMs": 285013,
+      "genres": [],
+      "isrc": "BXGR62100280",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0f855f324c7220f885693e583eca1b5d/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/51a87782-0c7c-4ad4-a8d1-023ec3d1311f",
+        "deezer": "https://www.deezer.com/track/1297207922"
+      }
+    },
+    "lyricPath": "/lyrics/99104.txt"
+  }
+]

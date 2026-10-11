@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98563,
+    "metadata": {
+      "title": "Mim Quer Tocar - Acústico",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "Geração Anos 80 - Singles Vol.1",
+      "releaseDate": "2000",
+      "durationMs": 185000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP0500357",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/15/c4/9f15c409-dc83-6022-a6bf-d82976207fd9/7898324301889.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/84a0f0fb-5216-4269-bef3-222e116c841c",
+        "itunes": "https://music.apple.com/us/album/mim-quer-tocar/977474314?i=977474487&uo=4",
+        "deezer": "https://www.deezer.com/track/96168076"
+      }
+    },
+    "lyricPath": "/lyrics/98563.txt"
+  }
+]

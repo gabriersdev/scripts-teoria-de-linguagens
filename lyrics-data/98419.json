@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98419,
+    "metadata": {
+      "title": "Mestre Jonas",
+      "artists": [
+        "Sa, Rodrix & Guarabyra"
+      ],
+      "album": "Retratos",
+      "releaseDate": "2004",
+      "durationMs": 203466,
+      "genres": [
+        "MPB"
+      ],
+      "isrc": "BRSGL0100260",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/55/bd/c955bd86-2038-7140-c90f-0ae29d0b8f49/196874199770.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/208e5749-8bfd-4deb-9b03-d41bc59aee3d",
+        "itunes": "https://music.apple.com/us/album/mestre-jonas-ao-vivo/1884038953?i=1884040006&uo=4",
+        "deezer": "https://www.deezer.com/track/119485424"
+      }
+    },
+    "lyricPath": "/lyrics/98419.txt"
+  }
+]

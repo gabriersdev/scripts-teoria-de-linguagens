@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98357,
+    "metadata": {
+      "title": "Se Ela Soubesse...",
+      "artists": [
+        "Ramonzin"
+      ],
+      "album": "Interlúdio",
+      "releaseDate": "2008",
+      "durationMs": 190253,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1467199",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/f7/df/29/f7df29f3-3f0e-2b7c-d3f3-da3fd92664a8/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6fa2b2ee-b3f1-47c0-b514-ac69b451daa4",
+        "itunes": "https://music.apple.com/us/album/se-ela-soubesse/932738831?i=932738857&uo=4",
+        "deezer": "https://www.deezer.com/track/88835893"
+      }
+    },
+    "lyricPath": "/lyrics/98357.txt"
+  }
+]

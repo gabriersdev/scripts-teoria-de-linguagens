@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98942,
+    "metadata": {
+      "title": "DIOR",
+      "artists": [
+        "Alee, NADAMAL, L7NNON, oson"
+      ],
+      "album": "The Confectioner's White Wax Glaze",
+      "releaseDate": "1993",
+      "durationMs": 362893,
+      "genres": [],
+      "isrc": "BKNDN2400011",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d630545501528d92d0431a405f0f30f2/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8a5194e2-5776-4240-a517-a96da59f3c9f",
+        "deezer": "https://www.deezer.com/track/2675770062"
+      }
+    },
+    "lyricPath": "/lyrics/98942.txt"
+  }
+]

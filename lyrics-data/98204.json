@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98204,
+    "metadata": {
+      "title": "Donas do Plaque",
+      "artists": [
+        "IKNOWFELIPE, LAI$ROSA, Barona, NandaTsunami"
+      ],
+      "album": "Donas do Plaque - Single",
+      "releaseDate": "2026-09-03T12:00:00Z",
+      "durationMs": 242353,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/da/ab/92daaba7-f187-422e-d562-8d89b168f1a3/196874710494.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/donas-do-plaque/6803250820?i=6803250954&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98204.txt"
+  }
+]

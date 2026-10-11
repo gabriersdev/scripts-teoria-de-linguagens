@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98757,
+    "metadata": {
+      "title": "Decide Aí - Na Praia / Ao Vivo",
+      "artists": [
+        "Naiara Azevedo"
+      ],
+      "album": "Na praia",
+      "releaseDate": "2016-02-26",
+      "durationMs": 162000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/94/e6/13/94e61375-ca51-599a-519e-2cd805eb81ee/7891430478476.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/02da40a0-0f15-4f16-a793-89b5273f2746",
+        "itunes": "https://music.apple.com/us/album/ao-vivo-ao-vivo/1513682053?i=1513682071&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98757.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98288,
+    "metadata": {
+      "title": "100 Mili",
+      "artists": [
+        "Ebony, LARINHX"
+      ],
+      "album": "Terapia",
+      "releaseDate": "2023-10-18",
+      "durationMs": 138947,
+      "genres": [],
+      "isrc": "BX3AW2200049",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/2ac1f7aacde0c7fc3703c4d2f24cd9b6/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/095c637e-b7b3-43c0-a8f3-3868b68f809b",
+        "deezer": "https://www.deezer.com/track/3262854181"
+      }
+    },
+    "lyricPath": "/lyrics/98288.txt"
+  }
+]

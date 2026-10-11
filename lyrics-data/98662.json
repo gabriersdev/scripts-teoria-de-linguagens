@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98662,
+    "metadata": {
+      "title": "Te Amar É Meu Talento",
+      "artists": [
+        "Fred & Fabrício"
+      ],
+      "album": "Has vencido",
+      "releaseDate": "1983",
+      "durationMs": 163208,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE2600114",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/44/86/a3448621-4403-00d5-ba1d-b17e14720795/196874093078.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/752a52c9-defc-4481-b058-eedb98884b69",
+        "itunes": "https://music.apple.com/us/album/te-amar-%C3%A9-meu-talento-ao-vivo/1875073071?i=1875073089&uo=4",
+        "deezer": "https://www.deezer.com/track/3826971091"
+      }
+    },
+    "lyricPath": "/lyrics/98662.txt"
+  }
+]

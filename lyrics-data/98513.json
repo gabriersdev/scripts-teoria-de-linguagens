@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98513,
+    "metadata": {
+      "title": "Lugar Ao Sol - Ao Vivo | Acústico",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Música Popular Caiçara",
+      "releaseDate": "2012-05",
+      "durationMs": 195828,
+      "genres": [],
+      "isrc": "BRRGE1700301",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/e5ce2511bfbc22e708ca46e95b88c2ef/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6746158a-329b-4aca-97e7-d6f737cb2ddf",
+        "deezer": "https://www.deezer.com/track/350038611"
+      }
+    },
+    "lyricPath": "/lyrics/98513.txt"
+  }
+]

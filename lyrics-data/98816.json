@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98816,
+    "metadata": {
+      "title": "CAÇA ÀS BRUXAS",
+      "artists": [
+        "Lil Chainz, Ugovhb"
+      ],
+      "album": "Bebê a Bordo: Trilha Nacional",
+      "releaseDate": "1988",
+      "durationMs": 91000,
+      "genres": [],
+      "isrc": "BC2GV2400013",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d251961f1fb047613595fe31f7d0ca2a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/532de78a-ba37-406f-8cae-9c2a1677765a",
+        "deezer": "https://www.deezer.com/track/2799265922"
+      }
+    },
+    "lyricPath": "/lyrics/98816.txt"
+  }
+]

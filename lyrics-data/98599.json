@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98599,
+    "metadata": {
+      "title": "Vamos Fugir",
+      "artists": [
+        "Skank"
+      ],
+      "album": "Raça humana",
+      "releaseDate": "1984",
+      "durationMs": 289413,
+      "genres": [
+        "bossa nova"
+      ],
+      "isrc": "BRSME0400169",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c8/91/59/c8915987-dea8-cd1e-bf95-3d8ce93cf5ca/886443812093.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c4b6f879-fb3f-4af8-83b9-10de03e45f01",
+        "itunes": "https://music.apple.com/us/album/vamos-fugir/588335548?i=588335604&uo=4",
+        "deezer": "https://www.deezer.com/track/63135949"
+      }
+    },
+    "lyricPath": "/lyrics/98599.txt"
+  }
+]

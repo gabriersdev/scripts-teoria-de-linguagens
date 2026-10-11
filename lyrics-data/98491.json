@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98491,
+    "metadata": {
+      "title": "Canção Pra Você Viver Mais",
+      "artists": [
+        "Pato Fu"
+      ],
+      "album": "Maxximum",
+      "releaseDate": "2006-10-16",
+      "durationMs": 323000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRBMG9800146",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/97/d5/dd/mzi.mldggiko.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/558cb2de-8069-44ee-9079-158112193915",
+        "itunes": "https://music.apple.com/us/album/can%C3%A7%C3%A3o-pra-voc%C3%AA-viver-mais/402055926?i=402055966&uo=4",
+        "deezer": "https://www.deezer.com/track/15410866"
+      }
+    },
+    "lyricPath": "/lyrics/98491.txt"
+  }
+]

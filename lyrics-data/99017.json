@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99017,
+    "metadata": {
+      "title": "Belieber",
+      "artists": [
+        "Veigh, Supernova Ent"
+      ],
+      "album": "MAGIC SHOW (DELUXE)",
+      "releaseDate": "2024-05-26",
+      "durationMs": 129000,
+      "genres": [],
+      "isrc": "BKSUV2400020",
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6ccc1f0c-29aa-4db5-a42a-4913b7421c5e"
+      }
+    },
+    "lyricPath": "/lyrics/99017.txt"
+  }
+]

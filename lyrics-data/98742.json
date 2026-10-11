@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98742,
+    "metadata": {
+      "title": "Proibido Terminar - Ao Vivo",
+      "artists": [
+        "Gusttavo Lima"
+      ],
+      "album": "Que Pancada",
+      "releaseDate": "2025-04-17",
+      "durationMs": 162000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BXBAL2500058",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/fe/31/bbfe3197-c753-7286-69be-d0a272557599/dj.owcoilzq.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c84b131a-4a04-4010-a832-4678130523ef",
+        "itunes": "https://music.apple.com/us/album/proibido-terminar/1793793204?i=1793793220&uo=4",
+        "deezer": "https://www.deezer.com/track/3913423681"
+      }
+    },
+    "lyricPath": "/lyrics/98742.txt"
+  }
+]

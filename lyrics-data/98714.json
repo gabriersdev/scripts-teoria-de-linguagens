@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98714,
+    "metadata": {
+      "title": "Tudo Que Você Quiser - Ao Vivo",
+      "artists": [
+        "Luan Santana"
+      ],
+      "album": "O nosso tempo é hoje",
+      "releaseDate": "2013-10-21",
+      "durationMs": 249000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE1300341",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/1f/0d/d8/1f0dd87e-d149-8636-2f86-8f92343d5092/7891430282226.tif/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bb04172d-3e52-4275-97df-d87684eee8a3",
+        "itunes": "https://music.apple.com/us/album/tudo-que-voc%C3%AA-quiser/719077367?i=719077372&uo=4",
+        "deezer": "https://www.deezer.com/track/71389707"
+      }
+    },
+    "lyricPath": "/lyrics/98714.txt"
+  }
+]

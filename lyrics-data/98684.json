@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98684,
+    "metadata": {
+      "title": "Fivela Com Fivela",
+      "artists": [
+        "Rionegro & Solimões"
+      ],
+      "album": "Fiorella Acústico",
+      "releaseDate": "2023-07-27",
+      "durationMs": 181000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BC0LK2300031",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/4f/86/a74f8604-8a09-9e0b-6b04-6a9c9e171ea8/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9f41b823-733d-4831-821a-2c63aa619acc",
+        "itunes": "https://music.apple.com/us/album/fivela-com-fivela-ao-vivo/1740890608?i=1740890609&uo=4",
+        "deezer": "https://www.deezer.com/track/2745266331"
+      }
+    },
+    "lyricPath": "/lyrics/98684.txt"
+  }
+]

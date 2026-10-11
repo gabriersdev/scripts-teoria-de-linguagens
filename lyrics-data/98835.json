@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98835,
+    "metadata": {
+      "title": "ALTERADO",
+      "artists": [
+        "Matuê, Phl Notunrboy"
+      ],
+      "album": "We Spit on Their Graves",
+      "releaseDate": "1982",
+      "durationMs": 193000,
+      "genres": [],
+      "isrc": "BXW922500113",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c9b023c07f75e26f5998c8eeddb39fcb/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9ef50cd7-7faa-4b3a-afa0-d00ff87fa7c9",
+        "deezer": "https://www.deezer.com/track/3700579822"
+      }
+    },
+    "lyricPath": "/lyrics/98835.txt"
+  }
+]

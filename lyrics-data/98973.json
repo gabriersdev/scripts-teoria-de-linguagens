@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98973,
+    "metadata": {
+      "title": "NOITE PERFEITA",
+      "artists": [
+        "Brandão85"
+      ],
+      "album": "Rock 'N' Roll",
+      "releaseDate": "2009-06-05",
+      "durationMs": 147000,
+      "genres": [],
+      "isrc": "BXW922500066",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/823c311b28a72801b809da4d99c621f4/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/80060993-bc59-41f2-a6cf-9a78d89ec89f",
+        "deezer": "https://www.deezer.com/track/3429620641"
+      }
+    },
+    "lyricPath": "/lyrics/98973.txt"
+  }
+]

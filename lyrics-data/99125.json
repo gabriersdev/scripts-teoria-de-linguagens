@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99125,
+    "metadata": {
+      "title": "Chanel",
+      "artists": [
+        "Jovem Dex, JayA Luuck"
+      ],
+      "album": "E$TÉTICA",
+      "releaseDate": "2022-06-15",
+      "durationMs": 139500,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BXXCT2000023",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e8/82/ad/e882adf1-c027-232d-7ba6-88334b793b49/755773456607.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/03d5de78-b087-4e6a-a4db-7d03dfccd97b",
+        "itunes": "https://music.apple.com/us/album/chanel/1648484984?i=1648485279&uo=4",
+        "deezer": "https://www.deezer.com/track/1054407332"
+      }
+    },
+    "lyricPath": "/lyrics/99125.txt"
+  }
+]

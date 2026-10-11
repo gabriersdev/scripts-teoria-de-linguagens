@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99075,
+    "metadata": {
+      "title": "7 Novinha Pra 2 MLK",
+      "artists": [
+        "Derek"
+      ],
+      "album": "DENNIS apresenta: Funk Now! Vol. 2",
+      "releaseDate": "2017-12-29",
+      "durationMs": 153473,
+      "genres": [],
+      "isrc": "QZ5AB1824185",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c508f9fda92ac840fd049381103b6a5d/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0dd142c7-1c72-4042-ba48-a8d77cabd622",
+        "deezer": "https://www.deezer.com/track/2477260151"
+      }
+    },
+    "lyricPath": "/lyrics/99075.txt"
+  }
+]

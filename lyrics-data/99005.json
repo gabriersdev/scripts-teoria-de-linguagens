@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99005,
+    "metadata": {
+      "title": "Selvagem",
+      "artists": [
+        "Filipe Ret, Prod.MTS, Woozy"
+      ],
+      "album": "Irrastreável",
+      "releaseDate": "2024-03-28",
+      "durationMs": 192000,
+      "genres": [],
+      "isrc": "BRRGE2502616",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6f909ca08aab01d20e7a4252ad1f5bff/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/aa2f9106-fa72-4284-b543-f4283dfbb839",
+        "deezer": "https://www.deezer.com/track/3450782911"
+      }
+    },
+    "lyricPath": "/lyrics/99005.txt"
+  }
+]

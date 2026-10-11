@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98711,
+    "metadata": {
+      "title": "Cobaia",
+      "artists": [
+        "Lauana Prado, Maiara & Maraisa"
+      ],
+      "album": "Balada Prime",
+      "releaseDate": "2015",
+      "durationMs": 212000,
+      "genres": [
+        "Karaoke"
+      ],
+      "isrc": "BRUM71802665",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a0/96/fb/a096fb46-05f4-c7a3-c6b2-cf88be7cb76a/22UMGIM08060.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/26933c1a-dda9-418f-b221-e4081e4f3dbd",
+        "itunes": "https://music.apple.com/us/album/cobaia-made-popular-by-lauana-prado-maiara-maraisa/1607382802?i=1607382815&uo=4",
+        "deezer": "https://www.deezer.com/track/528900141"
+      }
+    },
+    "lyricPath": "/lyrics/98711.txt"
+  }
+]

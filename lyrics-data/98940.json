@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98940,
+    "metadata": {
+      "title": "Facas & Pistolas",
+      "artists": [
+        "Yung Nobre, akao.47"
+      ],
+      "album": "Equilíbrio",
+      "releaseDate": "2021-07-29",
+      "durationMs": 196000,
+      "genres": [],
+      "isrc": "BRSME2004729",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4f7761e9e84e79b123c3e82add035a69/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5a6ac6b9-698c-43f7-9ed4-68031ebadf82",
+        "deezer": "https://www.deezer.com/track/1817431577"
+      }
+    },
+    "lyricPath": "/lyrics/98940.txt"
+  }
+]

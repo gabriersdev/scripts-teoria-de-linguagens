@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98740,
+    "metadata": {
+      "title": "Circo - Ao Vivo",
+      "artists": [
+        "Paula Fernandes, Simone Mendes"
+      ],
+      "album": "Anos 60 / 70 /80 (Ao Vivo)",
+      "releaseDate": "2018-08-02",
+      "durationMs": 90657,
+      "genres": [],
+      "isrc": "BXJE72600002",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/dc833141659f96187a6335e15c0ab50e/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b17598f4-e221-4dfc-acec-757e875940f0",
+        "deezer": "https://www.deezer.com/track/4279391392"
+      }
+    },
+    "lyricPath": "/lyrics/98740.txt"
+  }
+]

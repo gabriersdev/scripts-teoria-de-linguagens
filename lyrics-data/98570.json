@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98570,
+    "metadata": {
+      "title": "Pelado - Ao Vivo",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "Ira! & Ultraje a Rigor - Ao Vivo no Rock in Rio",
+      "releaseDate": "2007-06-30T12:00:00Z",
+      "durationMs": 174533,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRMZA1100043",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/e5/1f/54/e51f5427-7b97-7cc5-1a3d-2c59d86c7712/Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/pelado-ao-vivo/567964995?i=567965250&uo=4",
+        "deezer": "https://www.deezer.com/track/61152852"
+      }
+    },
+    "lyricPath": "/lyrics/98570.txt"
+  }
+]

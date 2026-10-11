@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98968,
+    "metadata": {
+      "title": "EDUARDA",
+      "artists": [
+        "Alee, Klisman, Jimyy"
+      ],
+      "album": "CAOS DLX",
+      "releaseDate": "2025-07-24",
+      "durationMs": 140343,
+      "genres": [],
+      "isrc": "BKNDN2400094",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b04985666821523406c23d1d1ee23193/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b9b606c3-f538-4a24-b312-5fdeea2a52ea",
+        "deezer": "https://www.deezer.com/track/3865569851"
+      }
+    },
+    "lyricPath": "/lyrics/98968.txt"
+  }
+]

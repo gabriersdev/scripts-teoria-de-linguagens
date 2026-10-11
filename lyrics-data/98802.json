@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98802,
+    "metadata": {
+      "title": "Champions",
+      "artists": [
+        "Ark King, ohayomatsu"
+      ],
+      "album": "Child of Destiny",
+      "releaseDate": "2017-12-01",
+      "durationMs": 190000,
+      "genres": [],
+      "isrc": "USI4Q1730789",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/257d53ae218bc10c1a49d682f574ce8f/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d637b95f-c81b-4901-8539-7ec3c2b3b640",
+        "deezer": "https://www.deezer.com/track/2761818371"
+      }
+    },
+    "lyricPath": "/lyrics/98802.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98977,
+    "metadata": {
+      "title": "BOM E NOVO",
+      "artists": [
+        "MC Cabelinho, Tz da Coronel"
+      ],
+      "album": "Diferenciado",
+      "releaseDate": "2025-03-14",
+      "durationMs": 150928,
+      "genres": [
+        "Worldwide"
+      ],
+      "isrc": "BKLVW2600002",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/65/a4/a865a4dd-f7ea-1791-ed35-57bf1439d43f/197190021349.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/1f162924-e7c5-44f7-8aee-4e8a39acb870",
+        "itunes": "https://music.apple.com/us/album/ilus%C3%A3o-feat-mc-cabelinho-ariel-donato-cupula/1708996623?i=1708997434&uo=4",
+        "deezer": "https://www.deezer.com/track/3877679501"
+      }
+    },
+    "lyricPath": "/lyrics/98977.txt"
+  }
+]

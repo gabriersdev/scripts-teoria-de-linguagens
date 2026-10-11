@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98411,
+    "metadata": {
+      "title": "Olhar 43",
+      "artists": [
+        "RPM"
+      ],
+      "album": "The Wire Tapper 09",
+      "releaseDate": "2002-11",
+      "durationMs": 283640,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRSME8600005",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features/b7/21/76/dj.vdlldroq.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9ddca74f-8c3c-4f49-890e-175d2e6807ab",
+        "itunes": "https://music.apple.com/us/album/olhar-43/321684404?i=321684436&uo=4",
+        "deezer": "https://www.deezer.com/track/13265455"
+      }
+    },
+    "lyricPath": "/lyrics/98411.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98562,
+    "metadata": {
+      "title": "Me Dá um Olá - Acústico",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "Os Invisíveis",
+      "releaseDate": "2002",
+      "durationMs": 143813,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP0500356",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/15/c4/9f15c409-dc83-6022-a6bf-d82976207fd9/7898324301889.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/eed7b1fc-1e0b-42b8-b37c-764e98cf97fe",
+        "itunes": "https://music.apple.com/us/album/me-d%C3%A1-um-ol%C3%A1/977474314?i=977474486&uo=4",
+        "deezer": "https://www.deezer.com/track/96168074"
+      }
+    },
+    "lyricPath": "/lyrics/98562.txt"
+  }
+]

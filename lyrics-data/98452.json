@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98452,
+    "metadata": {
+      "title": "Surreal",
+      "artists": [
+        "Scalene"
+      ],
+      "album": "Seqsextend",
+      "releaseDate": "2003-12-01",
+      "durationMs": 463546,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BR6TO1300014",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/b4/95/4b/b4954b0a-8a30-9d16-434c-9bf383210f76/7891430437428.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/47dbea09-cc2a-4c8e-ac47-61e3a994fcab",
+        "itunes": "https://music.apple.com/us/album/surreal-ao-vivo/1127542331?i=1127542908&uo=4",
+        "deezer": "https://www.deezer.com/track/3561690121"
+      }
+    },
+    "lyricPath": "/lyrics/98452.txt"
+  }
+]

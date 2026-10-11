@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98765,
+    "metadata": {
+      "title": "Mudando De Assunto - Ao Vivo",
+      "artists": [
+        "Henrique & Juliano"
+      ],
+      "album": "Ao vivo em Brasília",
+      "releaseDate": "2014-09-15",
+      "durationMs": 195808,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1400053",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/41/9c/b7419cae-9f05-be20-46f3-ac901e027c73/00602438992638_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/934c0e4e-34ac-42f0-aab1-40e7e789057d",
+        "itunes": "https://music.apple.com/us/album/mudando-de-assunto-ao-vivo/1882027469?i=1882027961&uo=4",
+        "deezer": "https://www.deezer.com/track/3878854361"
+      }
+    },
+    "lyricPath": "/lyrics/98765.txt"
+  }
+]

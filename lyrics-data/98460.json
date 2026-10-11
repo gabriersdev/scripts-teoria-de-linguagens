@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98460,
+    "metadata": {
+      "title": "Geração Coca-Cola",
+      "artists": [
+        "Legião Urbana"
+      ],
+      "album": "As 20 mais",
+      "releaseDate": "1985-01-01T12:00:00Z",
+      "durationMs": 290413,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BREMI8400016",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/1b/03/181b0329-0b99-5349-da2f-564ab83dc10c/13UABIM70453.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/79226a5d-1b8d-47c0-a908-63b638b60d0d",
+        "itunes": "https://music.apple.com/us/album/gera%C3%A7%C3%A3o-coca-cola/713691722?i=713691769&uo=4",
+        "deezer": "https://www.deezer.com/track/121126292"
+      }
+    },
+    "lyricPath": "/lyrics/98460.txt"
+  }
+]

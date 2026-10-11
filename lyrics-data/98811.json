@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98811,
+    "metadata": {
+      "title": "FALIDOS",
+      "artists": [
+        "Alee, NADAMAL, Nagalli, Rocco"
+      ],
+      "album": "Coma",
+      "releaseDate": "2002",
+      "durationMs": 189506,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/344b3c39-6e92-4adf-a92e-db48512ee46c"
+      }
+    },
+    "lyricPath": "/lyrics/98811.txt"
+  }
+]

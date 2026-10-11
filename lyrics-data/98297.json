@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98297,
+    "metadata": {
+      "title": "Celine",
+      "artists": [
+        "Vulgo FK, KayBlack, WEY, Pedro Lotto, Wall Hein"
+      ],
+      "album": "F*CK SONGS",
+      "releaseDate": "2024-10-24",
+      "durationMs": 153000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d7/51/e4/d751e4c3-ff91-4267-b794-8bff0db5f8e9/7891430801175.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2464b85e-5bdb-4cc6-b2ea-a449615841a6",
+        "itunes": "https://music.apple.com/us/album/celine-feat-pedro-lotto-wall-hein/1695643378?i=1695643759&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98297.txt"
+  }
+]

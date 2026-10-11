@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98893,
+    "metadata": {
+      "title": "Não quero mais cnvs",
+      "artists": [
+        "Ryu, The Runner, CJota, Stuani, Salve Crazy"
+      ],
+      "album": "Essa é a vida de um corredor",
+      "releaseDate": "2023-03-03",
+      "durationMs": 150000,
+      "genres": [],
+      "isrc": "BCY5N2300007",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/782cef210cd47fa6908ba6ed4b6a484b/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ce700d2e-87fb-458d-aad2-d5ed9b14f8fe",
+        "deezer": "https://www.deezer.com/track/4030006871"
+      }
+    },
+    "lyricPath": "/lyrics/98893.txt"
+  }
+]

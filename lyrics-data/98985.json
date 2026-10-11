@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98985,
+    "metadata": {
+      "title": "LOBO MAU",
+      "artists": [
+        "MC Cabelinho, Tz da Coronel, Mc Poze do Rodo, Oruam"
+      ],
+      "album": "40˚.40",
+      "releaseDate": "2020-07-16",
+      "durationMs": 187000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/79e74b1e-a41b-4c15-b7f8-6b0acb6937fd"
+      }
+    },
+    "lyricPath": "/lyrics/98985.txt"
+  }
+]

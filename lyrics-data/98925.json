@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98925,
+    "metadata": {
+      "title": "Caracol",
+      "artists": [
+        "Brandão85"
+      ],
+      "album": "CANTAR JUNTOS 1",
+      "releaseDate": "2022-02-17T12:00:00Z",
+      "durationMs": 122105,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BXXCT2200007",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/7b/34/c77b345a-e6de-e0cb-3ee7-dea22ab247dc/703441368431.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0a99dd9e-9bc7-450d-a308-cc80ae4ea2be",
+        "itunes": "https://music.apple.com/us/album/caracol/1790985604?i=1790985612&uo=4",
+        "deezer": "https://www.deezer.com/track/3189136661"
+      }
+    },
+    "lyricPath": "/lyrics/98925.txt"
+  }
+]

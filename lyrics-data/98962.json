@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98962,
+    "metadata": {
+      "title": "Será",
+      "artists": [
+        "KayBlack, Wall Hein, tal do dias"
+      ],
+      "album": "Discreto",
+      "releaseDate": "2025-03-31",
+      "durationMs": 120937,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRWMB2600557",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/dc/df/7fdcdfb0-92b8-77f9-b456-ad11693e3e34/827568016904.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/74f4678e-8d96-4521-9af9-36ece32b19ed",
+        "itunes": "https://music.apple.com/us/album/ser%C3%A1/1895770326?i=6764414923&uo=4",
+        "deezer": "https://www.deezer.com/track/3990996231"
+      }
+    },
+    "lyricPath": "/lyrics/98962.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98462,
+    "metadata": {
+      "title": "Um Sonho",
+      "artists": [
+        "Nação Zumbi"
+      ],
+      "album": "Nação Zumbi",
+      "releaseDate": "2004-04-06T12:00:00Z",
+      "durationMs": 291360,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BR1431400008",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/44/f9/b2/44f9b2b8-a42c-4a45-b90f-d0909d94779d/cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/um-sonho/1574358011?i=1574358284&uo=4",
+        "deezer": "https://www.deezer.com/track/1418854552"
+      }
+    },
+    "lyricPath": "/lyrics/98462.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98959,
+    "metadata": {
+      "title": "VILA MENCK, OSASCO",
+      "artists": [
+        "Emitê Único, Neckklace, Salve Crazy"
+      ],
+      "album": "Surpresa, Sucesso, Sublime",
+      "releaseDate": "2024-03-08",
+      "durationMs": 148000,
+      "genres": [],
+      "isrc": "GBRKQ2675662",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/03038f24061ecaa7eb8b70b3bbd95bcf/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2d2657bd-fb18-44e8-87da-d5d597d550ac",
+        "deezer": "https://www.deezer.com/track/4001636291"
+      }
+    },
+    "lyricPath": "/lyrics/98959.txt"
+  }
+]

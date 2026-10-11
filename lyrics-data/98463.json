@@ -1,0 +1,27 @@
+[
+  {
+    "id": 98463,
+    "metadata": {
+      "title": "Da Lama ao Caos",
+      "artists": [
+        "Chico Science, Nação Zumbi"
+      ],
+      "album": "XXI - Vinteum: 21 grandes sucessos",
+      "releaseDate": "2000",
+      "durationMs": 271693,
+      "genres": [
+        "brazilian",
+        "latin",
+        "brazilian pop"
+      ],
+      "isrc": "BRSME9400004",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/a4/8b/69a48bad-2a30-14be-f0f4-b72cf8766f25/884977330298.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b752d9c4-5dde-4b7f-9ac5-af58cd5fc9d1",
+        "itunes": "https://music.apple.com/us/album/da-lama-ao-caos/402146830?i=402146842&uo=4",
+        "deezer": "https://www.deezer.com/track/13359628"
+      }
+    },
+    "lyricPath": "/lyrics/98463.txt"
+  }
+]

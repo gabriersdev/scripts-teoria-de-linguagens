@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99137,
+    "metadata": {
+      "title": "Segredo",
+      "artists": [
+        "KayBlack, Marquinho no Beat, Wall Hein"
+      ],
+      "album": "Contradições",
+      "releaseDate": "2023-03-31",
+      "durationMs": 104145,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRWMB2300639",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/e1/1a/70e11a38-b7e5-0967-3120-945fd3b06b0f/5054197620263.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/48880312-8ba6-46cc-b159-ff0373e5b2e8",
+        "itunes": "https://music.apple.com/us/album/segredo/1678468150?i=1678468643&uo=4",
+        "deezer": "https://www.deezer.com/track/2203364887"
+      }
+    },
+    "lyricPath": "/lyrics/99137.txt"
+  }
+]

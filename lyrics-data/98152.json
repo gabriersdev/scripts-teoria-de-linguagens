@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98152,
+    "metadata": {
+      "title": "Lá no PPG",
+      "artists": [
+        "MC Rick"
+      ],
+      "album": "No PPG",
+      "releaseDate": "2023-08-03",
+      "durationMs": 169846,
+      "genres": [],
+      "isrc": "BXG6R2300918",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c95e7ca2b568d840cbf8136e2cd5ab32/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/abc0d562-bb4f-42c8-b305-c538f2ba8f5a",
+        "deezer": "https://www.deezer.com/track/2492490501"
+      }
+    },
+    "lyricPath": "/lyrics/98152.txt"
+  }
+]

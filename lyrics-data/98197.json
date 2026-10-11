@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98197,
+    "metadata": {
+      "title": "Dona Cleusa 2",
+      "artists": [
+        "MC Rick"
+      ],
+      "album": "Dona Cleusa 2",
+      "releaseDate": "2025-08-29",
+      "durationMs": 151000,
+      "genres": [],
+      "isrc": "QT5M22581960",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/41bee21886d60108127ed0700771461c/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3517080641"
+      }
+    },
+    "lyricPath": "/lyrics/98197.txt"
+  }
+]

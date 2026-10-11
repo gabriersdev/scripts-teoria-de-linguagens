@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98181,
+    "metadata": {
+      "title": "Boca de Pêlo",
+      "artists": [
+        "MC Don Juan"
+      ],
+      "album": "HYPERPOOP",
+      "releaseDate": "2023-10-20",
+      "durationMs": 165000,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "QZ5AB1724535",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/0c/65/ec0c65f5-5c45-748f-ffd0-7bb9c9f829e3/196872289510.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/76036ac8-61c4-4080-8018-5bb1b5a8eafa",
+        "itunes": "https://music.apple.com/us/album/depois-do-baile/1759061697?i=1759061703&uo=4",
+        "deezer": "https://www.deezer.com/track/434104192"
+      }
+    },
+    "lyricPath": "/lyrics/98181.txt"
+  }
+]

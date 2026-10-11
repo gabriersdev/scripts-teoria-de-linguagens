@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98724,
+    "metadata": {
+      "title": "Eu Sei de Cor - Ao Vivo",
+      "artists": [
+        "Marília Mendonça"
+      ],
+      "album": "Realidade: Ao vivo em Manaus",
+      "releaseDate": "2017-03-06",
+      "durationMs": 189000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1600233",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/1b/6b/9f1b6b0e-3ff7-d727-f79a-46d35e59d8f9/7891430121877.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/22185847-3dbb-4507-8629-7b6e96f9c073",
+        "itunes": "https://music.apple.com/us/album/eu-sei-de-cor-ao-vivo-ac%C3%BAstico/1147297680?i=1147297755&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98724.txt"
+  }
+]

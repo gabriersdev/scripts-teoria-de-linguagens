@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98596,
+    "metadata": {
+      "title": "Farsa Nacionalista",
+      "artists": [
+        "Ratos De Porão"
+      ],
+      "album": "Brasil / Anarkophobia",
+      "releaseDate": "1999",
+      "durationMs": 150640,
+      "genres": [],
+      "isrc": "BRELD0500202",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3728662d4464d8c0d1e6790a4de046f1/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/20533165-670c-4f57-a620-b40cfb84a154",
+        "deezer": "https://www.deezer.com/track/111007784"
+      }
+    },
+    "lyricPath": "/lyrics/98596.txt"
+  }
+]

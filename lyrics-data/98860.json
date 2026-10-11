@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98860,
+    "metadata": {
+      "title": "A Triquetra",
+      "artists": [
+        "D$ Luqi"
+      ],
+      "album": "O Emblema do Infinito",
+      "releaseDate": "2024-08-08",
+      "durationMs": 129000,
+      "genres": [],
+      "isrc": "BKLL22400013",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3ab40bdd7c87b75c21401f79028b3dcf/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e18ea38b-aabb-44ff-acec-156242b4ddf4",
+        "deezer": "https://www.deezer.com/track/2858478022"
+      }
+    },
+    "lyricPath": "/lyrics/98860.txt"
+  }
+]

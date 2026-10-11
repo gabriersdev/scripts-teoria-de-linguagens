@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98578,
+    "metadata": {
+      "title": "Vira-Vira",
+      "artists": [
+        "Mamonas Assassinas"
+      ],
+      "album": "Laiv at Bruno's",
+      "releaseDate": "2026-05-12",
+      "durationMs": 41000,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BREMI9500364",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/4f/0b/fa4f0b92-098b-92dd-f9e7-1907a6fed64a/13UMGIM90180.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9451f00e-7a33-4720-8094-ff9301e720cf",
+        "itunes": "https://music.apple.com/us/album/vira-vira/713659451?i=713659457&uo=4",
+        "deezer": "https://www.deezer.com/track/3105902"
+      }
+    },
+    "lyricPath": "/lyrics/98578.txt"
+  }
+]

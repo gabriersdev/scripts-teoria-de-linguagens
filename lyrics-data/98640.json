@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98640,
+    "metadata": {
+      "title": "Falando Sério",
+      "artists": [
+        "Luan Santana"
+      ],
+      "album": "Uma Nova História",
+      "releaseDate": "2015-04-14T12:00:00Z",
+      "durationMs": 196960,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BR27R2500127",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c4/c1/fe/c4c1fea7-4dfc-58b4-4b76-7325097526f3/889176855689.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/64373aa3-f412-4d38-a755-1388415bd574",
+        "itunes": "https://music.apple.com/us/album/falando-s%C3%A9rio-ao-vivo/982462709?i=982463372&uo=4",
+        "deezer": "https://www.deezer.com/track/3713876932"
+      }
+    },
+    "lyricPath": "/lyrics/98640.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98833,
+    "metadata": {
+      "title": "Elefante",
+      "artists": [
+        "Brandão85"
+      ],
+      "album": "Essere umani",
+      "releaseDate": "2014-02-20",
+      "durationMs": 229000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BXXCT2200005",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/7b/34/c77b345a-e6de-e0cb-3ee7-dea22ab247dc/703441368431.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/87af1153-d9c9-4453-aeff-628ca60013bc",
+        "itunes": "https://music.apple.com/us/album/elefante/1790985604?i=1790985610&uo=4",
+        "deezer": "https://www.deezer.com/track/3189136651"
+      }
+    },
+    "lyricPath": "/lyrics/98833.txt"
+  }
+]

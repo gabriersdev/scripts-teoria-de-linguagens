@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98081,
+    "metadata": {
+      "title": "Sem Frescura, Sem Pirraça",
+      "artists": [
+        "Mc Rodrigo do CN, Mc Jhey, DJ PH DE CAMPOS, DJ Denilson o clínico"
+      ],
+      "album": "Gato do Mato",
+      "releaseDate": "2024-12-06",
+      "durationMs": 127368,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/35e4cee2-dbb1-48c0-99f5-2cea1f240994"
+      }
+    },
+    "lyricPath": "/lyrics/98081.txt"
+  }
+]

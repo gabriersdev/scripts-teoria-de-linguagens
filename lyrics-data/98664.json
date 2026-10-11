@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98664,
+    "metadata": {
+      "title": "Adeus Aquele Amor",
+      "artists": [
+        "Seu Desejo"
+      ],
+      "album": "Doris, Miltinho & charme, vol. 3",
+      "releaseDate": "1972",
+      "durationMs": 191927,
+      "genres": [
+        "Forró"
+      ],
+      "isrc": "QZNJZ2497098",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/bf/56/e8bf5693-e8ed-ba1a-146c-1583cc0455f7/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7cc5263b-000a-46d7-bd80-2bc298ffdfaf",
+        "itunes": "https://music.apple.com/us/album/adeus-aquele-amor/1763329060?i=1763329061&uo=4",
+        "deezer": "https://www.deezer.com/track/2956344731"
+      }
+    },
+    "lyricPath": "/lyrics/98664.txt"
+  }
+]

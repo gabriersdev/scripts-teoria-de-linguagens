@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98739,
+    "metadata": {
+      "title": "10% - Ao Vivo",
+      "artists": [
+        "Maiara & Maraisa"
+      ],
+      "album": "Direito de Viver 16",
+      "releaseDate": "2015",
+      "durationMs": 172600,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1600005",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/c3/74/e1/c374e1a3-00a4-65d7-5ef7-01804294a5c1/7891430419929.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/16dba0f6-c019-49a2-b7de-9a685bfae6df",
+        "itunes": "https://music.apple.com/us/album/10-ao-vivo/1088351565?i=1088352490&uo=4",
+        "deezer": "https://www.deezer.com/track/119976314"
+      }
+    },
+    "lyricPath": "/lyrics/98739.txt"
+  }
+]

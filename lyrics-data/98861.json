@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98861,
+    "metadata": {
+      "title": "Pelos Olhos Dela",
+      "artists": [
+        "Sidoka, The Boy"
+      ],
+      "album": "Merci £",
+      "releaseDate": "2020-02-18",
+      "durationMs": 264000,
+      "genres": [],
+      "isrc": "QZFZ42063729",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/befa4056b17bfa6192bc237e33ad9747/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/178fbd50-744b-4e50-942b-1dc7b41b192c",
+        "deezer": "https://www.deezer.com/track/1843448007"
+      }
+    },
+    "lyricPath": "/lyrics/98861.txt"
+  }
+]

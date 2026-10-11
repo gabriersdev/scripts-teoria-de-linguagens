@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99048,
+    "metadata": {
+      "title": "Questão de Tempo",
+      "artists": [
+        "Kweller, Thiago Sub, NAVII"
+      ],
+      "album": "Tom Bloch",
+      "releaseDate": "2002",
+      "durationMs": 221773,
+      "genres": [],
+      "isrc": "BK8V92600005",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3f8b19bae6bdf9b71895b5af607bef8d/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e56468fd-79fe-4ea9-8bfa-726aa92339df",
+        "deezer": "https://www.deezer.com/track/3911731931"
+      }
+    },
+    "lyricPath": "/lyrics/99048.txt"
+  }
+]

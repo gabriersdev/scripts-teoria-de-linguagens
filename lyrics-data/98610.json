@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98610,
+    "metadata": {
+      "title": "Tem Volta",
+      "artists": [
+        "Ícaro e Gilmar"
+      ],
+      "album": "Check-In",
+      "releaseDate": "2026-09-03T12:00:00Z",
+      "durationMs": 142755,
+      "genres": [
+        "Country"
+      ],
+      "isrc": "BRRGE2400641",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/a2/81/84a2817f-e4d8-65d3-9857-852ba534efdd/885288393125.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/35ac5a27-db94-4f85-95fa-6039af2cab4e",
+        "itunes": "https://music.apple.com/us/album/tem-volta/6805625903?i=6805626366&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98610.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99101,
+    "metadata": {
+      "title": "PINHEIRO",
+      "artists": [
+        "RIEY"
+      ],
+      "album": "Tem Que Vir Sentando",
+      "releaseDate": "2026-03-18",
+      "durationMs": 203000,
+      "genres": [],
+      "isrc": "GBMJG2607590",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/2f6bc9e47198e15d3b341a0af0c71f31/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4285089522"
+      }
+    },
+    "lyricPath": "/lyrics/99101.txt"
+  }
+]

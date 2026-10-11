@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98111,
+    "metadata": {
+      "title": "Chatão",
+      "artists": [
+        "Mc Lele JP, DJ Oreia, Mc DR, Gubeatz, Mc Negão Original, MC Ryan SP"
+      ],
+      "album": "Back To Basics",
+      "releaseDate": "2019",
+      "durationMs": 44000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599"
+      }
+    },
+    "lyricPath": "/lyrics/98111.txt"
+  }
+]

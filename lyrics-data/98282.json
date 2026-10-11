@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98282,
+    "metadata": {
+      "title": "TÁ TARDE",
+      "artists": [
+        "Vulgo FK, BK, Murillo e LT no Beat, Fepache"
+      ],
+      "album": "F*CK SONGS",
+      "releaseDate": "2024-10-24",
+      "durationMs": 140000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/ac/68/1dac68f4-a8b0-220d-f63a-c6a6406bbb34/5026854256771.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d4220f32-2016-4dd3-89fd-a955051c45b7",
+        "itunes": "https://music.apple.com/us/album/baila-linda-feat-fepache/1854266112?i=1854266362&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98282.txt"
+  }
+]

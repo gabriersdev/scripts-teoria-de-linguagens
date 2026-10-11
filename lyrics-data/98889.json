@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98889,
+    "metadata": {
+      "title": "Espanha",
+      "artists": [
+        "Sidoka"
+      ],
+      "album": "Doka Language",
+      "releaseDate": "2019-07-07",
+      "durationMs": 168000,
+      "genres": [],
+      "isrc": "QZFZ31924490",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6638635fb2b11e898f797b935b9fa447/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7a4e23ba-e5e5-4643-bdc1-0b00a791bd29",
+        "deezer": "https://www.deezer.com/track/1844112947"
+      }
+    },
+    "lyricPath": "/lyrics/98889.txt"
+  }
+]
