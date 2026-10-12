@@ -156,9 +156,9 @@
       },
       {
         "id": 98025,
-        "name": "MONTAGEM PUMBA LA PUMBA - VERSÃO LIGHT",
-        "artists": "Mc Magrinho, AXLON, Dj Miltinho, Mc Jacaré",
-        "complete": 1
+        "name": "Redbull",
+        "artists": "MC Pikachu",
+        "complete": true
       },
       {
         "id": 98026,
@@ -326,7 +326,7 @@
         "id": 98053,
         "name": "PEGA A MALDADE DA BANDIDA",
         "artists": "Dj Luan Gomes, Mc Ws da leste, Delleon, Tropa da W&S",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98054,
@@ -698,7 +698,7 @@
         "id": 98115,
         "name": "Passa Devagar",
         "artists": "MC Hariel",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98116,
@@ -710,7 +710,7 @@
         "id": 98117,
         "name": "Ninguém Me Segura",
         "artists": "MC Hariel",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98118,
