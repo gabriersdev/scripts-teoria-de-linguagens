@@ -19,6 +19,8 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 - Documentos de planejamento `docs/planning/LYRICS-SANITY.md` e `docs/planning/METADATA-SANITY.md`.
 
 ### Modificado
+- `request-genius.js`:
+  - Carregamento de variáveis de ambiente via `dotenv/config` para obtenção de `GENIUS_ACCESS_TOKEN` e validação de token ausente.
 - `scripts/track-metadata-service.ts`:
   - Documentação detalhada em cabeçalho contínuo explicando o fluxo de enriquecimento e cascata.
   - Consultas estruturadas com sintaxe Lucene no MusicBrainz (`recording:... AND artist:...`) com `limit=5`.
@@ -26,6 +28,8 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
   - Filtragem de candidatos evitando a aceitação cega do primeiro resultado retornado (`Index 0`).
   - Salvaguarda no `mergeMetadata` impedindo a fusão de faixas quando há discrepância de duração superior a 15 segundos.
 - `scripts/lyrics-service.ts`:
+  - Correção na raspagem HTML de páginas do Genius: substituição de regex gulosa simples por parser com profundidade balanceada de tags `<div>`, prevenindo corte prematuro causado por cabeçalhos internos de colaboradores (`Contributors`) e garantindo a extração integral de intros e primeiras estrofes.
+  - Decodificação de entidades HTML (`&#x27;`, `&quot;`, etc.) e remoção de metadados visuais do Genius no início da letra.
   - Envio obrigatório de artista primário e faixa no LRCLIB, Genius e lyrics.ovh.
   - Validação de correspondência de artista (N-para-1) e tolerância de duração cruzada.
   - Rejeição automática de letras em idiomas estrangeiros ou de músicas homônimas, promovendo fallback limpo na cascata.

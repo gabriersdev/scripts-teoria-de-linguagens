@@ -236,31 +236,79 @@ export class LyricsService {
       if (!response.ok) return null;
       
       const html = await response.text();
-      
-      const matches = [
-        ...html.matchAll(
-          /<div[^>]*data-lyrics-container="true"[^>]*>([\s\S]*?)<\/div>/gi,
-        ),
-      ];
-      
-      if (!matches.length) return null;
-      
-      const lyrics = matches
-        .map((match) => {
-          return match[1]
-            .replace(/<br\s*\/?>/gi, "\n")
-            .replace(/<[^>]+>/g, "")
+      const marker = 'data-lyrics-container="true"';
+      const containers: string[] = [];
+      let searchPos = 0;
+
+      while (true) {
+        const markerIdx = html.indexOf(marker, searchPos);
+        if (markerIdx === -1) break;
+
+        const openTagStart = html.lastIndexOf('<div', markerIdx);
+        if (openTagStart === -1) break;
+
+        const openTagEnd = html.indexOf('>', markerIdx);
+        if (openTagEnd === -1) break;
+
+        let depth = 1;
+        let currentPos = openTagEnd + 1;
+        let containerEnd = -1;
+
+        while (currentPos < html.length && depth > 0) {
+          const nextOpen = html.indexOf('<div', currentPos);
+          const nextClose = html.indexOf('</div>', currentPos);
+
+          if (nextClose === -1) break;
+
+          if (nextOpen !== -1 && nextOpen < nextClose) {
+            depth++;
+            currentPos = nextOpen + 4;
+          } else {
+            depth--;
+            if (depth === 0) {
+              containerEnd = nextClose;
+              break;
+            }
+            currentPos = nextClose + 6;
+          }
+        }
+
+        if (containerEnd !== -1) {
+          containers.push(html.slice(openTagEnd + 1, containerEnd));
+          searchPos = containerEnd + 6;
+        } else {
+          searchPos = openTagEnd + 1;
+        }
+      }
+
+      if (containers.length === 0) return null;
+
+      const cleanedContainers = containers
+        .map((containerHtml) => {
+          let cleaned = containerHtml.replace(/<br\s*\/?>/gi, "\n");
+          cleaned = cleaned.replace(/<[^>]+>/g, "");
+
+          cleaned = cleaned
             .replace(/&amp;/g, "&")
             .replace(/&lt;/g, "<")
             .replace(/&gt;/g, ">")
             .replace(/&quot;/g, '"')
             .replace(/&#39;/g, "'")
-            .trim();
+            .replace(/&#x27;/g, "'")
+            .replace(/&#x2F;/g, "/")
+            .replace(/&nbsp;/g, " ")
+            .replace(/&#(\d+);/g, (_, dec) => String.fromCharCode(Number(dec)))
+            .replace(/&#x([0-9a-fA-F]+);/g, (_, hex) => String.fromCharCode(parseInt(hex, 16)));
+
+          return cleaned.trim();
         })
-        .filter(Boolean)
-        .join("\n\n");
-      
-      return lyrics || null;
+        .filter(Boolean);
+
+      let finalLyrics = cleanedContainers.join("\n\n").trim();
+      finalLyrics = finalLyrics.replace(/^[\s\S]*?\bLyrics\s*(\[Letra|\n|\[Intro|\[Verso|\[Refrão|\[Ponte)/i, "$1");
+      finalLyrics = finalLyrics.replace(/^\d+\s+Contributors\s*/i, "");
+
+      return finalLyrics.trim() || null;
     } catch {
       return null;
     }
