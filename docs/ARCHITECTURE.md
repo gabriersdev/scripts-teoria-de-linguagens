@@ -11,8 +11,10 @@
 
 ## Scripts (`/scripts`)
 
-- **`lyrics-service.ts`**: Extrai letras musicais de fontes externas.
-- **`track-metadata-service.ts`**: Motor de metadados. Consome MusicBrainz, iTunes e Deezer para extrair ISRC, duração, lançamento e gênero. Faz merge inteligente para não perder dados ausentes em uma plataforma.
+- **`text-sanitizer.ts`**: Utilitário de sanitização textual. Trata separação de múltiplos colaboradores com token masking para exceções com vírgula própria (ex.: "Ryu, the Runner"), remove ruídos em títulos (ex.: "Ao Vivo", "Remaster"), calcula similaridade de títulos/artistas e valida idioma da letra por densidade de stopwords em português.
+- **`lyrics-service.ts`**: Extrai letras musicais em cascata (LRCLIB, lyrics.ovh, Genius) com validação rígida de idioma, artista e tolerância de duração.
+- **`track-metadata-service.ts`**: Motor de metadados. Consome MusicBrainz (Lucene), iTunes e Deezer para extrair ISRC, duração, lançamento e gênero, com validação de candidatos e merge seguro contra inconsistências.
+- **`pipeline-extractor.ts`**: Orquestrador mestre de extração contínua. Percorre os arquivos em `/lyrics-list`, processa faixas pendentes e gera arquivos de metadados (`/lyrics-data/{id}.json`) e letras (`/lyrics-data/lyrics/{id}.txt`).
 - **`populate-artists.ts`**: Lê JSONs em `/lyrics-list`, extrai links de álbuns/playlists do atributo `source`, conecta ao Spotify e cruza dados para preencher nomes de artistas ausentes (`"artists": ""`).
 - **`manual-artist-fill.ts`**: Assistente de terminal interativo. Encontra músicas pendentes, busca sugestões no iTunes em tempo real, capta a escolha do usuário e salva no JSON imediatamente, prevenindo perda de progresso.
 - **`spotify-album-service.ts` / `spotify-playlist-service.ts`**: Consulta e testa faixas de um álbum ou playlist a partir da URL.

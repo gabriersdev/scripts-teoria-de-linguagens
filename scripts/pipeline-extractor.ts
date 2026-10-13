@@ -93,12 +93,14 @@ export class PipelineExtractor {
           
           let metadataSuccess = false;
           let lyricsSuccess = false;
+          let knownDurationMs: number | null = null;
           
           if (!isPartial) {
             const metadata = await this.metadataService.fetchMetadata(lyric.name, lyric.artists);
             
             if (metadata.isrc || metadata.durationMs) {
               metadataSuccess = true;
+              knownDurationMs = metadata.durationMs;
               console.info(`Metadados encontrados.`);
               
               const trackId = lyric.id.toString();
@@ -111,28 +113,33 @@ export class PipelineExtractor {
               ];
               
               await fs.writeFile(path.join(dataDir, `${trackId}.json`), JSON.stringify(jsonOutput, null, 2), 'utf-8');
+            } else {
+              console.warn(`Metadados insuficientes.`);
             }
-            
-            //
-            else console.warn(`Metadados insuficientes.`);
-            
-            //
           } else {
             metadataSuccess = true;
             console.info(`Metadados ja existentes (Pulado).`);
+            try {
+              const existingRaw = await fs.readFile(path.join(dataDir, `${lyric.id}.json`), 'utf-8');
+              const parsed = JSON.parse(existingRaw);
+              if (Array.isArray(parsed) && parsed[0]?.metadata?.durationMs) {
+                knownDurationMs = parsed[0].metadata.durationMs;
+              }
+            } catch {
+              // Silencioso se arquivo de metadados previo nao puder ser lido
+            }
           }
           
-          const lyricsResult = await this.lyricsService.getLyrics(lyric.name, lyric.artists || "");
+          const lyricsResult = await this.lyricsService.getLyrics(lyric.name, lyric.artists || "", knownDurationMs);
           
           if (lyricsResult && lyricsResult.lyrics) {
             lyricsSuccess = true;
             console.info(`Letra encontrada (${lyricsResult.source}).`);
             const trackId = lyric.id.toString();
             await fs.writeFile(path.join(lyricsDataDir, `${trackId}.txt`), lyricsResult.lyrics, 'utf-8');
+          } else {
+            console.warn(`Letra nao encontrada.`);
           }
-          
-          //
-          else console.warn(`Letra nao encontrada.`);
           
           if (metadataSuccess && lyricsSuccess) lyric.complete = true;
           else if (metadataSuccess && !lyricsSuccess) lyric.complete = 1;

@@ -28,3 +28,17 @@ O consumo de APIs gratuitas (XWolf, iTunes, MusicBrainz) exige pausas (Delay). E
 
 ## 6. Salvamento Imediato (Hot Reload)
 Em scripts de terminal interativos (`manual-artist-fill.ts`), o salvamento do arquivo JSON (I/O) ocorre de forma atômica a cada confirmação (Enter) do usuário. Não adie salvamentos para o final do lote (batch save).
+
+## 7. Token Masking e Parsing de Artistas
+A quebra de colaboradores pelo separador vírgula (`","`) deve proteger nomes próprios com vírgula intrínseca (`"Ryu, the Runner"`, `"Tyler, the Creator"`, etc.) por meio de mascaramento temporário de token, isolando o artista primário para consultas e preservando a integridade dos nomes.
+
+## 8. Validação N-para-1 e Tolerância Temporal
+Ao validar retornos de provedores externos (MusicBrainz, iTunes, Deezer, LRCLIB):
+- O resultado é aceito se o artista da API corresponder a qualquer um dos colaboradores cadastrados na faixa (relação N-para-1).
+- Caso haja duração prévia conhecida, divergências superiores a 15 segundos desqualificam o candidato, evitando fusões espúrias entre faixas homônimas ou regravações.
+
+## 9. Sanidade Textual e Idioma das Letras
+Para integrar o corpus de pesquisa em língua portuguesa:
+- Textos com predomínio de vocabulário ou stopwords em idioma estrangeiro (inglês/espanhol) devem ser rejeitados e submetidos ao próximo provedor da cascata.
+- Avisos de placeholder ("instrumental", "letra não disponível") desclassificam o resultado.
+
