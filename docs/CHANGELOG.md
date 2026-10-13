@@ -13,6 +13,8 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
   - `isPortugueseLyrics`: validador de sanidade de letras baseado na densidade de stopwords em português vs. idiomas estrangeiros e descarte de placeholders.
 - Suporte a execução CLI direta em `scripts/lyrics-service.ts` (`npx tsx scripts/lyrics-service.ts "<Musica>" "<Artistas>"`).
 - Suporte a execução CLI direta em `scripts/track-metadata-service.ts` (`npx tsx scripts/track-metadata-service.ts "<Musica>" "<Artistas>"`).
+- Documento `docs/DATA-SCHEMA.md` com os contratos completos de atributos de `/lyrics-list`, faixas e metadados (`/lyrics-data`).
+- Guia passo a passo de instalação do Node.js (Windows) e execução com `npx tsx` no `README.md`.
 - Regras de negócio 7, 8 e 9 em `docs/BUSINESS-RULES.md`.
 - Documentos de planejamento `docs/planning/LYRICS-SANITY.md` e `docs/planning/METADATA-SANITY.md`.
 

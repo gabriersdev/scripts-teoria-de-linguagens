@@ -2,10 +2,11 @@
 
 ## Estrutura de Diretórios
 
-- **`/docs`**: Documentação oficial (guias de código, regras de negócio, changelogs e arquitetura). Atualize a cada mudança estrutural.
+- **`/docs`**: Documentação oficial (guias de código, contratos de dados em `DATA-SCHEMA.md`, regras de negócio, changelogs e arquitetura). Atualize a cada mudança estrutural.
 - **`/lib`**: Bibliotecas e clientes base reutilizados pelo sistema.
   - `spotify-api-client.ts`: Motor orientado a objetos para lidar com requisições HTTP à API do Spotify (via endpoint xwolf).
-- **`/lyrics-list`**: Listas JSON estáticas (separadas por gênero, como `funk-list.json`). Guardam faixas, IDs, artistas e URLs de origem.
+- **`/lyrics-list`**: Listas JSON estáticas (separadas por gênero, como `funk-list.json`). Guardam faixas, IDs, artistas e URLs de origem (detalhadas em `docs/DATA-SCHEMA.md`).
+- **`/lyrics-data`**: Dados minerados e estruturados (`{id}.json`) com metadados técnicos consolidados e pasta `/lyrics` contendo as letras (`{id}.txt`).
 - **`/scripts`**: Serviços e assistentes de CLI para extração e mineração de dados.
 - **`/util`**: Scripts utilitários de manutenção executados fora do fluxo principal.
 
