@@ -1083,7 +1083,7 @@
         "id": 99128,
         "name": "I Just Wanna Lo-Fi",
         "artists": "jonaveliz",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 99129,
