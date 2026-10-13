@@ -12,11 +12,13 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
   - `isTitleSimilar`: comparação tolerante de títulos baseada em tokens.
   - `isPortugueseLyrics`: validador de sanidade de letras baseado na densidade de stopwords em português vs. idiomas estrangeiros e descarte de placeholders.
 - Suporte a execução CLI direta em `scripts/lyrics-service.ts` (`npx tsx scripts/lyrics-service.ts "<Musica>" "<Artistas>"`).
+- Suporte a execução CLI direta em `scripts/track-metadata-service.ts` (`npx tsx scripts/track-metadata-service.ts "<Musica>" "<Artistas>"`).
 - Regras de negócio 7, 8 e 9 em `docs/BUSINESS-RULES.md`.
 - Documentos de planejamento `docs/planning/LYRICS-SANITY.md` e `docs/planning/METADATA-SANITY.md`.
 
 ### Modificado
 - `scripts/track-metadata-service.ts`:
+  - Documentação detalhada em cabeçalho contínuo explicando o fluxo de enriquecimento e cascata.
   - Consultas estruturadas com sintaxe Lucene no MusicBrainz (`recording:... AND artist:...`) com `limit=5`.
   - Consultas com parâmetros específicos e `limit=5` no iTunes e Deezer.
   - Filtragem de candidatos evitando a aceitação cega do primeiro resultado retornado (`Index 0`).

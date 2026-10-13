@@ -1,3 +1,22 @@
+/**
+ * O LyricsService é responsável pela busca, extração e validação de letras musicais
+ * direcionadas ao corpus de análise textual em língua portuguesa. O serviço opera por meio
+ * de uma arquitetura de fallback em cascata cooperativa com três provedores externos: LRCLIB (provedor prioritário
+ * com suporte a letras sincronizadas e puras), lyrics.ovh (segunda camada de consulta direta e sugestão)
+ * e Genius API com raspagem HTML semântica (camada de contingência final).
+ *
+ * Para contornar desvios decorrentes de faixas homônimas ou cadastros divergentes nas plataformas,
+ * as buscas são higienizadas previamente pelo text-sanitizer. O serviço efetua correspondência N-para-1 entre o autor
+ * retornado pelo provedor e qualquer um dos colaboradores da música, respeitando exceções de grafia
+ * artística e conferindo tolerâncias de tempo de reprodução caso a duração já tenha sido identificada nos metadados.
+ *
+ * Como critério de qualidade e integridade do corpus de pesquisa, todas as letras retornadas
+ * são submetidas a uma validação estatística de vocabulário, descartando automaticamente textos
+ * predominantemente redigidos em outros idiomas, respostas vazias ou marcadores de faixa instrumental.
+ * Se um provedor fornecer um conteúdo inválido, a requisição é reprovada silenciosamente e o fluxo
+ * transita para o próximo elo da cascata até encontrar uma correspondência autêntica ou esgotar as fontes.
+ */
+
 // @ts-ignore
 import 'dotenv/config';
 import {fileURLToPath} from 'url';

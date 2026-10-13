@@ -1,3 +1,25 @@
+/**
+ * O TrackMetadataService atua como motor central de enriquecimento de metadados musicais
+ * para o catálogo de faixas do projeto. Seu propósito primário reside em extrair dados técnicos
+ * e de identificação essenciais — tais como código ISRC, ano de lançamento, duração em milissegundos,
+ * nome do álbum, tags de gênero e imagem de capa em alta resolução.
+ *
+ * O fluxo de resolução opera sob um modelo em cascata cooperativo que consulta três provedores
+ * distintos em ordem técnica decrescente: MusicBrainz (focado em catalogação discográfica e ISRC),
+ * iTunes Search API (referência em capas em alta definição e lançamentos comerciais) e Deezer API
+ * (responsável por durações precisas e consolidação de identificadores). Antes de submeter qualquer
+ * consulta às APIs, os parâmetros de entrada passam por higienização através do text-sanitizer,
+ * removendo sufixos redundantes de títulos (como "Ao Vivo" ou menções de feat) e isolando o artista
+ * primário enquanto preserva a integridade de nomes artísticos complexos.
+ *
+ * Para prevenir inconsistências e falsos positivos de gravações homônimas, o serviço inspeciona
+ * conjuntos de candidatos retornados por cada provedor, aceitando apenas registros cujo título
+ * e autores sejam compatíveis com os colaboradores cadastrados. Adicionalmente, a etapa de fusão
+ * de dados conta com salvaguardas temporais, descartando respostas conflitantes caso haja discrepância
+ * excessiva entre durações de fontes concorrentes.
+ */
+
+import {fileURLToPath} from 'url';
 import {
   parseArtists,
   sanitizeTitle,
@@ -237,4 +259,22 @@ export class TrackMetadataService {
       return null;
     }
   }
+}
+
+const isCLI = typeof process !== 'undefined' && process.argv && process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1];
+
+if (isCLI) {
+  const songArg = process.argv[2];
+  const artistArg = process.argv[3];
+
+  if (!songArg) {
+    console.log("Uso: npx tsx scripts/track-metadata-service.ts \"<Nome da Musica>\" \"<Artista(s)>\"");
+    process.exit(1);
+  }
+
+  const service = new TrackMetadataService();
+  service.fetchMetadata(songArg, artistArg).then((meta) => {
+    console.log("\nMetadados extraidos com sucesso:\n");
+    console.log(JSON.stringify(meta, null, 2));
+  }).catch(console.error);
 }
