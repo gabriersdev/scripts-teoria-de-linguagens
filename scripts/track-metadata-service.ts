@@ -1,3 +1,6 @@
+// TODO: comentar aqui no inicio detalhamente sobre como é o funcionamento deste script. evitar comentários como 1. XXX faz YYYY, 2. XXXX faz YYYY
+// TODO: implementar melhorias
+
 export interface TrackMetadata {
   title: string;
   artists: string[];

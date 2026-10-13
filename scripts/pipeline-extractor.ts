@@ -1,3 +1,5 @@
+// TODO: comentar aqui no inicio detalhamente sobre como é o funcionamento deste script. evitar comentários como 1. XXX faz YYYY, 2. XXXX faz YYYY
+
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import {fileURLToPath} from 'url';

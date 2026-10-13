@@ -1,3 +1,5 @@
+// TODO: comentar aqui no inicio detalhamente sobre como é o funcionamento deste script E implementar a chamada dele no terminal passando dois parametros: o nome da musica e os nomes dos artistas, como valores passados separadamente por favor
+
 // @ts-ignore
 import 'dotenv/config';
 
