@@ -78,18 +78,14 @@ export class SampleLyricsVerifier {
     }
 
     if (allTracks.length === 0) {
-      console.log("Nenhuma faixa disponivel para teste nas listas selecionadas.");
+      console.warn("Nenhuma faixa disponivel para teste nas listas selecionadas.");
       return;
     }
 
     const targetSize = Math.min(sampleSize, allTracks.length);
     const selectedTracks = this.shuffle(allTracks).slice(0, targetSize);
 
-    console.log(`\n========================================================`);
-    console.log(`INSPECAO POR AMOSTRAGEM: ${targetSize} FAIXAS SORTEADAS`);
-    console.log(`Universo de busca: ${allTracks.length} faixas disponiveis`);
-    if (genreFilter) console.log(`Filtro de genero: ${genreFilter}`);
-    console.log(`========================================================\n`);
+    console.info(`Inspecao por amostragem iniciada (${targetSize} faixas de ${allTracks.length} disponiveis${genreFilter ? `, genero: ${genreFilter}` : ''}).`);
 
     let successCount = 0;
     const providerStats: Record<string, number> = {
@@ -101,20 +97,17 @@ export class SampleLyricsVerifier {
     for (let i = 0; i < selectedTracks.length; i++) {
       const track = selectedTracks[i];
       const indexStr = `[${i + 1}/${targetSize}]`;
-      console.log(`${indexStr} Testando [${track.genre}]: "${track.name}" - ${track.artists || "Sem Artista"}`);
+      console.info();
+      console.info(`${indexStr} Teste (${track.genre}): ${track.name} - ${track.artists || "Sem Artista"}`);
 
       const result = await this.lyricsService.getLyrics(track.name, track.artists);
 
       if (result && result.lyrics) {
         successCount++;
         providerStats[result.source] = (providerStats[result.source] || 0) + 1;
-        console.log(`  -> SUCESSO via ${result.source}`);
-        
-        const lines = result.lyrics.split('\n').filter(l => l.trim().length > 0);
-        const preview = lines.slice(0, 3).map(l => `     | ${l}`).join('\n');
-        console.log(`  Preview:\n${preview}\n`);
+        console.info(`Letra encontrada (${result.source}).`);
       } else {
-        console.log(`  -> NAO ENCONTRADA (Reprovada em todos os provedores ou sem correspondencia)\n`);
+        console.warn(`Letra nao encontrada.`);
       }
 
       if (i < selectedTracks.length - 1) {
@@ -124,17 +117,9 @@ export class SampleLyricsVerifier {
 
     const successRate = ((successCount / targetSize) * 100).toFixed(1);
 
-    console.log(`========================================================`);
-    console.log(`RELATORIO DE AMOSTRAGEM CONCLUIDO`);
-    console.log(`========================================================`);
-    console.log(`Total testado: ${targetSize}`);
-    console.log(`Sucesso:       ${successCount} (${successRate}%)`);
-    console.log(`Falhas:        ${targetSize - successCount}`);
-    console.log(`Distribuicao por provedor:`);
-    console.log(`  - LRCLIB:     ${providerStats.lrclib}`);
-    console.log(`  - Genius:     ${providerStats.genius}`);
-    console.log(`  - lyrics.ovh: ${providerStats["lyrics.ovh"]}`);
-    console.log(`========================================================\n`);
+    console.info();
+    console.info(`Amostragem finalizada. Sucesso: ${successCount}/${targetSize} (${successRate}%).`);
+    console.info(`Provedores: LRCLIB (${providerStats.lrclib}), Genius (${providerStats.genius}), lyrics.ovh (${providerStats["lyrics.ovh"]}).`);
   }
 }
 

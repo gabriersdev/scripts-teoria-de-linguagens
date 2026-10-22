@@ -8,7 +8,7 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 - Assistente dedicado `scripts/sample-lyrics-verifier.ts`:
   - Sorteio aleatório de $N$ faixas de `/lyrics-list` (algoritmo Fisher-Yates) com suporte a filtro opcional por gênero (ex.: `trap`, `funk`, `rock`).
   - Execução sequencial com delay ético de 1.5s entre requisições para validação de integridade.
-  - Exibição de pré-visualização das estrofes extraídas e relatório estatístico com taxa percentual de sucesso e distribuição por provedor (`LRCLIB`, `Genius`, `lyrics.ovh`).
+  - Saídas limpas e padronizadas no terminal via `console.info`, `console.warn` e `console.error` (sem poluição gráfica), com sumário estatístico final de assertividade e distribuição por provedor.
 
 ### Modificado
 - `scripts/lyrics-service.ts`:
