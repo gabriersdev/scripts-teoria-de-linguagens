@@ -109,7 +109,7 @@ export class LyricsService {
       fallbackUrl.searchParams.set("q", `${primaryArtist} ${cleanTitle}`.trim());
       results = await this.#fetchJson<LrclibResult[]>(fallbackUrl.toString());
     }
-
+    
     if (!results?.length) return null;
     
     const candidate = results.find((item) => {
@@ -120,20 +120,20 @@ export class LyricsService {
       
       const artistMatched = allArtists.length === 0 || matchArtist(item.artistName, allArtists);
       if (!artistMatched) return false;
-
+      
       const titleMatched = isTitleSimilar(cleanTitle, item.trackName);
       if (!titleMatched) return false;
-
+      
       if (expectedDurationMs && item.duration) {
         const diffMs = Math.abs(item.duration * 1000 - expectedDurationMs);
         if (diffMs > 15000) return false;
       }
-
+      
       const lyricsCandidate = item.plainLyrics ?? item.syncedLyrics;
       if (!lyricsCandidate || !isPortugueseLyrics(lyricsCandidate)) {
         return false;
       }
-
+      
       return true;
     });
     
@@ -143,49 +143,6 @@ export class LyricsService {
       lyrics: candidate.plainLyrics ?? candidate.syncedLyrics!,
       syncedLyrics: candidate.syncedLyrics,
       source: "lrclib",
-    };
-  }
-  
-  async #getFromLyricsOvh(
-    cleanTitle: string,
-    primaryArtist: string,
-    allArtists: string[]
-  ): Promise<LyricsResult | null> {
-    if (primaryArtist) {
-      const directUrl = `https://api.lyrics.ovh/v1/${encodeURIComponent(primaryArtist)}/${encodeURIComponent(cleanTitle)}`;
-      const directResult = await this.#fetchJson<{ lyrics: string }>(directUrl);
-      if (directResult?.lyrics?.trim() && isPortugueseLyrics(directResult.lyrics.trim())) {
-        return {
-          lyrics: directResult.lyrics.trim(),
-          source: "lyrics.ovh",
-        };
-      }
-    }
-
-    const suggestUrl = `https://api.lyrics.ovh/suggest/${encodeURIComponent(`${primaryArtist} ${cleanTitle}`.trim())}`;
-    const suggestResult = await this.#fetchJson<{ data: Array<{ title: string, artist: { name: string } }> }>(suggestUrl);
-    if (!suggestResult?.data?.length) return null;
-    
-    const bestMatch = suggestResult.data.find(item => {
-      const artistMatched = allArtists.length === 0 || matchArtist(item.artist?.name, allArtists);
-      const titleMatched = isTitleSimilar(cleanTitle, item.title);
-      return artistMatched && titleMatched;
-    });
-
-    if (!bestMatch) return null;
-
-    const artist = bestMatch.artist.name;
-    const title = bestMatch.title;
-    
-    const apiUrl = `https://api.lyrics.ovh/v1/${encodeURIComponent(artist)}/${encodeURIComponent(title)}`;
-    const result = await this.#fetchJson<{ lyrics: string }>(apiUrl);
-    if (!result?.lyrics?.trim()) return null;
-    
-    if (!isPortugueseLyrics(result.lyrics.trim())) return null;
-
-    return {
-      lyrics: result.lyrics.trim(),
-      source: "lyrics.ovh",
     };
   }
   
@@ -212,7 +169,7 @@ export class LyricsService {
     );
     
     if (!result?.response?.hits) return null;
-
+    
     const hit = result.response.hits.find((item) => {
       if (item.type !== "song") return false;
       const artistMatched = allArtists.length === 0 || matchArtist(item.result.primary_artist?.name, allArtists);
@@ -239,27 +196,27 @@ export class LyricsService {
       const marker = 'data-lyrics-container="true"';
       const containers: string[] = [];
       let searchPos = 0;
-
+      
       while (true) {
         const markerIdx = html.indexOf(marker, searchPos);
         if (markerIdx === -1) break;
-
+        
         const openTagStart = html.lastIndexOf('<div', markerIdx);
         if (openTagStart === -1) break;
-
+        
         const openTagEnd = html.indexOf('>', markerIdx);
         if (openTagEnd === -1) break;
-
+        
         let depth = 1;
         let currentPos = openTagEnd + 1;
         let containerEnd = -1;
-
+        
         while (currentPos < html.length && depth > 0) {
           const nextOpen = html.indexOf('<div', currentPos);
           const nextClose = html.indexOf('</div>', currentPos);
-
+          
           if (nextClose === -1) break;
-
+          
           if (nextOpen !== -1 && nextOpen < nextClose) {
             depth++;
             currentPos = nextOpen + 4;
@@ -272,7 +229,7 @@ export class LyricsService {
             currentPos = nextClose + 6;
           }
         }
-
+        
         if (containerEnd !== -1) {
           containers.push(html.slice(openTagEnd + 1, containerEnd));
           searchPos = containerEnd + 6;
@@ -280,14 +237,14 @@ export class LyricsService {
           searchPos = openTagEnd + 1;
         }
       }
-
+      
       if (containers.length === 0) return null;
-
+      
       const cleanedContainers = containers
         .map((containerHtml) => {
           let cleaned = containerHtml.replace(/<br\s*\/?>/gi, "\n");
           cleaned = cleaned.replace(/<[^>]+>/g, "");
-
+          
           cleaned = cleaned
             .replace(/&amp;/g, "&")
             .replace(/&lt;/g, "<")
@@ -299,15 +256,15 @@ export class LyricsService {
             .replace(/&nbsp;/g, " ")
             .replace(/&#(\d+);/g, (_, dec) => String.fromCharCode(Number(dec)))
             .replace(/&#x([0-9a-fA-F]+);/g, (_, hex) => String.fromCharCode(parseInt(hex, 16)));
-
+          
           return cleaned.trim();
         })
         .filter(Boolean);
-
+      
       let finalLyrics = cleanedContainers.join("\n\n").trim();
       finalLyrics = finalLyrics.replace(/^[\s\S]*?\bLyrics\s*(\[Letra|\n|\[Intro|\[Verso|\[Refrão|\[Ponte)/i, "$1");
       finalLyrics = finalLyrics.replace(/^\d+\s+Contributors\s*/i, "");
-
+      
       return finalLyrics.trim() || null;
     } catch {
       return null;
@@ -331,22 +288,65 @@ export class LyricsService {
     };
   }
   
+  async #getFromLyricsOvh(
+    cleanTitle: string,
+    primaryArtist: string,
+    allArtists: string[]
+  ): Promise<LyricsResult | null> {
+    if (primaryArtist) {
+      const directUrl = `https://api.lyrics.ovh/v1/${encodeURIComponent(primaryArtist)}/${encodeURIComponent(cleanTitle)}`;
+      const directResult = await this.#fetchJson<{ lyrics: string }>(directUrl);
+      if (directResult?.lyrics?.trim() && isPortugueseLyrics(directResult.lyrics.trim())) {
+        return {
+          lyrics: directResult.lyrics.trim(),
+          source: "lyrics.ovh",
+        };
+      }
+    }
+    
+    const suggestUrl = `https://api.lyrics.ovh/suggest/${encodeURIComponent(`${primaryArtist} ${cleanTitle}`.trim())}`;
+    const suggestResult = await this.#fetchJson<{ data: Array<{ title: string, artist: { name: string } }> }>(suggestUrl);
+    if (!suggestResult?.data?.length) return null;
+    
+    const bestMatch = suggestResult.data.find(item => {
+      const artistMatched = allArtists.length === 0 || matchArtist(item.artist?.name, allArtists);
+      const titleMatched = isTitleSimilar(cleanTitle, item.title);
+      return artistMatched && titleMatched;
+    });
+    
+    if (!bestMatch) return null;
+    
+    const artist = bestMatch.artist.name;
+    const title = bestMatch.title;
+    
+    const apiUrl = `https://api.lyrics.ovh/v1/${encodeURIComponent(artist)}/${encodeURIComponent(title)}`;
+    const result = await this.#fetchJson<{ lyrics: string }>(apiUrl);
+    if (!result?.lyrics?.trim()) return null;
+    
+    if (!isPortugueseLyrics(result.lyrics.trim())) return null;
+    
+    return {
+      lyrics: result.lyrics.trim(),
+      source: "lyrics.ovh",
+    };
+  }
+  
   public async getLyrics(
     songName: string,
     artists?: string,
     expectedDurationMs?: number | null
   ): Promise<LyricsResult | null> {
-    const { primaryArtist, allArtists } = parseArtists(artists);
+    const {primaryArtist, allArtists} = parseArtists(artists);
     const cleanTitle = sanitizeTitle(songName);
-
+    
     const lrclib = await this.#getFromLrclib(cleanTitle, primaryArtist, allArtists, expectedDurationMs);
     if (lrclib) return lrclib;
     
-    const lyricsOvh = await this.#getFromLyricsOvh(cleanTitle, primaryArtist, allArtists);
-    if (lyricsOvh) return lyricsOvh;
-    
     const genius = await this.#getFromGenius(cleanTitle, primaryArtist, allArtists);
     if (genius) return genius;
+    
+    const lyricsOvh = await this.#getFromLyricsOvh(cleanTitle, primaryArtist, allArtists);
+    if (lyricsOvh) return lyricsOvh;
     
     return null;
   }
@@ -357,12 +357,12 @@ const isCLI = typeof process !== 'undefined' && process.argv && process.argv[1] 
 if (isCLI) {
   const songArg = process.argv[2];
   const artistArg = process.argv[3];
-
+  
   if (!songArg) {
     console.log("Uso: npx tsx scripts/lyrics-service.ts \"<Nome da Musica>\" \"<Artista(s)>\"");
     process.exit(1);
   }
-
+  
   const service = new LyricsService();
   service.getLyrics(songArg, artistArg).then((res) => {
     if (res) {
