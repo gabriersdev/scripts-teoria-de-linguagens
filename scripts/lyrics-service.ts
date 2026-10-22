@@ -74,6 +74,7 @@ export class LyricsService {
     try {
       const response = await fetch(url, {
         ...options,
+        signal: options?.signal ?? AbortSignal.timeout(8000),
         headers: {
           "User-Agent": this.userAgent,
           ...options?.headers,
@@ -93,8 +94,36 @@ export class LyricsService {
     allArtists: string[],
     expectedDurationMs?: number | null
   ): Promise<LyricsResult | null> {
+    const findCandidate = (results: LrclibResult[]): { candidate: LrclibResult; cleanLyrics: string } | null => {
+      for (const item of results) {
+        if (item.instrumental) continue;
+        
+        const hasLyrics = Boolean(item.syncedLyrics || item.plainLyrics);
+        if (!hasLyrics) continue;
+        
+        const artistMatched = allArtists.length === 0 || matchArtist(item.artistName, allArtists);
+        if (!artistMatched) continue;
+        
+        const titleMatched = isTitleSimilar(cleanTitle, item.trackName);
+        if (!titleMatched) continue;
+        
+        if (expectedDurationMs && item.duration) {
+          const diffMs = Math.abs(item.duration * 1000 - expectedDurationMs);
+          if (diffMs > 15000) continue;
+        }
+        
+        const rawText = item.plainLyrics ?? item.syncedLyrics!.replace(/^\[\d{2}:\d{2}(?:\.\d{2,3})?\]\s*/gm, "");
+        const cleanLyrics = rawText.trim();
+        if (!cleanLyrics || !isPortugueseLyrics(cleanLyrics)) {
+          continue;
+        }
+        
+        return { candidate: item, cleanLyrics };
+      }
+      return null;
+    };
+
     const url = new URL("https://lrclib.net/api/search");
-    
     if (primaryArtist) {
       url.searchParams.set("track_name", cleanTitle);
       url.searchParams.set("artist_name", primaryArtist);
@@ -103,45 +132,22 @@ export class LyricsService {
     }
     
     let results = await this.#fetchJson<LrclibResult[]>(url.toString());
+    let match = results?.length ? findCandidate(results) : null;
     
-    if ((!results || results.length === 0) && primaryArtist) {
+    if (!match && primaryArtist) {
       const fallbackUrl = new URL("https://lrclib.net/api/search");
       fallbackUrl.searchParams.set("q", `${primaryArtist} ${cleanTitle}`.trim());
-      results = await this.#fetchJson<LrclibResult[]>(fallbackUrl.toString());
+      const fallbackResults = await this.#fetchJson<LrclibResult[]>(fallbackUrl.toString());
+      if (fallbackResults?.length) {
+        match = findCandidate(fallbackResults);
+      }
     }
     
-    if (!results?.length) return null;
-    
-    const candidate = results.find((item) => {
-      if (item.instrumental) return false;
-      
-      const hasLyrics = Boolean(item.syncedLyrics || item.plainLyrics);
-      if (!hasLyrics) return false;
-      
-      const artistMatched = allArtists.length === 0 || matchArtist(item.artistName, allArtists);
-      if (!artistMatched) return false;
-      
-      const titleMatched = isTitleSimilar(cleanTitle, item.trackName);
-      if (!titleMatched) return false;
-      
-      if (expectedDurationMs && item.duration) {
-        const diffMs = Math.abs(item.duration * 1000 - expectedDurationMs);
-        if (diffMs > 15000) return false;
-      }
-      
-      const lyricsCandidate = item.plainLyrics ?? item.syncedLyrics;
-      if (!lyricsCandidate || !isPortugueseLyrics(lyricsCandidate)) {
-        return false;
-      }
-      
-      return true;
-    });
-    
-    if (!candidate) return null;
+    if (!match) return null;
     
     return {
-      lyrics: candidate.plainLyrics ?? candidate.syncedLyrics!,
-      syncedLyrics: candidate.syncedLyrics,
+      lyrics: match.cleanLyrics,
+      syncedLyrics: match.candidate.syncedLyrics,
       source: "lrclib",
     };
   }
@@ -155,6 +161,15 @@ export class LyricsService {
       return null;
     }
     
+    const findSongHit = (hits: Array<{ type: string; result: GeniusSearchResult }>) => {
+      return hits.find((item) => {
+        if (item.type !== "song") return false;
+        const artistMatched = allArtists.length === 0 || matchArtist(item.result.primary_artist?.name, allArtists);
+        const titleMatched = isTitleSimilar(cleanTitle, item.result.title);
+        return artistMatched && titleMatched;
+      })?.result ?? null;
+    };
+
     const searchTerm = `${primaryArtist} ${cleanTitle}`.trim();
     const url = new URL("https://api.genius.com/search");
     url.searchParams.set("q", searchTerm);
@@ -168,16 +183,25 @@ export class LyricsService {
       },
     );
     
-    if (!result?.response?.hits) return null;
+    let matchedSong = result?.response?.hits ? findSongHit(result.response.hits) : null;
     
-    const hit = result.response.hits.find((item) => {
-      if (item.type !== "song") return false;
-      const artistMatched = allArtists.length === 0 || matchArtist(item.result.primary_artist?.name, allArtists);
-      const titleMatched = isTitleSimilar(cleanTitle, item.result.title);
-      return artistMatched && titleMatched;
-    });
+    if (!matchedSong && primaryArtist) {
+      const fallbackUrl = new URL("https://api.genius.com/search");
+      fallbackUrl.searchParams.set("q", cleanTitle);
+      const fallbackResult = await this.#fetchJson<GeniusSearchResponse>(
+        fallbackUrl.toString(),
+        {
+          headers: {
+            Authorization: `Bearer ${this.geniusAccessToken}`,
+          },
+        },
+      );
+      if (fallbackResult?.response?.hits) {
+        matchedSong = findSongHit(fallbackResult.response.hits);
+      }
+    }
     
-    return hit?.result ?? null;
+    return matchedSong;
   }
   
   async #getLyricsFromGeniusPage(
@@ -185,6 +209,7 @@ export class LyricsService {
   ): Promise<string | null> {
     try {
       const response = await fetch(url, {
+        signal: AbortSignal.timeout(8000),
         headers: {
           "User-Agent": this.userAgent,
         },
@@ -264,6 +289,9 @@ export class LyricsService {
       let finalLyrics = cleanedContainers.join("\n\n").trim();
       finalLyrics = finalLyrics.replace(/^[\s\S]*?\bLyrics\s*(\[Letra|\n|\[Intro|\[Verso|\[Refrão|\[Ponte)/i, "$1");
       finalLyrics = finalLyrics.replace(/^\d+\s+Contributors\s*/i, "");
+      finalLyrics = finalLyrics
+        .replace(/[\u2000-\u200B\u202F\u205F\u00A0]/g, " ")
+        .replace(/\r\n/g, "\n");
       
       return finalLyrics.trim() || null;
     } catch {
@@ -355,16 +383,24 @@ export class LyricsService {
 const isCLI = typeof process !== 'undefined' && process.argv && process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1];
 
 if (isCLI) {
-  const songArg = process.argv[2];
-  const artistArg = process.argv[3];
+  const arg1 = process.argv[2];
+  const arg2 = process.argv[3];
   
-  if (!songArg) {
-    console.log("Uso: npx tsx scripts/lyrics-service.ts \"<Nome da Musica>\" \"<Artista(s)>\"");
+  if (arg1 === '--sample' || arg1 === '-s') {
+    console.log("Para inspecionar por amostragem aleatoria, utilize o script dedicado:");
+    console.log(`  npx tsx scripts/sample-lyrics-verifier.ts ${arg2 || "5"}`);
+    process.exit(0);
+  }
+  
+  if (!arg1) {
+    console.log("Uso:");
+    console.log("  Consulta individual:   npx tsx scripts/lyrics-service.ts \"<Nome da Musica>\" \"<Artista(s)>\"");
+    console.log("  Inspecao por amostra:  npx tsx scripts/sample-lyrics-verifier.ts [quantidade] [genero]");
     process.exit(1);
   }
   
   const service = new LyricsService();
-  service.getLyrics(songArg, artistArg).then((res) => {
+  service.getLyrics(arg1, arg2).then((res) => {
     if (res) {
       console.log(`\nLetra encontrada via ${res.source}:\n`);
       console.log(res.lyrics);
@@ -373,3 +409,4 @@ if (isCLI) {
     }
   }).catch(console.error);
 }
+

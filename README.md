@@ -81,8 +81,19 @@ Consulta LRCLIB, lyrics.ovh e Genius com filtros de idioma em português:
 npx tsx scripts/lyrics-service.ts "A Minha Menina" "Os Mutantes"
 ```
 
-#### 4. Assistente Interativo de Preenchimento Manual de Artistas
+#### 4. Inspecionar por Amostragem Aleatória de Letras
+Sorteia faixas das listas para testar a taxa de assertividade e os provedores:
+```bash
+# Sorteia 5 faixas de qualquer gênero
+npx tsx scripts/sample-lyrics-verifier.ts 5
+
+# Sorteia 10 faixas filtrando apenas listas de trap
+npx tsx scripts/sample-lyrics-verifier.ts 10 trap
+```
+
+#### 5. Assistente Interativo de Preenchimento Manual de Artistas
 Auxilia na curadoria humana com sugestões em tempo real do iTunes para artistas vazios:
 ```bash
 npx tsx scripts/manual-artist-fill.ts
 ```
+

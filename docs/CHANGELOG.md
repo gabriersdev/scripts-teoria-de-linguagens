@@ -2,6 +2,25 @@
 
 Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 
+## [1.2.0] - 2026-10-22
+
+### Adicionado
+- Assistente dedicado `scripts/sample-lyrics-verifier.ts`:
+  - Sorteio aleatório de $N$ faixas de `/lyrics-list` (algoritmo Fisher-Yates) com suporte a filtro opcional por gênero (ex.: `trap`, `funk`, `rock`).
+  - Execução sequencial com delay ético de 1.5s entre requisições para validação de integridade.
+  - Exibição de pré-visualização das estrofes extraídas e relatório estatístico com taxa percentual de sucesso e distribuição por provedor (`LRCLIB`, `Genius`, `lyrics.ovh`).
+
+### Modificado
+- `scripts/lyrics-service.ts`:
+  - Inclusão de `AbortSignal.timeout(8000)` nas requisições HTTP para evitar congelamento por conexões penduradas ou APIs lentas.
+  - Remoção automática de marcações de tempo (*timestamp stripping*) em `syncedLyrics` do LRCLIB quando `plainLyrics` não estiver disponível.
+  - Normalização de espaços exóticos do Unicode (`\u2005`, `\u200B`, etc.) e quebras de linha no extrator do Genius.
+  - Implementação de fallback duplo inteligente: busca alternativa no LRCLIB ativada sempre que a primeira consulta não produzir candidato válido, e fallback por título isolado no Genius com filtragem pós-busca por colaboradores cadastrados.
+- `scripts/text-sanitizer.ts`:
+  - Elevação do ratio mínimo de similaridade de títulos para `0.75`.
+  - Expansão do conjunto de pronomes da língua portuguesa e vocabulário internacional.
+  - Ajuste no limiar de descarte de termos estrangeiros para `foreignScore > 30`, protegendo faixas nacionais de rap/trap com anglicismos urbanos.
+
 ## [1.1.0] - 2026-10-13
 
 ### Adicionado
