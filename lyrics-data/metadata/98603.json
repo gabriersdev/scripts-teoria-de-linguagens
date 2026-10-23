@@ -8,15 +8,15 @@
       ],
       "album": "Ao vivo em Brasília",
       "releaseDate": "2014-09-15",
-      "durationMs": 200000,
+      "durationMs": 201893,
       "genres": [
-        "Sertanejo"
+        "Worldwide"
       ],
       "isrc": "BRWNV1400063",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/41/9c/b7419cae-9f05-be20-46f3-ac901e027c73/00602438992638_Cover.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/0b/9a/6d/0b9a6de9-7d5c-f7c9-b325-d2b1916247c8/760137846222.png/1000x1000bb.jpg",
       "sources": {
         "musicbrainz": "https://musicbrainz.org/recording/c33bc421-6725-49ef-8301-52a75d4191fd",
-        "itunes": "https://music.apple.com/us/album/cuida-bem-dela-ao-vivo/1882027469?i=1882027958&uo=4",
+        "itunes": "https://music.apple.com/us/album/cuida-bem-dela-live/1100704243?i=1100704326&uo=4",
         "deezer": "https://www.deezer.com/track/3878854351"
       }
     },

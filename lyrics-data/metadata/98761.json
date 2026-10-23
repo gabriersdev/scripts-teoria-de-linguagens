@@ -6,17 +6,16 @@
       "artists": [
         "Henrique & Juliano"
       ],
-      "album": "Quem Pegou, Pegou",
-      "releaseDate": "2018",
-      "durationMs": 184000,
+      "album": "Quem Pegou, Pegou (Ao Vivo) - Single",
+      "releaseDate": "2018-08-20T12:00:00Z",
+      "durationMs": 184326,
       "genres": [
         "Sertanejo"
       ],
       "isrc": "BRWNV1800243",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/82/8d/be828d78-406b-d911-62cb-3ef5e8e357cf/00602438625826_Cover.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/3d/70/b63d7032-954f-f7a6-c503-f093c7e56a1b/00602438631711_Cover.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/58892376-2c1d-471e-9a09-5743566740b8",
-        "itunes": "https://music.apple.com/us/album/quem-pegou-pegou-ao-vivo/1881794295?i=1881794316&uo=4",
+        "itunes": "https://music.apple.com/us/album/quem-pegou-pegou-ao-vivo/1882520136?i=1882520138&uo=4",
         "deezer": "https://www.deezer.com/track/3877702131"
       }
     },

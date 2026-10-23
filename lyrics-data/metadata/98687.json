@@ -6,17 +6,16 @@
       "artists": [
         "Seu Desejo"
       ],
-      "album": "Seu Desejo",
-      "releaseDate": "2023-11-22",
-      "durationMs": 234545,
+      "album": "Tanto - Single",
+      "releaseDate": "2024-08-24T12:00:00Z",
+      "durationMs": 204046,
       "genres": [
         "Forró"
       ],
       "isrc": "QZTPX2417413",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/58/6b/f9586b03-0620-004a-d983-835cb4b061f0/0.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/6d/01/f36d01b4-32f0-1304-d266-c8ddbe0b7003/0.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/3f4ac41a-049c-4e4b-9750-3fa84108d815",
-        "itunes": "https://music.apple.com/us/album/tanto-seu-desejo/6789929118?i=6789929119&uo=4",
+        "itunes": "https://music.apple.com/us/album/tanto/1764311009?i=1764311010&uo=4",
         "deezer": "https://www.deezer.com/track/2963090091"
       }
     },

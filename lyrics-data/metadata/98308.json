@@ -6,17 +6,14 @@
       "artists": [
         "Sabotage"
       ],
-      "album": "Putas y cocheros",
-      "releaseDate": "2009-04-24",
-      "durationMs": 313000,
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
+      "album": "Rap É Compromisso",
+      "releaseDate": "2001",
+      "durationMs": 296000,
+      "genres": [],
       "isrc": "US7VG1455258",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/ea/09/bbea09b3-1cae-5bd6-39c1-13046493ceca/702730616994_cover.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d9801848020a195308a0b2de9da074ff/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/e0a22403-32a4-4ae4-8cba-55a0a1a9a1e1",
-        "itunes": "https://music.apple.com/us/album/um-bom-lugar-feat-black-alien/1510761195?i=1510761201&uo=4",
+        "musicbrainz": "https://musicbrainz.org/recording/c676aca5-1fc2-4f82-8652-7a0de8072326",
         "deezer": "https://www.deezer.com/track/945986062"
       }
     },

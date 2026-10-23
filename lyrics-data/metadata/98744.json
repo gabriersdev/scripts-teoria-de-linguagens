@@ -6,17 +6,16 @@
       "artists": [
         "Jorge & Mateus"
       ],
-      "album": "VillaMix Hits",
-      "releaseDate": "2016",
-      "durationMs": 197400,
+      "album": "Sosseguei - Single",
+      "releaseDate": "2015-10-23T12:00:00Z",
+      "durationMs": 195370,
       "genres": [
         "Sertanejo"
       ],
       "isrc": "BRRGE1508687",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/08/e5/8008e50e-7c33-acc3-7f9b-f4b5b09ce43b/7891430408121.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7f/a2/45/7fa2450f-e931-8cad-38a5-e28d1bde5237/mzm.yoqhdzpi.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/adcd0c62-dc23-46b1-9721-7326a3737353",
-        "itunes": "https://music.apple.com/us/album/sosseguei-ao-vivo/1077863845?i=1077864158&uo=4",
+        "itunes": "https://music.apple.com/us/album/sosseguei/1051125561?i=1051125564&uo=4",
         "deezer": "https://www.deezer.com/track/118424910"
       }
     },

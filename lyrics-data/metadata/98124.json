@@ -6,17 +6,13 @@
       "artists": [
         "MC Hariel"
       ],
-      "album": "Coverin' Thoughts",
-      "releaseDate": "2016-12-19T12:00:00Z",
-      "durationMs": 176000,
-      "genres": [
-        "Brazilian"
-      ],
+      "album": "Sabote o Malote",
+      "releaseDate": "2016-12-19",
+      "durationMs": 167000,
+      "genres": [],
       "isrc": "QZ5AB1648037",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/06/d0/cd/06d0cda5-39f8-0412-499e-9d6e7421d0ad/00191773189181_Cover.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/f5b1c2d90c74103b41263cb7b6362f27/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/feb3d42f-9f9e-4213-b935-77b7388abae5",
-        "itunes": "https://music.apple.com/us/album/o-sabote/1577904353?i=1577904358&uo=4",
         "deezer": "https://www.deezer.com/track/927541622"
       }
     },

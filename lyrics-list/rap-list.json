@@ -29,7 +29,7 @@
         "id": 98203,
         "name": "O QUE SEPARA OS HOMENS DOS MENINOS 2",
         "artists": "Sant, Emicida, LP Beatzz",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98204,
@@ -923,7 +923,7 @@
         "id": 98352,
         "name": "Aquário",
         "artists": "Cacife Clandestino, WC no Beat, Felp 22, Medellin, Lolla Sales, Predella",
-        "complete": false
+        "complete": true
       },
       {
         "id": 98353,
@@ -1019,7 +1019,7 @@
         "id": 98368,
         "name": "Somos Nos (feat. Pedro Qualy)",
         "artists": "Primeira Classe, Pedro Qualy",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98369,
@@ -1085,7 +1085,7 @@
         "id": 98379,
         "name": "Dança Menina",
         "artists": "CP no Beat, Mun-Ra, SÓ AS BRABA",
-        "complete": false
+        "complete": true
       },
       {
         "id": 98380,

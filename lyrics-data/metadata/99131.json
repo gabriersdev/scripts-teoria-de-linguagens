@@ -4,16 +4,22 @@
     "metadata": {
       "title": "Loucura",
       "artists": [
-        "Borges, MC Cabelinho, Veigh, RUXN, Palma, Kizzy"
+        "Borges",
+        "MC Cabelinho",
+        "Veigh",
+        "RUXN",
+        "Palma",
+        "Kizzy"
       ],
-      "album": "Diferenciado",
-      "releaseDate": "2025-03-14",
-      "durationMs": 150928,
+      "album": "Amor e ódio",
+      "releaseDate": "2023-12-13",
+      "durationMs": 179000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BCM9A2300102",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8b26dc71e6d9091e2d98207601f8e8b8/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/1f162924-e7c5-44f7-8aee-4e8a39acb870"
+        "musicbrainz": "https://musicbrainz.org/recording/65b0796d-d8bf-455c-b855-358f1eee8d52",
+        "deezer": "https://www.deezer.com/track/2578003242"
       }
     },
     "lyricPath": "/lyrics/99131.txt"

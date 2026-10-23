@@ -6,17 +6,17 @@
       "artists": [
         "Caetano Veloso"
       ],
-      "album": "You don't know mix - Caetano Veloso Revisited",
-      "releaseDate": "2013-08-12",
-      "durationMs": 98000,
+      "album": "Global Roots Brazil",
+      "releaseDate": "2002",
+      "durationMs": 169000,
       "genres": [
-        "MPB"
+        "Brazilian"
       ],
       "isrc": "BRUM70601093",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ae/2f/0f/ae2f0fd0-6b64-7e2a-ca02-d876f3bb8c8d/00602537449491.rgb.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/d3/84/1ad38410-33e9-9f80-4496-f4df2b635e12/18UMGIM21743.rgb.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/9458e27b-a529-432a-bd12-ef4ff1b15278",
-        "itunes": "https://music.apple.com/us/album/alegria-alegria/1443216968?i=1443217552&uo=4",
+        "musicbrainz": "https://musicbrainz.org/recording/c9c86d28-d9b7-4663-9163-733521d6ee7a",
+        "itunes": "https://music.apple.com/us/album/alegria-alegria-feat-tom-veloso-ao-vivo/1384652143?i=1384652252&uo=4",
         "deezer": "https://www.deezer.com/track/883997"
       }
     },

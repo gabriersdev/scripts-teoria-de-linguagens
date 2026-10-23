@@ -4,16 +4,18 @@
     "metadata": {
       "title": "BRENDA",
       "artists": [
-        "Alee, Klisman, DougBeats"
+        "Alee",
+        "Klisman",
+        "DougBeats"
       ],
       "album": "SPAM",
       "releaseDate": "2026-01-14",
-      "durationMs": 179204,
+      "durationMs": 169924,
       "genres": [],
-      "isrc": "BKNDN2600007",
+      "isrc": "BKNDN2600005",
       "coverUrl": "https://cdn-images.dzcdn.net/images/cover/5fcaffba553a993607a17661481b5962/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/c7d65ecf-4f61-45d0-b43e-f0c89099ca5e",
+        "musicbrainz": "https://musicbrainz.org/recording/4ed26c05-2b0d-4bd4-ac56-cce163c186d5",
         "deezer": "https://www.deezer.com/track/3769204432"
       }
     },

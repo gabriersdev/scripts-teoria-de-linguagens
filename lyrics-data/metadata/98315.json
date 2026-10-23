@@ -4,19 +4,18 @@
     "metadata": {
       "title": "Miss",
       "artists": [
-        "Cacife Gold, Cacife Clandestino, Costa Gold, Pedro Lotto"
+        "Cacife Gold",
+        "Cacife Clandestino",
+        "Costa Gold",
+        "Pedro Lotto"
       ],
-      "album": ".155",
-      "releaseDate": "2015",
-      "durationMs": 251000,
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
+      "album": "Cacife Gold, Vol. 1",
+      "releaseDate": "2020-10-09",
+      "durationMs": 283000,
+      "genres": [],
       "isrc": "USLZJ2016163",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/76/7f/51767f7a-018f-670a-4ed1-c3c11e464e92/0.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9844ff05341401483504ee09081f42c1/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/54c001e9-81e1-42cb-91b3-1b7850dd0c80",
-        "itunes": "https://music.apple.com/us/album/o-corre-feat-cacife-clandestino/1399115217?i=1399115218&uo=4",
         "deezer": "https://www.deezer.com/track/1074577452"
       }
     },

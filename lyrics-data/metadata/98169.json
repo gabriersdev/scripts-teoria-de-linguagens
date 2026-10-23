@@ -9,14 +9,12 @@
       "album": "Água rosa",
       "releaseDate": "2019-05-29",
       "durationMs": 198504,
-      "genres": [
-        "Baile Funk"
-      ],
+      "genres": [],
       "isrc": "QZGLM1947534",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/13/8d/92138de2-fb4f-affa-582e-c19d16624cb9/1963624238787_cover.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/335ded109b4d3dc83fcc067d1317c955/1000x1000-000000-80-0-0.jpg",
       "sources": {
         "musicbrainz": "https://musicbrainz.org/recording/58f599bb-a37e-4a03-812c-cc98d1c6e769",
-        "itunes": "https://music.apple.com/us/album/%C3%A1gua-rosa-feat-mc-anjim/1872250850?i=1872250851&uo=4"
+        "deezer": "https://www.deezer.com/track/708150502"
       }
     },
     "lyricPath": "/lyrics/98169.txt"

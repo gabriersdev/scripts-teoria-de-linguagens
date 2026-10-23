@@ -6,17 +6,13 @@
       "artists": [
         "Yunk Vino"
       ],
-      "album": "Shwewsh",
-      "releaseDate": "2020-10-12",
-      "durationMs": 74632,
-      "genres": [
-        "Pop"
-      ],
+      "album": "MR.",
+      "releaseDate": "2026-03-26",
+      "durationMs": 146000,
+      "genres": [],
       "isrc": "BK89A2600005",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d5/da/08/d5da08ba-ccca-8794-edd7-b288dff3bcc0/886449707744.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/79e2622ecea8a45f55368f533950af42/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/3441fc98-2c94-4709-b804-56657b442da7",
-        "itunes": "https://music.apple.com/us/album/na-onda-do-gin-feat-kyan/1594278714?i=1594279098&uo=4",
         "deezer": "https://www.deezer.com/track/3909787181"
       }
     },

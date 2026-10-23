@@ -4,16 +4,23 @@
     "metadata": {
       "title": "Chatão",
       "artists": [
-        "Mc Lele JP, DJ Oreia, Mc DR, Gubeatz, Mc Negão Original, MC Ryan SP"
+        "Mc Lele JP",
+        "DJ Oreia",
+        "Mc DR",
+        "Gubeatz",
+        "Mc Negão Original",
+        "MC Ryan SP"
       ],
-      "album": "Back To Basics",
-      "releaseDate": "2019",
-      "durationMs": 44000,
-      "genres": [],
+      "album": "Chapa do Chatão (feat. MC LUUKY & MC Cebezinho) - Single",
+      "releaseDate": "2025-04-04T12:00:00Z",
+      "durationMs": 354000,
+      "genres": [
+        "Funk"
+      ],
       "isrc": null,
-      "coverUrl": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/ab/d3/f6abd32c-1352-f081-0450-cc8539859e72/0.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599"
+        "itunes": "https://music.apple.com/us/album/chapa-do-chat%C3%A3o-feat-mc-luuky-mc-cebezinho/1804970769?i=1804970770&uo=4"
       }
     },
     "lyricPath": "/lyrics/98111.txt"

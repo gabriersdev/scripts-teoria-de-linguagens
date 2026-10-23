@@ -4,16 +4,27 @@
     "metadata": {
       "title": "THE BOX MEDLEY 10",
       "artists": [
-        "THE BOX, Oruam, Borges, Meno Tody, NGC Daddy, Pedrin, Js da Torre, Neo Beats, Victor WAO, Joab Beats"
+        "THE BOX",
+        "Oruam",
+        "Borges",
+        "Meno Tody",
+        "NGC Daddy",
+        "Pedrin",
+        "Js da Torre",
+        "Neo Beats",
+        "Victor WAO",
+        "Joab Beats"
       ],
-      "album": "Volume 2",
-      "releaseDate": "2008-06-09",
-      "durationMs": 163000,
-      "genres": [],
+      "album": "THE BOX MEDLEY FUNK 2 - Single",
+      "releaseDate": "2024-04-18T12:00:00Z",
+      "durationMs": 266667,
+      "genres": [
+        "Rap"
+      ],
       "isrc": null,
-      "coverUrl": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/a5/a1/63a5a127-cb15-c2fd-f6fa-85e5013378a0/196872018301.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/2a50bd8a-f6dc-41b0-9f0f-1cc211a59e7f"
+        "itunes": "https://music.apple.com/us/album/the-box-medley-funk-2/1740221242?i=1740221258&uo=4"
       }
     },
     "lyricPath": "/lyrics/99002.txt"

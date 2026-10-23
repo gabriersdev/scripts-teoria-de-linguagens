@@ -4,16 +4,18 @@
     "metadata": {
       "title": "Promessas de Amor",
       "artists": [
-        "G.A, NandaTsunami, Supernova Ent"
+        "G.A",
+        "NandaTsunami",
+        "Supernova Ent"
       ],
-      "album": "Vaquejada & Forró",
-      "releaseDate": "2011",
-      "durationMs": 179266,
+      "album": "Promessas de Amor",
+      "releaseDate": "2026-04-24",
+      "durationMs": 174000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "FR59R2601359",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0349dd7d5382aa1eab0261f2db0b2be0/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/3f65363f-e63d-406b-924f-4e43ebf4743c"
+        "deezer": "https://www.deezer.com/track/3884303471"
       }
     },
     "lyricPath": "/lyrics/98954.txt"

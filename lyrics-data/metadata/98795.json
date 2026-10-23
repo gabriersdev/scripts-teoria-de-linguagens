@@ -6,17 +6,17 @@
       "artists": [
         "Marília Mendonça"
       ],
-      "album": "Perfil",
-      "releaseDate": "2018-02-23",
-      "durationMs": 150000,
+      "album": "Marília Mendonça - Perfil (Ao Vivo)",
+      "releaseDate": "2012-01-01T12:00:00Z",
+      "durationMs": 150349,
       "genres": [
         "Sertanejo"
       ],
       "isrc": "BRWNV1500064",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1e/68/40/1e684061-025d-60a4-28d6-16cb4e0b37b7/7891430399023.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/05/f0/a305f0e6-f376-0ec8-0311-02aa83eb97f4/7891430288877.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/ca0f5105-91c4-45f4-b586-c3599b873229",
-        "itunes": "https://music.apple.com/us/album/como-faz-com-ela-ao-vivo/1087546611?i=1087547335&uo=4"
+        "itunes": "https://music.apple.com/us/album/como-faz-com-ela-ao-vivo/1414493899?i=1414494830&uo=4",
+        "deezer": "https://www.deezer.com/track/119849602"
       }
     },
     "lyricPath": "/lyrics/98795.txt"

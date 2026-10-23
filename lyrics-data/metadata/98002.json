@@ -4,16 +4,21 @@
     "metadata": {
       "title": "GRWM",
       "artists": [
-        "Mc Iguinho Ct, Dj Aladin GDB, MC Willian, MC GP, MC LUUKY, DU'L"
+        "Mc Iguinho Ct",
+        "Dj Aladin GDB",
+        "MC Willian",
+        "MC GP",
+        "MC LUUKY",
+        "DU'L"
       ],
-      "album": "Back To Basics",
-      "releaseDate": "2019",
-      "durationMs": 44000,
+      "album": "É O Iguinho Da CT",
+      "releaseDate": "2026-08-14",
+      "durationMs": 434000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BRUM72601741",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/81cf25b652553771e16a415eb8450e84/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599"
+        "deezer": "https://www.deezer.com/track/4217623972"
       }
     },
     "lyricPath": "/lyrics/98002.txt"

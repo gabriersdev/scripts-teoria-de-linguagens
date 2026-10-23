@@ -6,17 +6,17 @@
       "artists": [
         "Henrique & Juliano"
       ],
-      "album": "Ao vivo no Ibirapuera",
-      "releaseDate": "2020-05-15",
+      "album": "Volta Por Baixo (Ao Vivo) - Single",
+      "releaseDate": "2020-01-10T12:00:00Z",
       "durationMs": 192632,
       "genres": [
         "Sertanejo"
       ],
       "isrc": "BRWNV1900344",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/62/51/106251c9-750d-3ed1-21d9-0cd24e080b3c/00602438598670_Cover.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/c3/9c/f1c39c43-65ff-c169-7025-48567b751234/00602438605828_Cover.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/bc425c5a-c36e-4e25-a141-155c7503bb1e",
-        "itunes": "https://music.apple.com/us/album/volta-por-baixo-ao-vivo/1882058820?i=1882058830&uo=4"
+        "itunes": "https://music.apple.com/us/album/volta-por-baixo-ao-vivo/1882494051?i=1882494322&uo=4",
+        "deezer": "https://www.deezer.com/track/3878853961"
       }
     },
     "lyricPath": "/lyrics/98750.txt"

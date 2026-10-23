@@ -6,15 +6,16 @@
       "artists": [
         "Titãs"
       ],
-      "album": "Sacos Plásticos (2019 Remastered)",
-      "releaseDate": "2009-06-03T07:00:00Z",
-      "durationMs": 197250,
+      "album": "Sacos plásticos",
+      "releaseDate": "2009",
+      "durationMs": 195000,
       "genres": [
         "Brazilian"
       ],
       "isrc": "BRMSU0900024",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/08/44/e4/0844e48d-7d69-7a3c-6ad2-5b6a3cbf47fb/795935699480.jpg/1000x1000bb.jpg",
       "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c63d6f86-3536-4b40-b920-d52d601c5023",
         "itunes": "https://music.apple.com/us/album/porque-eu-sei-que-%C3%A9-amor/1590224674?i=1590224892&uo=4",
         "deezer": "https://www.deezer.com/track/1521325172"
       }

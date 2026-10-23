@@ -4,16 +4,17 @@
     "metadata": {
       "title": "A Mais Pedida - Ao Vivo | Acústico",
       "artists": [
-        "Raimundos, Ivete Sangalo"
+        "Raimundos",
+        "Ivete Sangalo"
       ],
-      "album": "Acústico - Ao Vivo",
-      "releaseDate": "2017-04-28",
-      "durationMs": 222000,
+      "album": "Só No Forevis",
+      "releaseDate": "2005-07-05",
+      "durationMs": 233000,
       "genres": [],
-      "isrc": "BRRGE1700295",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/e5ce2511bfbc22e708ca46e95b88c2ef/1000x1000-000000-80-0-0.jpg",
+      "isrc": "BRWMB9900516",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/40e6006f623d923560013aef1ab2df7b/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/350038551"
+        "deezer": "https://www.deezer.com/track/761234"
       }
     },
     "lyricPath": "/lyrics/98509.txt"

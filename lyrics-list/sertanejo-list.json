@@ -19,7 +19,7 @@
         "id": 98602,
         "name": "Meteoro de Paixão",
         "artists": "Luan Santana",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98603,
@@ -547,7 +547,7 @@
         "id": 98690,
         "name": "Sou Eu / Tentei Te Esquecer",
         "artists": "Matogrosso & Mathias",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98691,
@@ -745,7 +745,7 @@
         "id": 98723,
         "name": "Cê Perdeu (Igual Eu) - Ao Vivo",
         "artists": "Simone Mendes",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98724,
@@ -1105,7 +1105,7 @@
         "id": 98783,
         "name": "Entre Achados e Perdidos",
         "artists": "Mafalda Veiga",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98784,

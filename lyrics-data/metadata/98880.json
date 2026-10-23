@@ -4,16 +4,16 @@
     "metadata": {
       "title": "Ara Ara",
       "artists": [
-        "Ark King, JKM"
+        "Ark King",
+        "JKM"
       ],
-      "album": "Ara Ara",
-      "releaseDate": "2022-11-17",
-      "durationMs": 162140,
+      "album": "Lobelia's Garden",
+      "releaseDate": "2024-04-26",
+      "durationMs": 59000,
       "genres": [],
-      "isrc": "UKR6V2252378",
+      "isrc": "GBWUL2489135",
       "coverUrl": "https://cdn-images.dzcdn.net/images/cover/257d53ae218bc10c1a49d682f574ce8f/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/879abd88-0216-44fe-9a6b-553fbd3cff3a",
         "deezer": "https://www.deezer.com/track/2761818391"
       }
     },

@@ -4,16 +4,21 @@
     "metadata": {
       "title": "Selvagem",
       "artists": [
-        "Filipe Ret, Prod.MTS, Woozy"
+        "Filipe Ret",
+        "Prod.MTS",
+        "Woozy"
       ],
-      "album": "Irrastreável",
-      "releaseDate": "2024-03-28",
-      "durationMs": 192000,
-      "genres": [],
+      "album": "Nume - Epílogo",
+      "releaseDate": "2025-07-17",
+      "durationMs": 135692,
+      "genres": [
+        "Rap"
+      ],
       "isrc": "BRRGE2502616",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6f909ca08aab01d20e7a4252ad1f5bff/1000x1000-000000-80-0-0.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/6b/b8/d56bb834-1cfb-8c70-21f6-e6973c338848/196873397795.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/aa2f9106-fa72-4284-b543-f4283dfbb839",
+        "musicbrainz": "https://musicbrainz.org/recording/911268eb-99ae-4f6c-8a9f-185ea1918ee9",
+        "itunes": "https://music.apple.com/us/album/selvagem/1825490737?i=1825490739&uo=4",
         "deezer": "https://www.deezer.com/track/3450782911"
       }
     },

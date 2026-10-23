@@ -4,16 +4,17 @@
     "metadata": {
       "title": "Show da Luna",
       "artists": [
-        "Ark King, VtAlbuquerque, JKM"
+        "Ark King",
+        "VtAlbuquerque",
+        "JKM"
       ],
-      "album": "An Artisan’s Exhibition",
-      "releaseDate": "2026-04-17",
-      "durationMs": 163500,
+      "album": "Lobelia's Garden",
+      "releaseDate": "2024-04-26",
+      "durationMs": 94000,
       "genres": [],
-      "isrc": "NLE802500630",
+      "isrc": "GBWUL2489017",
       "coverUrl": "https://cdn-images.dzcdn.net/images/cover/257d53ae218bc10c1a49d682f574ce8f/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/43494585-2b39-4227-81c0-48baf1f05fbb",
         "deezer": "https://www.deezer.com/track/2761818261"
       }
     },

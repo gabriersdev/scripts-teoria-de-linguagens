@@ -527,7 +527,7 @@
         "id": 98486,
         "name": "Uma Velha Canção Rock N'Roll",
         "artists": "14 Bis",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98487,
@@ -1001,7 +1001,7 @@
         "id": 98565,
         "name": "Ponto de Ônibus - Ao Vivo",
         "artists": "Ultraje a Rigor",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98566,
@@ -1019,7 +1019,7 @@
         "id": 98568,
         "name": "Nada a Declarar - Ao Vivo",
         "artists": "Ultraje a Rigor",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98569,

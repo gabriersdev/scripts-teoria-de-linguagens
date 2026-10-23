@@ -4,18 +4,18 @@
     "metadata": {
       "title": "O Tempo (Under Sesh #7)",
       "artists": [
-        "Drow Mattos, Long beatz, Drow Beats"
+        "Drow Mattos",
+        "Long beatz",
+        "Drow Beats"
       ],
-      "album": "Drow",
-      "releaseDate": "2013-07-07",
-      "durationMs": 265640,
-      "genres": [
-        "j-rock"
-      ],
-      "isrc": null,
-      "coverUrl": null,
+      "album": "O Tempo (Under Sesh #7)",
+      "releaseDate": "2025-08-05",
+      "durationMs": 110000,
+      "genres": [],
+      "isrc": "BKZB82500015",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/af6cbe248b6df85b0e455f567fba2c41/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/d7cc8a13-e476-4c3c-b394-68b190fb473c"
+        "deezer": "https://www.deezer.com/track/3462550671"
       }
     },
     "lyricPath": "/lyrics/98376.txt"

@@ -4,16 +4,22 @@
     "metadata": {
       "title": "Passo com a Bunda e Sarro",
       "artists": [
-        "Prod.Nifour, CACAU CHUU, Storys Funk, MC Nito"
+        "Prod.Nifour",
+        "CACAU CHUU",
+        "Storys Funk",
+        "MC Nito"
       ],
-      "album": "Desce Com a Bunda",
-      "releaseDate": "2021-05-11",
-      "durationMs": 177475,
-      "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "album": "Passo com a Bunda e Sarro (Instrumental) - Single",
+      "releaseDate": "2026-01-30T12:00:00Z",
+      "durationMs": 133261,
+      "genres": [
+        "Funk"
+      ],
+      "isrc": "QZYFZ2610265",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/1d/26/e41d262c-26ae-5f7a-2be5-0572cd9461de/fc6af7b7-2d80-40ea-88b7-6d600e41c91c.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/da5b8b99-d179-4e2c-91e2-c2ff3961ac7b"
+        "itunes": "https://music.apple.com/us/album/passo-com-a-bunda-e-sarro-instrumental/1871296309?i=1871296313&uo=4",
+        "deezer": "https://www.deezer.com/track/3789495342"
       }
     },
     "lyricPath": "/lyrics/98047.txt"

@@ -160,13 +160,13 @@
         "id": 98825,
         "name": "Goztosa (Me Olha)",
         "artists": "Sidoka",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98826,
         "name": "Klibrano",
         "artists": "Sidoka",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98827,
@@ -196,7 +196,7 @@
         "id": 98831,
         "name": "DESCULPA GARDENIA",
         "artists": "ohayomatsu, mixx!",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98832,
@@ -262,13 +262,13 @@
         "id": 98842,
         "name": "COMO ASSIM TU NÃO CONHECE?",
         "artists": "ohayomatsu, Junim",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98843,
         "name": "Raluc4",
         "artists": "Ark King, NIKK, ohayomatsu",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98844,

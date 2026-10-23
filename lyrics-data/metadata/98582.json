@@ -6,18 +6,14 @@
       "artists": [
         "Garotos Podres"
       ],
-      "album": "Class Pride World Wide, Volume 2",
-      "releaseDate": "2002",
-      "durationMs": 188840,
-      "genres": [
-        "Rock"
-      ],
-      "isrc": "QZHZ61908604",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/1f/a7/a71fa714-9b0e-2623-c228-2c6aec79788e/7908067183472.png/1000x1000bb.jpg",
+      "album": "Rock de Suburbio",
+      "releaseDate": "1995",
+      "durationMs": 211000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/f2b5bfee-3ab3-4289-ac65-b1283476fdf5",
-        "itunes": "https://music.apple.com/us/album/garoto-podre/1569274905?i=1569274920&uo=4",
-        "deezer": "https://www.deezer.com/track/863956002"
+        "musicbrainz": "https://musicbrainz.org/recording/6d04741d-0fbf-46f5-a914-61479188869b"
       }
     },
     "lyricPath": "/lyrics/98582.txt"

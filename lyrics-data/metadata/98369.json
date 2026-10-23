@@ -4,16 +4,19 @@
     "metadata": {
       "title": "Referências",
       "artists": [
-        "Felp 22, Medellin, Castelobeats, Rick Beatz"
+        "Felp 22",
+        "Medellin",
+        "Castelobeats",
+        "Rick Beatz"
       ],
-      "album": "Censurado pela Mídia, Amado pelas Ruas",
-      "releaseDate": "2023-08-04",
-      "durationMs": 174000,
+      "album": "Melhor Momento (Deluxe)",
+      "releaseDate": "2025-02-20",
+      "durationMs": 185000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BCD592500011",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/22434720ca478e4ef6340de8e79a5758/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/8698d0f3-c72b-4b2b-9016-a75e00b0af6e"
+        "deezer": "https://www.deezer.com/track/3216793021"
       }
     },
     "lyricPath": "/lyrics/98369.txt"

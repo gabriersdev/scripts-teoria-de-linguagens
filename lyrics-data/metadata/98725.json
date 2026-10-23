@@ -6,17 +6,16 @@
       "artists": [
         "Henrique & Juliano"
       ],
-      "album": "O céu explica tudo",
-      "releaseDate": "2017",
-      "durationMs": 189000,
+      "album": "Vidinha De Balada (Ao Vivo) - Single",
+      "releaseDate": "2017-02-03T12:00:00Z",
+      "durationMs": 186981,
       "genres": [
         "Sertanejo"
       ],
       "isrc": "BRWNV1700003",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/a6/31/1da631bd-d3b0-5394-af95-514f9148d787/00602438991327_Cover.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/05/e4/4805e4ea-d1aa-53ee-84b1-3becb39a0968/00602445003181_Cover.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/2f3d36db-21c9-4faf-9e0d-c64d3caa80e2",
-        "itunes": "https://music.apple.com/us/album/vidinha-de-balada-ao-vivo/1882022879?i=1882022888&uo=4",
+        "itunes": "https://music.apple.com/us/album/vidinha-de-balada-ao-vivo/1882518576?i=1882518577&uo=4",
         "deezer": "https://www.deezer.com/track/3879158741"
       }
     },

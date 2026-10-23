@@ -6,17 +6,16 @@
       "artists": [
         "MC Don Juan"
       ],
-      "album": "15 Súper Danzones Con Acerina y Su Danzonera (Versiones Originales)",
-      "releaseDate": "2013-11-19",
-      "durationMs": 185267,
+      "album": "Baile do Poderoso (ao Vivo), Vol. 1",
+      "releaseDate": "2019-10-26T12:00:00Z",
+      "durationMs": 23733,
       "genres": [
         "Brazilian"
       ],
-      "isrc": "MXF018600667",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/78/2a/42/782a4229-d32e-9103-6747-6848bc9fa033/192641619731_Cover.jpg/1000x1000bb.jpg",
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1d/8a/9d/1d8a9dc8-270a-53ca-287d-4ef73d26f54b/00194491544652_Cover.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/e3308cda-152b-4cf0-8dc2-661780067615",
-        "itunes": "https://music.apple.com/us/album/liberdade-quando-o-grave-bate-forte/1544370060?i=1544370061&uo=4"
+        "itunes": "https://music.apple.com/us/album/oh-novinha-ao-vivo/1577640585?i=1577641544&uo=4"
       }
     },
     "lyricPath": "/lyrics/98180.txt"

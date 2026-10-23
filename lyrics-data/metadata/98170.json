@@ -9,14 +9,11 @@
       "album": "Abusadamente",
       "releaseDate": "2017-08-21",
       "durationMs": 215944,
-      "genres": [
-        "Brazilian"
-      ],
+      "genres": [],
       "isrc": "BRKO11700104",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/83/60/94836030-7924-780e-b31e-6867ecde38d9/198846984346.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/dce9a3dd8f0936b04d2510da87c13509/1000x1000-000000-80-0-0.jpg",
       "sources": {
         "musicbrainz": "https://musicbrainz.org/recording/a1f94e38-4e23-4e51-ba58-1763756bafcd",
-        "itunes": "https://music.apple.com/us/album/abusadamente-remix/1780627920?i=1780628106&uo=4",
         "deezer": "https://www.deezer.com/track/907073482"
       }
     },

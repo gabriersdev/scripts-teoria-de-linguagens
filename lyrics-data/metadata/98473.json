@@ -6,18 +6,18 @@
       "artists": [
         "O Teatro Mágico"
       ],
-      "album": "Recombinando atos: Ao vivo em São Paulo",
-      "releaseDate": "2013",
-      "durationMs": 351466,
+      "album": "Entrada para raros",
+      "releaseDate": "2003-12-13",
+      "durationMs": 341000,
       "genres": [
         "Alternative Folk"
       ],
-      "isrc": "BRFOE1300026",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/c8/31/f5/c831f561-595f-6070-434e-bd155a7b9bba/7898934833558.jpg/1000x1000bb.jpg",
+      "isrc": "USHM21624239",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/e7/51/b1/e751b12d-9207-9a9c-7633-ac120cdf5d0d/190394736026.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/8b6678e2-b9fb-42d9-9e83-e420c703547c",
-        "itunes": "https://music.apple.com/us/album/o-anjo-mais-velho-ao-vivo/1135020934?i=1135021158&uo=4",
-        "deezer": "https://www.deezer.com/track/128679059"
+        "musicbrainz": "https://musicbrainz.org/recording/b91933d5-f012-4b33-8737-c385fba00432",
+        "itunes": "https://music.apple.com/us/album/o-anjo-mais-velho/1138406756?i=1138406864&uo=4",
+        "deezer": "https://www.deezer.com/track/129347626"
       }
     },
     "lyricPath": "/lyrics/98473.txt"

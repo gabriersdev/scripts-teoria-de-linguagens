@@ -6,17 +6,13 @@
       "artists": [
         "Tz da Coronel"
       ],
-      "album": "Último Siso",
-      "releaseDate": "2014-09-12",
-      "durationMs": 156487,
-      "genres": [
-        "Rap"
-      ],
+      "album": "Direto da Selva Deluxe",
+      "releaseDate": "2024-11-28",
+      "durationMs": 256000,
+      "genres": [],
       "isrc": "BC2TS2400053",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/be/0f/d6be0f27-8bbe-a11c-b5f6-931d2771deee/198391599217.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/60f832561c64d4664b87c1d4ee29c551/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/97e94759-dcda-4aad-9a6f-d238392a68e1",
-        "itunes": "https://music.apple.com/us/album/poesia-ac%C3%BAstica-13/1737490881?i=1737490891&uo=4",
         "deezer": "https://www.deezer.com/track/3088812911"
       }
     },

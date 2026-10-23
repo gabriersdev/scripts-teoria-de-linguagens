@@ -4,16 +4,19 @@
     "metadata": {
       "title": "MUN RÁ",
       "artists": [
-        "Ryu, The Runner, LPT Zlatan, Neckklace, SMOKEFUSION"
+        "Ryu, the Runner",
+        "LPT Zlatan",
+        "Neckklace",
+        "SMOKEFUSION"
       ],
-      "album": "Espaço Rap -Volume 10",
-      "releaseDate": "2005",
-      "durationMs": 275373,
+      "album": "ADULTO IDEAL VOL.2",
+      "releaseDate": "2026-04-23",
+      "durationMs": 128000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BRRGE2600530",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/75f957fc7c42730db1ed2b6486986ded/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/f8830cd7-3721-4fae-8384-17906493696b"
+        "deezer": "https://www.deezer.com/track/3957770861"
       }
     },
     "lyricPath": "/lyrics/98961.txt"

@@ -4,16 +4,19 @@
     "metadata": {
       "title": "QUERO TE VER",
       "artists": [
-        "ohayomatsu, Junim, DD Tápi, mixx!"
+        "ohayomatsu",
+        "Junim",
+        "DD Tápi",
+        "mixx!"
       ],
-      "album": "Cut Up Sections",
-      "releaseDate": "2017-01-27",
-      "durationMs": 142820,
+      "album": "h.w.f",
+      "releaseDate": "2025-02-12",
+      "durationMs": 192000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "QZ5FN2523160",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6d1b6a26f67189d9fc317fcb11827bc6/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/84799476-43a6-474e-8c72-6876af8e71dd"
+        "deezer": "https://www.deezer.com/track/3196435941"
       }
     },
     "lyricPath": "/lyrics/98846.txt"

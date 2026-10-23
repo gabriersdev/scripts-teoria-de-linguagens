@@ -6,16 +6,14 @@
       "artists": [
         "D$ Luqi"
       ],
-      "album": "Calado! - Single",
-      "releaseDate": "2022-08-26T12:00:00Z",
-      "durationMs": 240005,
-      "genres": [
-        "Hip-Hop"
-      ],
+      "album": "O Emblema do Infinito",
+      "releaseDate": "2024-08-08",
+      "durationMs": 147000,
+      "genres": [],
       "isrc": "BKLL22400006",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ef/1c/c3/ef1cc361-15a0-205c-041b-11e1cd9857ac/0.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/be6d131bd441cff53ca4ffc94702c100/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/calado/1641390492?i=1641390493&uo=4",
+        "musicbrainz": "https://musicbrainz.org/recording/f7895358-a234-43e3-b443-b20204ae4ed1",
         "deezer": "https://www.deezer.com/track/2822342312"
       }
     },

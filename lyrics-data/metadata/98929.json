@@ -4,16 +4,17 @@
     "metadata": {
       "title": "90's",
       "artists": [
-        "Ark King, Gum64ll"
+        "Ark King",
+        "Gum64ll"
       ],
-      "album": "花標 ～アトリエシリーズ アレンジヴォーカルアルバム Feat.堀江真美 Vol.2～",
-      "releaseDate": "2012-06-27",
-      "durationMs": 295000,
+      "album": "Lobelia's Garden",
+      "releaseDate": "2024-04-26",
+      "durationMs": 99000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "GBWUL2489093",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/257d53ae218bc10c1a49d682f574ce8f/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/b2be7f96-785a-4677-92cc-aa155c84d066"
+        "deezer": "https://www.deezer.com/track/2761818331"
       }
     },
     "lyricPath": "/lyrics/98929.txt"

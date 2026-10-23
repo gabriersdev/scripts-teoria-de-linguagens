@@ -4,16 +4,20 @@
     "metadata": {
       "title": "SURF",
       "artists": [
-        "Alee, NADAMAL, saboya, Qualywav1, Dexter"
+        "Alee",
+        "NADAMAL",
+        "saboya",
+        "Qualywav1",
+        "Dexter"
       ],
-      "album": "CAOS DLX",
-      "releaseDate": "2025-07-24",
-      "durationMs": 123564,
+      "album": "DIAS ANTES DO CAOS",
+      "releaseDate": "2024-02-29",
+      "durationMs": 172000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BKNDN2400013",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d630545501528d92d0431a405f0f30f2/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/a897a95d-6f57-4fac-82ab-05183852debd"
+        "deezer": "https://www.deezer.com/track/2675770082"
       }
     },
     "lyricPath": "/lyrics/98848.txt"

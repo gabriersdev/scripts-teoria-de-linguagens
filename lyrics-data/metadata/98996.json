@@ -6,17 +6,13 @@
       "artists": [
         "Tz da Coronel"
       ],
-      "album": "Coleção Nacional",
-      "releaseDate": "2002",
-      "durationMs": 579000,
-      "genres": [
-        "Rap"
-      ],
+      "album": "Animais Traidores 2",
+      "releaseDate": "2025-10-09",
+      "durationMs": 194000,
+      "genres": [],
       "isrc": "BC2TS2500007",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/be/0f/d6be0f27-8bbe-a11c-b5f6-931d2771deee/198391599217.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/da50b43582c2f519ea31f66a222a5fac/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/e468c588-ab50-4114-8fc1-2255f6a1226e",
-        "itunes": "https://music.apple.com/us/album/poesia-ac%C3%BAstica-13/1737490881?i=1737490891&uo=4",
         "deezer": "https://www.deezer.com/track/3575002971"
       }
     },

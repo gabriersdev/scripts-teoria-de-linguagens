@@ -4,17 +4,19 @@
     "metadata": {
       "title": "Além do Dinheiro",
       "artists": [
-        "Filipe Ret, Dallass, Ariel Donato"
+        "Filipe Ret",
+        "Dallass",
+        "Ariel Donato"
       ],
-      "album": "Imaterial",
-      "releaseDate": "2021-04-23",
-      "durationMs": 127741,
+      "album": "FRXV (Ao Vivo)",
+      "releaseDate": "2023-12-15",
+      "durationMs": 128078,
       "genres": [],
-      "isrc": "BRRGE2101321",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/dfc53733c6052b14e79ed7e3c9a0ff3c/1000x1000-000000-80-0-0.jpg",
+      "isrc": "BRRGE2301042",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4ef3ecf94fcf128ab7685986085f1ac9/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/28625b1d-9d6f-4e25-9c2e-a94d702afca6",
-        "deezer": "https://www.deezer.com/track/1270057482"
+        "musicbrainz": "https://musicbrainz.org/recording/7d549eda-7bc6-453d-b06d-bc5b8453217e",
+        "deezer": "https://www.deezer.com/track/2565544772"
       }
     },
     "lyricPath": "/lyrics/98265.txt"

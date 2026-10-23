@@ -4,16 +4,18 @@
     "metadata": {
       "title": "Vai Toma",
       "artists": [
-        "Mc Pikachu, MC Fioti, Novo Império"
+        "Mc Pikachu",
+        "MC Fioti",
+        "Novo Império"
       ],
-      "album": "Back To Basics",
-      "releaseDate": "2019",
-      "durationMs": 44000,
+      "album": "King Doudou Edits Vol.2",
+      "releaseDate": "2017-05-17",
+      "durationMs": 234462,
       "genres": [],
       "isrc": null,
       "coverUrl": null,
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599"
+        "musicbrainz": "https://musicbrainz.org/recording/9569390a-1eb0-4171-99d2-1357134d9963"
       }
     },
     "lyricPath": "/lyrics/98127.txt"

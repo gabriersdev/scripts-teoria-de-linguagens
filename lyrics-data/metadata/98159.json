@@ -6,18 +6,14 @@
       "artists": [
         "MC Pedrinho"
       ],
-      "album": "Psi",
-      "releaseDate": "2019-01-01",
-      "durationMs": 50880,
-      "genres": [
-        "Brazilian"
-      ],
-      "isrc": "BRPK11400047",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ca/3a/3a/ca3a3a3b-7de4-7a08-8507-1b59f6539de9/00702730608715_Cover.jpg/1000x1000bb.jpg",
+      "album": "Parara Tibum",
+      "releaseDate": "2015",
+      "durationMs": 92839,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/fc9ee985-be14-4811-a54d-c9cfe02674bf",
-        "itunes": "https://music.apple.com/us/album/dom-dom-dom/1547419524?i=1547419533&uo=4",
-        "deezer": "https://www.deezer.com/track/1207398852"
+        "musicbrainz": "https://musicbrainz.org/recording/ae10a65e-a840-4ebf-8ee2-be317d9cdb0b"
       }
     },
     "lyricPath": "/lyrics/98159.txt"

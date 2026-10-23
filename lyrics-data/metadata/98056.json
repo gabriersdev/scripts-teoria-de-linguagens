@@ -4,19 +4,17 @@
     "metadata": {
       "title": "QUE LOUCURA",
       "artists": [
-        "DJ EXE, CACAU CHUU"
+        "DJ EXE",
+        "CACAU CHUU"
       ],
-      "album": "AI QUE LOUCURA - Single",
-      "releaseDate": "2026-06-19T12:00:00Z",
-      "durationMs": 125308,
-      "genres": [
-        "Latin"
-      ],
-      "isrc": "QT8BV2654693",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/6d/fb/a06dfb00-c2c7-2a92-639b-23daccfa6861/3831596.jpg/1000x1000bb.jpg",
+      "album": "QUE LOUCURA (Remix)",
+      "releaseDate": "2026-08-03",
+      "durationMs": 176074,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
       "sources": {
-        "itunes": "https://music.apple.com/us/album/ai-que-loucura/6781082184?i=6781082186&uo=4",
-        "deezer": "https://www.deezer.com/track/4019759221"
+        "musicbrainz": "https://musicbrainz.org/recording/30926a87-1d3d-42ef-9c1d-7a1094b2d988"
       }
     },
     "lyricPath": "/lyrics/98056.txt"

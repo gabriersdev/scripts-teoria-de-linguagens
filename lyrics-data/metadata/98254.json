@@ -4,16 +4,21 @@
     "metadata": {
       "title": "Amanhecer",
       "artists": [
-        "BK, Nansy Silvvz, Gigantes"
+        "BK",
+        "Nansy Silvvz",
+        "Gigantes"
       ],
       "album": "ICARUS",
       "releaseDate": "2022-11-17",
-      "durationMs": 211786,
-      "genres": [],
+      "durationMs": 211000,
+      "genres": [
+        "Rap"
+      ],
       "isrc": "BXA5K2200007",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/927397ea14b00eba92454a88ec4f352d/1000x1000-000000-80-0-0.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3b/2e/21/3b2e21b4-57f7-f735-16b1-2a622626e3a0/8445162776523.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/9e8027e9-f143-405e-90de-9689ca0fbfe6",
+        "musicbrainz": "https://musicbrainz.org/recording/ab48f6b2-b5ee-4241-8921-bce829e3808c",
+        "itunes": "https://music.apple.com/us/album/amanhecer/1654046781?i=1654048186&uo=4",
         "deezer": "https://www.deezer.com/track/3261553741"
       }
     },

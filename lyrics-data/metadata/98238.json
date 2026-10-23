@@ -4,19 +4,21 @@
     "metadata": {
       "title": "F* F* M*",
       "artists": [
-        "Filipe Ret, Dallass"
+        "Filipe Ret",
+        "Dallass"
       ],
-      "album": "Imaterial",
-      "releaseDate": "2021-04-23",
-      "durationMs": 176000,
+      "album": "FRXV (Ao Vivo)",
+      "releaseDate": "2023-12-15",
+      "durationMs": 173295,
       "genres": [
         "Rap"
       ],
-      "isrc": null,
+      "isrc": "BRRGE2100756",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/28/b0/ca/28b0ca3c-9e78-ff70-6030-679612241bff/7891430547578.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/b5d660a1-dd68-466c-a691-ec4e70798390",
-        "itunes": "https://music.apple.com/us/album/f-f-m/1553386802?i=1553387257&uo=4"
+        "musicbrainz": "https://musicbrainz.org/recording/dfff4f45-8eed-4961-99c1-745bd443e901",
+        "itunes": "https://music.apple.com/us/album/f-f-m/1553386802?i=1553387257&uo=4",
+        "deezer": "https://www.deezer.com/track/1241315882"
       }
     },
     "lyricPath": "/lyrics/98238.txt"

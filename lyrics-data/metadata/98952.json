@@ -4,16 +4,19 @@
     "metadata": {
       "title": "ZONA DE PERIGO",
       "artists": [
-        "OG BRITTO, LEALL, maiarealplug, GFM"
+        "OG BRITTO",
+        "LEALL",
+        "maiarealplug",
+        "GFM"
       ],
-      "album": "Leo & elas, parte 2",
-      "releaseDate": "2024-08-30",
-      "durationMs": 154004,
+      "album": "ZONA DE PERIGO",
+      "releaseDate": "2026-06-17",
+      "durationMs": 139000,
       "genres": [],
-      "isrc": "BRUM72400496",
-      "coverUrl": null,
+      "isrc": "BC6M22651091",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/2d4b68751c624904337ff5f2fe1c318f/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/c33289a8-1327-4b8a-be94-17c05b6fbb31"
+        "deezer": "https://www.deezer.com/track/4048277861"
       }
     },
     "lyricPath": "/lyrics/98952.txt"

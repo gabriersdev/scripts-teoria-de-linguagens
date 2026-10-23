@@ -6,18 +6,16 @@
       "artists": [
         "Zé Vaqueiro"
       ],
-      "album": "Vem Me Amar",
-      "releaseDate": "2019-06-18",
-      "durationMs": 145000,
+      "album": "Flash (Minha Mente) 💠 - Single",
+      "releaseDate": "2026-10-15T12:00:00Z",
+      "durationMs": 157815,
       "genres": [
-        "Worldwide"
+        "Sertanejo"
       ],
-      "isrc": "BKSGS2600081",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/cf/91/e1/mzi.baefcfiy.tif/1000x1000bb.jpg",
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/ba/82/6fba821c-28c0-1e0e-0b14-95c0d423e082/1200220233007.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/711712c8-1c44-424f-81d7-73f81da57fb3",
-        "itunes": "https://music.apple.com/us/album/flash/210698395?i=210698405&uo=4",
-        "deezer": "https://www.deezer.com/track/4200755112"
+        "itunes": "https://music.apple.com/us/album/flash-minha-mente/6817938057?i=6817938389&uo=4"
       }
     },
     "lyricPath": "/lyrics/98609.txt"

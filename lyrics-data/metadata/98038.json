@@ -4,19 +4,22 @@
     "metadata": {
       "title": "Menor Neurose",
       "artists": [
-        "DJ Gu, MC Joãozinho VT, MC Tuto, MC Marks, MC Vine7, Mc Dkziin, MC Jottak"
+        "DJ Gu",
+        "MC Joãozinho VT",
+        "MC Tuto",
+        "MC Marks",
+        "MC Vine7",
+        "Mc Dkziin",
+        "MC Jottak"
       ],
-      "album": "Back To Basics",
-      "releaseDate": "2019",
-      "durationMs": 44000,
-      "genres": [
-        "Baile Funk"
-      ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/c9/bf/71c9bfd2-ba0d-3a95-1df5-c69b6e2f230c/cover.jpg/1000x1000bb.jpg",
+      "album": "Menor Neurose",
+      "releaseDate": "2026-04-24",
+      "durationMs": 324000,
+      "genres": [],
+      "isrc": "BCSOR2600227",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/212201e6b32fc65678f7e3fde14d3083/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
-        "itunes": "https://music.apple.com/us/album/busco-a-meta-feat-mc-dkziin-mc-jottak-mc-nego-uni%C3%A3o-dj-oreia/1818134631?i=1818134808&uo=4"
+        "deezer": "https://www.deezer.com/track/3980943471"
       }
     },
     "lyricPath": "/lyrics/98038.txt"

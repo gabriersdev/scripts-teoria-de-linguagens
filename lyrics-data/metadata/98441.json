@@ -6,15 +6,16 @@
       "artists": [
         "Uns E Outros"
       ],
-      "album": "Uns E Outros",
-      "releaseDate": "1990-01-01T12:00:00Z",
-      "durationMs": 236027,
+      "album": "Pop Rock Nacional 3",
+      "releaseDate": "1997",
+      "durationMs": 234866,
       "genres": [
         "Brazilian"
       ],
       "isrc": "BRSME8900072",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/b7/0c/b1/mzi.ctwcjtsb.jpg/1000x1000bb.jpg",
       "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6ac4d549-967e-4b1d-bef8-1e93b2ca4041",
         "itunes": "https://music.apple.com/us/album/carta-aos-mission%C3%A1rios/402164066?i=402164077&uo=4",
         "deezer": "https://www.deezer.com/track/14936590"
       }

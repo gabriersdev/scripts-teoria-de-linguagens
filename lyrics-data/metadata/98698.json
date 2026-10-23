@@ -6,17 +6,16 @@
       "artists": [
         "Bruno & Marrone"
       ],
-      "album": "Minha Bênção",
-      "releaseDate": "2006",
-      "durationMs": 234853,
+      "album": "Evento do Ano (Ao Vivo) - Single",
+      "releaseDate": "2026-08-27T12:00:00Z",
+      "durationMs": 183952,
       "genres": [
         "Sertanejo"
       ],
       "isrc": "BRWOS2600023",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/9d/71/5b9d71ad-1977-29db-05f1-c3c1d4d009b1/885288573152.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/71/ef/ae71efce-dfd6-b870-b792-17f29b0885f2/885288333848.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/e8a246aa-0531-46c0-8f0a-c65b33d0f88b",
-        "itunes": "https://music.apple.com/us/album/evento-do-ano-ao-vivo/6812832462?i=6812832466&uo=4",
+        "itunes": "https://music.apple.com/us/album/evento-do-ano-ao-vivo/6802418785?i=6802418789&uo=4",
         "deezer": "https://www.deezer.com/track/4229356422"
       }
     },

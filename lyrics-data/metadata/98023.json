@@ -4,16 +4,21 @@
     "metadata": {
       "title": "Menos Foco Mais Ansiedade (Ce Ta Nervosa)",
       "artists": [
-        "dj andreoli, Mc Jacaré, MC Ryan SP, ZANOLINI, Mc Lele JP, MC LUUKY"
+        "dj andreoli",
+        "Mc Jacaré",
+        "MC Ryan SP",
+        "ZANOLINI",
+        "Mc Lele JP",
+        "MC LUUKY"
       ],
-      "album": "Back To Basics",
-      "releaseDate": "2019",
-      "durationMs": 44000,
+      "album": "Menos Foco Mais Ansiedade (Ce Ta Nervosa)",
+      "releaseDate": "2026-05-28",
+      "durationMs": 234000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BKWDJ2600048",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1bae5ceef567266bbe079399a8649d18/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599"
+        "deezer": "https://www.deezer.com/track/4049144161"
       }
     },
     "lyricPath": "/lyrics/98023.txt"

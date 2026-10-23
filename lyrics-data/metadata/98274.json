@@ -4,16 +4,21 @@
     "metadata": {
       "title": "Veterano",
       "artists": [
-        "Lipinho Oficial, Vinicin, Surfista, Ryuchi, Ian Durso, JVMVO"
+        "Lipinho Oficial",
+        "Vinicin",
+        "Surfista",
+        "Ryuchi",
+        "Ian Durso",
+        "JVMVO"
       ],
-      "album": "Core to Diamond",
-      "releaseDate": null,
-      "durationMs": 341013,
+      "album": "Veterano 2",
+      "releaseDate": "2026-09-16",
+      "durationMs": 439000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BCD592600070",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/2f82461dd876de84ae41a5a2b350c5c6/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/98edaa5b-fbf8-4e81-8b87-0d93d9b8b2f4"
+        "deezer": "https://www.deezer.com/track/4259575701"
       }
     },
     "lyricPath": "/lyrics/98274.txt"

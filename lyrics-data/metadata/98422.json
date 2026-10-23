@@ -6,17 +6,17 @@
       "artists": [
         "Los Hermanos"
       ],
-      "album": "Luau MTV 2002",
-      "releaseDate": "2002",
-      "durationMs": 170600,
+      "album": "Copacabana: O Melhor da Música Brasileira",
+      "releaseDate": "2010",
+      "durationMs": 214213,
       "genres": [
         "Brazilian"
       ],
       "isrc": "BRBMG9901028",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/81/2b/13/mzi.qumzhmon.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/74/08/f3/7408f32c-4852-eae9-7e82-2f10cc2d0397/886443446748.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/36df3e9d-be00-400f-aeef-a9ea3f16d60e",
-        "itunes": "https://music.apple.com/us/album/anna-j%C3%BAlia/321827497?i=321827507&uo=4",
+        "musicbrainz": "https://musicbrainz.org/recording/50922040-c792-49ac-8619-5ffe22b260e8",
+        "itunes": "https://music.apple.com/us/album/anna-j%C3%BAlia/516392790?i=516392807&uo=4",
         "deezer": "https://www.deezer.com/track/13305147"
       }
     },

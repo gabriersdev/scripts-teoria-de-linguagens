@@ -6,17 +6,17 @@
       "artists": [
         "Marília Mendonça"
       ],
-      "album": "Te vejo em todos os cantos",
-      "releaseDate": "2019",
-      "durationMs": 168000,
+      "album": "Bem Pior Que Eu (Ao Vivo) - Single",
+      "releaseDate": "2012-01-01T12:00:00Z",
+      "durationMs": 168172,
       "genres": [
         "Sertanejo"
       ],
       "isrc": "BRWNV1800263",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/06/e3/7506e3f1-0bdb-1c7c-22a0-52f3d8026750/7891430355579.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1d/42/6c/1d426cd6-803f-1345-9604-32fcc19774c4/7891430310578.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/1e1daffe-9932-48e8-a434-a44dd0637769",
-        "itunes": "https://music.apple.com/us/album/bem-pior-que-eu-ao-vivo/1451507318?i=1451507489&uo=4"
+        "itunes": "https://music.apple.com/us/album/bem-pior-que-eu-ao-vivo/1435251344?i=1435251345&uo=4",
+        "deezer": "https://www.deezer.com/track/630683742"
       }
     },
     "lyricPath": "/lyrics/98704.txt"

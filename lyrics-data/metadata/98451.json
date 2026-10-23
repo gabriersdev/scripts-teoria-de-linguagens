@@ -6,20 +6,22 @@
       "artists": [
         "Rita Lee"
       ],
-      "album": "Durval Discos",
-      "releaseDate": "2002",
-      "durationMs": 276000,
+      "album": "Acústico",
+      "releaseDate": null,
+      "durationMs": 390560,
       "genres": [
         "rock",
         "singer-songwriter",
-        "rock and roll"
+        "mpb",
+        "brazilian",
+        "rock and roll",
+        "latin",
+        "brazilian pop"
       ],
-      "isrc": "BREMI7500065",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d9/7f/a7/d97fa7ff-fac9-e0df-b218-740cd6961a02/13UABIM50287.rgb.jpg/1000x1000bb.jpg",
+      "isrc": null,
+      "coverUrl": null,
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/3b768400-cf6f-4e4f-a466-a44c8c6bb853",
-        "itunes": "https://music.apple.com/us/album/ovelha-negra/712931448?i=712931860&uo=4",
-        "deezer": "https://www.deezer.com/track/15709222"
+        "musicbrainz": "https://musicbrainz.org/recording/a144eb3f-ebe8-420a-bec8-eebedfe0d09c"
       }
     },
     "lyricPath": "/lyrics/98451.txt"

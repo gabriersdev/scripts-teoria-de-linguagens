@@ -6,16 +6,13 @@
       "artists": [
         "MC Rick"
       ],
-      "album": "Coisas Leves",
-      "releaseDate": "2023-02-04T12:00:00Z",
-      "durationMs": 142136,
-      "genres": [
-        "Forró"
-      ],
+      "album": "De Volta as Origens",
+      "releaseDate": "2023-03-23",
+      "durationMs": 200000,
+      "genres": [],
       "isrc": "BXG6R2300184",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/8f/ef/a78fefd9-de05-9fef-7b8d-b9d8d0b42445/0.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/ee2e7aac18cbf373499a3a4df1129738/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/desilus%C3%A3o-feat-rick/1669614930?i=1669614934&uo=4",
         "deezer": "https://www.deezer.com/track/2194820917"
       }
     },

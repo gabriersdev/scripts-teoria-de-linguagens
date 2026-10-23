@@ -4,16 +4,20 @@
     "metadata": {
       "title": "KGL's",
       "artists": [
-        "Filipe Ret, BK, Sain, Dallass"
+        "Filipe Ret",
+        "BK",
+        "Sain",
+        "Dallass"
       ],
       "album": "Nume - Epílogo",
       "releaseDate": "2025-07-17",
       "durationMs": 258782,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BRRGE2502620",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6f909ca08aab01d20e7a4252ad1f5bff/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/71309e53-6b9e-4e13-b059-fd83ea949100"
+        "musicbrainz": "https://musicbrainz.org/recording/71309e53-6b9e-4e13-b059-fd83ea949100",
+        "deezer": "https://www.deezer.com/track/3450782901"
       }
     },
     "lyricPath": "/lyrics/98329.txt"

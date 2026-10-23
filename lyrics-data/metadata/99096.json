@@ -6,15 +6,14 @@
       "artists": [
         "Duzz"
       ],
-      "album": "AudioMicroDevice",
-      "releaseDate": "2001-11",
-      "durationMs": 339213,
+      "album": "De Onde os Gigantes Vem?",
+      "releaseDate": "2024-03-15",
+      "durationMs": 160000,
       "genres": [],
-      "isrc": "BC4MX2400010",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/27cb81ba54cd9027224c5d7afbb9c4b9/1000x1000-000000-80-0-0.jpg",
+      "isrc": null,
+      "coverUrl": null,
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/b34d2943-851e-47d4-b6bb-a237f37c5bc8",
-        "deezer": "https://www.deezer.com/track/2690448662"
+        "musicbrainz": "https://musicbrainz.org/recording/caa7b1fa-0318-4a10-92e9-1347a759ade5"
       }
     },
     "lyricPath": "/lyrics/99096.txt"

@@ -4,16 +4,21 @@
     "metadata": {
       "title": "Eu Sou Prostituto",
       "artists": [
-        "mc boyugo, Anderson Neiff, Kaue Mc, DJ Thseven7, Baga Grau, MC Galego"
+        "mc boyugo",
+        "Anderson Neiff",
+        "Kaue Mc",
+        "DJ Thseven7",
+        "Baga Grau",
+        "MC Galego"
       ],
-      "album": "Back To Basics",
-      "releaseDate": "2019",
-      "durationMs": 44000,
+      "album": "Eu Sou Prostituto",
+      "releaseDate": "2025-12-29",
+      "durationMs": 162000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "ESA112589866",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c8fe4a0e684373aba1efd51c2b281001/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599"
+        "deezer": "https://www.deezer.com/track/3732754712"
       }
     },
     "lyricPath": "/lyrics/98049.txt"

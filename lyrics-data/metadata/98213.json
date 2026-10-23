@@ -4,16 +4,19 @@
     "metadata": {
       "title": "Rap da Lealdade",
       "artists": [
-        "Filipe Ret, Prod.MTS"
+        "Filipe Ret",
+        "Prod.MTS"
       ],
-      "album": "Nume - Epílogo",
-      "releaseDate": "2025-07-17",
-      "durationMs": 135692,
-      "genres": [],
+      "album": "Rap da Lealdade - Single",
+      "releaseDate": "2026-01-14T12:00:00Z",
+      "durationMs": 181417,
+      "genres": [
+        "Rap"
+      ],
       "isrc": "BX7E52600003",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d646c410c07734b19b8b21d604ce726b/1000x1000-000000-80-0-0.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/a7/66/cda76629-c56f-0468-94a5-ac4745ef2b10/196874010181.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/911268eb-99ae-4f6c-8a9f-185ea1918ee9",
+        "itunes": "https://music.apple.com/us/album/rap-da-lealdade/1868032557?i=1868032560&uo=4",
         "deezer": "https://www.deezer.com/track/3766480392"
       }
     },

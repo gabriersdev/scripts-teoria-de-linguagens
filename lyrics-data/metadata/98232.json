@@ -4,16 +4,25 @@
     "metadata": {
       "title": "Poetas no Topo 5",
       "artists": [
-        "Pineapple StormTv, Oruam, Sant, Victor Xamã, NandaTsunami, LPT Zlatan, L7NNON, AR Baby, Sid, Salve Malak"
+        "Pineapple StormTv",
+        "Oruam",
+        "Sant",
+        "Victor Xamã",
+        "NandaTsunami",
+        "LPT Zlatan",
+        "L7NNON",
+        "AR Baby",
+        "Sid",
+        "Salve Malak"
       ],
-      "album": "Som dos cria",
-      "releaseDate": "2020-01-20",
-      "durationMs": 181000,
+      "album": "Poetas no Topo 4",
+      "releaseDate": "2024-11-01",
+      "durationMs": 1067000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BX6Y62400100",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/79930ad37aa41abe752f5dafab409fe8/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/20b6773c-6f98-4930-bdeb-5853ad062243"
+        "deezer": "https://www.deezer.com/track/3055836131"
       }
     },
     "lyricPath": "/lyrics/98232.txt"

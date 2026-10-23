@@ -6,17 +6,14 @@
       "artists": [
         "Matuê"
       ],
-      "album": "O Incrível Caso da Música que Encolheu e Outras Histórias",
-      "releaseDate": "2002-01-01",
-      "durationMs": 436026,
-      "genres": [
-        "Rock"
-      ],
+      "album": "Máquina do Tempo",
+      "releaseDate": "2020-09-10",
+      "durationMs": 230000,
+      "genres": [],
       "isrc": "BXW922000009",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/52/9f/4f/529f4fa4-cc57-9e3c-dc39-2d660a40eb83/0.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9ad06bcb9f0bfe52bbd5e6ff464e4ca4/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/68a5d1e2-1ada-474f-8ce3-ed3fe3008069",
-        "itunes": "https://music.apple.com/us/album/m%C3%A1quina-do-tempo-ao-vivo/1434633725?i=1434633738&uo=4",
+        "musicbrainz": "https://musicbrainz.org/recording/659ad507-f346-4e21-acb5-14b4697da0cd",
         "deezer": "https://www.deezer.com/track/1049882352"
       }
     },

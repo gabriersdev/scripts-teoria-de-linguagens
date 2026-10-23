@@ -4,16 +4,22 @@
     "metadata": {
       "title": "Muleque Zika",
       "artists": [
-        "Tropa do Bruxo, Branco R.P.3, Dexter, DJ Chernobyl, CP no Beat, RIC MUSIC, Analogic"
+        "Tropa do Bruxo",
+        "Branco R.P.3",
+        "Dexter",
+        "DJ Chernobyl",
+        "CP no Beat",
+        "RIC MUSIC",
+        "Analogic"
       ],
-      "album": "Baile do Bruxo",
-      "releaseDate": "2023-09-29",
-      "durationMs": 166000,
+      "album": "Bruxaria 051",
+      "releaseDate": "2025-10-17",
+      "durationMs": 209000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "QZZ8B2517997",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8502b1d014f424621b743d93d33458e5/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/feda8064-6dc7-4cfe-868b-2f39412878fb"
+        "deezer": "https://www.deezer.com/track/3595016982"
       }
     },
     "lyricPath": "/lyrics/98377.txt"

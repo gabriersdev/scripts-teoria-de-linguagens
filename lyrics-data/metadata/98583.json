@@ -6,18 +6,18 @@
       "artists": [
         "Garotos Podres"
       ],
-      "album": "Class Pride World Wide, Volume 2",
-      "releaseDate": "2002",
-      "durationMs": 188840,
+      "album": "Live In Rio",
+      "releaseDate": "1985-04-30T12:00:00Z",
+      "durationMs": 98000,
       "genres": [
         "Rock"
       ],
-      "isrc": "QZHZ61908604",
+      "isrc": "GXD7V2649307",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/a4/f1/40a4f154-b2ae-7e79-0ac9-05b720a21678/26270.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/f2b5bfee-3ab3-4289-ac65-b1283476fdf5",
+        "musicbrainz": "https://musicbrainz.org/recording/e3283efb-0ebc-4b48-abfb-7673e962ea89",
         "itunes": "https://music.apple.com/us/album/anarkia-oi/1863752418?i=1863752430&uo=4",
-        "deezer": "https://www.deezer.com/track/863956002"
+        "deezer": "https://www.deezer.com/track/3736509442"
       }
     },
     "lyricPath": "/lyrics/98583.txt"

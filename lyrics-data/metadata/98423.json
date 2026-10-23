@@ -6,16 +6,14 @@
       "artists": [
         "Nenhum De Nós"
       ],
-      "album": "Maxximum",
-      "releaseDate": "1999-09-03T12:00:00Z",
-      "durationMs": 307227,
-      "genres": [
-        "Brazilian"
-      ],
+      "album": "Paz & amor acústico",
+      "releaseDate": "2009",
+      "durationMs": 295000,
+      "genres": [],
       "isrc": "BRBMG8700100",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/2f/6e/1b2f6e3d-b613-9901-1202-2421a32249f6/mzi.aqcrcaaa.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/46bd5609252fd9d9cae37dafcd587486/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/camila-camila/473641923?i=473641957&uo=4",
+        "musicbrainz": "https://musicbrainz.org/recording/b4c8736a-3655-404b-8990-3d179c4c8d97",
         "deezer": "https://www.deezer.com/track/14272468"
       }
     },

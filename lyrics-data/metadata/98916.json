@@ -4,16 +4,20 @@
     "metadata": {
       "title": "Fora de Vista 2",
       "artists": [
-        "Ark King, YG Saull, YoungFlame, Gus, AyooFire"
+        "Ark King",
+        "YG Saull",
+        "YoungFlame",
+        "Gus",
+        "AyooFire"
       ],
-      "album": "YG",
-      "releaseDate": "2024-06-07",
-      "durationMs": 232439,
+      "album": "Ark Tape #1",
+      "releaseDate": "2022-10-25",
+      "durationMs": 212000,
       "genres": [],
-      "isrc": "JPB602402033",
-      "coverUrl": null,
+      "isrc": "QZW9L2209363",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cbd88b640c7e84becdfb84ca3684de18/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/f9c03b8c-3221-4327-852a-190ad4b51c6b"
+        "deezer": "https://www.deezer.com/track/2046582207"
       }
     },
     "lyricPath": "/lyrics/98916.txt"

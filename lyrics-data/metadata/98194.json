@@ -6,14 +6,13 @@
       "artists": [
         "Bonde R300"
       ],
-      "album": "Revoada do Psi",
-      "releaseDate": "2021-07-30",
-      "durationMs": 100310,
+      "album": "Adoleta",
+      "releaseDate": "2017-06-29",
+      "durationMs": 239000,
       "genres": [],
       "isrc": "US7VG1792938",
       "coverUrl": "https://cdn-images.dzcdn.net/images/cover/12771d52f8dad4e1dd0c8114b06dbae3/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/a5c80107-c426-45f6-a367-9028b817d7ec",
         "deezer": "https://www.deezer.com/track/379255391"
       }
     },

@@ -4,16 +4,19 @@
     "metadata": {
       "title": "NOVA: Procedimento da rua",
       "artists": [
-        "Podpah Records, L7NNON, dubbeatzz, Dj Novset"
+        "Podpah Records",
+        "L7NNON",
+        "dubbeatzz",
+        "Dj Novset"
       ],
-      "album": "IRADOH",
-      "releaseDate": "2025-05-29",
-      "durationMs": 175000,
+      "album": "NOVA: Procedimento da rua",
+      "releaseDate": "2026-07-21",
+      "durationMs": 243000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "QRPDP2600058",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/949f28d3d7efd72ea9a70af5310b2ecf/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/e1df1a9c-f342-4985-b468-46fd7d1f12d4"
+        "deezer": "https://www.deezer.com/track/4153707612"
       }
     },
     "lyricPath": "/lyrics/98209.txt"

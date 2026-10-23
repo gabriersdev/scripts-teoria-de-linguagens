@@ -6,16 +6,13 @@
       "artists": [
         "Costa Gold"
       ],
-      "album": "Dás Arábia, Pt. 2 (feat. Haitam) - Single",
-      "releaseDate": "2019-05-31T12:00:00Z",
-      "durationMs": 258961,
-      "genres": [
-        "Rap"
-      ],
+      "album": ".155",
+      "releaseDate": "2015-11-28",
+      "durationMs": 208000,
+      "genres": [],
       "isrc": "US7VG1542547",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/28/24/14/2824149e-f987-ede0-35c8-4557218cd415/7891430390372.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7a7d0e06035ecdd04d5ff32cca7be8ad/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/d%C3%A1s-ar%C3%A1bia-pt-2-feat-haitam/1465154412?i=1465154418&uo=4",
         "deezer": "https://www.deezer.com/track/3491741071"
       }
     },

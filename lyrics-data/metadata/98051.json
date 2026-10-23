@@ -4,16 +4,20 @@
     "metadata": {
       "title": "Tomar Tomando (Se Sabe Que Eu To Gostando)",
       "artists": [
-        "Anderson Neiff, Dj careca, DJ BIELL DN, Paulista DJ, CACAU CHUU"
+        "Anderson Neiff",
+        "Dj careca",
+        "DJ BIELL DN",
+        "Paulista DJ",
+        "CACAU CHUU"
       ],
-      "album": "Money pa' qué",
-      "releaseDate": "2002",
-      "durationMs": 206000,
+      "album": "Tomar Tomando (Se Sabe Que Eu To Gostando)",
+      "releaseDate": "2026-03-20",
+      "durationMs": 156000,
       "genres": [],
-      "isrc": "NLB630200049",
-      "coverUrl": null,
+      "isrc": "BKY2C2600432",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0d56a221839d2b7c5188ccb109d61fdf/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/6adc9213-c989-414c-b4c1-5dd3292618fa"
+        "deezer": "https://www.deezer.com/track/3932838671"
       }
     },
     "lyricPath": "/lyrics/98051.txt"

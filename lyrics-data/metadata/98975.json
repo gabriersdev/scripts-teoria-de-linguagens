@@ -4,19 +4,25 @@
     "metadata": {
       "title": "TENTAR SER BREVE 🤷🏾‍♀️",
       "artists": [
-        "KayBlack, Vulgo FK, Veigh, Fepache, Galdino, H4lfmeasures, Honaiser"
+        "KayBlack",
+        "Vulgo FK",
+        "Veigh",
+        "Fepache",
+        "Galdino",
+        "H4lfmeasures",
+        "Honaiser"
       ],
-      "album": "F*CK SONGS",
-      "releaseDate": "2024-10-24",
-      "durationMs": 175000,
+      "album": "TENTAR SER BREVE 🤷🏾‍♀️ (feat.Galdino, Honaiser, H4lfmeasures) - Single",
+      "releaseDate": "2025-11-25T12:00:00Z",
+      "durationMs": 223385,
       "genres": [
         "Brazilian"
       ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/ac/68/1dac68f4-a8b0-220d-f63a-c6a6406bbb34/5026854256771.jpg/1000x1000bb.jpg",
+      "isrc": "BRWMB2501576",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/98/ed/3a98edb2-2042-197a-6201-bd86ba10c65c/5026854256771.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/27c6d8df-fbec-4624-9c6c-c950539dc9e8",
-        "itunes": "https://music.apple.com/us/album/tentar-ser-breve-feat-fepache-galdino-honaiser-h4lfmeasures/1854266112?i=1854266359&uo=4"
+        "itunes": "https://music.apple.com/us/album/tentar-ser-breve-feat-galdino-honaiser-h4lfmeasures/1854264917?i=1854264918&uo=4",
+        "deezer": "https://www.deezer.com/track/3666882692"
       }
     },
     "lyricPath": "/lyrics/98975.txt"

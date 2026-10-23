@@ -4,16 +4,21 @@
     "metadata": {
       "title": "Mesma História",
       "artists": [
-        "Orochi, Caio Luccas, Pedro Lotto, Mainstreet, Galdino, Ribb"
+        "Orochi",
+        "Caio Luccas",
+        "Pedro Lotto",
+        "Mainstreet",
+        "Galdino",
+        "Ribb"
       ],
-      "album": "Despedida",
-      "releaseDate": "2018-08-03",
-      "durationMs": 206648,
+      "album": "Vida Cara (Deluxe)",
+      "releaseDate": "2023-10-06",
+      "durationMs": 163000,
       "genres": [],
-      "isrc": "QZ5AB1983766",
-      "coverUrl": null,
+      "isrc": "BCM9A2300083",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/ce530a99fa96d2b751132296b6f34ac4/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/4633de1f-27dd-4c6d-9cdf-9824326bec53"
+        "deezer": "https://www.deezer.com/track/2482630411"
       }
     },
     "lyricPath": "/lyrics/99134.txt"

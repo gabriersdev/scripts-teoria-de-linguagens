@@ -6,17 +6,17 @@
       "artists": [
         "Jorge & Mateus"
       ],
-      "album": "T.E.P. EP 1",
-      "releaseDate": "2020-03-06",
+      "album": "T. E. P. (Ao Vivo) - EP 1",
+      "releaseDate": "2019-10-11T12:00:00Z",
       "durationMs": 181930,
       "genres": [
         "Sertanejo"
       ],
       "isrc": "BRRGE1909762",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d9/fe/f6/d9fef60a-8877-eadc-3d36-45a7dbaea6e4/7891430431570.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/85/bd/4b85bdb3-22d3-a633-af21-cd06e325fd2f/7891430462178.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/78efb525-bca6-49d6-81e0-406751805566",
-        "itunes": "https://music.apple.com/us/album/cheirosa-ao-vivo/1481664669?i=1481664897&uo=4"
+        "itunes": "https://music.apple.com/us/album/cheirosa-ao-vivo/1500094433?i=1500094695&uo=4",
+        "deezer": "https://www.deezer.com/track/764614632"
       }
     },
     "lyricPath": "/lyrics/98798.txt"

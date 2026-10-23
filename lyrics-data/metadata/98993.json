@@ -6,16 +6,13 @@
       "artists": [
         "WIU"
       ],
-      "album": "Bad Neighbor",
-      "releaseDate": "2015-10-30T12:00:00Z",
-      "durationMs": 239787,
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
+      "album": "808 CLUB: AFTER",
+      "releaseDate": "2025-05-27",
+      "durationMs": 213000,
+      "genres": [],
       "isrc": "BXW922500052",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/f3/76/7af37652-070e-6984-f8d7-526c49d20152/1939.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/de36ff51e4de36cb6403c1f0cf4b2b8a/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/drive-in-feat-aloe-blacc/1041584824?i=1041584951&uo=4",
         "deezer": "https://www.deezer.com/track/3380550261"
       }
     },

@@ -9,14 +9,11 @@
       "album": ".155",
       "releaseDate": "2015",
       "durationMs": 197000,
-      "genres": [
-        "Rap"
-      ],
+      "genres": [],
       "isrc": "US7VG1542549",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/28/24/14/2824149e-f987-ede0-35c8-4557218cd415/7891430390372.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7a7d0e06035ecdd04d5ff32cca7be8ad/1000x1000-000000-80-0-0.jpg",
       "sources": {
         "musicbrainz": "https://musicbrainz.org/recording/f3016435-4c40-4822-80a5-5439ac136927",
-        "itunes": "https://music.apple.com/us/album/d%C3%A1s-ar%C3%A1bia-pt-2-feat-haitam/1465154412?i=1465154418&uo=4",
         "deezer": "https://www.deezer.com/track/3491741091"
       }
     },

@@ -4,19 +4,16 @@
     "metadata": {
       "title": "I Just Wanna Go",
       "artists": [
-        "Derek, CLY G"
+        "Derek",
+        "CLY G"
       ],
-      "album": "Shelter of Leech",
-      "releaseDate": "2004",
-      "durationMs": 50973,
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
+      "album": "ARꓘANO",
+      "releaseDate": "2026-04-06",
+      "durationMs": 264000,
+      "genres": [],
       "isrc": "BKNIU2600006",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/bd/cc/edbdccf7-0f28-f26e-af77-650f82d950f7/cover.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0cabedcb58dbe273c16f4cb01fcc0fba/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/9cd86896-bdfc-41c8-b38d-314057b5742e",
-        "itunes": "https://music.apple.com/us/album/i-just-wanna-go/6772229178?i=6772229510&uo=4",
         "deezer": "https://www.deezer.com/track/4039363891"
       }
     },

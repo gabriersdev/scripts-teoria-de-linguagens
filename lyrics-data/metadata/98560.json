@@ -6,17 +6,16 @@
       "artists": [
         "Ultraje a Rigor"
       ],
-      "album": "e-collection - Sucessos + Raridades",
-      "releaseDate": "2000",
-      "durationMs": 233000,
+      "album": "Ultraje a Rigor - 30 Anos",
+      "releaseDate": "1985-07-13T12:00:00Z",
+      "durationMs": 233040,
       "genres": [
         "Brazilian"
       ],
       "isrc": "BRDEP0500354",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/15/c4/9f15c409-dc83-6022-a6bf-d82976207fd9/7898324301889.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/37/2e/d6/372ed66a-767c-b68f-02ff-b0085e45c314/825646160594.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/32a207bd-900c-4060-93ad-b89db62e1bdc",
-        "itunes": "https://music.apple.com/us/album/jesse-go/977474314?i=977474484&uo=4",
+        "itunes": "https://music.apple.com/us/album/jesse-go/953074545?i=953074560&uo=4",
         "deezer": "https://www.deezer.com/track/96168070"
       }
     },

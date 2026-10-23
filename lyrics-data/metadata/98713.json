@@ -6,17 +6,18 @@
       "artists": [
         "Zé Neto & Cristiano"
       ],
-      "album": "Escolhas, vol. 2",
-      "releaseDate": "2023-06-22",
-      "durationMs": 133546,
+      "album": "Boteco do Zé Neto & Cristiano (Ao Vivo)",
+      "releaseDate": "2025-12-06",
+      "durationMs": 133547,
       "genres": [
         "Sertanejo"
       ],
       "isrc": "BRRGE2300443",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/d4/70/20d470c4-315c-fde2-d0bd-b3e99d140854/7891430814472.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ac/e1/a2/ace1a275-e687-1598-a868-2fb92395d4be/7891430841775.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/a10b968a-00fd-4c55-b988-4065865786c5",
-        "itunes": "https://music.apple.com/us/album/barulho-do-foguete-ao-vivo/1701669504?i=1701669515&uo=4"
+        "musicbrainz": "https://musicbrainz.org/recording/7069c6bf-7548-448d-a293-983a4d01dad7",
+        "itunes": "https://music.apple.com/us/album/barulho-do-foguete-ao-vivo/1708937812?i=1708938956&uo=4",
+        "deezer": "https://www.deezer.com/track/2471537971"
       }
     },
     "lyricPath": "/lyrics/98713.txt"

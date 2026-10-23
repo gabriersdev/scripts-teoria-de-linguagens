@@ -4,20 +4,19 @@
     "metadata": {
       "title": "THAINÁ THAINÁ",
       "artists": [
-        "MC Nito, MT DO PALACIO"
+        "MC Nito",
+        "MT DO PALACIO"
       ],
-      "album": "หมวยนี่คะ",
-      "releaseDate": "1999-07",
-      "durationMs": 241000,
+      "album": "THAINÁ THAINÁ (REMIX) - Single",
+      "releaseDate": "2026-08-21T12:00:00Z",
+      "durationMs": 124286,
       "genres": [
-        "House"
+        "Latin"
       ],
-      "isrc": "GXBAV2187109",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/67/ac/4567aca2-7da8-1d5f-2efb-9dfdd8ef4652/cover.jpg/1000x1000bb.jpg",
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/ac/d2/83acd247-b4a7-2e3f-67f6-dc8d1f468ce6/8721554169310.png/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/c103ac59-1924-4499-a9f0-643596f75eb3",
-        "itunes": "https://music.apple.com/us/album/thain%C3%A1-eddu-dias-remix/1858255255?i=1858255258&uo=4",
-        "deezer": "https://www.deezer.com/track/4007510381"
+        "itunes": "https://music.apple.com/us/album/thain%C3%A1-thain%C3%A1-remix/6799246087?i=6799246088&uo=4"
       }
     },
     "lyricPath": "/lyrics/98084.txt"

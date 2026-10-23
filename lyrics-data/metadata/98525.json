@@ -4,19 +4,19 @@
     "metadata": {
       "title": "Pra Dizer Adeus - Ao Vivo",
       "artists": [
-        "Edu Lobo, Romero Lubambo & Mauro Senise"
+        "Edu Lobo",
+        "Romero Lubambo & Mauro Senise"
       ],
-      "album": "Dos Navegantes (ao Vivo)",
-      "releaseDate": "2018-11-16",
-      "durationMs": 267917,
+      "album": "The Essential Edu Lobo",
+      "releaseDate": "2004-07-20T12:00:00Z",
+      "durationMs": 243307,
       "genres": [
-        "MPB"
+        "Worldwide"
       ],
       "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a5/01/1a/a5011a25-85c1-5934-bdcb-70c8cc2e1000/7898539574306.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/31/34/00/313400ea-8728-b036-26e0-ff9b74d72cbf/021471163827.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/0216abae-aba0-4753-91d1-da2eb09f9cc9",
-        "itunes": "https://music.apple.com/us/album/pra-dizer-adeus-ao-vivo/1441679955?i=1441679961&uo=4"
+        "itunes": "https://music.apple.com/us/album/pr%C3%A1-dizer-adeus/932951705?i=932951833&uo=4"
       }
     },
     "lyricPath": "/lyrics/98525.txt"

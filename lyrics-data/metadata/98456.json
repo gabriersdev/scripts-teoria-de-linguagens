@@ -6,13 +6,14 @@
       "artists": [
         "Caetano Veloso"
       ],
-      "album": "Minha Historia",
-      "releaseDate": "1995-01-09",
-      "durationMs": 259000,
+      "album": "Grandes Nomes - Caetano",
+      "releaseDate": "1994",
+      "durationMs": 260280,
       "genres": [],
       "isrc": "BRPGD8400004",
       "coverUrl": "https://cdn-images.dzcdn.net/images/cover/31021a924e290804ba16345161543b31/1000x1000-000000-80-0-0.jpg",
       "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3d5e7d31-97b7-4bc8-9ba4-80f4e1fd901b",
         "deezer": "https://www.deezer.com/track/2445745"
       }
     },

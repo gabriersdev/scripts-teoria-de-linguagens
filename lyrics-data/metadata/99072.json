@@ -7,13 +7,13 @@
         "Ugovhb"
       ],
       "album": "AMIGA DA MINHA MULHER",
-      "releaseDate": "2023-02-08",
-      "durationMs": 167000,
+      "releaseDate": null,
+      "durationMs": 166113,
       "genres": [],
-      "isrc": "QZDA52348374",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8364bb3c952e6b342169be3aa6df17a2/1000x1000-000000-80-0-0.jpg",
+      "isrc": null,
+      "coverUrl": null,
       "sources": {
-        "deezer": "https://www.deezer.com/track/2674514452"
+        "musicbrainz": "https://musicbrainz.org/recording/963878f1-43e4-4cd3-abe1-86c59de575ba"
       }
     },
     "lyricPath": "/lyrics/99072.txt"

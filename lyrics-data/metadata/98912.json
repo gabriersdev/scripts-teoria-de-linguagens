@@ -4,16 +4,20 @@
     "metadata": {
       "title": "NEUROSES",
       "artists": [
-        "Alee, NADAMAL, Klisman, saboya, OG Bahia"
+        "Alee",
+        "NADAMAL",
+        "Klisman",
+        "saboya",
+        "OG Bahia"
       ],
-      "album": "CAOS DLX",
-      "releaseDate": "2025-07-24",
-      "durationMs": 140343,
+      "album": "DIAS ANTES DO CAOS",
+      "releaseDate": "2024-02-29",
+      "durationMs": 180000,
       "genres": [],
-      "isrc": "BKNDN2400094",
-      "coverUrl": null,
+      "isrc": "BKNDN2400016",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d630545501528d92d0431a405f0f30f2/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/b9b606c3-f538-4a24-b312-5fdeea2a52ea"
+        "deezer": "https://www.deezer.com/track/2675770112"
       }
     },
     "lyricPath": "/lyrics/98912.txt"

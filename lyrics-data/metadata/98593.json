@@ -6,15 +6,16 @@
       "artists": [
         "Ratos De Porão"
       ],
-      "album": "Dead Brains for Brain Dead",
-      "releaseDate": "2015-06-08",
-      "durationMs": 23000,
-      "genres": [],
-      "isrc": "BRELD0500199",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3728662d4464d8c0d1e6790a4de046f1/1000x1000-000000-80-0-0.jpg",
+      "album": "Cada Dia Mais Sujo e Agressivo",
+      "releaseDate": "1987-01-01T12:00:00Z",
+      "durationMs": 131640,
+      "genres": [
+        "Metal"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/99/cb/7f/99cb7fa9-e125-2845-c488-978d5902d4ab/7899555004938.png/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/0745703d-1097-44ee-9e79-a1ba27dae2c3",
-        "deezer": "https://www.deezer.com/track/111007778"
+        "itunes": "https://music.apple.com/us/album/plano-furado/1182380592?i=1182380615&uo=4"
       }
     },
     "lyricPath": "/lyrics/98593.txt"

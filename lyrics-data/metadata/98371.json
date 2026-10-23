@@ -4,16 +4,18 @@
     "metadata": {
       "title": "Qdo Ce Me Vê",
       "artists": [
-        "Bivolt, Veigh, Nave, Nagalli"
+        "Bivolt",
+        "Veigh",
+        "Nave",
+        "Nagalli"
       ],
-      "album": "Dos Prédios Deluxe",
-      "releaseDate": "2023-05-19",
-      "durationMs": 140860,
+      "album": "Chave",
+      "releaseDate": "2023-09-01",
+      "durationMs": 160000,
       "genres": [],
-      "isrc": "QZMWW2396007",
+      "isrc": "BXB6B2300004",
       "coverUrl": "https://cdn-images.dzcdn.net/images/cover/dcac50a424b95299066f40f343b58ed2/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/16ade3bc-1abc-49ce-b874-60a0783c4f40",
         "deezer": "https://www.deezer.com/track/2422011065"
       }
     },

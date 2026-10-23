@@ -6,17 +6,16 @@
       "artists": [
         "Israel & Rodolffo"
       ],
-      "album": "Aqui e Agora - Deluxe",
-      "releaseDate": "2021-08-20",
-      "durationMs": 141000,
+      "album": "Aqui e Agora Deluxe",
+      "releaseDate": "2012-01-01T12:00:00Z",
+      "durationMs": 140942,
       "genres": [
         "Sertanejo"
       ],
       "isrc": "BRRGE2012363",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/33/b8/8533b8ee-17ba-baa9-2832-c73b317a7fb7/7891430531577.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/ed/60/04ed606b-2e84-2989-3d4d-c1eed43a5b82/7891430584573.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/6fbb504a-7d62-4103-b0f9-aa5b7c4781b2",
-        "itunes": "https://music.apple.com/us/album/batom-de-cereja-ao-vivo/1547356064?i=1547356069&uo=4",
+        "itunes": "https://music.apple.com/us/album/batom-de-cereja-ao-vivo/1579983501?i=1579983515&uo=4",
         "deezer": "https://www.deezer.com/track/1196471712"
       }
     },

@@ -4,16 +4,18 @@
     "metadata": {
       "title": "O bonde tá no levan",
       "artists": [
-        "LAI$ROSA, MC KTRINE, Agostinhx"
+        "LAI$ROSA",
+        "MC KTRINE",
+        "Agostinhx"
       ],
-      "album": "Berimbau e Percussao: Music and Rhythms of Brazil",
-      "releaseDate": "1997",
-      "durationMs": 182000,
+      "album": "O bonde tá no levan",
+      "releaseDate": "2026-04-01",
+      "durationMs": 145000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BKA8H2600002",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1c40f1e038ff348cef328cc478ba560e/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/74fe13c4-0632-47d5-baae-e35eebd7ae50"
+        "deezer": "https://www.deezer.com/track/3919663321"
       }
     },
     "lyricPath": "/lyrics/99044.txt"

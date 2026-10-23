@@ -6,17 +6,13 @@
       "artists": [
         "Dfideliz"
       ],
-      "album": "Os Melhores Cânticos De Fé",
-      "releaseDate": "2008",
-      "durationMs": 288693,
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
+      "album": "pela família",
+      "releaseDate": "2026-04-09",
+      "durationMs": 118000,
+      "genres": [],
       "isrc": "GBRKQ2612748",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/45/34/b3/4534b3cd-2bb3-595e-728f-2891fd013cd0/0.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1e0c2c41c27f42dafac3bc31f17dcdb6/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/1eea664b-3ad5-493b-bf38-b5897d4a7779",
-        "itunes": "https://music.apple.com/us/album/favelado-tamb%C3%A9m-pode-feat-dfideliz/1470058389?i=1470058390&uo=4",
         "deezer": "https://www.deezer.com/track/3945586261"
       }
     },

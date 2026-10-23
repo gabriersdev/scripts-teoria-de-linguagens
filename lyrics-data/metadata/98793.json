@@ -6,17 +6,14 @@
       "artists": [
         "Felipe Araújo"
       ],
-      "album": "Esquenta do Felipe Araújo",
-      "releaseDate": "2018-05-17",
+      "album": "Chave Cópia - EP (Ao Vivo)",
+      "releaseDate": "2017-04-13",
       "durationMs": 184000,
-      "genres": [
-        "Sertanejo"
-      ],
-      "isrc": "BRUM71802142",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/92/22/6a/92226aec-a6c1-6be4-2a3d-7ebac25e388a/0.jpg/1000x1000bb.jpg",
+      "genres": [],
+      "isrc": "BRV9W1600014",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/30dc56f7c57ffdf3c35cb10e10be8c58/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/c37cf041-30fa-404d-b2cd-ee0a54cb271e",
-        "itunes": "https://music.apple.com/us/album/a-mala-%C3%A9-falsa/1567324291?i=1567324296&uo=4"
+        "deezer": "https://www.deezer.com/track/347672191"
       }
     },
     "lyricPath": "/lyrics/98793.txt"

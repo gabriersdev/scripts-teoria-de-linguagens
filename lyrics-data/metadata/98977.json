@@ -4,19 +4,16 @@
     "metadata": {
       "title": "BOM E NOVO",
       "artists": [
-        "MC Cabelinho, Tz da Coronel"
+        "MC Cabelinho",
+        "Tz da Coronel"
       ],
-      "album": "Diferenciado",
-      "releaseDate": "2025-03-14",
-      "durationMs": 150928,
-      "genres": [
-        "Worldwide"
-      ],
+      "album": "PALÁCIO DE LONA",
+      "releaseDate": "2026-03-06",
+      "durationMs": 151000,
+      "genres": [],
       "isrc": "BKLVW2600002",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/65/a4/a865a4dd-f7ea-1791-ed35-57bf1439d43f/197190021349.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/a6ee408695fa151f6d05a318bb0fb7e9/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/1f162924-e7c5-44f7-8aee-4e8a39acb870",
-        "itunes": "https://music.apple.com/us/album/ilus%C3%A3o-feat-mc-cabelinho-ariel-donato-cupula/1708996623?i=1708997434&uo=4",
         "deezer": "https://www.deezer.com/track/3877679501"
       }
     },

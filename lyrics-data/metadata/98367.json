@@ -6,15 +6,14 @@
       "artists": [
         "Projota"
       ],
-      "album": "Duetos com Aline Barros",
-      "releaseDate": "2020-04-10",
-      "durationMs": 171000,
+      "album": "Tempestade Numa Gota D'Água",
+      "releaseDate": "2020-05-22",
+      "durationMs": 293000,
       "genres": [],
       "isrc": "BRUM72000777",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b677a922d13fb71ae895a034f1219e9d/1000x1000-000000-80-0-0.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/49a7e30e8d081acda79767e83f836ac1/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/21748069-968d-4f5b-bb20-1f2b5c85891a",
-        "deezer": "https://www.deezer.com/track/922007412"
+        "deezer": "https://www.deezer.com/track/963685052"
       }
     },
     "lyricPath": "/lyrics/98367.txt"

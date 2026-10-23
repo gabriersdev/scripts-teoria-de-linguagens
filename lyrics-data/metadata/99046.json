@@ -4,16 +4,19 @@
     "metadata": {
       "title": "Princesa Minimalista",
       "artists": [
-        "Pluck D, Trak, Tevito, Lp067"
+        "Pluck D",
+        "Trak",
+        "Tevito",
+        "Lp067"
       ],
-      "album": "QUIMERA \"MINIMALISTA\"",
-      "releaseDate": "2009",
-      "durationMs": 191000,
+      "album": "Princesa Minimalista",
+      "releaseDate": "2026-04-03",
+      "durationMs": 189000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BK9AT2600011",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/79477f56fc5c33a99b1fa7bf9b0ef63e/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/2e4a3622-83db-4dc0-a00d-b3e1f1e528aa"
+        "deezer": "https://www.deezer.com/track/3926128171"
       }
     },
     "lyricPath": "/lyrics/99046.txt"

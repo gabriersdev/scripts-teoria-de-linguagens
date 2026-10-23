@@ -4,16 +4,21 @@
     "metadata": {
       "title": "Empire PDF 1 - Sacolas de Grife",
       "artists": [
-        "Empire Street, YSB Teka, Lazza, Tevito, Canosa, Piazza"
+        "Empire Street",
+        "YSB Teka",
+        "Lazza",
+        "Tevito",
+        "Canosa",
+        "Piazza"
       ],
-      "album": "Weird Stories",
-      "releaseDate": "2012-01-20",
-      "durationMs": 176901,
+      "album": "Empire PDF 1 - Sacolas de Grife",
+      "releaseDate": "2026-02-26",
+      "durationMs": 198000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BXFKW2600019",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/687b34dfe107b53aaa1def785716c7b8/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/3363362e-9b10-4c6a-b202-4aecb5b05e7b"
+        "deezer": "https://www.deezer.com/track/3852177001"
       }
     },
     "lyricPath": "/lyrics/99032.txt"

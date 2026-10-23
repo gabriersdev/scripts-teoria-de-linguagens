@@ -6,18 +6,17 @@
       "artists": [
         "Henrique & Juliano"
       ],
-      "album": "Flor e o beija-flor",
-      "releaseDate": "2015-11-13",
-      "durationMs": 190227,
+      "album": "Flor E O Beija-Flor (Ao Vivo) [feat. Marília Mendonça] - Single",
+      "releaseDate": "2016-03-18T12:00:00Z",
+      "durationMs": 192362,
       "genres": [
         "Sertanejo"
       ],
       "isrc": "BRWNV1500105",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/7f/47/d57f47a1-dcbf-8b5e-f62b-827e93546c76/00602438705566_Cover.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/d2/b1/a8d2b120-ca29-c3f7-8e11-c5ea466e311b/00602438705689_Cover.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/c6ee3a93-fd96-4b68-b591-bd94355963bb",
-        "itunes": "https://music.apple.com/us/album/flor-e-o-beija-flor-ao-vivo-feat-mar%C3%ADlia-mendon%C3%A7a/1881800450?i=1881800817&uo=4",
-        "deezer": "https://www.deezer.com/track/122844584"
+        "itunes": "https://music.apple.com/us/album/flor-e-o-beija-flor-ao-vivo-feat-mar%C3%ADlia-mendon%C3%A7a/1882465660?i=1882465662&uo=4",
+        "deezer": "https://www.deezer.com/track/3881761451"
       }
     },
     "lyricPath": "/lyrics/98763.txt"

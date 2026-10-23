@@ -4,16 +4,20 @@
     "metadata": {
       "title": "Toda Hora em Vv",
       "artists": [
-        "DJ 2L de Vila Velha, Mc MV, Mc 2G Do SF, Mc Gorran, DJ KN DE VILA VELHA"
+        "DJ 2L de Vila Velha",
+        "Mc MV",
+        "Mc 2G Do SF",
+        "Mc Gorran",
+        "DJ KN DE VILA VELHA"
       ],
-      "album": "Agosto",
-      "releaseDate": "2017-03-14",
-      "durationMs": 340000,
+      "album": "Toda Hora em Vv",
+      "releaseDate": "2026-04-17",
+      "durationMs": 143000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "QZGLS2630530",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cd51f8052d3620e2572a10e27380e18a/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/172d0cf3-12a3-406d-8f81-49033693a764"
+        "deezer": "https://www.deezer.com/track/3962855231"
       }
     },
     "lyricPath": "/lyrics/98021.txt"

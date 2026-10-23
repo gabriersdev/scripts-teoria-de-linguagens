@@ -4,20 +4,19 @@
     "metadata": {
       "title": "Se Saudade Sentir (Se Prepara 3)",
       "artists": [
-        "Mc Livinho, Mc Pedrinho, Perera DJ, DJ JB Mix"
+        "Mc Livinho",
+        "Mc Pedrinho",
+        "Perera DJ",
+        "DJ JB Mix"
       ],
-      "album": "Os Maloca (feat. MC Livinho, Mc Davi, Mc Brinquedo & Mc Pedrinho) - Single",
-      "releaseDate": "2017-08-18T12:00:00Z",
-      "durationMs": 210000,
-      "genres": [
-        "funk brasileiro",
-        "funk bh"
-      ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/77/f3/cb/77f3cb1a-ff63-97fd-f0b8-19668b23fece/00191773569785_Cover.jpg/1000x1000bb.jpg",
+      "album": "Se Saudade Sentir (Se Prepara 3)",
+      "releaseDate": "2026-04-10",
+      "durationMs": 197000,
+      "genres": [],
+      "isrc": "BXG6R2600419",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/aafeb3be4c939ad5df1e9b293e9c5245/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/6b632b06-25d5-4be2-9cbc-fddf261203f2",
-        "itunes": "https://music.apple.com/us/album/os-maloca-feat-mc-livinho-mc-davi-mc-brinquedo-mc-pedrinho/1577744468?i=1577744471&uo=4"
+        "deezer": "https://www.deezer.com/track/3945487271"
       }
     },
     "lyricPath": "/lyrics/98024.txt"

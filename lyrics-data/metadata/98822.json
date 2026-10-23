@@ -4,16 +4,19 @@
     "metadata": {
       "title": "INSUFICIENTE",
       "artists": [
-        "ohayomatsu, Guap508, casnog, Sailler"
+        "ohayomatsu",
+        "Guap508",
+        "casnog",
+        "Sailler"
       ],
-      "album": "Desde La Muerte Al Destino. (DELUXE)",
-      "releaseDate": "2022",
-      "durationMs": 226000,
+      "album": "FEELINGS & DREAMS",
+      "releaseDate": "2023-11-17",
+      "durationMs": 140000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "QZZ8B2335823",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/f71cf41ed7b3d65ea3ed2c480f91cf65/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/e5a72a26-cd71-4fa7-8e81-a38a72efb132"
+        "deezer": "https://www.deezer.com/track/3077112011"
       }
     },
     "lyricPath": "/lyrics/98822.txt"

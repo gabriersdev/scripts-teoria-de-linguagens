@@ -4,16 +4,19 @@
     "metadata": {
       "title": "OURO ROSE",
       "artists": [
-        "MD Chefe, Maru2D, NandaTsunami, $CAM"
+        "MD Chefe",
+        "Maru2D",
+        "NandaTsunami",
+        "$CAM"
       ],
-      "album": "Irrastreável",
-      "releaseDate": "2024-03-28",
-      "durationMs": 190000,
+      "album": "Linguagem De Rua",
+      "releaseDate": "2026-05-14",
+      "durationMs": 206000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BKNIU2600018",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/40a3e26501bc08c96f3f031e59ba0505/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/b39296d9-f393-4e82-9919-5dc9f8c240b9"
+        "deezer": "https://www.deezer.com/track/3995385141"
       }
     },
     "lyricPath": "/lyrics/98951.txt"

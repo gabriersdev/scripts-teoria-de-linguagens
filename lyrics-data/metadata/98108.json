@@ -4,17 +4,27 @@
     "metadata": {
       "title": "SET DO JAPA NK 2.0",
       "artists": [
-        "DJ Japa NK, MC Ryan SP, MC Meno K, Mc IG, MC LUUKY, Mc Jacaré, Mc Rodrigo do CN, MC GH do 7, Mc Lele JP, MC Jvila"
+        "DJ Japa NK",
+        "MC Ryan SP",
+        "MC Meno K",
+        "Mc IG",
+        "MC LUUKY",
+        "Mc Jacaré",
+        "Mc Rodrigo do CN",
+        "MC GH do 7",
+        "Mc Lele JP",
+        "MC Jvila"
       ],
-      "album": "Back To Basics",
-      "releaseDate": "2019",
-      "durationMs": 44000,
-      "genres": [],
-      "isrc": "BKUNW2500017",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/a291c75e70fe163269106d42c7be5940/1000x1000-000000-80-0-0.jpg",
+      "album": "Vou Viver Minha Vida (Set do Japa NK 2.0) - Single",
+      "releaseDate": "2026-02-10T12:00:00Z",
+      "durationMs": 177692,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/6d/b0/9e6db0c1-5b27-bd5b-0af9-5b01a8bf3fb2/5026854642161.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599",
-        "deezer": "https://www.deezer.com/track/3657130232"
+        "itunes": "https://music.apple.com/us/album/vou-viver-minha-vida-set-do-japa-nk-2-0/1874047014?i=1874047017&uo=4"
       }
     },
     "lyricPath": "/lyrics/98108.txt"

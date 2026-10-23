@@ -4,16 +4,17 @@
     "metadata": {
       "title": "MEDICINA",
       "artists": [
-        "Teto, WIU"
+        "Teto",
+        "WIU"
       ],
-      "album": "UNDER THE INFLUENCE",
-      "releaseDate": "2026-06-19",
-      "durationMs": 145920,
+      "album": "COLAPSO GLOBAL",
+      "releaseDate": "2026-01-27",
+      "durationMs": 131000,
       "genres": [],
       "isrc": "BXW922600003",
       "coverUrl": "https://cdn-images.dzcdn.net/images/cover/19b15bdd0ffa8937bbb5011da73291d3/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/e3258ddc-f67c-450c-821a-9f9ccbc60f38",
+        "musicbrainz": "https://musicbrainz.org/recording/025aeb39-bc6c-4d40-a221-588c9f909d5a",
         "deezer": "https://www.deezer.com/track/3786886862"
       }
     },

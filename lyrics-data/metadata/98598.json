@@ -6,16 +6,14 @@
       "artists": [
         "Pitty"
       ],
-      "album": "Vinyl Raritäten 21",
-      "releaseDate": "2004",
-      "durationMs": 115000,
-      "genres": [
-        "schlager"
-      ],
+      "album": "Pitty",
+      "releaseDate": "2026-10-16",
+      "durationMs": 184803,
+      "genres": [],
       "isrc": "BRDEP2600310",
       "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0c067deba18d84d7e51a493a2d951df5/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/b2a1d025-7693-450b-8810-f54969fe14a7",
+        "musicbrainz": "https://musicbrainz.org/recording/bf3acdde-e3a8-4bad-b035-b43fa7b454d1",
         "deezer": "https://www.deezer.com/track/4257086441"
       }
     },

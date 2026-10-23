@@ -4,16 +4,17 @@
     "metadata": {
       "title": "Kaboom!",
       "artists": [
-        "D$ Luqi, Ark King"
+        "D$ Luqi",
+        "Ark King"
       ],
-      "album": "The Ultimate Marilyn Manson",
-      "releaseDate": "2018-06-16",
-      "durationMs": 219456,
+      "album": "O Emblema do Infinito",
+      "releaseDate": "2024-08-08",
+      "durationMs": 131000,
       "genres": [],
-      "isrc": "AUXN21805550",
+      "isrc": "BKLL22400011",
       "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3ab40bdd7c87b75c21401f79028b3dcf/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/0113c677-17b8-4115-a3f6-5b71ff5dda6b",
+        "musicbrainz": "https://musicbrainz.org/recording/d42d3170-33a8-441e-8366-203692eae8c8",
         "deezer": "https://www.deezer.com/track/2858477992"
       }
     },

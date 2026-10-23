@@ -4,16 +4,21 @@
     "metadata": {
       "title": "Sentadinha Cabulosa X Saudade",
       "artists": [
-        "DJ BRIZY, MC BN, MC BROOKLYN, Luiz Lins, DJ TN Beat, FreesTyle Sounds"
+        "DJ BRIZY",
+        "MC BN",
+        "MC BROOKLYN",
+        "Luiz Lins",
+        "DJ TN Beat",
+        "FreesTyle Sounds"
       ],
-      "album": "Samma uns ehrlich",
-      "releaseDate": "2007-06-30",
-      "durationMs": 292000,
+      "album": "Sentadinha Cabulosa X Saudade",
+      "releaseDate": "2026-05-09",
+      "durationMs": 150000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BKY2C2600667",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7257318f42ced4e2f49b0deb2b903dc4/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/906928e3-6ea7-43a8-9bc6-36b583afaef6"
+        "deezer": "https://www.deezer.com/track/4008540981"
       }
     },
     "lyricPath": "/lyrics/98019.txt"

@@ -4,17 +4,20 @@
     "metadata": {
       "title": "Big Big",
       "artists": [
-        "Duzz, Leozin, Volp"
+        "Duzz",
+        "Leozin",
+        "Volp"
       ],
-      "album": "Studies 01-20",
-      "releaseDate": "2020-02-07",
-      "durationMs": 257088,
-      "genres": [],
-      "isrc": "QZHZ32012269",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/875235c932d7aaa68b898f84caceb840/1000x1000-000000-80-0-0.jpg",
+      "album": "The Role Playerz Instrumentals",
+      "releaseDate": "2022-11-13T12:00:00Z",
+      "durationMs": 200769,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/16/f9/21/16f9218e-09e6-1124-4f1c-cc5e1e1f9be9/artwork.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/55019186-f60f-4ecc-8d42-994bda4ff78f",
-        "deezer": "https://www.deezer.com/track/942669012"
+        "itunes": "https://music.apple.com/us/album/big-keys/1654546157?i=1654546166&uo=4"
       }
     },
     "lyricPath": "/lyrics/99126.txt"

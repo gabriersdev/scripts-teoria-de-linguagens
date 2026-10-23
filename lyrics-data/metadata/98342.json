@@ -6,18 +6,17 @@
       "artists": [
         "Racionais MC's"
       ],
-      "album": "Sludge Houz Vol II.",
-      "releaseDate": "2014-10-14",
-      "durationMs": 408000,
+      "album": "1000 trutas, 1000 tretas",
+      "releaseDate": "2006",
+      "durationMs": 318760,
       "genres": [
         "Hip-Hop/Rap"
       ],
-      "isrc": "US7VG1324976",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3f/ca/fd/3fcafdad-07c1-c752-7878-39dfd32b3b28/0.jpg/1000x1000bb.jpg",
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f1/79/0a/f1790a95-0b5f-7ca5-ecc9-4fb0ec7932c0/0.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/df11ec13-4868-4b67-819f-5dfbb67b62c6",
-        "itunes": "https://music.apple.com/us/album/negro-drama/1198317040?i=1198317077&uo=4",
-        "deezer": "https://www.deezer.com/track/140640885"
+        "musicbrainz": "https://musicbrainz.org/recording/382381a5-31a3-47ab-91d5-e85338f9b9b5",
+        "itunes": "https://music.apple.com/us/album/negro-drama-ao-vivo/1198320666?i=1198320702&uo=4"
       }
     },
     "lyricPath": "/lyrics/98342.txt"

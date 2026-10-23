@@ -4,19 +4,21 @@
     "metadata": {
       "title": "Sem Sentimento",
       "artists": [
-        "Vulgo FK, DU'L, MC GP, Pedro Lotto, Toledo, Galdino"
+        "Vulgo FK",
+        "DU'L",
+        "MC GP",
+        "Pedro Lotto",
+        "Toledo",
+        "Galdino"
       ],
-      "album": "F*CK SONGS",
-      "releaseDate": "2024-10-24",
-      "durationMs": 142000,
-      "genres": [
-        "Brazilian"
-      ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/ac/68/1dac68f4-a8b0-220d-f63a-c6a6406bbb34/5026854256771.jpg/1000x1000bb.jpg",
+      "album": "Sem Sentimento",
+      "releaseDate": "2025-04-03",
+      "durationMs": 132000,
+      "genres": [],
+      "isrc": "BRRGE2500206",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/2498145cf8ca17ff600a3f888ac46043/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/ab003d80-7d68-41ab-a7ab-8a2a32da655e",
-        "itunes": "https://music.apple.com/us/album/errei-dnv-feat-fepache/1854266112?i=1854266363&uo=4"
+        "deezer": "https://www.deezer.com/track/3293510931"
       }
     },
     "lyricPath": "/lyrics/98976.txt"

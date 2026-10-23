@@ -6,17 +6,13 @@
       "artists": [
         "Raffa Moreira"
       ],
-      "album": "Wild Summer 2017",
-      "releaseDate": "2016",
-      "durationMs": 135000,
-      "genres": [
-        "Gangsta Rap"
-      ],
+      "album": "BC Raff Album",
+      "releaseDate": "2020-04-23",
+      "durationMs": 133000,
+      "genres": [],
       "isrc": "QZGLS2093503",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ac/72/d1/ac72d166-70eb-aa72-b1c3-4be693bbca1e/197368386911_cover.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/33643deac2782e5d0d25e340826da1f5/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/120a9341-1e6b-43b1-a0a9-aa637d5fa799",
-        "itunes": "https://music.apple.com/us/album/beleza-ex%C3%B3tica/1673521839?i=1673521840&uo=4",
         "deezer": "https://www.deezer.com/track/1449726612"
       }
     },

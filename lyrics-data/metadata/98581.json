@@ -6,17 +6,14 @@
       "artists": [
         "Biquini Cavadão"
       ],
-      "album": "Violência & Sobrevivência",
-      "releaseDate": "1982-09",
-      "durationMs": 303440,
-      "genres": [
-        "Brazilian"
-      ],
+      "album": "O melhor de 2",
+      "releaseDate": "2017-10-06",
+      "durationMs": 270666,
+      "genres": [],
       "isrc": "BRPGD9100015",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/f3/5c/bef35ce6-a036-1784-0ec9-bc80953fef5c/7898324309373.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3b7d19910dac8dc801c85aa1b732bace/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/155e1e28-7a02-4c6d-8a87-b0efb0be112a",
-        "itunes": "https://music.apple.com/us/album/z%C3%A9-ningu%C3%A9m/980648275?i=980648759&uo=4",
+        "musicbrainz": "https://musicbrainz.org/recording/6598fd1f-8830-4190-af2a-16ff6f0d2f91",
         "deezer": "https://www.deezer.com/track/413745962"
       }
     },

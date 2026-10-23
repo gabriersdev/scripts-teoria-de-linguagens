@@ -4,20 +4,19 @@
     "metadata": {
       "title": "Mente Barulhenta",
       "artists": [
-        "Mc IG, Mc Lele JP, DJ Oreia, DJ Noiskita"
+        "Mc IG",
+        "Mc Lele JP",
+        "DJ Oreia",
+        "DJ Noiskita"
       ],
-      "album": "Samma uns ehrlich",
-      "releaseDate": "2007-06-30",
-      "durationMs": 292000,
-      "genres": [
-        "Forró"
-      ],
+      "album": "Quem Tá Vivo, Tá Vivendo",
+      "releaseDate": "2026-03-26",
+      "durationMs": 215000,
+      "genres": [],
       "isrc": "BRWMB2600273",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/d0/76/f0d076fe-0b77-2f42-fb4f-8cf22752cc3d/1200220156436.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cf552036cab93366e7b408de225723b8/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/906928e3-6ea7-43a8-9bc6-36b583afaef6",
-        "itunes": "https://music.apple.com/us/album/mente-barulhenta/6813223088?i=6813223495&uo=4",
-        "deezer": "https://www.deezer.com/track/3913742761"
+        "deezer": "https://www.deezer.com/track/3913744081"
       }
     },
     "lyricPath": "/lyrics/98030.txt"

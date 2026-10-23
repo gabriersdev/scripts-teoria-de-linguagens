@@ -6,8 +6,8 @@
       "artists": [
         "Nação Zumbi"
       ],
-      "album": "Nação Zumbi",
-      "releaseDate": "2004-04-06T12:00:00Z",
+      "album": "Rock-Se",
+      "releaseDate": "2015-07-10",
       "durationMs": 291360,
       "genres": [
         "Brazilian"
@@ -15,6 +15,7 @@
       "isrc": "BR1431400008",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/44/f9/b2/44f9b2b8-a42c-4a45-b90f-d0909d94779d/cover.jpg/1000x1000bb.jpg",
       "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5281089a-f515-49b0-b531-8fadcaa90a68",
         "itunes": "https://music.apple.com/us/album/um-sonho/1574358011?i=1574358284&uo=4",
         "deezer": "https://www.deezer.com/track/1418854552"
       }

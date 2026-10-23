@@ -6,14 +6,16 @@
       "artists": [
         "Marília Mendonça"
       ],
-      "album": "Ausência",
-      "releaseDate": "2018-03-14",
+      "album": "Agora É Que São Elas 2 (Ao Vivo) - Acústico",
+      "releaseDate": "2018-02-23T12:00:00Z",
       "durationMs": 149995,
-      "genres": [],
+      "genres": [
+        "Sertanejo"
+      ],
       "isrc": "BRWNV1800016",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/010b91440e66716ebe048325ced9c8e5/1000x1000-000000-80-0-0.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6f/c7/cb/6fc7cb10-973f-25bb-ea48-44a668911a70/7891430254377.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/896d42f7-abe0-4327-8138-e8c90a89c0ac",
+        "itunes": "https://music.apple.com/us/album/aus%C3%AAncia-ac%C3%BAstico/1371052287?i=1371053049&uo=4",
         "deezer": "https://www.deezer.com/track/485228852"
       }
     },

@@ -6,17 +6,14 @@
       "artists": [
         "Raimundos"
       ],
-      "album": "Warner 25 Anos",
-      "releaseDate": "2001",
-      "durationMs": 248000,
-      "genres": [
-        "Rock"
-      ],
+      "album": "MTV Ao Vivo, Volume 02",
+      "releaseDate": "2000",
+      "durationMs": 248226,
+      "genres": [],
       "isrc": "BRWMB9600970",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3f/a4/f8/3fa4f883-d23e-1845-984e-9d1ae2b268eb/0.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0f85791cb1305b772f5e89de04aa1d4a/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/0e306231-8fc1-4010-ae16-961a1de02f88",
-        "itunes": "https://music.apple.com/us/album/esporrei-na-manivela-ao-vivo/879819848?i=879819851&uo=4",
+        "musicbrainz": "https://musicbrainz.org/recording/d44926f5-f9f6-44bb-8c05-018a42419639",
         "deezer": "https://www.deezer.com/track/3895374"
       }
     },

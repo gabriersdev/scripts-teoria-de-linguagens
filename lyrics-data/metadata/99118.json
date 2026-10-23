@@ -6,16 +6,14 @@
       "artists": [
         "Derek"
       ],
-      "album": "For Real - Single",
-      "releaseDate": "2022-02-14T12:00:00Z",
-      "durationMs": 99500,
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
+      "album": "Ícone",
+      "releaseDate": "2020-02-13",
+      "durationMs": 121000,
+      "genres": [],
       "isrc": "US7VG2071004",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9e/6e/ca/9e6ecaf5-5018-7c15-952b-d99e9a3b3ec7/192641971242_Cover.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/e8c4ac9c118e7bd9a2d16b8c5cc86d12/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/for-real/1613440746?i=1613440751&uo=4",
+        "musicbrainz": "https://musicbrainz.org/recording/7332dceb-cf8f-4b88-a266-9b9fb2ea4516",
         "deezer": "https://www.deezer.com/track/3467718451"
       }
     },

@@ -6,17 +6,17 @@
       "artists": [
         "Luan Santana"
       ],
-      "album": "Te Esperando - Single",
-      "releaseDate": "2013-04-09T12:00:00Z",
-      "durationMs": 245682,
+      "album": "O nosso tempo é hoje",
+      "releaseDate": "2013-10-21",
+      "durationMs": 277000,
       "genres": [
         "Sertanejo"
       ],
-      "isrc": "BRRGE1300069",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/dd/05/9c/dd059c91-ae26-2111-026f-6984012045de/7891430294922.jpg/1000x1000bb.jpg",
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/1f/0d/d8/1f0dd87e-d149-8636-2f86-8f92343d5092/7891430282226.tif/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/te-esperando/628202365?i=628202794&uo=4",
-        "deezer": "https://www.deezer.com/track/67796035"
+        "musicbrainz": "https://musicbrainz.org/recording/827ee5a4-e112-432f-9e82-7453d838d992",
+        "itunes": "https://music.apple.com/us/album/te-esperando/719077367?i=719077401&uo=4"
       }
     },
     "lyricPath": "/lyrics/98601.txt"

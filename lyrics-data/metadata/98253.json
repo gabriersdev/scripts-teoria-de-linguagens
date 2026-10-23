@@ -4,16 +4,18 @@
     "metadata": {
       "title": "Acima De Mim Só Deus",
       "artists": [
-        "Filipe Ret, Mãolee, Maru2D"
+        "Filipe Ret",
+        "Mãolee",
+        "Maru2D"
       ],
-      "album": "NUME",
-      "releaseDate": "2024-11-14",
-      "durationMs": 150000,
+      "album": "Nume - Epílogo",
+      "releaseDate": "2025-07-17",
+      "durationMs": 212608,
       "genres": [],
-      "isrc": "BRRGE2401132",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/735f983abbbd69f722fd24af7148dac6/1000x1000-000000-80-0-0.jpg",
+      "isrc": null,
+      "coverUrl": null,
       "sources": {
-        "deezer": "https://www.deezer.com/track/3074647171"
+        "musicbrainz": "https://musicbrainz.org/recording/ad9fe08c-86ad-40fd-bd72-86663054ed12"
       }
     },
     "lyricPath": "/lyrics/98253.txt"

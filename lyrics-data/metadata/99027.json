@@ -6,17 +6,14 @@
       "artists": [
         "Sidoka"
       ],
-      "album": "Ignition Mixes / Level Up",
-      "releaseDate": "2018-07-18T12:00:00Z",
-      "durationMs": 367000,
-      "genres": [
-        "R&B/Soul"
-      ],
-      "isrc": "GBMKA0600133",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/51/af/c951af0e-9857-b9aa-2fab-d3f3f4e1bf7b/190296900709.jpg/1000x1000bb.jpg",
+      "album": "LEVEL UP",
+      "releaseDate": "2026-04-10",
+      "durationMs": 233000,
+      "genres": [],
+      "isrc": "BK6NL2600014",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6327a0219b5592bfa1a33449a308bd09/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/f8a427fa-54ce-4e0f-b3fb-02765d310b1f",
-        "itunes": "https://music.apple.com/us/album/level-up/1777266393?i=1777266403&uo=4"
+        "deezer": "https://www.deezer.com/track/3947444551"
       }
     },
     "lyricPath": "/lyrics/99027.txt"

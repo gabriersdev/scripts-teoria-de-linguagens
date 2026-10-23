@@ -6,8 +6,8 @@
       "artists": [
         "Teto"
       ],
-      "album": "MAIOR QUE O TEMPO",
-      "releaseDate": "2025-03-27T12:00:00Z",
+      "album": "Maior Que o Tempo",
+      "releaseDate": "2025-03-27",
       "durationMs": 188571,
       "genres": [
         "Hip-Hop/Rap"
@@ -15,6 +15,7 @@
       "isrc": "BXW922500039",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/ec/56/66ec563c-f51d-1b02-fff6-65da45245494/5034644563848.jpg/1000x1000bb.jpg",
       "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/30056d2c-f68b-4728-81fd-a0abeb754ed4",
         "itunes": "https://music.apple.com/us/album/yes-or-no/1803726553?i=1803727170&uo=4",
         "deezer": "https://www.deezer.com/track/3289692681"
       }

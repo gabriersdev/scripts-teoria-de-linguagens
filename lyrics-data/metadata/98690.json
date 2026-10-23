@@ -6,17 +6,16 @@
       "artists": [
         "Matogrosso & Mathias"
       ],
-      "album": "Lairton 5 (ao vivo)",
-      "releaseDate": "2016-10-17",
-      "durationMs": 245000,
+      "album": "Mistério",
+      "releaseDate": "2003-05-01T12:00:00Z",
+      "durationMs": 239101,
       "genres": [
         "Sertanejo"
       ],
       "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ff/60/b6/ff60b62b-a350-4c49-f41b-b71e293fc088/0.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/5f/b6/2b5fb651-20da-00e0-86e2-05fb28c0a3e9/7908067184103.png/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/d059f219-2b9a-40af-8b80-41c07c24867a",
-        "itunes": "https://music.apple.com/us/album/tentei-te-esquecer-ao-vivo/998668436?i=998668475&uo=4"
+        "itunes": "https://music.apple.com/us/album/tentei-te-esquecer/1740838115?i=1740838124&uo=4"
       }
     },
     "lyricPath": "/lyrics/98690.txt"

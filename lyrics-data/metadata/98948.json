@@ -4,16 +4,20 @@
     "metadata": {
       "title": "PUCA",
       "artists": [
-        "Ark King, Jvrthxypz, ohayomatsu, NIKK, Junim"
+        "Ark King",
+        "Jvrthxypz",
+        "ohayomatsu",
+        "NIKK",
+        "Junim"
       ],
-      "album": "Words at Sea",
-      "releaseDate": "2017-12-08",
-      "durationMs": 174000,
+      "album": "Lobelia's Garden",
+      "releaseDate": "2024-04-26",
+      "durationMs": 171000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "GBWUL2489006",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/257d53ae218bc10c1a49d682f574ce8f/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/b0b65310-228c-4404-b2a6-ceaffc5c8546"
+        "deezer": "https://www.deezer.com/track/2761818251"
       }
     },
     "lyricPath": "/lyrics/98948.txt"

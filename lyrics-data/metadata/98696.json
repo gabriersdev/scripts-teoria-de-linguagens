@@ -6,17 +6,17 @@
       "artists": [
         "Gusttavo Lima"
       ],
-      "album": "Esmeraldas",
-      "releaseDate": "2014-09-23",
-      "durationMs": 218000,
+      "album": "Embaixador Acústico - Ao Vivo",
+      "releaseDate": "2024-08-07T12:00:00Z",
+      "durationMs": 201557,
       "genres": [
         "Sertanejo"
       ],
-      "isrc": "BRWMB1400275",
+      "isrc": "BXBAL2400035",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/97/87/479787d1-21dc-1e79-933f-85d9268514df/196872521009.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/357da667-5499-43d8-aaef-6d9824be07f9",
-        "itunes": "https://music.apple.com/us/album/a-noite-la-notte-ao-vivo/1771971474?i=1771971480&uo=4"
+        "itunes": "https://music.apple.com/us/album/a-noite-la-notte-ao-vivo/1771971474?i=1771971480&uo=4",
+        "deezer": "https://www.deezer.com/track/3027689651"
       }
     },
     "lyricPath": "/lyrics/98696.txt"

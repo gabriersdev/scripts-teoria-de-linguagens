@@ -4,16 +4,25 @@
     "metadata": {
       "title": "Poesia Acústica #11 Nada Mudou",
       "artists": [
-        "Pineapple StormTv, Azzy, MC Ryan SP, Chris MC, Xamã, Lourena, L7NNON, Cynthia Luz, Mc Poze do Rodo, Salve Malak"
+        "Pineapple StormTv",
+        "Azzy",
+        "MC Ryan SP",
+        "Chris MC",
+        "Xamã",
+        "Lourena",
+        "L7NNON",
+        "Cynthia Luz",
+        "Mc Poze do Rodo",
+        "Salve Malak"
       ],
-      "album": "Poesia Acústica #11: Nada Mudou",
-      "releaseDate": null,
-      "durationMs": 600000,
+      "album": "POESIA ACÚSTICA #11 - VERSÕES",
+      "releaseDate": "2026-02-06",
+      "durationMs": 501000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BX6Y62600013",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9655d06269fe928164bdee84229c5591/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/fb3020a6-89be-4b7c-831c-8d28200a311a"
+        "deezer": "https://www.deezer.com/track/3826973091"
       }
     },
     "lyricPath": "/lyrics/98294.txt"

@@ -4,16 +4,22 @@
     "metadata": {
       "title": "Cuida do Pet",
       "artists": [
-        "Oldilla, Mc Iguinho Ct, MC Willian, Aaron Modesto, Mc Negão Original, DU'L, Dj Aladin GDB"
+        "Oldilla",
+        "Mc Iguinho Ct",
+        "MC Willian",
+        "Aaron Modesto",
+        "Mc Negão Original",
+        "DU'L",
+        "Dj Aladin GDB"
       ],
-      "album": "Back To Basics",
-      "releaseDate": "2019",
-      "durationMs": 44000,
+      "album": "Cuida do Pet",
+      "releaseDate": "2026-05-29",
+      "durationMs": 459000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BK44R2600030",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0fd527a4f0a366fb3f1db9e6ca6539c2/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/577da9d4-5042-4839-b31b-860863673599"
+        "deezer": "https://www.deezer.com/track/4003509191"
       }
     },
     "lyricPath": "/lyrics/98006.txt"

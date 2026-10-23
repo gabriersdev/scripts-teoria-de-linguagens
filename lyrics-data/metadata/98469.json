@@ -6,17 +6,14 @@
       "artists": [
         "Hateen"
       ],
-      "album": "Toyshop, Man or Astroman? + 9 Guitar Bands",
-      "releaseDate": "2016-11-24T12:00:00Z",
-      "durationMs": 120800,
-      "genres": [
-        "Rock"
-      ],
+      "album": "N@o Eh sÓ Um4 FaSeh",
+      "releaseDate": "2006-04-26",
+      "durationMs": 189893,
+      "genres": [],
       "isrc": "BRMSU0500113",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b8/6a/6e/b86a6eaf-22ab-e0a8-f8a0-d9b6be737c06/0.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/87115dbf641905b222c7cd0f35847e13/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/f7b16a1b-f49c-4390-9c47-a55342ce8127",
-        "itunes": "https://music.apple.com/us/album/1997-ao-vivo/1434720101?i=1434720112&uo=4",
+        "musicbrainz": "https://musicbrainz.org/recording/0205d1aa-cd3d-4fc0-aed8-d553a27d6863",
         "deezer": "https://www.deezer.com/track/44393641"
       }
     },

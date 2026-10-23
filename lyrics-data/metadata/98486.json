@@ -12,11 +12,10 @@
       "genres": [
         "Latin"
       ],
-      "isrc": "BRPGD9900025",
+      "isrc": null,
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9d/0b/ef/9d0bef13-28a8-7fc6-dc4a-2c9763d13030/13UMGIM85784.rgb.jpg/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/uma-velha-can%C3%A7%C3%A3o-rockn-roll/713906191?i=713906651&uo=4",
-        "deezer": "https://www.deezer.com/track/1040236952"
+        "itunes": "https://music.apple.com/us/album/uma-velha-can%C3%A7%C3%A3o-rockn-roll/713906191?i=713906651&uo=4"
       }
     },
     "lyricPath": "/lyrics/98486.txt"

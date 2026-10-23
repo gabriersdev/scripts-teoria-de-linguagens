@@ -6,16 +6,21 @@
       "artists": [
         "Cachorro Grande"
       ],
-      "album": "Pista Livre",
-      "releaseDate": "2005-02-21T12:00:00Z",
-      "durationMs": 251867,
+      "album": "Pista livre",
+      "releaseDate": "2005-05",
+      "durationMs": 251866,
       "genres": [
-        "Brazilian"
+        "rock",
+        "alternative rock",
+        "brazilian",
+        "indie",
+        "rock and roll"
       ],
       "isrc": "BRDEP0500083",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/ec/19/66/ec1966d7-b232-e2ba-8101-e14c251a8426/7898324301643.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/44/b0/9d/44b09d8b-b1b4-e9f7-2926-1857e1c55a5c/7898324304392.jpg/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/sinceramente/977468548?i=977468738&uo=4",
+        "musicbrainz": "https://musicbrainz.org/recording/1301bd83-dee3-437e-958b-bf8ba158cdd0",
+        "itunes": "https://music.apple.com/us/album/sinceramente/977448857?i=977448861&uo=4",
         "deezer": "https://www.deezer.com/track/96008358"
       }
     },

@@ -6,17 +6,13 @@
       "artists": [
         "MC Rick"
       ],
-      "album": "Verão do Galizão 2018",
-      "releaseDate": "2017-11-29",
-      "durationMs": 165000,
-      "genres": [
-        "Baile Funk"
-      ],
+      "album": "Xia Pia Brota",
+      "releaseDate": "2019-05-10",
+      "durationMs": 180000,
+      "genres": [],
       "isrc": "QZGLS1971680",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/bd/0d/4a/bd0d4a29-e42f-3f78-37eb-e8ee07057b02/0.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0452c1bb20c4cf9e728b3beeac9bb34a/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/e2a532cd-be60-4938-825c-fb551a33b078",
-        "itunes": "https://music.apple.com/us/album/mega-online/1469184115?i=1469184267&uo=4",
         "deezer": "https://www.deezer.com/track/679013342"
       }
     },

@@ -4,16 +4,16 @@
     "metadata": {
       "title": "POETA ROCKSTAR",
       "artists": [
-        "Abbot, Los Brasileros"
+        "Abbot",
+        "Los Brasileros"
       ],
-      "album": "[allen abbot]: WORLD INVASION",
-      "releaseDate": "2023-07-30",
-      "durationMs": 117549,
+      "album": "POETA ROCKSTAR",
+      "releaseDate": "2026-03-05",
+      "durationMs": 170000,
       "genres": [],
       "isrc": "BKHSG2600003",
       "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7729d18a0c8f7ec761dfbfb0af8baa8d/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/ec402978-18cd-4ae5-9f81-e597633e458d",
         "deezer": "https://www.deezer.com/track/3824654651"
       }
     },

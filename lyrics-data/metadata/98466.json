@@ -6,17 +6,15 @@
       "artists": [
         "Lulu Santos"
       ],
-      "album": "Novo Millennium: 20 músicas para uma nova era",
-      "releaseDate": "2005-10-05",
-      "durationMs": 214586,
-      "genres": [
-        "Brazilian"
-      ],
-      "isrc": "BRMCA9600055",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6a/c5/56/6ac55680-115a-6b51-1ff3-f658bf28c823/022925515728.jpg/1000x1000bb.jpg",
+      "album": "20 anos de Rock Brasil",
+      "releaseDate": "2003",
+      "durationMs": 215651,
+      "genres": [],
+      "isrc": "BRBMG0000297",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6037ff7681e14a499fe41e5f78bc633f/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/8ac387bb-3992-4b12-a045-56c911df4f00",
-        "itunes": "https://music.apple.com/us/album/tempos-modernos/42224840?i=42224863&uo=4"
+        "musicbrainz": "https://musicbrainz.org/recording/452e1c91-64c7-4791-a43f-c556d88723de",
+        "deezer": "https://www.deezer.com/track/72318837"
       }
     },
     "lyricPath": "/lyrics/98466.txt"

@@ -4,17 +4,20 @@
     "metadata": {
       "title": "O Casamento",
       "artists": [
-        "Sid, Spinardi, Ugo Ludovico"
+        "Sid",
+        "Spinardi",
+        "Ugo Ludovico"
       ],
-      "album": "Poesias e Frustrações",
-      "releaseDate": "2019-08-22",
-      "durationMs": 209000,
-      "genres": [],
-      "isrc": "BXQHQ2200015",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/05137a377eb3ca68adf671f0d6d8f83d/1000x1000-000000-80-0-0.jpg",
+      "album": "Pancada Sem Luva 2.0",
+      "releaseDate": "2024-03-05T12:00:00Z",
+      "durationMs": 247667,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/e1/54/e6e154cf-1673-710f-8396-763269cc24bb/0.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/26e38fcd-715a-4f1d-897b-705a26248fc0",
-        "deezer": "https://www.deezer.com/track/1848599077"
+        "itunes": "https://music.apple.com/us/album/convite-de-casamento/1737705901?i=1737705914&uo=4"
       }
     },
     "lyricPath": "/lyrics/98390.txt"

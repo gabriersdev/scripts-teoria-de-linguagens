@@ -4,16 +4,19 @@
     "metadata": {
       "title": "MOVIBE",
       "artists": [
-        "Alee, NADAMAL, saboya, Dexter"
+        "Alee",
+        "NADAMAL",
+        "saboya",
+        "Dexter"
       ],
-      "album": "Youtube Sessions",
-      "releaseDate": "2023-05-19",
-      "durationMs": 149281,
+      "album": "DIAS ANTES DO CAOS",
+      "releaseDate": "2024-02-29",
+      "durationMs": 145000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BKNDN2400017",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d630545501528d92d0431a405f0f30f2/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/1e682682-67e1-472a-acb8-ee160ffc888a"
+        "deezer": "https://www.deezer.com/track/2675770122"
       }
     },
     "lyricPath": "/lyrics/98827.txt"

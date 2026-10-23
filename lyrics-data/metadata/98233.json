@@ -4,18 +4,17 @@
     "metadata": {
       "title": "War",
       "artists": [
-        "Filipe Ret, Dallass"
+        "Filipe Ret",
+        "Dallass"
       ],
-      "album": "Deus Perdoa - Single",
-      "releaseDate": "2023-03-21T12:00:00Z",
-      "durationMs": 137143,
-      "genres": [
-        "Rap"
-      ],
+      "album": "FRXV (Ao Vivo)",
+      "releaseDate": "2023-12-15",
+      "durationMs": 153093,
+      "genres": [],
       "isrc": "BRRGE2101319",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/03/47/1103476f-96ee-435f-ab35-3bc7fa5bda80/7891430763671.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/dfc53733c6052b14e79ed7e3c9a0ff3c/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/deus-perdoa/1676165973?i=1676165976&uo=4",
+        "musicbrainz": "https://musicbrainz.org/recording/bfd92b41-e5d7-4f60-a8fb-ba4c9466f209",
         "deezer": "https://www.deezer.com/track/1270057472"
       }
     },

@@ -4,16 +4,20 @@
     "metadata": {
       "title": "Desestressa",
       "artists": [
-        "Predella, Felp 22, Rodrigo Ogi, Pedro Qualy, Murillo e LT no Beat"
+        "Predella",
+        "Felp 22",
+        "Rodrigo Ogi",
+        "Pedro Qualy",
+        "Murillo e LT no Beat"
       ],
-      "album": "Mistérios",
-      "releaseDate": "2024-07-17",
-      "durationMs": 173333,
+      "album": "Desestressa",
+      "releaseDate": "2024-06-26",
+      "durationMs": 369000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BXG6R2400507",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b17592b466c9eb0352df3ebc300bd85c/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/9def442d-3a82-4c96-8911-7279a3794c00"
+        "deezer": "https://www.deezer.com/track/2861591282"
       }
     },
     "lyricPath": "/lyrics/98370.txt"

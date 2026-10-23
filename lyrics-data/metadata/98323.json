@@ -4,16 +4,21 @@
     "metadata": {
       "title": "Dharma",
       "artists": [
-        "AJULLIACOSTA, Dj KLJay, Maffalda"
+        "AJULLIACOSTA",
+        "Dj KLJay",
+        "Maffalda"
       ],
-      "album": "Novo Testamento",
-      "releaseDate": "2025-09-16",
-      "durationMs": 156500,
-      "genres": [],
+      "album": "O que a Julia vai ser?",
+      "releaseDate": "2025-11-20",
+      "durationMs": 138000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
       "isrc": "BXULA2500003",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/30bc1601e6596323b79f92258e21fd05/1000x1000-000000-80-0-0.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/00/fc/3800fc10-c874-9d26-e4d0-9125eb0a806d/199316254822_cover.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/11405069-e973-47be-98e7-5b0dade1c951",
+        "musicbrainz": "https://musicbrainz.org/recording/72fa509d-76f7-4a11-b9bb-fce8a3fbfd91",
+        "itunes": "https://music.apple.com/us/album/dharma/1837297327?i=1837297335&uo=4",
         "deezer": "https://www.deezer.com/track/3537912421"
       }
     },
