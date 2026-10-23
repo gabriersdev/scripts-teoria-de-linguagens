@@ -9,6 +9,7 @@
 - **`/lyrics-data`**: Dados minerados e estruturados (`{id}.json`) com metadados técnicos consolidados e pasta `/lyrics` contendo as letras (`{id}.txt`).
 - **`/scripts`**: Serviços e assistentes de CLI para extração e mineração de dados.
 - **`/util`**: Scripts utilitários de manutenção executados fora do fluxo principal.
+- **`index.html`**: Interface web monólita em Bootstrap 5 e Vue 3 para visualização de métricas de integridade e consulta global de músicas consumindo diretamente os arquivos de `/lyrics-list`.
 
 ## Scripts (`/scripts`)
 

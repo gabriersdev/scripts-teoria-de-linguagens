@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Relação de Músicas - Teoria de Linguagens</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    :root {
+      --bs-body-font-family: 'Barlow', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    }
+    body {
+      font-family: var(--bs-body-font-family);
+    }
+  </style>
+</head>
+<body class="bg-light">
+<div id="app">
+  <!-- Navbar -->
+  <header class="navbar navbar-expand-lg bg-white border-bottom py-2">
+    <div class="container-fluid px-3">
+        <span class="navbar-brand mb-0 h1 fs-6 fw-semibold text-dark">
+          Relação de Músicas - Teoria de Linguagens
+        </span>
+      <div class="d-flex align-items-center gap-3">
+        <span v-if="loading" class="text-secondary small">Carregando dados...</span>
+        <span v-else class="text-secondary small">Total catalogado: {{ tracks.length }} faixas</span>
+      </div>
+    </div>
+  </header>
+  
+  <div class="container-fluid py-3">
+    <!-- Alerta de Erro -->
+    <div v-if="error" class="alert alert-danger" role="alert">
+      <strong>Erro ao carregar dados:</strong> {{ error }}
+    </div>
+    
+    <div class="row g-3">
+      <!-- Aside Lateral de Navegacao -->
+      <aside class="col-md-3 col-lg-2">
+        <div class="card border mb-3">
+          <div class="card-header bg-white py-2 fw-semibold small text-secondary">
+            Navegação
+          </div>
+          <div class="list-group list-group-flush small">
+            <button
+              type="button"
+              class="list-group-item list-group-item-action d-flex justify-content-between align-items-center"
+              :class="{ 'active': currentTab === 'metrics' }"
+              @click="currentTab = 'metrics'"
+            >
+              <span>Métricas de Qualidade</span>
+            </button>
+            <button
+              type="button"
+              class="list-group-item list-group-item-action d-flex justify-content-between align-items-center"
+              :class="{ 'active': currentTab === 'search' && !selectedGenre }"
+              @click="setTabAndGenre('search', '')"
+            >
+              <span>Consulta Global</span>
+              <span class="text-secondary small" :class="{ 'text-white': currentTab === 'search' && !selectedGenre }">
+                  ({{ tracks.length }})
+                </span>
+            </button>
+          </div>
+        </div>
+        
+        <div class="card border">
+          <div class="card-header bg-white py-2 fw-semibold small text-secondary">
+            Gêneros
+          </div>
+          <div class="list-group list-group-flush small">
+            <button
+              v-for="g in genres"
+              :key="g.key"
+              type="button"
+              class="list-group-item list-group-item-action d-flex justify-content-between align-items-center"
+              :class="{ 'active': currentTab === 'search' && selectedGenre === g.key }"
+              @click="setTabAndGenre('search', g.key)"
+            >
+              <span>{{ g.name }}</span>
+              <span class="text-secondary small" :class="{ 'text-white': currentTab === 'search' && selectedGenre === g.key }">
+                  ({{ countByGenre(g.key) }})
+                </span>
+            </button>
+          </div>
+        </div>
+      </aside>
+      
+      <!-- Conteudo Principal -->
+      <main class="col-md-9 col-lg-10">
+        <!-- Visao 1: Metricas e Qualidade -->
+        <section v-if="currentTab === 'metrics'">
+          <div class="d-flex justify-content-between align-items-center mb-3">
+            <div>
+              <h1 class="h5 mb-1 text-dark fw-bold">Auditoria de Integridade do Corpus Musical</h1>
+              <p class="text-secondary small mb-0">{{ tracks.length }} faixas analisadas diretamente nas listas JSON</p>
+            </div>
+            <button class="btn btn-secondary btn-sm" @click="loadData">
+              Recarregar Listas
+            </button>
+          </div>
+          
+          <!-- Resumo Geral em Caixas Simples (Sem Aninhamento) -->
+          <div class="row g-3 mb-4">
+            <div class="col-sm-6 col-xl-3">
+              <div class="card border p-3">
+                <div class="text-secondary small mb-1">100% Completo (Meta + Letra)</div>
+                <div class="h4 mb-1 text-success fw-bold">{{ summary.both }}</div>
+                <div class="text-secondary small">{{ calcPercent(summary.both, summary.total) }} do total</div>
+              </div>
+            </div>
+            <div class="col-sm-6 col-xl-3">
+              <div class="card border p-3">
+                <div class="text-secondary small mb-1">Apenas Metadados (Falta Letra)</div>
+                <div class="h4 mb-1 text-warning fw-bold">{{ summary.metaOnly }}</div>
+                <div class="text-secondary small">{{ calcPercent(summary.metaOnly, summary.total) }} do total</div>
+              </div>
+            </div>
+            <div class="col-sm-6 col-xl-3">
+              <div class="card border p-3">
+                <div class="text-secondary small mb-1">Apenas Letra (Falta Meta)</div>
+                <div class="h4 mb-1 text-secondary fw-bold">{{ summary.lyricsOnly }}</div>
+                <div class="text-secondary small">{{ calcPercent(summary.lyricsOnly, summary.total) }} do total</div>
+              </div>
+            </div>
+            <div class="col-sm-6 col-xl-3">
+              <div class="card border p-3">
+                <div class="text-secondary small mb-1">Nenhum Dado Extraído</div>
+                <div class="h4 mb-1 text-danger fw-bold">{{ summary.neither }}</div>
+                <div class="text-secondary small">{{ calcPercent(summary.neither, summary.total) }} do total</div>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Tabela Detalhada por Genero -->
+          <div class="card border">
+            <div class="card-header bg-white py-2 fw-semibold text-dark">
+              Detalhamento por Gênero
+            </div>
+            <div class="card-body table-responsive">
+              <table class="table table-bordered table-hover table-sm align-middle mb-0 rounded-3">
+                <thead class="table-light">
+                <tr>
+                  <th>Gênero</th>
+                  <th class="text-end">Total</th>
+                  <th class="text-end">100% Completo</th>
+                  <th class="text-end">Só Metadados</th>
+                  <th class="text-end">Só Letra</th>
+                  <th class="text-end">Nenhum</th>
+                  <th class="text-end">Concluído (%)</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr v-for="g in genreStats" :key="g.key">
+                  <td class="fw-medium text-dark">{{ g.name }}</td>
+                  <td class="text-end">{{ g.total }}</td>
+                  <td class="text-end text-success fw-medium">{{ g.both }}</td>
+                  <td class="text-end text-warning">{{ g.metaOnly }}</td>
+                  <td class="text-end text-secondary">{{ g.lyricsOnly }}</td>
+                  <td class="text-end text-danger">{{ g.neither }}</td>
+                  <td class="text-end fw-semibold text-dark">{{ calcPercent(g.both, g.total) }}</td>
+                </tr>
+                </tbody>
+                <tfoot class="table-light fw-bold">
+                <tr>
+                  <td>Total</td>
+                  <td class="text-end">{{ summary.total }}</td>
+                  <td class="text-end text-success">{{ summary.both }}</td>
+                  <td class="text-end text-warning">{{ summary.metaOnly }}</td>
+                  <td class="text-end text-secondary">{{ summary.lyricsOnly }}</td>
+                  <td class="text-end text-danger">{{ summary.neither }}</td>
+                  <td class="text-end">{{ calcPercent(summary.both, summary.total) }}</td>
+                </tr>
+                </tfoot>
+              </table>
+            </div>
+          </div>
+        </section>
+        
+        <!-- Visao 2: Consulta Global -->
+        <section v-if="currentTab === 'search'">
+          <div class="d-flex justify-content-between align-items-center mb-3">
+            <div>
+              <h1 class="h5 mb-1 text-dark fw-bold">Consulta Global de Músicas</h1>
+              <p class="text-secondary small mb-0">Busca em tempo real por nome da música e artistas colaboradores</p>
+            </div>
+            <span class="text-secondary small">{{ filteredTracks.length }} faixas encontradas</span>
+          </div>
+          
+          <!-- Filtros de Busca -->
+          <div class="card border p-3 mb-3">
+            <div class="row g-2">
+              <div class="col-md-6">
+                <label class="form-label small fw-semibold text-secondary mb-1">Nome da Música ou Artista</label>
+                <input
+                  type="text"
+                  class="form-control form-control-sm"
+                  placeholder="Ex: Puxa o Lança, Veigh, Ratos de Porão..."
+                  v-model="searchQuery"
+                  @input="currentPage = 1"
+                >
+              </div>
+              <div class="col-md-3">
+                <label class="form-label small fw-semibold text-secondary mb-1">Gênero</label>
+                <select class="form-select form-select-sm" v-model="selectedGenre" @change="currentPage = 1">
+                  <option value="">Todos os Gêneros</option>
+                  <option v-for="g in genres" :key="g.key" :value="g.key">{{ g.name }}</option>
+                </select>
+              </div>
+              <div class="col-md-3">
+                <label class="form-label small fw-semibold text-secondary mb-1">Status</label>
+                <select class="form-select form-select-sm" v-model="selectedStatus" @change="currentPage = 1">
+                  <option value="">Todos os Status</option>
+                  <option value="both">Completo (100%)</option>
+                  <option value="metaOnly">Apenas Metadados</option>
+                  <option value="lyricsOnly">Apenas Letra</option>
+                  <option value="neither">Pendente (Nenhum)</option>
+                </select>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Tabela de Resultados -->
+          <div class="card border">
+            <div class="table-responsive card-body">
+              <table class="table table-hover table-bordered table-sm align-middle mb-0">
+                <thead class="table-light">
+                <tr>
+                  <th style="width: 90px;">ID</th>
+                  <th>Música</th>
+                  <th>Artistas</th>
+                  <th style="width: 120px;">Gênero</th>
+                  <th style="width: 170px;">Status</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr v-if="paginatedTracks.length === 0">
+                  <td colspan="5" class="text-center py-4 text-secondary">
+                    Nenhuma música encontrada para os filtros selecionados.
+                  </td>
+                </tr>
+                <tr v-for="t in paginatedTracks" :key="t.id">
+                  <td class="text-secondary small">{{ t.id }}</td>
+                  <td class="fw-medium text-dark">{{ t.name }}</td>
+                  <td class="text-secondary small">{{ t.artists || "Não informado" }}</td>
+                  <td class="text-capitalize small">{{ formatGenre(t.genre) }}</td>
+                  <td class="small">
+                    <span v-if="t.complete === true" class="text-success fw-medium">Completo</span>
+                    <span v-else-if="t.complete === 1" class="text-warning fw-medium">Apenas Metadados</span>
+                    <span v-else-if="t.status === 'lyricsOnly'" class="text-secondary fw-medium">Apenas Letra</span>
+                    <span v-else class="text-danger fw-medium">Pendente</span>
+                  </td>
+                </tr>
+                </tbody>
+              </table>
+            </div>
+            
+            <!-- Paginacao Simples -->
+            <div v-if="totalPages > 1" class="card-footer bg-white py-2 d-flex justify-content-between align-items-center">
+                <span class="text-secondary small">
+                  Página {{ currentPage }} de {{ totalPages }} ({{ filteredTracks.length }} itens)
+                </span>
+              <nav>
+                <ul class="pagination pagination-sm mb-0">
+                  <li class="page-item" :class="{ disabled: currentPage === 1 }">
+                    <button class="page-link" @click="currentPage--" :disabled="currentPage === 1">Anterior</button>
+                  </li>
+                  <li class="page-item" :class="{ disabled: currentPage === totalPages }">
+                    <button class="page-link" @click="currentPage++" :disabled="currentPage === totalPages">Próxima</button>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+<script>
+  const {createApp} = Vue;
+  
+  createApp({
+    data() {
+      return {
+        loading: true,
+        error: null,
+        currentTab: 'metrics',
+        searchQuery: '',
+        selectedGenre: '',
+        selectedStatus: '',
+        currentPage: 1,
+        pageSize: 30,
+        tracks: [],
+        genres: [
+          {key: 'funk', name: 'Funk', file: './lyrics-list/funk-list.json'},
+          {key: 'rap', name: 'Rap', file: './lyrics-list/rap-list.json'},
+          {key: 'rock', name: 'Rock', file: './lyrics-list/rock-list.json'},
+          {key: 'sertanejo', name: 'Sertanejo', file: './lyrics-list/sertanejo-list.json'},
+          {key: 'trap', name: 'Trap', file: './lyrics-list/trap-list.json'},
+          {key: 'trap-extra', name: 'Trap Extra', file: './lyrics-list/trap-extra-list.json'}
+        ]
+      };
+    },
+    computed: {
+      summary() {
+        const s = {
+          total: this.tracks.length,
+          both: 0,
+          metaOnly: 0,
+          lyricsOnly: 0,
+          neither: 0,
+          noArtist: 0
+        };
+        
+        for (const t of this.tracks) {
+          if (!t.artists || t.artists.trim() === '') s.noArtist++;
+          
+          if (t.complete === true) s.both++;
+          else if (t.complete === 1) s.metaOnly++;
+          else if (t.status === 'lyricsOnly') s.lyricsOnly++;
+          else s.neither++;
+        }
+        
+        return s;
+      },
+      genreStats() {
+        return this.genres.map(g => {
+          const list = this.tracks.filter(t => t.genre === g.key);
+          const stat = {
+            key: g.key,
+            name: g.name,
+            total: list.length,
+            both: 0,
+            metaOnly: 0,
+            lyricsOnly: 0,
+            neither: 0
+          };
+          
+          for (const t of list) {
+            if (t.complete === true) stat.both++;
+            else if (t.complete === 1) stat.metaOnly++;
+            else if (t.status === 'lyricsOnly') stat.lyricsOnly++;
+            else stat.neither++;
+          }
+          
+          return stat;
+        });
+      },
+      filteredTracks() {
+        const query = this.searchQuery.toLowerCase().trim();
+        const genre = this.selectedGenre;
+        const status = this.selectedStatus;
+        
+        return this.tracks.filter(t => {
+          if (genre && t.genre !== genre) return false;
+          
+          if (status) {
+            if (status === 'both' && t.complete !== true) return false;
+            if (status === 'metaOnly' && t.complete !== 1) return false;
+            if (status === 'lyricsOnly' && t.status !== 'lyricsOnly') return false;
+            if (status === 'neither' && (t.complete === true || t.complete === 1 || t.status === 'lyricsOnly')) return false;
+          }
+          
+          if (query) {
+            const nameMatch = t.name && t.name.toLowerCase().includes(query);
+            const artistMatch = t.artists && t.artists.toLowerCase().includes(query);
+            if (!nameMatch && !artistMatch) return false;
+          }
+          
+          return true;
+        });
+      },
+      totalPages() {
+        return Math.ceil(this.filteredTracks.length / this.pageSize) || 1;
+      },
+      paginatedTracks() {
+        const start = (this.currentPage - 1) * this.pageSize;
+        return this.filteredTracks.slice(start, start + this.pageSize);
+      }
+    },
+    async mounted() {
+      await this.loadData();
+    },
+    methods: {
+      async loadData() {
+        try {
+          this.loading = true;
+          this.error = null;
+          const items = [];
+          
+          for (const g of this.genres) {
+            const response = await fetch(g.file);
+            if (!response.ok) {
+              throw new Error(`Não foi possível carregar ${g.file} (HTTP ${response.status})`);
+            }
+            const groups = await response.json();
+            
+            for (const group of groups) {
+              if (!group.lyrics || !Array.isArray(group.lyrics)) continue;
+              
+              for (const lyric of group.lyrics) {
+                if (!lyric.name) continue;
+                
+                items.push({
+                  id: lyric.id,
+                  name: lyric.name,
+                  artists: lyric.artists || '',
+                  genre: g.key,
+                  complete: lyric.complete,
+                  status: lyric.complete === true ? 'both' : (lyric.complete === 1 ? 'metaOnly' : 'neither')
+                });
+              }
+            }
+          }
+          
+          this.tracks = items;
+        } catch (err) {
+          this.error = err.message || 'Erro ao efetuar fetch dos arquivos JSON.';
+        } finally {
+          this.loading = false;
+        }
+      },
+      countByGenre(genreKey) {
+        return this.tracks.filter(t => t.genre === genreKey).length;
+      },
+      formatGenre(key) {
+        const found = this.genres.find(g => g.key === key);
+        return found ? found.name : key;
+      },
+      calcPercent(value, total) {
+        if (!total) return '0.0%';
+        return ((value / total) * 100).toFixed(1) + '%';
+      },
+      setTabAndGenre(tab, genre) {
+        this.currentTab = tab;
+        this.selectedGenre = genre;
+        this.currentPage = 1;
+      }
+    }
+  }).mount('#app');
+</script>
+</body>
+</html>

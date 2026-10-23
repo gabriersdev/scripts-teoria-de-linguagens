@@ -13,6 +13,11 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
   - Varredura de integridade física cruzando identificadores de `/lyrics-list` com `/lyrics-data/metadata` e `/lyrics-data/lyrics`.
   - Contabilização precisa de faixas 100% completas, pendentes de letra, pendentes de metadados, totalmente pendentes e sem artistas.
   - Relatório tabular limpo no terminal, com suporte a filtro por gênero e flag de sincronização (`--sync`) para atualização atômica de `item.complete` nas listas JSON.
+- Interface Web `index.html`:
+  - Painel simples em Bootstrap 5.3 nativo e Vue 3 para exploração das 1.150 faixas e visualização das métricas de integridade.
+  - Consumo direto dos arquivos JSON em `/lyrics-list/` via `fetch()`, sem clonagem ou duplicação de dados.
+  - Consulta global em tempo real (título e artistas) com restrição por gênero e paginação leve.
+  - Design estritamente sem badges, utilizando indicadores textuais e pontos semânticos limpos.
 
 ### Modificado
 - `scripts/lyrics-service.ts`:
