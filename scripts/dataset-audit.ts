@@ -118,10 +118,7 @@ export class DatasetAudit {
           summary.total++;
 
           const idStr = String(item.id);
-          const hasMetadata = (
-            await this.fileExistsAndNonEmpty(path.join(this.dataDir, `${idStr}.json`)) ||
-            await this.fileExistsAndNonEmpty(path.join(this.metadataDir, `${idStr}.json`))
-          );
+          const hasMetadata = await this.fileExistsAndNonEmpty(path.join(this.metadataDir, `${idStr}.json`));
           const hasLyrics = await this.fileExistsAndNonEmpty(path.join(this.lyricsDir, `${idStr}.txt`));
           const hasArtist = Boolean(item.artists && item.artists.trim().length > 0);
 

@@ -20,6 +20,10 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
   - Design estritamente sem badges, utilizando indicadores textuais e pontos semânticos limpos.
 
 ### Modificado
+- `scripts/pipeline-extractor.ts`:
+  - Padronização do caminho de leitura e gravação de arquivos de metadados exclusivamente para `lyrics-data/metadata/{id}.json` (em vez da raiz de `lyrics-data/`).
+- `scripts/dataset-audit.ts`:
+  - Varredura de metadados direcionada estritamente para o subdiretório `lyrics-data/metadata/`.
 - `scripts/lyrics-service.ts`:
   - Inclusão de `AbortSignal.timeout(8000)` nas requisições HTTP para evitar congelamento por conexões penduradas ou APIs lentas.
   - Remoção automática de marcações de tempo (*timestamp stripping*) em `syncedLyrics` do LRCLIB quando `plainLyrics` não estiver disponível.

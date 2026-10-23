@@ -31,9 +31,11 @@ export class PipelineExtractor {
   public async run() {
     const listDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../lyrics-list');
     const dataDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../lyrics-data');
+    const metadataDataDir = path.join(dataDir, 'metadata');
     const lyricsDataDir = path.join(dataDir, 'lyrics');
     
     await fs.mkdir(dataDir, {recursive: true});
+    await fs.mkdir(metadataDataDir, {recursive: true});
     await fs.mkdir(lyricsDataDir, {recursive: true});
     
     const files = await fs.readdir(listDir);
@@ -112,7 +114,7 @@ export class PipelineExtractor {
                 }
               ];
               
-              await fs.writeFile(path.join(dataDir, `${trackId}.json`), JSON.stringify(jsonOutput, null, 2), 'utf-8');
+              await fs.writeFile(path.join(metadataDataDir, `${trackId}.json`), JSON.stringify(jsonOutput, null, 2), 'utf-8');
             } else {
               console.warn(`Metadados insuficientes.`);
             }
@@ -120,7 +122,7 @@ export class PipelineExtractor {
             metadataSuccess = true;
             console.info(`Metadados ja existentes (Pulado).`);
             try {
-              const existingRaw = await fs.readFile(path.join(dataDir, `${lyric.id}.json`), 'utf-8');
+              const existingRaw = await fs.readFile(path.join(metadataDataDir, `${lyric.id}.json`), 'utf-8');
               const parsed = JSON.parse(existingRaw);
               if (Array.isArray(parsed) && parsed[0]?.metadata?.durationMs) {
                 knownDurationMs = parsed[0].metadata.durationMs;

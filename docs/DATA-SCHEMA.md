@@ -46,14 +46,14 @@ Cada objeto contido dentro da propriedade `lyrics` representa uma faixa musical 
 
 | Atributo | Tipo | Descrição |
 | :--- | :--- | :--- |
-| `id` | `number` \| `string` | Identificador numérico sequencial único da faixa (ex.: `98401`). Gerado pelo utilitário `util/update-lyrics-list-ids.ts`. Serve como chave primária estática para vincular metadados (`/lyrics-data/{id}.json`) e letras brutas (`/lyrics-data/lyrics/{id}.txt`). |
+| `id` | `number` \| `string` | Identificador numérico sequencial único da faixa (ex.: `98401`). Gerado pelo utilitário `util/update-lyrics-list-ids.ts`. Serve como chave primária estática para vincular metadados (`/lyrics-data/metadata/{id}.json`) e letras brutas (`/lyrics-data/lyrics/{id}.txt`). |
 | `name` | `string` | Nome ou título da música cadastrada. Durante o pipeline, passa por higienização para remover sufixos de ruído (ex.: "(Ao Vivo)", "(Remaster)"). |
 | `artists` | `string` | Nome do artista principal ou colaboradores separados por vírgula (ex.: `"Cacife Clandestino, WC no Beat, Felp 22"`). Nomes com vírgula própria (ex.: `"Ryu, the Runner"`) são protegidos por máscara de token para não sofrerem quebra indevida. |
 | `complete` | `boolean` \| `number` | Flag de estado e ciclo de vida da extração no `pipeline-extractor.ts`:<br>• `true`: Sucesso total. Metadados e letra extraídos e gravados com integridade.<br>• `1`: Sucesso parcial. Metadados extraídos e salvos em JSON, mas a letra não foi encontrada ou falhou na validação de sanidade.<br>• `false` (ou omitido): Faixa pendente ou falha crítica em metadados mínimos (sem ISRC ou duração). |
 
 ---
 
-## 2. Estrutura dos Arquivos de Metadados (`/lyrics-data/{id}.json`)
+## 2. Estrutura dos Arquivos de Metadados (`/lyrics-data/metadata/{id}.json`)
 
 Gerados automaticamente pelo `pipeline-extractor.ts` quando os metadados são resolvidos:
 
