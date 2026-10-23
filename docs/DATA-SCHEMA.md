@@ -12,7 +12,7 @@ Cada arquivo dentro de `/lyrics-list/` (ex.: `funk-list.json`, `rap-list.json`, 
 [
   {
     "id": "Lista de Músicas do gênero Rock",
-    "complete": true,
+    "complete": false,
     "source": [
       "https://open.spotify.com/playlist/5Me9UnTwWnPA2FuTgUKzIy",
       "https://open.spotify.com/intl-pt/album/0HU62E1P8fLUxiFLn1gajG"
@@ -22,7 +22,7 @@ Cada arquivo dentro de `/lyrics-list/` (ex.: `funk-list.json`, `rap-list.json`, 
         "id": 98401,
         "name": "A Minha Menina",
         "artists": "Os Mutantes",
-        "complete": true
+        "complete": false
       }
     ]
   }

@@ -9,6 +9,10 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
   - Sorteio aleatório de $N$ faixas de `/lyrics-list` (algoritmo Fisher-Yates) com suporte a filtro opcional por gênero (ex.: `trap`, `funk`, `rock`).
   - Execução sequencial com delay ético de 1.5s entre requisições para validação de integridade.
   - Saídas limpas e padronizadas no terminal via `console.info`, `console.warn` e `console.error` (sem poluição gráfica), com sumário estatístico final de assertividade e distribuição por provedor.
+- Auditor de integridade `scripts/dataset-audit.ts`:
+  - Varredura de integridade física cruzando identificadores de `/lyrics-list` com `/lyrics-data/metadata` e `/lyrics-data/lyrics`.
+  - Contabilização precisa de faixas 100% completas, pendentes de letra, pendentes de metadados, totalmente pendentes e sem artistas.
+  - Relatório tabular limpo no terminal, com suporte a filtro por gênero e flag de sincronização (`--sync`) para atualização atômica de `item.complete` nas listas JSON.
 
 ### Modificado
 - `scripts/lyrics-service.ts`:
