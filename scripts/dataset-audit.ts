@@ -41,7 +41,7 @@ export class DatasetAudit {
   private dataDir: string;
   private lyricsDir: string;
   private metadataDir: string;
-
+  
   constructor() {
     const baseDir = path.dirname(fileURLToPath(import.meta.url));
     this.listDir = path.resolve(baseDir, '../lyrics-list');
@@ -49,7 +49,7 @@ export class DatasetAudit {
     this.lyricsDir = path.join(this.dataDir, 'lyrics');
     this.metadataDir = path.join(this.dataDir, 'metadata');
   }
-
+  
   private async fileExistsAndNonEmpty(filePath: string): Promise<boolean> {
     try {
       const stat = await fs.stat(filePath);
@@ -58,11 +58,11 @@ export class DatasetAudit {
       return false;
     }
   }
-
-  public async run(options: {genreFilter?: string; syncFlags?: boolean} = {}): Promise<AuditSummary> {
+  
+  public async run(options: { genreFilter?: string; syncFlags?: boolean } = {}): Promise<AuditSummary> {
     const files = await fs.readdir(this.listDir);
     let jsonFiles = files.filter(f => f.endsWith('.json')).sort();
-
+    
     if (options.genreFilter) {
       const filter = options.genreFilter.toLowerCase();
       jsonFiles = jsonFiles.filter(f => f.toLowerCase().includes(filter));
@@ -79,7 +79,7 @@ export class DatasetAudit {
         };
       }
     }
-
+    
     const summary: AuditSummary = {
       total: 0,
       both: 0,
@@ -89,13 +89,13 @@ export class DatasetAudit {
       noArtist: 0,
       genres: []
     };
-
+    
     for (const file of jsonFiles) {
       const genre = file.replace('-list.json', '').replace('.json', '');
       const filePath = path.join(this.listDir, file);
       const raw = await fs.readFile(filePath, 'utf-8');
       const groups: LyricsListGroup[] = JSON.parse(raw);
-
+      
       const genreStat: GenreStats = {
         genre,
         total: 0,
@@ -105,28 +105,28 @@ export class DatasetAudit {
         neither: 0,
         noArtist: 0
       };
-
+      
       let listMutated = false;
-
+      
       for (const group of groups) {
         if (!group.lyrics || !Array.isArray(group.lyrics)) continue;
-
+        
         for (const item of group.lyrics) {
           if (!item.name) continue;
-
+          
           genreStat.total++;
           summary.total++;
-
+          
           const idStr = String(item.id);
           const hasMetadata = await this.fileExistsAndNonEmpty(path.join(this.metadataDir, `${idStr}.json`));
           const hasLyrics = await this.fileExistsAndNonEmpty(path.join(this.lyricsDir, `${idStr}.txt`));
           const hasArtist = Boolean(item.artists && item.artists.trim().length > 0);
-
+          
           if (!hasArtist) {
             genreStat.noArtist++;
             summary.noArtist++;
           }
-
+          
           if (hasMetadata && hasLyrics) {
             genreStat.both++;
             summary.both++;
@@ -158,41 +158,41 @@ export class DatasetAudit {
           }
         }
       }
-
+      
       if (options.syncFlags && listMutated) {
         await fs.writeFile(filePath, JSON.stringify(groups, null, 2), 'utf-8');
       }
-
+      
       summary.genres.push(genreStat);
     }
-
+    
     this.printCleanReport(summary, options.syncFlags);
     return summary;
   }
-
+  
   private printCleanReport(summary: AuditSummary, wasSynced?: boolean): void {
     if (summary.total === 0) return;
-
+    
     const calcPercent = (val: number, total: number) => {
       if (total === 0) return '0.0%';
       return `${((val / total) * 100).toFixed(1)}%`;
     };
-
+    
     console.info();
     console.info(`Auditoria de Integridade do Corpus Musical (${summary.total} faixas analisadas)`);
     console.info();
     console.info(`Resumo Geral:`);
-    console.info(`  100% Completo (Metadados e Letra): ${summary.both.toString().padStart(5)} (${calcPercent(summary.both, summary.total)})`);
-    console.info(`  Apenas Metadados (Falta Letra):     ${summary.metaOnly.toString().padStart(5)} (${calcPercent(summary.metaOnly, summary.total)})`);
+    console.info(`  Completo (Metadados e Letra):        ${summary.both.toString().padStart(5)} (${calcPercent(summary.both, summary.total)})`);
+    console.info(`  Apenas Metadados (Falta Letra):      ${summary.metaOnly.toString().padStart(5)} (${calcPercent(summary.metaOnly, summary.total)})`);
     console.info(`  Apenas Letra (Falta Metadados):      ${summary.lyricsOnly.toString().padStart(5)} (${calcPercent(summary.lyricsOnly, summary.total)})`);
     console.info(`  Nenhum Dado Extraido:                ${summary.neither.toString().padStart(5)} (${calcPercent(summary.neither, summary.total)})`);
     console.info(`  Sem Artista Cadastrado:              ${summary.noArtist.toString().padStart(5)} (${calcPercent(summary.noArtist, summary.total)})`);
     console.info();
-
+    
     console.info('Detalhamento por Genero:');
     console.info('  Genero          Total    100%    So Meta    So Letra    Nenhum    Concluido');
     console.info('  ---------------------------------------------------------------------------');
-
+    
     for (const g of summary.genres) {
       const genreLabel = g.genre.padEnd(14);
       const totalStr = g.total.toString().padStart(6);
@@ -201,10 +201,10 @@ export class DatasetAudit {
       const lyricsStr = g.lyricsOnly.toString().padStart(11);
       const neitherStr = g.neither.toString().padStart(9);
       const pctStr = calcPercent(g.both, g.total).padStart(12);
-
+      
       console.info(`  ${genreLabel} ${totalStr} ${bothStr} ${metaStr} ${lyricsStr} ${neitherStr} ${pctStr}`);
     }
-
+    
     console.info('  ---------------------------------------------------------------------------');
     const totalLabel = 'Total'.padEnd(14);
     const sumTotalStr = summary.total.toString().padStart(6);
@@ -213,10 +213,10 @@ export class DatasetAudit {
     const sumLyricsStr = summary.lyricsOnly.toString().padStart(11);
     const sumNeitherStr = summary.neither.toString().padStart(9);
     const sumPctStr = calcPercent(summary.both, summary.total).padStart(12);
-
+    
     console.info(`  ${totalLabel} ${sumTotalStr} ${sumBothStr} ${sumMetaStr} ${sumLyricsStr} ${sumNeitherStr} ${sumPctStr}`);
     console.info();
-
+    
     if (wasSynced) {
       console.info("Sincronizacao concluida: flags 'complete' atualizadas nas listas JSON de acordo com o disco.");
       console.info();
@@ -230,7 +230,7 @@ if (isCLI) {
   const args = process.argv.slice(2);
   const syncFlags = args.includes('--sync');
   const genreArg = args.find(a => !a.startsWith('--'));
-
+  
   const auditor = new DatasetAudit();
   auditor.run({genreFilter: genreArg, syncFlags}).catch(console.error);
 }

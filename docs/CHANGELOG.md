@@ -2,6 +2,15 @@
 
 Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 
+## [1.3.0] - 2026-10-26
+
+### Adicionado
+- Sistema de ordenação bidirecional (crescente/decrescente) em todas as tabelas de `index.html`:
+  - Tabela "Detalhamento por Gênero": ordenação por Gênero (alfabético), Total, Completo, Só Metadados, Só Letra, Nenhum e Concluído (%) (numérico).
+  - Tabela "Consulta Global de Músicas": ordenação por ID (numérico), Música, Artistas, Gênero e Status (alfabético por rótulo amigável).
+  - Componentização do botão de ordenação (`SortButton` / `<sort-button>`): unificação dos botões em um único elemento reutilizável com o ícone `bi-arrows-expand` quando inativo e indicadores direcionais (`bi-arrow-up` / `bi-arrow-down`) quando ativo.
+  - Reset automático da página corrente para a página 1 ao alterar o critério de ordenação na consulta global.
+
 ## [1.2.0] - 2026-10-22
 
 ### Adicionado
