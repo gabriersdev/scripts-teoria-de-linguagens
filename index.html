@@ -33,6 +33,15 @@
     .text-capitalize * {
       text-transform: capitalize !important;
     }
+
+    .cursor-pointer {
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .cursor-pointer:hover {
+      background-color: #e9ecef !important;
+    }
   </style>
 </head>
 <body class="bg-light">
@@ -163,17 +172,52 @@
               <table class="table table-hover table-sm align-middle mb-0 rounded-3">
                 <thead class="table-light">
                 <tr>
-                  <th>Gênero</th>
-                  <th class="text-end">Total</th>
-                  <th class="text-end">Completo</th>
-                  <th class="text-end">Só Metadados</th>
-                  <th class="text-end">Só Letra</th>
-                  <th class="text-end">Nenhum</th>
-                  <th class="text-end">Concluído (%)</th>
+                  <th class="cursor-pointer" @click="setGenreSort('name')">
+                    <div class="d-flex align-items-center justify-content-start gap-1">
+                      <span>Gênero</span>
+                      <sort-button :active="genreSortColumn === 'name'" :direction="genreSortDirection"></sort-button>
+                    </div>
+                  </th>
+                  <th class="text-end cursor-pointer" @click="setGenreSort('total')">
+                    <div class="d-flex align-items-center justify-content-end gap-1">
+                      <span>Total</span>
+                      <sort-button :active="genreSortColumn === 'total'" :direction="genreSortDirection"></sort-button>
+                    </div>
+                  </th>
+                  <th class="text-end cursor-pointer" @click="setGenreSort('both')">
+                    <div class="d-flex align-items-center justify-content-end gap-1">
+                      <span>Completo</span>
+                      <sort-button :active="genreSortColumn === 'both'" :direction="genreSortDirection"></sort-button>
+                    </div>
+                  </th>
+                  <th class="text-end cursor-pointer" @click="setGenreSort('metaOnly')">
+                    <div class="d-flex align-items-center justify-content-end gap-1">
+                      <span>Só Metadados</span>
+                      <sort-button :active="genreSortColumn === 'metaOnly'" :direction="genreSortDirection"></sort-button>
+                    </div>
+                  </th>
+                  <th class="text-end cursor-pointer" @click="setGenreSort('lyricsOnly')">
+                    <div class="d-flex align-items-center justify-content-end gap-1">
+                      <span>Só Letra</span>
+                      <sort-button :active="genreSortColumn === 'lyricsOnly'" :direction="genreSortDirection"></sort-button>
+                    </div>
+                  </th>
+                  <th class="text-end cursor-pointer" @click="setGenreSort('neither')">
+                    <div class="d-flex align-items-center justify-content-end gap-1">
+                      <span>Nenhum</span>
+                      <sort-button :active="genreSortColumn === 'neither'" :direction="genreSortDirection"></sort-button>
+                    </div>
+                  </th>
+                  <th class="text-end cursor-pointer" @click="setGenreSort('percent')">
+                    <div class="d-flex align-items-center justify-content-end gap-1">
+                      <span>Concluído (%)</span>
+                      <sort-button :active="genreSortColumn === 'percent'" :direction="genreSortDirection"></sort-button>
+                    </div>
+                  </th>
                 </tr>
                 </thead>
                 <tbody>
-                <tr v-for="g in genreStats" :key="g.key">
+                <tr v-for="g in sortedGenreStats" :key="g.key">
                   <td class="fw-medium text-dark">{{ g.name?.toString().toUpperCase() }}</td>
                   <td class="text-end">{{ g.total }}</td>
                   <td class="text-end text-success fw-medium">{{ g.both }}</td>
@@ -248,28 +292,36 @@
               <table class="table table-hover table-sm align-middle mb-0">
                 <thead class="table-light">
                 <tr>
-                  <th style="width: 90px;" class="align-middle">
-<!--                    TODO: implementar forma de ordenacao por TODOS os cabecalhos de todas as tabelas possiveis -->
+                  <th style="width: 80px;" class="align-middle cursor-pointer" @click="setTrackSort('id')">
                     <div class="d-flex align-items-center justify-content-start gap-1">
-                      <span class="d-block">ID</span>
-                      
-                      <button type="button" class="btn btn-default btn-sm d-inline p-0 m-0 border-0 opacity-50" tabindex="-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-up" viewBox="0 0 16 16">
-                          <path fill-rule="evenodd" d="M8 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L7.5 2.707V14.5a.5.5 0 0 0 .5.5"/>
-                        </svg>
-                      </button>
-                      
-                      <button type="button" class="btn btn-default btn-sm d-inline p-0 m-0 border-0 opacity-50" tabindex="-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-down" viewBox="0 0 16 16">
-                          <path fill-rule="evenodd" d="M8 1a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L7.5 13.293V1.5A.5.5 0 0 1 8 1"/>
-                        </svg>
-                      </button>
+                      <span>ID</span>
+                      <sort-button :active="trackSortColumn === 'id'" :direction="trackSortDirection"></sort-button>
                     </div>
                   </th>
-                  <th>Música</th>
-                  <th>Artistas</th>
-                  <th style="width: 120px;">Gênero</th>
-                  <th style="width: 170px;">Status</th>
+                  <th class="align-middle cursor-pointer" @click="setTrackSort('name')">
+                    <div class="d-flex align-items-center justify-content-start gap-1">
+                      <span>Música</span>
+                      <sort-button :active="trackSortColumn === 'name'" :direction="trackSortDirection"></sort-button>
+                    </div>
+                  </th>
+                  <th class="align-middle cursor-pointer" @click="setTrackSort('artists')">
+                    <div class="d-flex align-items-center justify-content-start gap-1">
+                      <span>Artistas</span>
+                      <sort-button :active="trackSortColumn === 'artists'" :direction="trackSortDirection"></sort-button>
+                    </div>
+                  </th>
+                  <th style="width: 120px;" class="align-middle cursor-pointer" @click="setTrackSort('genre')">
+                    <div class="d-flex align-items-center justify-content-start gap-1">
+                      <span>Gênero</span>
+                      <sort-button :active="trackSortColumn === 'genre'" :direction="trackSortDirection"></sort-button>
+                    </div>
+                  </th>
+                  <th style="width: 160px;" class="align-middle cursor-pointer" @click="setTrackSort('status')">
+                    <div class="d-flex align-items-center justify-content-start gap-1">
+                      <span>Status</span>
+                      <sort-button :active="trackSortColumn === 'status'" :direction="trackSortDirection"></sort-button>
+                    </div>
+                  </th>
                 </tr>
                 </thead>
                 <tbody>
@@ -326,8 +378,44 @@
 
 <script>
   const {createApp} = Vue;
+
+  const SortButton = {
+    name: 'SortButton',
+    props: {
+      active: {
+        type: Boolean,
+        default: false
+      },
+      direction: {
+        type: String,
+        default: 'asc'
+      }
+    },
+    template: `
+      <button
+        type="button"
+        class="btn btn-default btn-sm d-inline-flex align-items-center p-0 m-0 border-0"
+        :class="active ? 'text-dark opacity-100' : 'text-secondary opacity-25'"
+        :title="active ? (direction === 'asc' ? 'Ordenado crescente' : 'Ordenado decrescente') : 'Clique para ordenar'"
+        tabindex="-1"
+      >
+        <svg v-if="!active" xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" class="bi bi-arrows-expand" viewBox="0 0 16 16">
+          <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1h-13A.5.5 0 0 1 1 8M7.646.146a.5.5 0 0 1 .708 0l2 2a.5.5 0 0 1-.708.708L8.5 1.707V5.5a.5.5 0 0 1-1 0V1.707L6.354 2.854a.5.5 0 1 1-.708-.708zM8 10a.5.5 0 0 1 .5.5v3.793l1.146-1.147a.5.5 0 0 1 .708.708l-2 2a.5.5 0 0 1-.708 0l-2-2a.5.5 0 0 1 .708-.708L7.5 14.293V10.5A.5.5 0 0 1 8 10"/>
+        </svg>
+        <svg v-else-if="direction === 'asc'" xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" class="bi bi-arrow-up" viewBox="0 0 16 16">
+          <path fill-rule="evenodd" d="M8 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L7.5 2.707V14.5a.5.5 0 0 0 .5.5"/>
+        </svg>
+        <svg v-else xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" class="bi bi-arrow-down" viewBox="0 0 16 16">
+          <path fill-rule="evenodd" d="M8 1a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L7.5 13.293V1.5A.5.5 0 0 1 8 1"/>
+        </svg>
+      </button>
+    `
+  };
   
-  createApp({
+  const app = createApp({
+    components: {
+      SortButton
+    },
     data() {
       return {
         loading: true,
@@ -339,6 +427,10 @@
         currentPage: 1,
         pageSize: 30,
         tracks: [],
+        genreSortColumn: '',
+        genreSortDirection: 'asc',
+        trackSortColumn: 'id',
+        trackSortDirection: 'asc',
         genres: [
           {key: 'funk', name: 'Funk', file: './lyrics-list/funk-list.json'},
           {key: 'rap', name: 'Rap', file: './lyrics-list/rap-list.json'},
@@ -394,6 +486,33 @@
           return stat;
         });
       },
+      sortedGenreStats() {
+        const stats = [...this.genreStats];
+        if (!this.genreSortColumn) {
+          return stats;
+        }
+
+        const column = this.genreSortColumn;
+        const direction = this.genreSortDirection === 'desc' ? -1 : 1;
+
+        return stats.sort((a, b) => {
+          if (column === 'name') {
+            const nameA = a.name || '';
+            const nameB = b.name || '';
+            return nameA.localeCompare(nameB, 'pt-BR', { sensitivity: 'base' }) * direction;
+          }
+
+          if (column === 'percent') {
+            const percentA = a.total > 0 ? a.both / a.total : 0;
+            const percentB = b.total > 0 ? b.both / b.total : 0;
+            return (percentA - percentB) * direction;
+          }
+
+          const valA = Number(a[column]) || 0;
+          const valB = Number(b[column]) || 0;
+          return (valA - valB) * direction;
+        });
+      },
       filteredTracks() {
         const query = this.searchQuery.toLowerCase().trim();
         const genre = this.selectedGenre;
@@ -418,12 +537,45 @@
           return true;
         });
       },
+      sortedTracks() {
+        const list = [...this.filteredTracks];
+        if (!this.trackSortColumn) {
+          return list;
+        }
+
+        const column = this.trackSortColumn;
+        const direction = this.trackSortDirection === 'desc' ? -1 : 1;
+
+        return list.sort((a, b) => {
+          if (column === 'id') {
+            const idA = Number(a.id) || 0;
+            const idB = Number(b.id) || 0;
+            return (idA - idB) * direction;
+          }
+
+          if (column === 'genre') {
+            const genreA = this.formatGenre(a.genre) || '';
+            const genreB = this.formatGenre(b.genre) || '';
+            return genreA.localeCompare(genreB, 'pt-BR', { sensitivity: 'base' }) * direction;
+          }
+
+          if (column === 'status') {
+            const statusA = this.getTrackStatusLabel(a);
+            const statusB = this.getTrackStatusLabel(b);
+            return statusA.localeCompare(statusB, 'pt-BR', { sensitivity: 'base' }) * direction;
+          }
+
+          const valA = a[column] || '';
+          const valB = b[column] || '';
+          return valA.toString().localeCompare(valB.toString(), 'pt-BR', { sensitivity: 'base' }) * direction;
+        });
+      },
       totalPages() {
         return Math.ceil(this.filteredTracks.length / this.pageSize) || 1;
       },
       paginatedTracks() {
         const start = (this.currentPage - 1) * this.pageSize;
-        return this.filteredTracks.slice(start, start + this.pageSize);
+        return this.sortedTracks.slice(start, start + this.pageSize);
       }
     },
     async mounted() {
@@ -479,13 +631,49 @@
         if (!total) return '0.0%';
         return ((value / total) * 100).toFixed(1) + '%';
       },
+      getTrackStatusLabel(track) {
+        if (track.complete === true) return 'Completo';
+        if (track.complete === 1) return 'Apenas Metadados';
+        if (track.status === 'lyricsOnly') return 'Apenas Letra';
+        return 'Pendente';
+      },
+      setGenreSort(column, explicitDirection = null) {
+        if (explicitDirection) {
+          this.genreSortColumn = column;
+          this.genreSortDirection = explicitDirection;
+          return;
+        }
+        if (this.genreSortColumn === column) {
+          this.genreSortDirection = this.genreSortDirection === 'asc' ? 'desc' : 'asc';
+        } else {
+          this.genreSortColumn = column;
+          this.genreSortDirection = column === 'name' ? 'asc' : 'desc';
+        }
+      },
+      setTrackSort(column, explicitDirection = null) {
+        if (explicitDirection) {
+          this.trackSortColumn = column;
+          this.trackSortDirection = explicitDirection;
+          this.currentPage = 1;
+          return;
+        }
+        if (this.trackSortColumn === column) {
+          this.trackSortDirection = this.trackSortDirection === 'asc' ? 'desc' : 'asc';
+        } else {
+          this.trackSortColumn = column;
+          this.trackSortDirection = 'asc';
+        }
+        this.currentPage = 1;
+      },
       setTabAndGenre(tab, genre) {
         this.currentTab = tab;
         this.selectedGenre = genre;
         this.currentPage = 1;
       }
     }
-  }).mount('#app');
+  });
+  app.component('sort-button', SortButton);
+  app.mount('#app');
 </script>
 </body>
 </html>
