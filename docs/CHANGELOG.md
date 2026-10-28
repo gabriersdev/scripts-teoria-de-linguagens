@@ -2,6 +2,15 @@
 
 Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 
+## [1.3.2] - 2026-10-28
+
+### Adicionado
+- Script auditor `scripts/duplicate-verifier.ts`:
+  - Detecção de colisões de identificador (mesmo `id` atribuído a faixas distintas em listas diferentes).
+  - Identificação de faixas duplicadas no mesmo gênero e faixas duplicadas em múltiplos gêneros com base em título limpo e artista primário sanitizados.
+  - Suporte a filtros via argumentos de CLI: `--same-genre`, `--cross-genre`, `--fuzzy` e filtro por gênero (`<nome-do-genero>`).
+  - Saída limpa e estruturada no terminal via `console.info` e `console.warn` sem caracteres decorativos desnecessários.
+
 ## [1.3.1] - 2026-10-28
 
 ### Modificado
