@@ -2,6 +2,18 @@
 
 Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 
+## [1.3.1] - 2026-10-28
+
+### Modificado
+- `scripts/pipeline-extractor.ts`:
+  - Atualização da regra de marcação de status: faixas com letra extraída com sucesso passam a receber `complete: true` mesmo quando os metadados técnicos forem parciais ou insuficientes.
+- `scripts/dataset-audit.ts`:
+  - Sincronização (`--sync`) atualizada para marcar faixas com arquivo de letra existente em disco como `complete: true`.
+- Listas JSON (`/lyrics-list`):
+  - Sincronização das 15 faixas com letra e metadados incompletos/ausentes para `complete: true`, elevando o total de faixas completas para 999.
+- `docs/BUSINESS-RULES.md` e `docs/DATA-SCHEMA.md`:
+  - Atualização da Regra 2 documentando a primazia da letra sobre os metadados técnicos para atribuição do estado `complete: true`.
+
 ## [1.3.0] - 2026-10-26
 
 ### Adicionado

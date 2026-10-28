@@ -143,7 +143,7 @@ export class PipelineExtractor {
             console.warn(`Letra nao encontrada.`);
           }
           
-          if (metadataSuccess && lyricsSuccess) lyric.complete = true;
+          if (lyricsSuccess) lyric.complete = true;
           else if (metadataSuccess && !lyricsSuccess) lyric.complete = 1;
           else lyric.complete = false;
           

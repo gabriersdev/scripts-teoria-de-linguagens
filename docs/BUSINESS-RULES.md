@@ -6,10 +6,10 @@ Scripts automatizados (como `populate-artists.ts`) não podem sobrescrever um ca
 ## 2. Escopo da Flag `"complete"`
 A flag `"complete"` possui funções distintas:
 - **Nível Raiz (Lista):** Indica se a curadoria de títulos e artistas da lista terminou. Se `true`, scripts de povoamento ignoram o arquivo.
-- **Nível de Faixa (Música):** Controla a extração de metadados (`pipeline-extractor.ts`).
-  - `true`: Sucesso total (Metadados e Letra extraídos).
+- **Nível de Faixa (Música):** Controla a extração de dados (`pipeline-extractor.ts`).
+  - `true`: Sucesso na extração da letra (mesmo com metadados técnicos ausentes ou incompletos, a presença da letra valida a faixa como completa).
   - `1`: Sucesso parcial (Metadados extraídos, sem letra).
-  - `false`: Falha total ou pendência.
+  - `false`: Falha total ou pendência (sem letra e sem metadados).
 
 ## 3. Fallback em Cascata
 Não descarte metadados no `track-metadata-service.ts` se um provedor falhar. Siga o modelo de fusão em ordem técnica:

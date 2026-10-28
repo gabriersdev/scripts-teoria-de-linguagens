@@ -144,8 +144,8 @@ export class DatasetAudit {
           } else if (!hasMetadata && hasLyrics) {
             genreStat.lyricsOnly++;
             summary.lyricsOnly++;
-            if (options.syncFlags && item.complete !== false) {
-              item.complete = false;
+            if (options.syncFlags && item.complete !== true) {
+              item.complete = true;
               listMutated = true;
             }
           } else {

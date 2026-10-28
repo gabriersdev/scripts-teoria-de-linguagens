@@ -53,7 +53,7 @@
         "id": 98207,
         "name": "Poesia Acústica #6 Era uma Vez",
         "artists": "Pineapple StormTv, MC Cabelinho, Bob do Contra, Azzy, Filipe Ret, Dudu, Xamã, Orochi, Maquiny, Salve Malak",
-        "complete": false
+        "complete": true
       },
       {
         "id": 98208,
@@ -125,7 +125,7 @@
         "id": 98219,
         "name": "Poesia Acústica #2: Sobre Nós",
         "artists": "Pineapple StormTv, Delacruz, Ducon, Maria, BK, Kayuá, Luiz Lins, Diomedes Chinaski, Salve Malak, Slim Beat",
-        "complete": false
+        "complete": true
       },
       {
         "id": 98220,
@@ -185,7 +185,7 @@
         "id": 98229,
         "name": "Poesia Acústica #9 Melhor Forma",
         "artists": "Pineapple StormTv, L7NNON, Chris MC, Xamã, Lourena, Cesar Mc, Djonga, Filipe Ret, Salve Malak",
-        "complete": false
+        "complete": true
       },
       {
         "id": 98230,
@@ -425,7 +425,7 @@
         "id": 98269,
         "name": "Poesia Acústica #3: Capricorniana",
         "artists": "Pineapple StormTv, Choice, Lord ADL, Tiago Mac, Sant, Maria, Slim Beat, Salve Malak",
-        "complete": false
+        "complete": true
       },
       {
         "id": 98270,
@@ -725,7 +725,7 @@
         "id": 98319,
         "name": "Mãos Ao Alto!",
         "artists": "Costa Gold",
-        "complete": false
+        "complete": true
       },
       {
         "id": 98320,

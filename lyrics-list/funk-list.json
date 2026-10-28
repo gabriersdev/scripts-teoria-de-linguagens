@@ -68,7 +68,7 @@
         "id": 98010,
         "name": "SET BOCA 09 (feat. Mc Jvila, Mc Lele JP, Mc Leozin, Mc Bruninho da Praia & DJ Glenner)",
         "artists": "Mc Jvila, Mc Lele JP, Mc Leozin, Mc Bruninho da Praia & DJ Glenner",
-        "complete": false
+        "complete": true
       },
       {
         "id": 98011,
@@ -866,7 +866,7 @@
         "id": 98143,
         "name": "Novinha Quer Mamar",
         "artists": "MC Kevin",
-        "complete": false
+        "complete": true
       },
       {
         "id": 98144,
@@ -908,7 +908,7 @@
         "id": 98150,
         "name": "Sentadão",
         "artists": "MC Rick",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98151,
@@ -932,7 +932,7 @@
         "id": 98154,
         "name": "Video Não",
         "artists": "MC Rick",
-        "complete": false
+        "complete": true
       },
       {
         "id": 98155,
@@ -1094,7 +1094,7 @@
         "id": 98181,
         "name": "Boca de Pêlo",
         "artists": "MC Don Juan",
-        "complete": false
+        "complete": true
       },
       {
         "id": 98182,
