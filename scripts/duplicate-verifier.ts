@@ -140,6 +140,9 @@ export class DuplicateVerifier {
     // 2. Agrupar por Título Limpo + Artista Primário
     const clusterMap = new Map<string, TrackRecord[]>();
     for (const t of tracks) {
+      if (t.name.startsWith('Substituir faixa') || t.rawArtists === 'Adicionar artista') {
+        continue;
+      }
       const key = `${t.cleanTitle} ::: ${t.primaryArtist}`;
       if (!clusterMap.has(key)) {
         clusterMap.set(key, []);
@@ -273,6 +276,99 @@ export class DuplicateVerifier {
       console.info();
     }
   }
+
+  public async replaceDuplicates(options: VerifierOptions = {}): Promise<TrackRecord[]> {
+    const report = await this.run({ ...options, includeFuzzy: false });
+    const allClusters = [...report.sameGenreClusters, ...report.crossGenreClusters];
+
+    const toReplaceMap = new Map<number | string, TrackRecord>();
+    for (const cluster of allClusters) {
+      for (let i = 1; i < cluster.tracks.length; i++) {
+        const tr = cluster.tracks[i];
+        toReplaceMap.set(tr.id, tr);
+      }
+    }
+
+    if (toReplaceMap.size === 0) {
+      console.info('Nenhuma duplicata encontrada para substituir.');
+      return [];
+    }
+
+    const files = (await fs.readdir(this.listDir))
+      .filter(f => f.endsWith('.json'))
+      .sort();
+
+    const replacedTracks: TrackRecord[] = [];
+
+    for (const file of files) {
+      const filePath = path.join(this.listDir, file);
+      const raw = await fs.readFile(filePath, 'utf-8');
+      const data: LyricsListFile[] = JSON.parse(raw);
+      let fileModified = false;
+
+      for (const group of data) {
+        if (!group.lyrics || !Array.isArray(group.lyrics)) continue;
+
+        for (const item of group.lyrics) {
+          if (toReplaceMap.has(item.id)) {
+            const tr = toReplaceMap.get(item.id)!;
+            item.name = `Substituir faixa #${item.id}`;
+            item.artists = 'Adicionar artista';
+            item.complete = false;
+            fileModified = true;
+            replacedTracks.push(tr);
+          }
+        }
+      }
+
+      if (fileModified) {
+        await fs.writeFile(filePath, JSON.stringify(data, null, 2) + '\n', 'utf-8');
+      }
+    }
+
+    // Criar backup e desvincular arquivos fisicos obsoletos em lyrics-data
+    const baseDir = path.dirname(fileURLToPath(import.meta.url));
+    const dataDir = path.resolve(baseDir, '../lyrics-data');
+    const metadataDir = path.join(dataDir, 'metadata');
+    const lyricsDir = path.join(dataDir, 'lyrics');
+    const backupDir = path.join(dataDir, 'backup-duplicates');
+
+    await fs.mkdir(path.join(backupDir, 'metadata'), { recursive: true });
+    await fs.mkdir(path.join(backupDir, 'lyrics'), { recursive: true });
+
+    let backedUpMetadata = 0;
+    let backedUpLyrics = 0;
+
+    for (const tr of replacedTracks) {
+      const metaFile = path.join(metadataDir, `${tr.id}.json`);
+      const lyricFile = path.join(lyricsDir, `${tr.id}.txt`);
+
+      try {
+        await fs.access(metaFile);
+        await fs.rename(metaFile, path.join(backupDir, 'metadata', `${tr.id}.json`));
+        backedUpMetadata++;
+      } catch {
+        // Arquivo nao existe
+      }
+
+      try {
+        await fs.access(lyricFile);
+        await fs.rename(lyricFile, path.join(backupDir, 'lyrics', `${tr.id}.txt`));
+        backedUpLyrics++;
+      } catch {
+        // Arquivo nao existe
+      }
+    }
+
+    console.info('Substituicao de duplicatas concluida com sucesso:');
+    console.info(`  Total de faixas duplicadas substituidas: ${replacedTracks.length}`);
+    console.info(`  Arquivos de metadados movidos para backup: ${backedUpMetadata}`);
+    console.info(`  Arquivos de letra movidos para backup:     ${backedUpLyrics}`);
+    console.info(`  Destino do backup:                        ${backupDir}`);
+    console.info();
+
+    return replacedTracks;
+  }
 }
 
 const isCLI = typeof process !== 'undefined' && process.argv && process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1];
@@ -282,14 +378,23 @@ if (isCLI) {
   const sameGenreOnly = args.includes('--same-genre');
   const crossGenreOnly = args.includes('--cross-genre');
   const includeFuzzy = args.includes('--fuzzy');
+  const doReplace = args.includes('--replace') || args.includes('--substitute');
   const genreArg = args.find(a => !a.startsWith('--'));
 
   const verifier = new DuplicateVerifier();
-  verifier.run({
-    genreFilter: genreArg,
-    sameGenreOnly,
-    crossGenreOnly,
-    includeFuzzy
-  }).catch(console.error);
+  if (doReplace) {
+    verifier.replaceDuplicates({
+      genreFilter: genreArg,
+      sameGenreOnly,
+      crossGenreOnly
+    }).catch(console.error);
+  } else {
+    verifier.run({
+      genreFilter: genreArg,
+      sameGenreOnly,
+      crossGenreOnly,
+      includeFuzzy
+    }).catch(console.error);
+  }
 }
 

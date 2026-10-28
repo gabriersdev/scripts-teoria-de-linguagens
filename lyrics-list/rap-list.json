@@ -113,7 +113,7 @@
         "id": 98217,
         "name": "THE BOX MEDLEY 14 (feat. Dudu)",
         "artists": "THE BOX, Tevito, Rei Bxd, Aimar, Ouroempessoa, Fahel, Dudu",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98218,
@@ -167,7 +167,7 @@
         "id": 98226,
         "name": "Talvez você precise de mim",
         "artists": "Veigh, Supernova Ent",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98227,
@@ -191,7 +191,7 @@
         "id": 98230,
         "name": "Joga Bonito",
         "artists": "Kyan, Enzo from the Block, Mu540",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98231,
@@ -203,7 +203,7 @@
         "id": 98232,
         "name": "Poetas no Topo 5",
         "artists": "Pineapple StormTv, Oruam, Sant, Victor Xamã, NandaTsunami, LPT Zlatan, L7NNON, AR Baby, Sid, Salve Malak",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98233,
@@ -401,7 +401,7 @@
         "id": 98265,
         "name": "Além do Dinheiro",
         "artists": "Filipe Ret, Dallass, Ariel Donato",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98266,
@@ -1173,9 +1173,9 @@
       },
       {
         "id": 98394,
-        "name": "Dás Arábia",
-        "artists": "Costa Gold",
-        "complete": true
+        "name": "Substituir faixa #98394",
+        "artists": "Adicionar artista",
+        "complete": false
       },
       {
         "id": 98395,

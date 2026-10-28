@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99150,
+    "metadata": {
+      "title": "Contato",
+      "artists": [
+        "Leviano"
+      ],
+      "album": "Vetin",
+      "releaseDate": "2023-11-28",
+      "durationMs": 188000,
+      "genres": [],
+      "isrc": "BKM2L2300107",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/15d175c49728adf171e898deb7502d31/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2552991172"
+      }
+    },
+    "lyricPath": "/lyrics/99150.txt"
+  }
+]
