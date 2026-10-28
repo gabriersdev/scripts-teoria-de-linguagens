@@ -41,7 +41,7 @@
         "id": 98205,
         "name": "DEFENSORES DA ARTE DO GUETO",
         "artists": "Rashid, Slim Rimografia, Grou",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98206,
@@ -65,13 +65,13 @@
         "id": 98209,
         "name": "NOVA: Procedimento da rua",
         "artists": "Podpah Records, L7NNON, dubbeatzz, Dj Novset",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98210,
         "name": "Frágil",
         "artists": "Celo Dut, BK",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98211,
