@@ -6,16 +6,16 @@
       "artists": [
         "Capital Inicial"
       ],
-      "album": "O melhor de 2",
+      "album": "Millennium",
       "releaseDate": "1986-01-01T12:00:00Z",
-      "durationMs": 135066,
+      "durationMs": 135866,
       "genres": [
         "Pop"
       ],
       "isrc": null,
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/37/cb/23/37cb2373-6194-cf1f-3e33-495c1ac620da/886443273061.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/2b745b6c-d2b7-4bd2-95cf-8d00ef49c2eb",
+        "musicbrainz": "https://musicbrainz.org/recording/909de2a2-47f7-4fbf-8c78-2ecc53022e5e",
         "itunes": "https://music.apple.com/us/album/veraneio-vasca%C3%ADna/654818571?i=654818672&uo=4"
       }
     },

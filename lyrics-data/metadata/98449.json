@@ -6,14 +6,18 @@
       "artists": [
         "Plebe Rude"
       ],
-      "album": "BFGoodrich Take Control",
-      "releaseDate": null,
-      "durationMs": 318293,
-      "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "album": "Rock 80",
+      "releaseDate": "2002",
+      "durationMs": 268160,
+      "genres": [
+        "MPB"
+      ],
+      "isrc": "BREMI8500018",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cd/5e/01/cd5e0166-4844-91cb-b329-738eb81e1aae/13UMGIM90949.rgb.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/75ace271-3b55-41b3-86fe-c3514d0f1ab3"
+        "musicbrainz": "https://musicbrainz.org/recording/b0d63c73-10ce-4246-b5e8-a6aaf58d092f",
+        "itunes": "https://music.apple.com/us/album/ate-quando-esperar/806221451?i=806221774&uo=4",
+        "deezer": "https://www.deezer.com/track/49582591"
       }
     },
     "lyricPath": "/lyrics/98449.txt"

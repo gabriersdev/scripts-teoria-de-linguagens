@@ -8,7 +8,7 @@
         "Veigh"
       ],
       "album": "333",
-      "releaseDate": "2024-09-09",
+      "releaseDate": "2024-09-09T12:00:00Z",
       "durationMs": 155368,
       "genres": [
         "Hip-Hop/Rap"
@@ -16,7 +16,6 @@
       "isrc": "BXW922400035",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/ac/95/9cac9567-6ffa-e640-d619-46564733b11f/196874248850.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/8365eaf6-ad54-4c8e-b565-9b8f650e8bd8",
         "itunes": "https://music.apple.com/us/album/imagina-esse-cen%C3%A1rio/1888592730?i=1888592732&uo=4",
         "deezer": "https://www.deezer.com/track/3926128921"
       }

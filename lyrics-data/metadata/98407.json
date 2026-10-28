@@ -6,14 +6,17 @@
       "artists": [
         "Barão Vermelho"
       ],
-      "album": "Cazuza: O tempo não pára",
-      "releaseDate": "2004",
-      "durationMs": 159986,
-      "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "album": "Barão Vermelho 2",
+      "releaseDate": "1983-01-01T12:00:00Z",
+      "durationMs": 267133,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRSGL8300130",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/d7/ac/c1/d7acc18b-d82a-990b-7daf-562479752112/888831944218.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/07785b38-c79f-4907-b33f-47458f146c3b"
+        "itunes": "https://music.apple.com/us/album/pro-dia-nascer-feliz/923762143?i=923762158&uo=4",
+        "deezer": "https://www.deezer.com/track/87149227"
       }
     },
     "lyricPath": "/lyrics/98407.txt"

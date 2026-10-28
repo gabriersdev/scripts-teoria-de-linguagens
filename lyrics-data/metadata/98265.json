@@ -8,15 +8,16 @@
         "Dallass",
         "Ariel Donato"
       ],
-      "album": "FRXV (Ao Vivo)",
-      "releaseDate": "2023-12-15",
-      "durationMs": 128078,
-      "genres": [],
-      "isrc": "BRRGE2301042",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4ef3ecf94fcf128ab7685986085f1ac9/1000x1000-000000-80-0-0.jpg",
+      "album": "Bendito",
+      "releaseDate": "2018-08-31T12:00:00Z",
+      "durationMs": 236725,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/2a/a7/dd2aa7ff-72a4-8a7f-cba4-801446a8a8c6/d09acb4c-2552-4b15-b709-a99f11708d3f.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/7d549eda-7bc6-453d-b06d-bc5b8453217e",
-        "deezer": "https://www.deezer.com/track/2565544772"
+        "itunes": "https://music.apple.com/us/album/dinheiro/1736177841?i=1736177842&uo=4"
       }
     },
     "lyricPath": "/lyrics/98265.txt"

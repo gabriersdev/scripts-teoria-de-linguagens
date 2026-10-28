@@ -8,14 +8,17 @@
         "Mãolee",
         "Maru2D"
       ],
-      "album": "Nume - Epílogo",
-      "releaseDate": "2025-07-17",
-      "durationMs": 212608,
-      "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "album": "NUME",
+      "releaseDate": "2024-11-14T12:00:00Z",
+      "durationMs": 150000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRRGE2401132",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/11/4c/f7114cf8-dab9-380e-b3a7-c2f105aebe2f/196872621846.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/ad9fe08c-86ad-40fd-bd72-86663054ed12"
+        "itunes": "https://music.apple.com/us/album/acima-de-mim-s%C3%B3-deus/1777906259?i=1777906520&uo=4",
+        "deezer": "https://www.deezer.com/track/3074647171"
       }
     },
     "lyricPath": "/lyrics/98253.txt"

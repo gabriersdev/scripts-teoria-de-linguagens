@@ -9,14 +9,11 @@
       "album": "Boteco do Zé Neto & Cristiano (Ao Vivo)",
       "releaseDate": "2025-12-06",
       "durationMs": 199363,
-      "genres": [
-        "Sertanejo"
-      ],
+      "genres": [],
       "isrc": "BRWNV1800114",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/27/73/1427732e-521b-fe86-e72a-fb742ca6b592/7891430284176.jpg/1000x1000bb.jpg",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/82cb6fd03b0d4d504665a34a32a2453f/1000x1000-000000-80-0-0.jpg",
       "sources": {
         "musicbrainz": "https://musicbrainz.org/recording/359f4529-7581-4dd3-a90d-5378c7ba99b7",
-        "itunes": "https://music.apple.com/us/album/bebida-na-ferida-ao-vivo/1408564288?i=1408564291&uo=4",
         "deezer": "https://www.deezer.com/track/524693112"
       }
     },

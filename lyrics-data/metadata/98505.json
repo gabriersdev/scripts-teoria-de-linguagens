@@ -6,18 +6,14 @@
       "artists": [
         "Matanza"
       ],
-      "album": "Música para beber e brigar",
-      "releaseDate": "2003",
-      "durationMs": 181000,
-      "genres": [
-        "Rock"
-      ],
-      "isrc": "BRDEP0300144",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/5b/4d/c3/5b4dc345-95b4-a30f-bb4b-612103de925d/7898324300493.jpg/1000x1000bb.jpg",
+      "album": "MTV Apresenta: Matanza",
+      "releaseDate": "2008-04",
+      "durationMs": 252000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/47a78cbb-4be6-47c0-b311-7b363b5db2ca",
-        "itunes": "https://music.apple.com/us/album/p%C3%A9-na-porta-soco-na-cara/977438858?i=977438859&uo=4",
-        "deezer": "https://www.deezer.com/track/96219824"
+        "musicbrainz": "https://musicbrainz.org/recording/9a0b3607-fd32-4b42-ae1c-d039b5697d66"
       }
     },
     "lyricPath": "/lyrics/98505.txt"

@@ -6,16 +6,15 @@
       "artists": [
         "Luan Santana"
       ],
-      "album": "Direito de Viver 16",
-      "releaseDate": "2015",
-      "durationMs": 242880,
+      "album": "Acústico (Ao Vivo)",
+      "releaseDate": "2015-04-14T12:00:00Z",
+      "durationMs": 243813,
       "genres": [
         "Sertanejo"
       ],
       "isrc": "BRRGE1500602",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c4/c1/fe/c4c1fea7-4dfc-58b4-4b76-7325097526f3/889176855689.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/b9822521-59bf-425b-aeca-79b3408c739a",
         "itunes": "https://music.apple.com/us/album/escreve-a%C3%AD-ao-vivo/982462709?i=982463362&uo=4",
         "deezer": "https://www.deezer.com/track/96904420"
       }

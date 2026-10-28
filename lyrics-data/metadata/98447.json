@@ -7,7 +7,7 @@
         "Reação Em Cadeia"
       ],
       "album": "Neural",
-      "releaseDate": "2002",
+      "releaseDate": "2018-03-15",
       "durationMs": 200253,
       "genres": [
         "Brazilian"
@@ -15,9 +15,8 @@
       "isrc": "BRACT0300792",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5c/7b/2c/5c7b2cef-7002-c027-eea8-607ebea8b2b5/192562194218.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/db67e885-21ef-412d-8720-8908ef7937dd",
-        "itunes": "https://music.apple.com/us/album/me-odeie/1360889709?i=1360890904&uo=4",
-        "deezer": "https://www.deezer.com/track/474119512"
+        "musicbrainz": "https://musicbrainz.org/recording/da0b2639-3a8d-4ec6-865a-0dcaac647bc2",
+        "itunes": "https://music.apple.com/us/album/me-odeie/1360889709?i=1360890904&uo=4"
       }
     },
     "lyricPath": "/lyrics/98447.txt"

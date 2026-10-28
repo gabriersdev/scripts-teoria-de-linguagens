@@ -6,18 +6,14 @@
       "artists": [
         "Ultraje a Rigor"
       ],
-      "album": "Acústico MTV",
-      "releaseDate": "2005",
-      "durationMs": 175280,
-      "genres": [
-        "Brazilian"
-      ],
-      "isrc": "BRDEP0500355",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/15/c4/9f15c409-dc83-6022-a6bf-d82976207fd9/7898324301889.jpg/1000x1000bb.jpg",
+      "album": "2 é demais",
+      "releaseDate": "1996",
+      "durationMs": 199826,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/3f3abc98-1ecf-4d6c-b9fe-169cae3bd5e8",
-        "itunes": "https://music.apple.com/us/album/rebelde-sem-causa/977474314?i=977474485&uo=4",
-        "deezer": "https://www.deezer.com/track/96168072"
+        "musicbrainz": "https://musicbrainz.org/recording/f01d9549-3c93-4fd5-9f55-167e21b0511e"
       }
     },
     "lyricPath": "/lyrics/98552.txt"

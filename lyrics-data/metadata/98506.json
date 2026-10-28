@@ -6,18 +6,17 @@
       "artists": [
         "Raimundos"
       ],
-      "album": "Rock Super Positivo",
-      "releaseDate": "2001",
-      "durationMs": 240171,
+      "album": "Luau MTV",
+      "releaseDate": "2000",
+      "durationMs": 249000,
       "genres": [
         "Rock"
       ],
-      "isrc": "BRWMB9900516",
+      "isrc": null,
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3f/a4/f8/3fa4f883-d23e-1845-984e-9d1ae2b268eb/0.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/5b07a66d-5742-416e-b3d7-b69c57b9a64e",
-        "itunes": "https://music.apple.com/us/album/a-mais-pedida-ao-vivo/879819848?i=879819866&uo=4",
-        "deezer": "https://www.deezer.com/track/761234"
+        "musicbrainz": "https://musicbrainz.org/recording/48ca8924-fb74-478f-b9de-199605a9443b",
+        "itunes": "https://music.apple.com/us/album/a-mais-pedida-ao-vivo/879819848?i=879819866&uo=4"
       }
     },
     "lyricPath": "/lyrics/98506.txt"

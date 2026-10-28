@@ -6,14 +6,18 @@
       "artists": [
         "Raul Seixas"
       ],
-      "album": "MPB No JT, Volume 9: Raul Seixas",
-      "releaseDate": null,
-      "durationMs": 182306,
-      "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "album": "\"Krig-Ha, Bandolo\"",
+      "releaseDate": "1973-07-21T12:00:00Z",
+      "durationMs": 232666,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRMCA7300118",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/37/0d/00370d59-7a40-4657-4c34-1c30929e8cb5/06UMGIM38143.rgb.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/b38f5661-3f78-49b2-9a03-0a4794dff223"
+        "musicbrainz": "https://musicbrainz.org/recording/721bbad1-62d6-4ed0-a8af-9825e36839b2",
+        "itunes": "https://music.apple.com/us/album/metamorfose-ambulante/1443561414?i=1443561817&uo=4",
+        "deezer": "https://www.deezer.com/track/4676600"
       }
     },
     "lyricPath": "/lyrics/98424.txt"

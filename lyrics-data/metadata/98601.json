@@ -6,17 +6,15 @@
       "artists": [
         "Luan Santana"
       ],
-      "album": "O nosso tempo é hoje",
-      "releaseDate": "2013-10-21",
-      "durationMs": 277000,
-      "genres": [
-        "Sertanejo"
-      ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/1f/0d/d8/1f0dd87e-d149-8636-2f86-8f92343d5092/7891430282226.tif/1000x1000bb.jpg",
+      "album": "As melhores… até aqui",
+      "releaseDate": "2013-06-10",
+      "durationMs": 245000,
+      "genres": [],
+      "isrc": "BRRGE1300069",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/e699a3d1c554611b1211e6e4a4cb5f8b/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/827ee5a4-e112-432f-9e82-7453d838d992",
-        "itunes": "https://music.apple.com/us/album/te-esperando/719077367?i=719077401&uo=4"
+        "musicbrainz": "https://musicbrainz.org/recording/bbdf4b06-d58b-4647-a67b-f0580ad58f82",
+        "deezer": "https://www.deezer.com/track/67796035"
       }
     },
     "lyricPath": "/lyrics/98601.txt"

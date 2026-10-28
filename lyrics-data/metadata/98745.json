@@ -6,7 +6,7 @@
       "artists": [
         "Henrique & Juliano"
       ],
-      "album": "Briga Feia (Ao Vivo) - Single",
+      "album": "Henrique e Juliano - Surreal",
       "releaseDate": "2019-12-13T12:00:00Z",
       "durationMs": 194580,
       "genres": [
@@ -15,6 +15,7 @@
       "isrc": "BRWNV1900346",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/d1/bc/d7d1bce8-761f-6d0d-f7f7-1bfe873ae6da/00602438605521_Cover.jpg/1000x1000bb.jpg",
       "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/715bae9e-112c-49a3-8698-b8c19fb76534",
         "itunes": "https://music.apple.com/us/album/briga-feia-ao-vivo/1882462960?i=1882462963&uo=4",
         "deezer": "https://www.deezer.com/track/3881784251"
       }

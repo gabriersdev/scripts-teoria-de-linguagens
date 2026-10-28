@@ -8,11 +8,12 @@
       ],
       "album": "Esú",
       "releaseDate": "2017-09-04",
-      "durationMs": 290000,
+      "durationMs": 291000,
       "genres": [],
       "isrc": "QZ5AB1740783",
       "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6db947bdadcb05f21e56ac506afd8881/1000x1000-000000-80-0-0.jpg",
       "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e5b23116-1c35-4281-87b1-ee3991a400f3",
         "deezer": "https://www.deezer.com/track/445019772"
       }
     },

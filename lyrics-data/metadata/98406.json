@@ -6,18 +6,14 @@
       "artists": [
         "Legião Urbana"
       ],
-      "album": "Legião Urbana - Box Set Edição de Colecionador",
-      "releaseDate": "2010",
-      "durationMs": 302200,
-      "genres": [
-        "Rock"
-      ],
-      "isrc": "BREMI8600025",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/2d/b1/bf2db1a5-2438-96de-0ef0-f82137535bd5/991061563491.png/1000x1000bb.jpg",
+      "album": "As 20 mais",
+      "releaseDate": null,
+      "durationMs": 252746,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/7976332e-8c00-4b7f-86eb-dfca5925b74a",
-        "itunes": "https://music.apple.com/us/album/tempo-perdido/6826001689?i=6826001906&uo=4",
-        "deezer": "https://www.deezer.com/track/3530724"
+        "musicbrainz": "https://musicbrainz.org/recording/0b7bcdab-83d4-444f-b678-199dcca55087"
       }
     },
     "lyricPath": "/lyrics/98406.txt"

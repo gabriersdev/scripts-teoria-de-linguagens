@@ -23,7 +23,7 @@
         "id": 98402,
         "name": "É Proibido Fumar - Versão remasterizada",
         "artists": "Roberto Carlos",
-        "complete": true
+        "complete": false
       },
       {
         "id": 98403,
@@ -311,7 +311,7 @@
         "id": 98450,
         "name": "You Don't Know Me",
         "artists": "Caetano Veloso",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98451,
@@ -563,7 +563,7 @@
         "id": 98492,
         "name": "Roots Bloody Roots",
         "artists": "Sepultura",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98493,
@@ -599,7 +599,7 @@
         "id": 98498,
         "name": "I Saw You Saying - That You Say That You Saw",
         "artists": "Raimundos",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98499,
@@ -743,7 +743,7 @@
         "id": 98522,
         "name": "Cabeça de bode",
         "artists": "Vitorin",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98523,
@@ -833,7 +833,7 @@
         "id": 98537,
         "name": "Kgb",
         "artists": "ADÉLA",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98538,
@@ -1169,7 +1169,7 @@
         "id": 98593,
         "name": "Plano Furado, Pt. 2",
         "artists": "Ratos De Porão",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98594,

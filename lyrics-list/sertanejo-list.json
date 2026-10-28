@@ -139,7 +139,7 @@
         "id": 98622,
         "name": "Eu Te Seguro",
         "artists": "Zé Vaqueiro",
-        "complete": true
+        "complete": false
       },
       {
         "id": 98623,
@@ -157,7 +157,7 @@
         "id": 98625,
         "name": "Patrão",
         "artists": "Zé Neto & Cristiano",
-        "complete": true
+        "complete": false
       },
       {
         "id": 98626,
@@ -331,7 +331,7 @@
         "id": 98654,
         "name": "Me Leva Pra Casa / Escrito Nas Estrelas / Saudade",
         "artists": "Zezé Di Camargo",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98655,
@@ -505,7 +505,7 @@
         "id": 98683,
         "name": "Cronômetro",
         "artists": "Zé Vaqueiro",
-        "complete": true
+        "complete": false
       },
       {
         "id": 98684,
@@ -517,7 +517,7 @@
         "id": 98685,
         "name": "Mentes Tão Bem / Você Mente",
         "artists": "Zezé Di Camargo & Luciano",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98686,
@@ -547,7 +547,7 @@
         "id": 98690,
         "name": "Sou Eu / Tentei Te Esquecer",
         "artists": "Matogrosso & Mathias",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98691,
@@ -613,7 +613,7 @@
         "id": 98701,
         "name": "Liberdade Provisória - Live - Ibirapuera / 2019",
         "artists": "Henrique & Juliano",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98702,
@@ -745,7 +745,7 @@
         "id": 98723,
         "name": "Cê Perdeu (Igual Eu) - Ao Vivo",
         "artists": "Simone Mendes",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98724,
@@ -949,13 +949,13 @@
         "id": 98757,
         "name": "Decide Aí - Na Praia / Ao Vivo",
         "artists": "Naiara Azevedo",
-        "complete": true
+        "complete": false
       },
       {
         "id": 98758,
         "name": "O Nosso Santo Bateu - Live",
         "artists": "Matheus e Kauan",
-        "complete": true
+        "complete": false
       },
       {
         "id": 98759,
@@ -1033,7 +1033,7 @@
         "id": 98771,
         "name": "Nessas Horas - Ao Vivo",
         "artists": "João Gomes",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98772,
@@ -1051,13 +1051,13 @@
         "id": 98774,
         "name": "Suíte 14 - Ao Vivo",
         "artists": "Israel Novaes",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98775,
         "name": "Impressionando Os Anjos - Ao Vivo",
         "artists": "Diego Costa",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98776,
@@ -1147,7 +1147,7 @@
         "id": 98790,
         "name": "Bagunça Minha Vida - Ao Vivo Em Goiânia / 2019",
         "artists": "Maiara & Maraisa",
-        "complete": true
+        "complete": false
       },
       {
         "id": 98791,

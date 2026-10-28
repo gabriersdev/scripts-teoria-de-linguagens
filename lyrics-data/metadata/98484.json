@@ -6,16 +6,15 @@
       "artists": [
         "Ritchie"
       ],
-      "album": "Outra Vez (Ao Vivo No Estúdio)",
-      "releaseDate": "2009",
-      "durationMs": 283000,
+      "album": "Vôo de Coração",
+      "releaseDate": "1983-01-01T12:00:00Z",
+      "durationMs": 281293,
       "genres": [
         "Brazilian"
       ],
       "isrc": "BRSME8300003",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/6d/ce/fc/mzi.etonyjts.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/510ef13c-4cef-4f6e-9210-c1881ffe39f3",
         "itunes": "https://music.apple.com/us/album/menina-veneno/471884433?i=471884444&uo=4",
         "deezer": "https://www.deezer.com/track/14924893"
       }

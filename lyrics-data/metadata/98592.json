@@ -6,16 +6,14 @@
       "artists": [
         "Ratos De Porão"
       ],
-      "album": "Crucificados pelo Sistema",
-      "releaseDate": "1984-09-11T12:00:00Z",
-      "durationMs": 83960,
-      "genres": [
-        "Punk"
-      ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3e/e2/6d/3ee26d8e-9b43-781a-6ae7-792407574888/5059033119321.png/1000x1000bb.jpg",
+      "album": "RDP Vivo",
+      "releaseDate": "2015-10-30",
+      "durationMs": 163800,
+      "genres": [],
+      "isrc": "BRELD0500225",
+      "coverUrl": null,
       "sources": {
-        "itunes": "https://music.apple.com/us/album/morrer/1479746586?i=1479746587&uo=4"
+        "musicbrainz": "https://musicbrainz.org/recording/a96462b7-ab7b-43d1-babe-88f6475ca81d"
       }
     },
     "lyricPath": "/lyrics/98592.txt"

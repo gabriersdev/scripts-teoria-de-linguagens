@@ -21,7 +21,7 @@
         "id": 98951,
         "name": "OURO ROSE",
         "artists": "MD Chefe, Maru2D, NandaTsunami, $CAM",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98952,
@@ -63,7 +63,7 @@
         "id": 98958,
         "name": "Estrela Cadente",
         "artists": "Tz da Coronel",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98959,
@@ -81,7 +81,7 @@
         "id": 98961,
         "name": "MUN RÁ",
         "artists": "Ryu, The Runner, LPT Zlatan, Neckklace, SMOKEFUSION",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98962,
@@ -111,7 +111,7 @@
         "id": 98966,
         "name": "FÉRIAS",
         "artists": "Ryu, The Runner, 6ee",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98967,
@@ -129,7 +129,7 @@
         "id": 98969,
         "name": "Stalker",
         "artists": "Derek, Phl Notunrboy",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98970,
@@ -141,7 +141,7 @@
         "id": 98971,
         "name": "Gangstar",
         "artists": "Oruam, Chefin, Salvador Da Rima, Real Fuba, Elow, Kabeh, Vertigo, NovaChance",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98972,
@@ -255,13 +255,13 @@
         "id": 98990,
         "name": "THE BOX MEDLEY 12",
         "artists": "THE BOX, L7NNON, Orochi, AJULLIACOSTA, MD Chefe, DomLaike, Neo Beats, Victor WAO, ProdbyFp",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98991,
         "name": "REI DOS CAMAROTE",
         "artists": "LH CHUCRO, Drummond, DKmixx",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98992,
@@ -327,7 +327,7 @@
         "id": 99002,
         "name": "THE BOX MEDLEY 10",
         "artists": "THE BOX, Oruam, Borges, Meno Tody, NGC Daddy, Pedrin, Js da Torre, Neo Beats, Victor WAO, Joab Beats",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 99003,
@@ -447,7 +447,7 @@
         "id": 99022,
         "name": "TaTaTa - Spotify Sessions",
         "artists": "Burna Boy, KayBlack",
-        "complete": 1
+        "complete": false
       },
       {
         "id": 99023,
@@ -465,31 +465,31 @@
         "id": 99025,
         "name": "I Just Wanna Go",
         "artists": "Derek, CLY G",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 99026,
         "name": "PRÊMIO MULTISHOW",
         "artists": "Ryu, The Runner, Neckklace, SMOKEFUSION",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 99027,
         "name": "LEVEL UP",
         "artists": "Sidoka",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 99028,
         "name": "Diva Pop",
         "artists": "Azzy, A.LBeats",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 99029,
         "name": "pela família",
         "artists": "Dfideliz",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 99030,
@@ -513,13 +513,13 @@
         "id": 99033,
         "name": "B Dior",
         "artists": "Lipinho Oficial, Ian Durso, Medellin",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 99034,
         "name": "Zóio",
         "artists": "MC Igu, Loudpacc, Chulo",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 99035,
@@ -543,7 +543,7 @@
         "id": 99038,
         "name": "AMIGA DE VERDADE",
         "artists": "Aka Rasta, C7, Art",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 99039,
@@ -555,7 +555,7 @@
         "id": 99040,
         "name": "Sozinho",
         "artists": "Senndy, Cassin",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 99041,
@@ -591,7 +591,7 @@
         "id": 99046,
         "name": "Princesa Minimalista",
         "artists": "Pluck D, Trak, Tevito, Lp067",
-        "complete": 1
+        "complete": false
       },
       {
         "id": 99047,
@@ -603,13 +603,13 @@
         "id": 99048,
         "name": "Questão de Tempo",
         "artists": "Kweller, Thiago Sub, NAVII",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 99049,
         "name": "Eu sou mais louco que todos vocês",
         "artists": "7 Minutoz",
-        "complete": true
+        "complete": false
       },
       {
         "id": 99050,
@@ -837,7 +837,7 @@
         "id": 99087,
         "name": "Eles São Fracos",
         "artists": "Blxck",
-        "complete": true
+        "complete": false
       },
       {
         "id": 99088,
@@ -849,7 +849,7 @@
         "id": 99089,
         "name": "PALHAÇADA",
         "artists": "Slipmami",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 99090,
@@ -933,7 +933,7 @@
         "id": 99103,
         "name": "Capa de Revista",
         "artists": "jonaveliz",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 99104,
@@ -963,7 +963,7 @@
         "id": 99108,
         "name": "Pijama",
         "artists": "jonaveliz",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 99109,
@@ -975,7 +975,7 @@
         "id": 99110,
         "name": "Eu Imagino Tu Dentro da Minha Casa",
         "artists": "DJ Gxlherm Beats, MC Cabelinho",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 99111,
@@ -1083,7 +1083,7 @@
         "id": 99128,
         "name": "I Just Wanna Lo-Fi",
         "artists": "jonaveliz",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 99129,

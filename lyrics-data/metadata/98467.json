@@ -6,16 +6,15 @@
       "artists": [
         "Barão Vermelho"
       ],
-      "album": "Pedra, flor e espinho",
-      "releaseDate": "2002-12-09",
-      "durationMs": 269706,
+      "album": "Maior Abandonado",
+      "releaseDate": "1984-10-01T07:00:00Z",
+      "durationMs": 271486,
       "genres": [
         "Rock"
       ],
       "isrc": "BRSGL8400019",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/66/3a/db/mzi.zbtovqae.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/1087badf-36ad-4398-b8d3-45d4acc676d6",
         "itunes": "https://music.apple.com/us/album/por-que-a-gente-%C3%A9-assim/352834028?i=352834216&uo=4",
         "deezer": "https://www.deezer.com/track/11085352"
       }

@@ -7,16 +7,16 @@
         "Black Alien"
       ],
       "album": "Abaixo de Zero: Hello Hell",
-      "releaseDate": "2019-04-12",
-      "durationMs": 207000,
+      "releaseDate": "2019-04-12T12:00:00Z",
+      "durationMs": 207273,
       "genres": [
         "Hip-Hop/Rap"
       ],
       "isrc": "BXXEK1900007",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fa/7d/ad/fa7dad81-9b56-8743-3b63-c81c2ad6722c/8429006378821.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/47ae260f-9407-453d-840f-04579c013dcc",
-        "itunes": "https://music.apple.com/us/album/au-revoir/1457376751?i=1457377059&uo=4"
+        "itunes": "https://music.apple.com/us/album/au-revoir/1457376751?i=1457377059&uo=4",
+        "deezer": "https://www.deezer.com/track/3224431221"
       }
     },
     "lyricPath": "/lyrics/99073.txt"

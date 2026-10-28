@@ -6,14 +6,17 @@
       "artists": [
         "Luan Santana"
       ],
-      "album": "Viva: Ao vivo em Salvador",
-      "releaseDate": "2019-08-22",
-      "durationMs": 257000,
-      "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "album": "Acordando o Prédio - EP",
+      "releaseDate": "2016-10-01T12:00:00Z",
+      "durationMs": 218467,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRRGE1700639",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/02/7d/61/027d613f-a42b-aa87-d788-f73615c4e5ec/7891430162078.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/7c76fd8e-b075-4729-8bb0-842d151219eb"
+        "itunes": "https://music.apple.com/us/album/acordando-o-pr%C3%A9dio-radio-version/1228935684?i=1228935857&uo=4",
+        "deezer": "https://www.deezer.com/track/141145001"
       }
     },
     "lyricPath": "/lyrics/98755.txt"

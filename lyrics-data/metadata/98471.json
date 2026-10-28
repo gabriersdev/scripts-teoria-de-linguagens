@@ -6,15 +6,16 @@
       "artists": [
         "NX Zero"
       ],
-      "album": "N@o Eh sÓ Um4 FaSeh",
-      "releaseDate": "2016-06-03",
-      "durationMs": 222400,
-      "genres": [],
-      "isrc": "BRMSU0600107",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/e9115d0519ff6d279c626bc3444d2dd4/1000x1000-000000-80-0-0.jpg",
+      "album": "Norte (Ao Vivo)",
+      "releaseDate": "2017-10-27T12:00:00Z",
+      "durationMs": 245960,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/20/91/8e/20918e16-ec79-3372-f5ad-1b07a2b016b8/7898324314469.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/40372648-541c-4836-8bd3-d825193a88a6",
-        "deezer": "https://www.deezer.com/track/125972637"
+        "itunes": "https://music.apple.com/us/album/raz%C3%B5es-e-emo%C3%A7%C3%B5es-ao-vivo/1294931990?i=1294932264&uo=4"
       }
     },
     "lyricPath": "/lyrics/98471.txt"

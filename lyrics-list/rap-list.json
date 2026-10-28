@@ -47,7 +47,7 @@
         "id": 98206,
         "name": "PREDESTINADA",
         "artists": "Muse Maya, Nagalli",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98207,
@@ -59,7 +59,7 @@
         "id": 98208,
         "name": "Quem é você?",
         "artists": "Akashi Cruz",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98209,
@@ -71,7 +71,7 @@
         "id": 98210,
         "name": "Frágil",
         "artists": "Celo Dut, BK",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98211,
@@ -95,13 +95,13 @@
         "id": 98214,
         "name": "Eliantte",
         "artists": "MC Caverinha, tal do dias",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98215,
         "name": "Maturidade",
         "artists": "Filtr Music Brasil, Pelé MilFlows, WEY, Fepache",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98216,
@@ -143,13 +143,13 @@
         "id": 98222,
         "name": "HATER",
         "artists": "Muse Maya, Stick",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98223,
         "name": "Estrela Cadente",
         "artists": "Tz da Coronel",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98224,
@@ -167,7 +167,7 @@
         "id": 98226,
         "name": "Talvez você precise de mim",
         "artists": "Veigh, Supernova Ent",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98227,
@@ -191,7 +191,7 @@
         "id": 98230,
         "name": "Joga Bonito",
         "artists": "Kyan, Enzo from the Block, Mu540",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98231,
@@ -245,7 +245,7 @@
         "id": 98239,
         "name": "Gangstar",
         "artists": "Oruam, Chefin, Salvador Da Rima, Real Fuba, Elow, Kabeh, Vertigo, NovaChance",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98240,
@@ -401,7 +401,7 @@
         "id": 98265,
         "name": "Além do Dinheiro",
         "artists": "Filipe Ret, Dallass, Ariel Donato",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98266,
@@ -455,7 +455,7 @@
         "id": 98274,
         "name": "Veterano",
         "artists": "Lipinho Oficial, Vinicin, Surfista, Ryuchi, Ian Durso, JVMVO",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98275,
@@ -671,7 +671,7 @@
         "id": 98310,
         "name": "O Gatilho",
         "artists": "Sabotage, Céu, BNegão, Rodrigo Brandao, Instituto, Ganjaman, Quincas",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98311,
@@ -749,13 +749,13 @@
         "id": 98323,
         "name": "Dharma",
         "artists": "AJULLIACOSTA, Dj KLJay, Maffalda",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98324,
         "name": "Se Eu Pudesse",
         "artists": "2ZDinizz, L7NNON, HHR",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98325,
@@ -851,7 +851,7 @@
         "id": 98340,
         "name": "Q SE FODA",
         "artists": "Drizzy, L7NNON, dubbeatzz",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98341,
@@ -1001,7 +1001,7 @@
         "id": 98365,
         "name": "Minha Dama",
         "artists": "Tangi, Pedro Qualy, The B Brothers",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98366,

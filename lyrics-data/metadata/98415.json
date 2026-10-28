@@ -7,16 +7,17 @@
         "Lobão",
         "Os Ronaldos"
       ],
-      "album": "Lobão (Ao Vivo)",
-      "releaseDate": "2000-04-19T12:00:00Z",
-      "durationMs": 141333,
+      "album": "Acústico MTV",
+      "releaseDate": "2007-03",
+      "durationMs": 219000,
       "genres": [
-        "Brazilian"
+        "rock roll"
       ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/5c/11/1f/mzi.sxwafbgd.jpg/1000x1000bb.jpg",
+      "isrc": "BRSME0700093",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/174b7df2a3dd92975c4c3ae0e2865d49/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/me-chama-ao-vivo/401771639?i=401771973&uo=4"
+        "musicbrainz": "https://musicbrainz.org/recording/6ce1554e-6f9c-448c-88a0-3aa5e7363d20",
+        "deezer": "https://www.deezer.com/track/65440242"
       }
     },
     "lyricPath": "/lyrics/98415.txt"

@@ -6,14 +6,18 @@
       "artists": [
         "Gal Costa"
       ],
-      "album": "Gal Total",
-      "releaseDate": "2010-09-24",
-      "durationMs": 196000,
-      "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "album": "30 anos de barato",
+      "releaseDate": "1971-03-19T12:00:00Z",
+      "durationMs": 516333,
+      "genres": [
+        "MPB"
+      ],
+      "isrc": "BRMCA7100167",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/67/fc/af/67fcafcf-e3be-d83c-e785-fdde2cf11d80/00602537897285.rgb.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/2b4d3f1d-6c82-4901-a3ff-680ecedb6b48"
+        "musicbrainz": "https://musicbrainz.org/recording/991107e3-9315-40a9-b499-6b913e9bb87e",
+        "itunes": "https://music.apple.com/us/album/vapor-barato-live/1444110555?i=1444110672&uo=4",
+        "deezer": "https://www.deezer.com/track/78654798"
       }
     },
     "lyricPath": "/lyrics/98429.txt"

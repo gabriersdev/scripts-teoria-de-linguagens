@@ -6,14 +6,16 @@
       "artists": [
         "Nenhum De Nós"
       ],
-      "album": "Paz & amor acústico",
-      "releaseDate": "2009",
-      "durationMs": 295000,
-      "genres": [],
+      "album": "Nenhum de Nós",
+      "releaseDate": "1987-02-17T12:00:00Z",
+      "durationMs": 312133,
+      "genres": [
+        "Rock"
+      ],
       "isrc": "BRBMG8700100",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/46bd5609252fd9d9cae37dafcd587486/1000x1000-000000-80-0-0.jpg",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c0/3d/ff/c03dffd0-ea49-1a2c-4ca0-4f0369839b61/886446168036.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/b4c8736a-3655-404b-8990-3d179c4c8d97",
+        "itunes": "https://music.apple.com/us/album/camila-camila/1204509804?i=1204509952&uo=4",
         "deezer": "https://www.deezer.com/track/14272468"
       }
     },

@@ -6,16 +6,16 @@
       "artists": [
         "Raimundos"
       ],
-      "album": "Dose Dupla",
-      "releaseDate": "2011",
-      "durationMs": 204277,
+      "album": "E-Collection",
+      "releaseDate": "2003-08-04",
+      "durationMs": 204000,
       "genres": [
         "Rock"
       ],
       "isrc": "BRWMB9702647",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3f/a4/f8/3fa4f883-d23e-1845-984e-9d1ae2b268eb/0.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/85ee5f6d-29cc-4fb3-8c12-518eac0698db",
+        "musicbrainz": "https://musicbrainz.org/recording/6d46d005-7903-4c1a-806d-2bcba91fdce6",
         "itunes": "https://music.apple.com/us/album/i-saw-you-saying-that-you-say-that-you-saw-ao-vivo/879819848?i=879819864&uo=4",
         "deezer": "https://www.deezer.com/track/3895377"
       }

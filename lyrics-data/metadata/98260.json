@@ -8,16 +8,15 @@
         "WIU",
         "Teto"
       ],
-      "album": "Vampiro",
-      "releaseDate": "2022-03-29",
-      "durationMs": 250000,
+      "album": "Vampiro - Single",
+      "releaseDate": "2022-01-30T12:00:00Z",
+      "durationMs": 250435,
       "genres": [
         "Rap"
       ],
       "isrc": "BXW922100034",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/e2/41/65e241fa-3319-80b6-d011-ffc22f60368d/886449853229.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/e57d9405-4a91-4b93-9a4f-7375ec53e629",
         "itunes": "https://music.apple.com/us/album/vampiro/1605400390?i=1605400395&uo=4",
         "deezer": "https://www.deezer.com/track/1623099982"
       }

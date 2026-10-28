@@ -6,16 +6,15 @@
       "artists": [
         "Garotos Podres"
       ],
-      "album": "Live In Rio",
+      "album": "Mais Podres do que Nunca",
       "releaseDate": "1985-04-30T12:00:00Z",
-      "durationMs": 98000,
+      "durationMs": 102347,
       "genres": [
         "Rock"
       ],
       "isrc": "GXD7V2649307",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/a4/f1/40a4f154-b2ae-7e79-0ac9-05b720a21678/26270.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/e3283efb-0ebc-4b48-abfb-7673e962ea89",
         "itunes": "https://music.apple.com/us/album/anarkia-oi/1863752418?i=1863752430&uo=4",
         "deezer": "https://www.deezer.com/track/3736509442"
       }

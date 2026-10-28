@@ -50,7 +50,7 @@
         "id": 98007,
         "name": "Malvado",
         "artists": "MC Gustavinho",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98008,
@@ -98,13 +98,13 @@
         "id": 98015,
         "name": "Na Ponta do Pé",
         "artists": "Mc Prr Felipinho, DJ 7W, DJ LEILTON 011",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98016,
         "name": "Jontex (fumaça do ice)",
         "artists": "Mc Menor Rf, DJ GUIZIN DA SERRA",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98017,
@@ -128,7 +128,7 @@
         "id": 98020,
         "name": "RECEBA",
         "artists": "MC Gustavinho, Gt do Mira",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98021,
@@ -146,7 +146,7 @@
         "id": 98023,
         "name": "Menos Foco Mais Ansiedade (Ce Ta Nervosa)",
         "artists": "dj andreoli, Mc Jacaré, MC Ryan SP, ZANOLINI, Mc Lele JP, MC LUUKY",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98024,
@@ -158,13 +158,13 @@
         "id": 98025,
         "name": "Redbull",
         "artists": "MC Pikachu",
-        "complete": true
+        "complete": false
       },
       {
         "id": 98026,
         "name": "VOLTEI PRA PUTARIA",
         "artists": "DJ MIAC",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98027,
@@ -296,7 +296,7 @@
         "id": 98048,
         "name": "SENTANDO NO MALVADO",
         "artists": "MC Gustavinho, Gt do Mira",
-        "complete": 1
+        "complete": false
       },
       {
         "id": 98049,
@@ -362,7 +362,7 @@
         "id": 98059,
         "name": "MACETEI",
         "artists": "MC Gustavinho, Gt do Mira",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98060,
@@ -434,7 +434,7 @@
         "id": 98071,
         "name": "Calafrio",
         "artists": "DJ KN DE VILA VELHA, DJ Arana, MC Ryan SP, Vulgo FK, TDK Rec, MC Jvila",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98072,
@@ -494,7 +494,7 @@
         "id": 98081,
         "name": "Sem Frescura, Sem Pirraça",
         "artists": "Mc Rodrigo do CN, Mc Jhey, DJ PH DE CAMPOS, DJ Denilson o clínico",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98082,
@@ -518,7 +518,7 @@
         "id": 98085,
         "name": "Meu Carro Nao Tem Porta Luva - Remastered 2024",
         "artists": "DJ NATAN 22, Mc Rodrigo do CN, DJ DN do Dick",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98086,
@@ -578,7 +578,7 @@
         "id": 98095,
         "name": "Macetada nas do Job",
         "artists": "Mc Rodrigo do CN, MC 2jhow, DJ Cayoo, Mc Ws da leste",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98096,
@@ -608,7 +608,7 @@
         "id": 98100,
         "name": "SET DJ YURI PEDRADA - TRAVA CHIP",
         "artists": "Dj Yuri Pedrada, Nilo, MC Meno K, Mc Livinho, Mc Negão Original, MC Jvila, MC Ryan SP, Mc Paiva ZS, MC GDL",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98101,
@@ -746,7 +746,7 @@
         "id": 98123,
         "name": "Chefe É Chefe",
         "artists": "MC Hariel",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98124,
@@ -812,13 +812,13 @@
         "id": 98134,
         "name": "Vai Mamar",
         "artists": "Mc Pikachu, Iraqui ZL, Konddrake",
-        "complete": true
+        "complete": false
       },
       {
         "id": 98135,
         "name": "Toma Piru",
         "artists": "Mc Pikachu",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98136,
@@ -1064,7 +1064,7 @@
         "id": 98176,
         "name": "Beat do Megatron",
         "artists": "MC Kitinho, MC Lustosa",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98177,
@@ -1196,7 +1196,7 @@
         "id": 98198,
         "name": "Novinha",
         "artists": "Mc Leozin, Mc Menor DN, DJ ARTHUZIIN",
-        "complete": true
+        "complete": 1
       },
       {
         "id": 98199,
@@ -1208,7 +1208,7 @@
         "id": 98200,
         "name": "Cenas Obscenas",
         "artists": "Mc Anjim",
-        "complete": true
+        "complete": 1
       }
     ]
   }

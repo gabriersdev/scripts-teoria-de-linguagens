@@ -6,16 +6,15 @@
       "artists": [
         "Charlie Brown Jr."
       ],
-      "album": "Acústico MTV",
+      "album": "Transpiração Continua Prolongada",
       "releaseDate": "1997-01-01T12:00:00Z",
-      "durationMs": 153666,
+      "durationMs": 167933,
       "genres": [
         "Brazilian"
       ],
       "isrc": "BREMI9700213",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/08/5b/b8085bc2-59a6-d62b-ad98-85d7b95e1db3/13UABIM34074.rgb.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/f3799f37-e7d9-43d5-ab40-5e430c64539a",
         "itunes": "https://music.apple.com/us/album/proibida-pra-mim-grazon/723587580?i=723588361&uo=4",
         "deezer": "https://www.deezer.com/track/3413349"
       }

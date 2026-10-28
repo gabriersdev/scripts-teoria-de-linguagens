@@ -6,16 +6,15 @@
       "artists": [
         "Engenheiros Do Hawaii"
       ],
-      "album": "Focus",
-      "releaseDate": "1999",
-      "durationMs": 371933,
+      "album": "10.000 Destinos - Ao Vivo",
+      "releaseDate": "2000-01-01T12:00:00Z",
+      "durationMs": 366693,
       "genres": [
         "Pop"
       ],
       "isrc": "BRBMG8700021",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2d/56/7b/2d567b51-7544-2f76-34c1-4d483d09b0da/06UMGIM46710.rgb.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/7580fc91-a20d-48a5-9498-84b98340d555",
         "itunes": "https://music.apple.com/us/album/infinita-highway/1452786496?i=1452786501&uo=4",
         "deezer": "https://www.deezer.com/track/13310165"
       }

@@ -6,14 +6,14 @@
       "artists": [
         "João Penca E Seus Miquinhos Amestrados"
       ],
-      "album": "A Festa dos Micos",
-      "releaseDate": "1993",
-      "durationMs": 205840,
+      "album": "Hot 20 - João Penca e Seus Miquinhos Amestrados",
+      "releaseDate": "2000-08-01",
+      "durationMs": 232000,
       "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "isrc": "BRBMG8600183",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d4b1e9fdf31200538d73aa63bf7eb059/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/34ca29fb-9c5f-44b3-9af1-d21aae4f5762"
+        "deezer": "https://www.deezer.com/track/15407451"
       }
     },
     "lyricPath": "/lyrics/98482.txt"

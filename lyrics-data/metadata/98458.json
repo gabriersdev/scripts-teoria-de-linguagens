@@ -6,16 +6,20 @@
       "artists": [
         "Lobão"
       ],
-      "album": "Lobão (Ao Vivo)",
-      "releaseDate": "2000-04-19T12:00:00Z",
-      "durationMs": 218960,
+      "album": "Focus: O essencial de Lobão",
+      "releaseDate": "1999",
+      "durationMs": 299066,
       "genres": [
-        "Brazilian"
+        "rock",
+        "post-rock",
+        "pop",
+        "psychedelic rock"
       ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/5c/11/1f/mzi.sxwafbgd.jpg/1000x1000bb.jpg",
+      "isrc": "BRBMG8600062",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/5f9d6f0570a5f1925c21579a0969961a/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/revanche-ao-vivo/401771639?i=401771886&uo=4"
+        "musicbrainz": "https://musicbrainz.org/recording/c49c0817-9f29-4d02-8120-1ee8f1f45480",
+        "deezer": "https://www.deezer.com/track/61017829"
       }
     },
     "lyricPath": "/lyrics/98458.txt"

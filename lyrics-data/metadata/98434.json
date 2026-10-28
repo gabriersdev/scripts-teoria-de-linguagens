@@ -6,19 +6,14 @@
       "artists": [
         "Titãs"
       ],
-      "album": "iCollection",
-      "releaseDate": "2016",
-      "durationMs": 194000,
-      "genres": [
-        "rock",
-        "post-punk",
-        "brazilian",
-        "pop rock"
-      ],
+      "album": "Go Back",
+      "releaseDate": "1990",
+      "durationMs": 198933,
+      "genres": [],
       "isrc": "BRWMB9600805",
       "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4703a4d0da49a6220e953db3a0727bd9/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/97d2d75e-ff71-48db-8c7f-a0ad76dc77ab",
+        "musicbrainz": "https://musicbrainz.org/recording/aae86106-13ef-423c-9abb-018206ce6451",
         "deezer": "https://www.deezer.com/track/62791487"
       }
     },

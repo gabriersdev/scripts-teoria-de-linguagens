@@ -6,18 +6,14 @@
       "artists": [
         "Skank"
       ],
-      "album": "A Trip to Brazil, Volume 5: Copa Do Mundo 2006",
-      "releaseDate": "2006-02-06",
-      "durationMs": 236360,
-      "genres": [
-        "Brazilian"
-      ],
-      "isrc": "BRSME9600281",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c8/91/59/c8915987-dea8-cd1e-bf95-3d8ce93cf5ca/886443812093.jpg/1000x1000bb.jpg",
+      "album": "Skank, Os Três Primeiros - EP Samba Poconé",
+      "releaseDate": "2018-09-28",
+      "durationMs": 215000,
+      "genres": [],
+      "isrc": "BRSME1702126",
+      "coverUrl": null,
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/3e9f039e-75fb-4866-901f-45b18d6c579d",
-        "itunes": "https://music.apple.com/us/album/e-uma-partida-de-futebol/588335548?i=588335699&uo=4",
-        "deezer": "https://www.deezer.com/track/63135957"
+        "musicbrainz": "https://musicbrainz.org/recording/f88d3065-832b-4c4a-8bc7-c1bee575d382"
       }
     },
     "lyricPath": "/lyrics/98457.txt"

@@ -7,17 +7,15 @@
         "Sa",
         "Rodrix & Guarabyra"
       ],
-      "album": "O Essencial do Rock Rural",
-      "releaseDate": "2016-03-04",
-      "durationMs": 223000,
-      "genres": [
-        "MPB"
-      ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/07/b9/93/07b993a7-190a-bda0-fca1-8d6d68e43c2d/7891430081874.jpg/1000x1000bb.jpg",
+      "album": "O essencial de Sá e Guarabyra",
+      "releaseDate": "2006-08-15",
+      "durationMs": 202733,
+      "genres": [],
+      "isrc": "BREMI7300012",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9cb9f2262486e8b92a68ed9cf6ba9275/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/a68ac6ef-bc6a-4eed-b9d3-2a75798c057c",
-        "itunes": "https://music.apple.com/us/album/mestre-jonas-ao-vivo/1085768983?i=1085769961&uo=4"
+        "musicbrainz": "https://musicbrainz.org/recording/c08b7e87-542f-4ba1-8423-000a071e8b33",
+        "deezer": "https://www.deezer.com/track/3202527"
       }
     },
     "lyricPath": "/lyrics/98419.txt"

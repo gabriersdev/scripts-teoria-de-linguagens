@@ -6,14 +6,14 @@
       "artists": [
         "Lô Borges"
       ],
-      "album": "Feira Moderna",
-      "releaseDate": "2001",
-      "durationMs": 275466,
+      "album": "Uma Travessia - 50 Anos de Carreira (ao vivo)",
+      "releaseDate": null,
+      "durationMs": 288000,
       "genres": [],
       "isrc": null,
       "coverUrl": null,
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/ed5efbb2-c6fa-4098-87b8-fb7019b0d0a1"
+        "musicbrainz": "https://musicbrainz.org/recording/49fa8563-9c3e-4c1a-b453-006d2b90a300"
       }
     },
     "lyricPath": "/lyrics/98432.txt"

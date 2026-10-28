@@ -8,11 +8,12 @@
       ],
       "album": "Shittrap 10 (O funeral da ironia)",
       "releaseDate": "2023-07-08",
-      "durationMs": 121000,
+      "durationMs": 121503,
       "genres": [],
       "isrc": "BXIV82342597",
       "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1f15400fe2c7a24a0ac93270091a095c/1000x1000-000000-80-0-0.jpg",
       "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/cb9d63de-d919-4921-9b77-23a5de18d33e",
         "deezer": "https://www.deezer.com/track/2326571285"
       }
     },

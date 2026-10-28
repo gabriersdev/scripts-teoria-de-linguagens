@@ -6,8 +6,8 @@
       "artists": [
         "Racionais MC's"
       ],
-      "album": "1000 trutas, 1000 tretas",
-      "releaseDate": "2006",
+      "album": "1000 Trutas 1000 Tretas (Ao Vivo)",
+      "releaseDate": "2006-01-01T12:00:00Z",
       "durationMs": 318760,
       "genres": [
         "Hip-Hop/Rap"
@@ -15,7 +15,6 @@
       "isrc": null,
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f1/79/0a/f1790a95-0b5f-7ca5-ecc9-4fb0ec7932c0/0.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/382381a5-31a3-47ab-91d5-e85338f9b9b5",
         "itunes": "https://music.apple.com/us/album/negro-drama-ao-vivo/1198320666?i=1198320702&uo=4"
       }
     },

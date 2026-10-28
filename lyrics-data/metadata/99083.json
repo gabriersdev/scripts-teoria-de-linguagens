@@ -6,17 +6,17 @@
       "artists": [
         "Slipmami"
       ],
-      "album": "Malvatrem",
-      "releaseDate": "2023-01-25",
-      "durationMs": 192000,
+      "album": "Oompa Loompa (feat. Leo Justi) - Single",
+      "releaseDate": "2022-06-22T12:00:00Z",
+      "durationMs": 194885,
       "genres": [
         "Hip-Hop/Rap"
       ],
       "isrc": "BX3AW2200035",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/25/78/97257866-fd54-5744-f97f-5b5522e82868/197875547300_1qpvB1I-copy-08f3703d.png/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/34a7b4df-61a6-4909-b3ce-04ca36385eb1",
-        "itunes": "https://music.apple.com/us/album/oompa-loompa-feat-leo-justi/1704387540?i=1704387541&uo=4"
+        "itunes": "https://music.apple.com/us/album/oompa-loompa-feat-leo-justi/1704387540?i=1704387541&uo=4",
+        "deezer": "https://www.deezer.com/track/2097374747"
       }
     },
     "lyricPath": "/lyrics/99083.txt"

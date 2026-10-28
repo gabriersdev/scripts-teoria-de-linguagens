@@ -11,12 +11,11 @@
       ],
       "album": "Dos Prédios Deluxe",
       "releaseDate": "2023-05-19",
-      "durationMs": 140322,
+      "durationMs": 140000,
       "genres": [],
       "isrc": "QZMWW2396002",
       "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b300e05a1b78466f15c81677e4ba33d9/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/36a25812-885d-4e8f-bcfc-583154109941",
         "deezer": "https://www.deezer.com/track/2271327847"
       }
     },

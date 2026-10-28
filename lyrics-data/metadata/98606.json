@@ -6,17 +6,17 @@
       "artists": [
         "Cleber & Cauan"
       ],
-      "album": "Surreal",
-      "releaseDate": "2019-09-06",
-      "durationMs": 143000,
+      "album": "Resenha em Casa (Ao Vivo)",
+      "releaseDate": "2020-04-03T12:00:00Z",
+      "durationMs": 144147,
       "genres": [
         "Sertanejo"
       ],
       "isrc": "BRRGE1906794",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/e5/97/72e597f5-6c71-d81f-8a8d-e55a15ae2a86/7891430464370.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/68d14ddf-53b7-4e30-a2a9-cfaef3c562d6",
-        "itunes": "https://music.apple.com/us/album/200-reais-ao-vivo/1504280597?i=1504280992&uo=4"
+        "itunes": "https://music.apple.com/us/album/200-reais-ao-vivo/1504280597?i=1504280992&uo=4",
+        "deezer": "https://www.deezer.com/track/740496082"
       }
     },
     "lyricPath": "/lyrics/98606.txt"

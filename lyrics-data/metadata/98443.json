@@ -6,18 +6,14 @@
       "artists": [
         "Inocentes"
       ],
-      "album": "Pânico Em S.P.",
-      "releaseDate": "1986",
-      "durationMs": 237000,
-      "genres": [
-        "Rock"
-      ],
-      "isrc": "BRWMB9900634",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cb/28/df/cb28df55-ff52-70c0-5d0d-88bf4cd8a133/190296754562.jpg/1000x1000bb.jpg",
+      "album": "20 anos de Rock Brasil, Volume 3 & 4",
+      "releaseDate": "2003",
+      "durationMs": 215189,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/d13a35ae-29f6-4d6f-81f1-ae25425919c5",
-        "itunes": "https://music.apple.com/us/album/p%C3%A2nico-em-s-p/1579890264?i=1579890451&uo=4",
-        "deezer": "https://www.deezer.com/track/14663684"
+        "musicbrainz": "https://musicbrainz.org/recording/acde4bea-4785-4db9-9656-2aa99ffeeefa"
       }
     },
     "lyricPath": "/lyrics/98443.txt"

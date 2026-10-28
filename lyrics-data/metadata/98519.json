@@ -6,15 +6,14 @@
       "artists": [
         "Raimundos"
       ],
-      "album": "MTV Ao Vivo, Volume 02",
-      "releaseDate": "2000",
-      "durationMs": 248226,
+      "album": "Cesta básica",
+      "releaseDate": "1996",
+      "durationMs": 293173,
       "genres": [],
-      "isrc": "BRWMB9600970",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0f85791cb1305b772f5e89de04aa1d4a/1000x1000-000000-80-0-0.jpg",
+      "isrc": null,
+      "coverUrl": null,
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/d44926f5-f9f6-44bb-8c05-018a42419639",
-        "deezer": "https://www.deezer.com/track/3895374"
+        "musicbrainz": "https://musicbrainz.org/recording/eb84154a-f930-4825-bf5f-123d997227bb"
       }
     },
     "lyricPath": "/lyrics/98519.txt"

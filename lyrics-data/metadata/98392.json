@@ -6,15 +6,16 @@
       "artists": [
         "Costa Gold"
       ],
-      "album": "AUGE",
-      "releaseDate": "2021",
-      "durationMs": 335000,
-      "genres": [],
-      "isrc": "BRRGE2007787",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1f4e65cee0a2387fe619f7f1168f16c0/1000x1000-000000-80-0-0.jpg",
+      "album": "Posfácio",
+      "releaseDate": "2014-11-20T12:00:00Z",
+      "durationMs": 281104,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/fc/b87bfcc5-33fa-6f68-bc7f-ac8eb8cb1693/646809667718.png/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/45228703-dd1b-4ac2-95c1-be092896c85a",
-        "deezer": "https://www.deezer.com/track/1306732892"
+        "itunes": "https://music.apple.com/us/album/the-cypher-deffect-damassaclan/1832639302?i=1832639319&uo=4"
       }
     },
     "lyricPath": "/lyrics/98392.txt"

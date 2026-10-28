@@ -6,14 +6,18 @@
       "artists": [
         "Camisa de Vênus"
       ],
-      "album": "Viva",
-      "releaseDate": null,
-      "durationMs": 270000,
-      "genres": [],
-      "isrc": null,
-      "coverUrl": null,
+      "album": "Batalhões de estranhos",
+      "releaseDate": "1984",
+      "durationMs": 225533,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRSGL8500080",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/ab/35/a4/ab35a465-742e-6982-f293-7c5da481fd0e/7891430103279.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/61ef874e-1019-40ff-813b-be4e605e701a"
+        "musicbrainz": "https://musicbrainz.org/recording/abc22d00-96a2-4f60-adaa-45210e1f584e",
+        "itunes": "https://music.apple.com/us/album/eu-n%C3%A3o-matei-joana-darc/1179553044?i=1179553174&uo=4",
+        "deezer": "https://www.deezer.com/track/136765244"
       }
     },
     "lyricPath": "/lyrics/98444.txt"

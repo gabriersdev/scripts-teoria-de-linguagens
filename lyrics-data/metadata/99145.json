@@ -8,7 +8,7 @@
         "Wall Hein"
       ],
       "album": "Contradições",
-      "releaseDate": "2023-03-31",
+      "releaseDate": "2023-03-17T12:00:00Z",
       "durationMs": 130375,
       "genres": [
         "Brazilian"
@@ -16,7 +16,6 @@
       "isrc": "BRWMB2300640",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/e1/1a/70e11a38-b7e5-0967-3120-945fd3b06b0f/5054197620263.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/1d110370-a9bc-4923-bf88-03abd2d8e7d4",
         "itunes": "https://music.apple.com/us/album/preferida/1678468150?i=1678468646&uo=4",
         "deezer": "https://www.deezer.com/track/2203364897"
       }

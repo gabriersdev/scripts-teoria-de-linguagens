@@ -6,18 +6,24 @@
       "artists": [
         "Sepultura"
       ],
-      "album": "Deny the Sun and Light",
-      "releaseDate": "2025",
-      "durationMs": 207000,
+      "album": "Live in São Paulo",
+      "releaseDate": "2005-11-11",
+      "durationMs": 282000,
       "genres": [
-        "Metal"
+        "rock",
+        "heavy metal",
+        "progressive metal",
+        "thrash metal",
+        "metal",
+        "death metal",
+        "alternative metal",
+        "pop/rock",
+        "speed/thrash metal"
       ],
-      "isrc": "NLA329513650",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/30/aa/c9/30aac975-fe35-e53c-0aa7-a9126455e6e0/603497866250.jpg/1000x1000bb.jpg",
+      "isrc": "DEA450506700",
+      "coverUrl": null,
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/4f789578-4419-4d61-937f-e893dd8d055e",
-        "itunes": "https://music.apple.com/us/album/roots-bloody-roots-remastered/1299151419?i=1299151618&uo=4",
-        "deezer": "https://www.deezer.com/track/717542"
+        "musicbrainz": "https://musicbrainz.org/recording/cacdc929-6621-4715-8423-ab339ad9c55f"
       }
     },
     "lyricPath": "/lyrics/98492.txt"

@@ -6,16 +6,15 @@
       "artists": [
         "Rita Lee"
       ],
-      "album": "O melhor do acústico MTV",
-      "releaseDate": "2005",
-      "durationMs": 205960,
+      "album": "Fruto Proibido",
+      "releaseDate": "1975-01-01T12:00:00Z",
+      "durationMs": 204760,
       "genres": [
         "Brazilian"
       ],
       "isrc": "BRPGD9800365",
       "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d9/7f/a7/d97fa7ff-fac9-e0df-b218-740cd6961a02/13UABIM50287.rgb.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/a2265d96-7895-463a-9af5-6f6434aaefcf",
         "itunes": "https://music.apple.com/us/album/agora-s%C3%B3-falta-voc%C3%AA/712931448?i=712931780&uo=4",
         "deezer": "https://www.deezer.com/track/140344287"
       }
