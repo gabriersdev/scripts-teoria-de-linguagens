@@ -1,0 +1,142 @@
+export const KNOWN_COMMA_ARTISTS = [
+    "Ryu, the Runner",
+    "Tyler, the Creator",
+    "Earth, Wind & Fire",
+    "Crosby, Stills, Nash & Young",
+    "Blood, Sweat & Tears",
+    "Emerson, Lake & Palmer"
+];
+const COMMA_PLACEHOLDER = "__COMMA_TOKEN__";
+export function parseArtists(rawArtists) {
+    if (!rawArtists || !rawArtists.trim()) {
+        return {
+            primaryArtist: "",
+            allArtists: []
+        };
+    }
+    let maskedString = rawArtists;
+    for (const knownArtist of KNOWN_COMMA_ARTISTS) {
+        if (maskedString.toLowerCase().includes(knownArtist.toLowerCase())) {
+            const regex = new RegExp(knownArtist.replace(/,/g, "\\,"), "gi");
+            maskedString = maskedString.replace(regex, knownArtist.replace(/,/g, COMMA_PLACEHOLDER));
+        }
+    }
+    const parts = maskedString.split(",");
+    const allArtists = parts
+        .map(part => part.replace(new RegExp(COMMA_PLACEHOLDER, "g"), ",").trim())
+        .filter(Boolean);
+    const primaryArtist = allArtists.length > 0 ? allArtists[0] : "";
+    return {
+        primaryArtist,
+        allArtists
+    };
+}
+export function normalizeString(value) {
+    if (!value)
+        return "";
+    return value
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .toLowerCase()
+        .replace(/[^\w\s]/g, " ")
+        .replace(/\s+/g, " ")
+        .trim();
+}
+export function sanitizeTitle(rawTitle) {
+    if (!rawTitle)
+        return "";
+    let cleaned = rawTitle
+        .replace(/\s*[\(\[\{]?(ao vivo|live|remaster(?:ed)?|vers[aã]o acústica|acústico)[\)\]\}]?/gi, "")
+        .replace(/\s*[\(\[\{]?(?:feat\.?|ft\.?)\s+[^\)\]\}]+[\)\]\}]?/gi, "")
+        .replace(/\s*-\s*(ao vivo|live|remaster(?:ed)?|acústico)$/gi, "")
+        .trim();
+    return cleaned || rawTitle.trim();
+}
+export function matchArtist(apiArtist, candidateArtists) {
+    if (!apiArtist || candidateArtists.length === 0)
+        return false;
+    const normalizedApi = normalizeString(apiArtist);
+    if (!normalizedApi)
+        return false;
+    for (const candidate of candidateArtists) {
+        const normalizedCandidate = normalizeString(candidate);
+        if (!normalizedCandidate)
+            continue;
+        if (normalizedApi === normalizedCandidate)
+            return true;
+        if (normalizedApi.includes(normalizedCandidate) || normalizedCandidate.includes(normalizedApi)) {
+            return true;
+        }
+    }
+    return false;
+}
+export function isTitleSimilar(queryTitle, resultTitle) {
+    if (!queryTitle || !resultTitle)
+        return false;
+    const normQuery = normalizeString(queryTitle);
+    const normResult = normalizeString(resultTitle);
+    if (normQuery === normResult)
+        return true;
+    if (normResult.includes(normQuery) || normQuery.includes(normResult))
+        return true;
+    const queryTokens = normQuery.split(" ").filter(t => t.length > 2);
+    const resultTokens = normResult.split(" ").filter(t => t.length > 2);
+    if (queryTokens.length === 0 || resultTokens.length === 0) {
+        return normQuery === normResult;
+    }
+    const matches = queryTokens.filter(t => resultTokens.includes(t));
+    const ratio = matches.length / queryTokens.length;
+    return ratio >= 0.75;
+}
+const PORTUGUESE_STOPWORDS = new Set([
+    "que", "nao", "com", "para", "pra", "voce", "um", "uma", "se", "meu",
+    "minha", "por", "mais", "tudo", "isso", "esse", "essa", "quando", "muito",
+    "tem", "nos", "mas", "como", "vai", "dia", "bem", "aqui", "agora", "ja",
+    "fazer", "vida", "sem", "sou", "tao", "teu", "tua", "eu", "ela", "ele",
+    "nosso", "nossa", "eles", "elas", "me", "te", "seu", "sua", "dele",
+    "dela", "deles", "delas", "lhes", "pro", "pros", "pras", "antonio", "bonus",
+    "genero", "fenomeno", "quilometro", "tonico", "economico", "academico", "recepcao",
+    "decepcao", "concepcao", "percepcao", "corrupcao", "aspecto", "expectativa",
+    "interceptar", "planejar", "geladeira", "celular", "grampeador", "goleiro",
+    "onibus", "cafune", "gambiarra", "perrengue"
+]);
+const FOREIGN_STOPWORDS = new Set([
+    "love", "baby", "yeah", "time", "night", "heart", "never",
+    "always", "girl", "boy", "forever", "goodbye", "sorry", "life",
+    "world", "away", "feel", "dance", "rock", "star", "crazy", "happy",
+    "alone", "together", "money", "fire", "light", "dream", "eyes",
+    "beautiful", "corazon", "baila", "noche", "sol", "luna", "fuego",
+    "adios", "beso", "loco", "bonita", "cielo", "tiempo", "amour", "bonjour",
+    "chérie", "nuit", "soleil", "danse", "toujours", "jamais", "ciao",
+    "bella", "ragazzo", "amico", "bambino", "the", "you", "and", "with",
+    "that", "this", "for", "have", "from", "your", "what", "all", "know",
+    "just", "about", "like", "they", "will", "los", "las", "del", "pero"
+]);
+export function isPortugueseLyrics(lyrics) {
+    if (!lyrics || lyrics.trim().length < 40)
+        return false;
+    const lowerText = lyrics.toLowerCase();
+    if (lowerText.includes("instrumental") ||
+        lowerText.includes("paroles non disponibles") ||
+        lowerText.includes("lyrics not found") ||
+        lowerText.includes("letra indisponível")) {
+        return false;
+    }
+    const normalizedWords = normalizeString(lyrics)
+        .split(" ")
+        .filter(w => w.length > 1);
+    if (normalizedWords.length < 10)
+        return false;
+    let ptScore = 0;
+    let foreignScore = 0;
+    for (const word of normalizedWords) {
+        if (PORTUGUESE_STOPWORDS.has(word))
+            ptScore++;
+        if (FOREIGN_STOPWORDS.has(word))
+            foreignScore++;
+    }
+    if (foreignScore > 30 && foreignScore > ptScore * 1.5) {
+        return false;
+    }
+    return ptScore >= 3;
+}

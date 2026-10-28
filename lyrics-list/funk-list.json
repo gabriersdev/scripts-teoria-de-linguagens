@@ -158,7 +158,7 @@
         "id": 98025,
         "name": "Redbull",
         "artists": "MC Pikachu",
-        "complete": false
+        "complete": true
       },
       {
         "id": 98026,
@@ -608,7 +608,7 @@
         "id": 98100,
         "name": "SET DJ YURI PEDRADA - TRAVA CHIP",
         "artists": "Dj Yuri Pedrada, Nilo, MC Meno K, Mc Livinho, Mc Negão Original, MC Jvila, MC Ryan SP, Mc Paiva ZS, MC GDL",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98101,
@@ -812,7 +812,7 @@
         "id": 98134,
         "name": "Vai Mamar",
         "artists": "Mc Pikachu, Iraqui ZL, Konddrake",
-        "complete": false
+        "complete": true
       },
       {
         "id": 98135,

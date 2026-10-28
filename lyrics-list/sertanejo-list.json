@@ -605,55 +605,55 @@
       },
       {
         "id": 98700,
-        "name": "Largado Às Traças - Ao Vivo",
+        "name": "Largado Às Traças",
         "artists": "Zé Neto & Cristiano",
         "complete": true
       },
       {
         "id": 98701,
-        "name": "Liberdade Provisória - Live - Ibirapuera / 2019",
+        "name": "Liberdade Provisória",
         "artists": "Henrique & Juliano",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98702,
-        "name": "Cê Tá Preparada - Ao Vivo",
+        "name": "Cê Tá Preparada",
         "artists": "Tayrone, Marília Mendonça",
         "complete": true
       },
       {
         "id": 98703,
-        "name": "Medo Bobo - Ao Vivo",
+        "name": "Medo Bobo",
         "artists": "Maiara & Maraisa",
         "complete": true
       },
       {
         "id": 98704,
-        "name": "Bem Pior Que Eu - Ao Vivo",
+        "name": "Bem Pior Que Eu",
         "artists": "Marília Mendonça",
         "complete": true
       },
       {
         "id": 98705,
-        "name": "De Trás Pra Frente - Ao Vivo",
+        "name": "De Trás Pra Frente",
         "artists": "Henrique & Juliano",
         "complete": true
       },
       {
         "id": 98706,
-        "name": "Pra Sempre Com Você - Ao Vivo",
+        "name": "Pra Sempre Com Você",
         "artists": "Jorge & Mateus",
         "complete": true
       },
       {
         "id": 98707,
-        "name": "Vou Ter Que Superar - Ao Vivo",
+        "name": "Vou Ter Que Superar",
         "artists": "Matheus & Kauan, Marília Mendonça",
         "complete": true
       },
       {
         "id": 98708,
-        "name": "Infiel - Ao Vivo",
+        "name": "Infiel",
         "artists": "Marília Mendonça",
         "complete": true
       },
@@ -683,13 +683,13 @@
       },
       {
         "id": 98713,
-        "name": "Barulho Do Foguete - Ao Vivo",
+        "name": "Barulho Do Foguete",
         "artists": "Zé Neto & Cristiano",
         "complete": true
       },
       {
         "id": 98714,
-        "name": "Tudo Que Você Quiser - Ao Vivo",
+        "name": "Tudo Que Você Quiser",
         "artists": "Luan Santana",
         "complete": true
       },
@@ -701,103 +701,103 @@
       },
       {
         "id": 98716,
-        "name": "Facas - Ao Vivo",
+        "name": "Facas",
         "artists": "Diego & Victor Hugo, Bruno & Marrone",
         "complete": true
       },
       {
         "id": 98717,
-        "name": "Bebi Liguei - Ao Vivo",
+        "name": "Bebi Liguei",
         "artists": "Marília Mendonça",
         "complete": true
       },
       {
         "id": 98718,
-        "name": "Anti-Amor - Ao Vivo",
+        "name": "Anti-Amor",
         "artists": "Gustavo Mioto, Jorge & Mateus",
         "complete": true
       },
       {
         "id": 98719,
-        "name": "Estranho - Ao Vivo | Acústico",
+        "name": "Estranho | Acústico",
         "artists": "Marília Mendonça",
         "complete": true
       },
       {
         "id": 98720,
-        "name": "Na Hora Da Raiva - Ao Vivo",
+        "name": "Na Hora Da Raiva",
         "artists": "Henrique & Juliano",
         "complete": true
       },
       {
         "id": 98721,
-        "name": "De Quem É a Culpa? - Ao Vivo",
+        "name": "De Quem É a Culpa?",
         "artists": "Marília Mendonça",
         "complete": true
       },
       {
         "id": 98722,
-        "name": "Status Que Eu Não Queria - Ao Vivo",
+        "name": "Status Que Eu Não Queria",
         "artists": "Zé Neto & Cristiano",
         "complete": true
       },
       {
         "id": 98723,
-        "name": "Cê Perdeu (Igual Eu) - Ao Vivo",
+        "name": "Cê Perdeu (Igual Eu)",
         "artists": "Simone Mendes",
         "complete": 1
       },
       {
         "id": 98724,
-        "name": "Eu Sei de Cor - Ao Vivo",
+        "name": "Eu Sei de Cor",
         "artists": "Marília Mendonça",
         "complete": true
       },
       {
         "id": 98725,
-        "name": "Vidinha De Balada - Ao Vivo",
+        "name": "Vidinha De Balada",
         "artists": "Henrique & Juliano",
         "complete": true
       },
       {
         "id": 98726,
-        "name": "Penteadeira - Ao Vivo",
+        "name": "Penteadeira",
         "artists": "Bruno & Marrone",
         "complete": 1
       },
       {
         "id": 98727,
-        "name": "Supera - Ao Vivo",
+        "name": "Supera",
         "artists": "Marília Mendonça",
         "complete": true
       },
       {
         "id": 98728,
-        "name": "Cuida Bem Dela - Ao Vivo",
+        "name": "Cuida Bem Dela",
         "artists": "Henrique & Juliano",
         "complete": true
       },
       {
         "id": 98729,
-        "name": "Ciumeira - Ao Vivo",
+        "name": "Ciumeira",
         "artists": "Marília Mendonça",
         "complete": true
       },
       {
         "id": 98730,
-        "name": "Propaganda - Ao Vivo",
+        "name": "Propaganda",
         "artists": "Jorge & Mateus",
         "complete": true
       },
       {
         "id": 98731,
-        "name": "Alô Porteiro - Ao Vivo",
+        "name": "Alô Porteiro",
         "artists": "Marília Mendonça",
         "complete": true
       },
       {
         "id": 98732,
-        "name": "Meu Silêncio - Ao Vivo",
+        "name": "Meu Silêncio",
         "artists": "Matheus & Kauan, Simone Mendes",
         "complete": true
       },
@@ -827,85 +827,85 @@
       },
       {
         "id": 98737,
-        "name": "Todo Mundo Vai Sofrer - Ao Vivo",
+        "name": "Todo Mundo Vai Sofrer",
         "artists": "Marília Mendonça",
         "complete": true
       },
       {
         "id": 98738,
-        "name": "90/10 - Ao Vivo em São Paulo",
+        "name": "90/10 em São Paulo",
         "artists": "Maiara & Maraisa",
         "complete": true
       },
       {
         "id": 98739,
-        "name": "10% - Ao Vivo",
+        "name": "10%",
         "artists": "Maiara & Maraisa",
         "complete": true
       },
       {
         "id": 98740,
-        "name": "Circo - Ao Vivo",
+        "name": "Circo",
         "artists": "Paula Fernandes, Simone Mendes",
         "complete": true
       },
       {
         "id": 98741,
-        "name": "Termina Comigo Antes - Ao Vivo",
+        "name": "Termina Comigo Antes",
         "artists": "Gusttavo Lima",
         "complete": true
       },
       {
         "id": 98742,
-        "name": "Proibido Terminar - Ao Vivo",
+        "name": "Proibido Terminar",
         "artists": "Gusttavo Lima",
         "complete": true
       },
       {
         "id": 98743,
-        "name": "Atrasadinha - Live",
+        "name": "Atrasadinha",
         "artists": "Felipe Araújo, Ferrugem",
         "complete": true
       },
       {
         "id": 98744,
-        "name": "Sosseguei - Ao Vivo",
+        "name": "Sosseguei",
         "artists": "Jorge & Mateus",
         "complete": true
       },
       {
         "id": 98745,
-        "name": "Briga Feia - Ao Vivo",
+        "name": "Briga Feia",
         "artists": "Henrique & Juliano",
         "complete": true
       },
       {
         "id": 98746,
-        "name": "Na Hora de Amar - Ao Vivo",
+        "name": "Na Hora de Amar",
         "artists": "Gusttavo Lima",
         "complete": true
       },
       {
         "id": 98747,
-        "name": "Amante Não Tem Lar - Ao Vivo",
+        "name": "Amante Não Tem Lar",
         "artists": "Marília Mendonça",
         "complete": true
       },
       {
         "id": 98748,
-        "name": "Batom de Cereja - Ao Vivo",
+        "name": "Batom de Cereja",
         "artists": "Israel & Rodolffo",
         "complete": true
       },
       {
         "id": 98749,
-        "name": "Laia - Ao Vivo",
+        "name": "Laia",
         "artists": "George Henrique & Rodrigo, Matheus & Kauan",
         "complete": true
       },
       {
         "id": 98750,
-        "name": "Volta Por Baixo - Ao Vivo",
+        "name": "Volta Por Baixo",
         "artists": "Henrique & Juliano",
         "complete": true
       },
@@ -923,13 +923,13 @@
       },
       {
         "id": 98753,
-        "name": "Sorte Que Cê Beija Bem - Ao Vivo",
+        "name": "Sorte Que Cê Beija Bem",
         "artists": "Maiara & Maraisa",
         "complete": true
       },
       {
         "id": 98754,
-        "name": "Pergunta Boba - Ao Vivo",
+        "name": "Pergunta Boba",
         "artists": "Jorge & Mateus",
         "complete": true
       },
@@ -947,13 +947,13 @@
       },
       {
         "id": 98757,
-        "name": "Decide Aí - Na Praia / Ao Vivo",
+        "name": "Decide Aí - Na Praia",
         "artists": "Naiara Azevedo",
         "complete": false
       },
       {
         "id": 98758,
-        "name": "O Nosso Santo Bateu - Live",
+        "name": "O Nosso Santo Bateu",
         "artists": "Matheus e Kauan",
         "complete": false
       },
@@ -971,49 +971,49 @@
       },
       {
         "id": 98761,
-        "name": "Quem Pegou, Pegou - Ao Vivo",
+        "name": "Quem Pegou, Pegou",
         "artists": "Henrique & Juliano",
         "complete": true
       },
       {
         "id": 98762,
-        "name": "Palhaça - Ao Vivo",
+        "name": "Palhaça",
         "artists": "Naiara Azevedo & Ana Castela",
         "complete": true
       },
       {
         "id": 98763,
-        "name": "Flor E O Beija-Flor - Ao Vivo",
+        "name": "Flor E O Beija-Flor",
         "artists": "Henrique & Juliano",
         "complete": true
       },
       {
         "id": 98764,
-        "name": "Mulher Maravilha - Ao Vivo",
+        "name": "Mulher Maravilha",
         "artists": "Zé Neto & Cristiano",
         "complete": true
       },
       {
         "id": 98765,
-        "name": "Mudando De Assunto - Ao Vivo",
+        "name": "Mudando De Assunto",
         "artists": "Henrique & Juliano",
         "complete": true
       },
       {
         "id": 98766,
-        "name": "Intenção - Ao Vivo",
+        "name": "Intenção",
         "artists": "Marília Mendonça",
         "complete": true
       },
       {
         "id": 98767,
-        "name": "É Com Ela Que Eu Estou - Ao Vivo",
+        "name": "É Com Ela Que Eu Estou",
         "artists": "Cristiano Araújo",
         "complete": true
       },
       {
         "id": 98768,
-        "name": "Bebida Na Ferida - Ao Vivo",
+        "name": "Bebida Na Ferida",
         "artists": "Zé Neto & Cristiano",
         "complete": true
       },
@@ -1025,79 +1025,79 @@
       },
       {
         "id": 98770,
-        "name": "Ausência - Ao Vivo | Acústico",
+        "name": "Ausência | Acústico",
         "artists": "Marília Mendonça",
         "complete": true
       },
       {
         "id": 98771,
-        "name": "Nessas Horas - Ao Vivo",
+        "name": "Nessas Horas",
         "artists": "João Gomes",
         "complete": 1
       },
       {
         "id": 98772,
-        "name": "Balada - Ao Vivo",
+        "name": "Balada",
         "artists": "Gusttavo Lima",
         "complete": true
       },
       {
         "id": 98773,
-        "name": "Meu Coração Deu PT - Ao Vivo",
+        "name": "Meu Coração Deu PT",
         "artists": "Wesley Safadão & Matheus e Kauan",
         "complete": true
       },
       {
         "id": 98774,
-        "name": "Suíte 14 - Ao Vivo",
+        "name": "Suíte 14",
         "artists": "Israel Novaes",
         "complete": 1
       },
       {
         "id": 98775,
-        "name": "Impressionando Os Anjos - Ao Vivo",
+        "name": "Impressionando Os Anjos",
         "artists": "Diego Costa",
         "complete": 1
       },
       {
         "id": 98776,
-        "name": "Ele Quer Ser Eu - Ao Vivo",
+        "name": "Ele Quer Ser Eu",
         "artists": "Henrique & Juliano",
         "complete": true
       },
       {
         "id": 98777,
-        "name": "Caso Indefinido - Ao Vivo",
+        "name": "Caso Indefinido",
         "artists": "Cristiano Araújo",
         "complete": true
       },
       {
         "id": 98778,
-        "name": "Amigo Taxista - Ao Vivo",
+        "name": "Amigo Taxista",
         "artists": "Zé Neto & Cristiano",
         "complete": true
       },
       {
         "id": 98779,
-        "name": "Haja Colírio (feat. Hugo & Guilherme) - Ao Vivo",
+        "name": "Haja Colírio (feat. Hugo & Guilherme)",
         "artists": "Guilherme & Benuto",
         "complete": true
       },
       {
         "id": 98780,
-        "name": "Tudo Acabou - Ao Vivo",
+        "name": "Tudo Acabou",
         "artists": "Rionegro & Solimões",
         "complete": true
       },
       {
         "id": 98781,
-        "name": "Mal Feito - Ao Vivo",
+        "name": "Mal Feito",
         "artists": "Hugo & Guilherme & Marília Mendonça",
         "complete": true
       },
       {
         "id": 98782,
-        "name": "O Que Falta Em Você Sou Eu - Ao Vivo",
+        "name": "O Que Falta Em Você Sou Eu",
         "artists": "Marília Mendonça",
         "complete": true
       },
@@ -1109,7 +1109,7 @@
       },
       {
         "id": 98784,
-        "name": "Bombonzinho - Ao Vivo",
+        "name": "Bombonzinho",
         "artists": "Israel & Rodolffo & Ana Castela",
         "complete": true
       },
@@ -1121,7 +1121,7 @@
       },
       {
         "id": 98786,
-        "name": "Podcast - Ao Vivo",
+        "name": "Podcast",
         "artists": "Felipe e Rodrigo",
         "complete": true
       },
@@ -1133,19 +1133,19 @@
       },
       {
         "id": 98788,
-        "name": "Até Você Voltar - Ao Vivo",
+        "name": "Até Você Voltar",
         "artists": "Henrique & Juliano",
         "complete": true
       },
       {
         "id": 98789,
-        "name": "Whisky Vagabund0 - Ao Vivo",
+        "name": "Whisky Vagabund0",
         "artists": "Lauana Prado",
         "complete": true
       },
       {
         "id": 98790,
-        "name": "Bagunça Minha Vida - Ao Vivo Em Goiânia / 2019",
+        "name": "Bagunça Minha Vida Em Goiânia",
         "artists": "Maiara & Maraisa",
         "complete": false
       },
@@ -1157,31 +1157,31 @@
       },
       {
         "id": 98792,
-        "name": "Bloqueado - Ao Vivo",
+        "name": "Bloqueado",
         "artists": "Gusttavo Lima",
         "complete": true
       },
       {
         "id": 98793,
-        "name": "A Mala É Falsa - Ao Vivo",
+        "name": "A Mala É Falsa",
         "artists": "Felipe Araújo",
         "complete": true
       },
       {
         "id": 98794,
-        "name": "Homem de Família - Ao Vivo",
+        "name": "Homem de Família",
         "artists": "Gusttavo Lima",
         "complete": true
       },
       {
         "id": 98795,
-        "name": "Como Faz Com Ela - Ao Vivo",
+        "name": "Como Faz Com Ela",
         "artists": "Marília Mendonça",
         "complete": true
       },
       {
         "id": 98796,
-        "name": "Sentimento Louco - Ao Vivo",
+        "name": "Sentimento Louco",
         "artists": "Marília Mendonça",
         "complete": true
       },
@@ -1193,13 +1193,13 @@
       },
       {
         "id": 98798,
-        "name": "Cheirosa - Ao Vivo",
+        "name": "Cheirosa",
         "artists": "Jorge & Mateus",
         "complete": true
       },
       {
         "id": 98799,
-        "name": "Deu PT - Ao Vivo",
+        "name": "Deu PT",
         "artists": "Wesley Safadão & Matheus e Kauan",
         "complete": true
       },
