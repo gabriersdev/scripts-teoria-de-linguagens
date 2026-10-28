@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98956,
+    "metadata": {
+      "title": "Desde Mais Novo",
+      "artists": [
+        "Yunk Vino"
+      ],
+      "album": "MR.",
+      "releaseDate": "2026-03-26",
+      "durationMs": 146000,
+      "genres": [],
+      "isrc": "BK89A2600005",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/79e2622ecea8a45f55368f533950af42/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3909787181"
+      }
+    },
+    "lyricPath": "/lyrics/98956.txt"
+  }
+]

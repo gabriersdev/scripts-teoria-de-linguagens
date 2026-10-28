@@ -1,0 +1,27 @@
+[
+  {
+    "id": 98458,
+    "metadata": {
+      "title": "Revanche",
+      "artists": [
+        "Lobão"
+      ],
+      "album": "Focus: O essencial de Lobão",
+      "releaseDate": "1999",
+      "durationMs": 299066,
+      "genres": [
+        "rock",
+        "post-rock",
+        "pop",
+        "psychedelic rock"
+      ],
+      "isrc": "BRBMG8600062",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/5f9d6f0570a5f1925c21579a0969961a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c49c0817-9f29-4d02-8120-1ee8f1f45480",
+        "deezer": "https://www.deezer.com/track/61017829"
+      }
+    },
+    "lyricPath": "/lyrics/98458.txt"
+  }
+]

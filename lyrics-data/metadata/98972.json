@@ -1,0 +1,28 @@
+[
+  {
+    "id": 98972,
+    "metadata": {
+      "title": "Gabriela",
+      "artists": [
+        "Oreozin",
+        "Orochi",
+        "Oruam",
+        "Evinha",
+        "JP Diazz"
+      ],
+      "album": "Gabriela - Single",
+      "releaseDate": "2025-11-18T12:00:00Z",
+      "durationMs": 202143,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BKTKP2500081",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/ac/f9/79acf9e2-ee61-4175-0a50-31070e3ffc6a/cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/gabriela/1851722062?i=1851722063&uo=4",
+        "deezer": "https://www.deezer.com/track/3645640022"
+      }
+    },
+    "lyricPath": "/lyrics/98972.txt"
+  }
+]

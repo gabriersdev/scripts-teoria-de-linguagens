@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98993,
+    "metadata": {
+      "title": "Drive-In",
+      "artists": [
+        "WIU"
+      ],
+      "album": "808 CLUB: AFTER",
+      "releaseDate": "2025-05-27",
+      "durationMs": 213000,
+      "genres": [],
+      "isrc": "BXW922500052",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/de36ff51e4de36cb6403c1f0cf4b2b8a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3380550261"
+      }
+    },
+    "lyricPath": "/lyrics/98993.txt"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98284,
+    "metadata": {
+      "title": "Enigma",
+      "artists": [
+        "Yago Oproprio",
+        "Patricio Sid"
+      ],
+      "album": "Oproprio",
+      "releaseDate": "2024-05-28",
+      "durationMs": 188000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRRGE2400250",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/61/b0/fc61b05a-13be-3366-886d-2241844d706a/7891430895570.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/cb0bf366-b3d4-4704-8e6f-26d53f4b47fa",
+        "itunes": "https://music.apple.com/us/album/enigma/1744639021?i=1744639296&uo=4",
+        "deezer": "https://www.deezer.com/track/2782462602"
+      }
+    },
+    "lyricPath": "/lyrics/98284.txt"
+  }
+]

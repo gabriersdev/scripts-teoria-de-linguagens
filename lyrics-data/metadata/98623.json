@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98623,
+    "metadata": {
+      "title": "Saudade Proibida",
+      "artists": [
+        "Simone Mendes"
+      ],
+      "album": "Saudade Proibida (Ao Vivo)",
+      "releaseDate": "2025-04-04",
+      "durationMs": 161000,
+      "genres": [],
+      "isrc": "BRUM72402694",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/001f6a7791be59f0367fdb7d92114a7b/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3298437061"
+      }
+    },
+    "lyricPath": "/lyrics/98623.txt"
+  }
+]

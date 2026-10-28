@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98786,
+    "metadata": {
+      "title": "Podcast - Ao Vivo",
+      "artists": [
+        "Felipe e Rodrigo"
+      ],
+      "album": "Velhos Hábitos, Vol. 2 (Ao Vivo)",
+      "releaseDate": "2026-02-26T12:00:00Z",
+      "durationMs": 163291,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKMKR2600007",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/42/24/2442247b-2bb7-1c3f-5737-c600a5b97b22/823375028680_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/podcast-ao-vivo/1880766773?i=1880766787&uo=4",
+        "deezer": "https://www.deezer.com/track/3871706471"
+      }
+    },
+    "lyricPath": "/lyrics/98786.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98657,
+    "metadata": {
+      "title": "Olha Onde Eu Tô",
+      "artists": [
+        "Ana Castela"
+      ],
+      "album": "Let's Go Rodeo",
+      "releaseDate": "2025-05-29T12:00:00Z",
+      "durationMs": 181693,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKYPG2500003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/31/fb/d531fbc9-6f59-0268-71eb-6da4f5816cba/8447352922390.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/olha-onde-eu-t%C3%B4/1813244635?i=1813244636&uo=4",
+        "deezer": "https://www.deezer.com/track/3358826391"
+      }
+    },
+    "lyricPath": "/lyrics/98657.txt"
+  }
+]

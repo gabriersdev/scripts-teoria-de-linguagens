@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98547,
+    "metadata": {
+      "title": "As Aventuras Do Guitarrista Gourmet Atrás Da Refeição Ideal",
+      "artists": [
+        "Titãs"
+      ],
+      "album": "Como estão vocês?",
+      "releaseDate": "2003-11",
+      "durationMs": 170267,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRBMG0300731",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/02/07/5f/02075ff9-5d6c-2c3a-02ef-fa907fdae486/888880313645.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d5ad0cec-7da0-4365-9db0-c26e206f7fd7",
+        "itunes": "https://music.apple.com/us/album/as-aventuras-do-guitarrista-gourmet-atr%C3%A1s-da-refei%C3%A7%C3%A3o/1133727190?i=1133727505&uo=4",
+        "deezer": "https://www.deezer.com/track/128441343"
+      }
+    },
+    "lyricPath": "/lyrics/98547.txt"
+  }
+]

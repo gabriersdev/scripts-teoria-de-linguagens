@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98537,
+    "metadata": {
+      "title": "Kgb",
+      "artists": [
+        "ADÉLA"
+      ],
+      "album": "2026-08-02: Lollapalooza, Grant Park, Chicago, IL, USA",
+      "releaseDate": "2026-08-05",
+      "durationMs": 157316,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "USUM72601922",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/77/c7/9377c737-b62b-f9fe-c8a0-db76e1e0cd5a/26UMGIM26044.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d193c5f8-6dd6-4654-bf22-35e338f03aee",
+        "itunes": "https://music.apple.com/us/album/kgb/1891160363?i=1891160372&uo=4",
+        "deezer": "https://www.deezer.com/track/4250696671"
+      }
+    },
+    "lyricPath": "/lyrics/98537.txt"
+  }
+]

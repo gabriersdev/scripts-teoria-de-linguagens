@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98039,
+    "metadata": {
+      "title": "Diário de um Cafajeste",
+      "artists": [
+        "DJ Oreia",
+        "Mc Lele JP",
+        "MC Meno K",
+        "MC Ryan SP",
+        "MC Tuto",
+        "Mc Negão Original"
+      ],
+      "album": "Diário de um Cafajeste",
+      "releaseDate": "2025-11-06",
+      "durationMs": 357000,
+      "genres": [],
+      "isrc": "BCGWP2500085",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/5cedc1c90a8b44b4a78655e0e00c2b54/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3640608352"
+      }
+    },
+    "lyricPath": "/lyrics/98039.txt"
+  }
+]

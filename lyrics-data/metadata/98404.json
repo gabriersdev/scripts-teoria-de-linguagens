@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98404,
+    "metadata": {
+      "title": "Sangue latino",
+      "artists": [
+        "Secos & Molhados"
+      ],
+      "album": "Os Gigantes",
+      "releaseDate": "2002",
+      "durationMs": 128000,
+      "genres": [
+        "MPB"
+      ],
+      "isrc": "BRWMB9802394",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/04/8e/a5/048ea519-387f-98ff-748b-630dc3a339c2/085365740136.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8e415527-f770-4e41-86c0-d0a49c6f1b7f",
+        "itunes": "https://music.apple.com/us/album/sangue-latino/280875361?i=280875447&uo=4",
+        "deezer": "https://www.deezer.com/track/12334774"
+      }
+    },
+    "lyricPath": "/lyrics/98404.txt"
+  }
+]

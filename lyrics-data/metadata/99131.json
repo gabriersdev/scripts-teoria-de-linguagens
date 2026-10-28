@@ -1,0 +1,26 @@
+[
+  {
+    "id": 99131,
+    "metadata": {
+      "title": "Loucura",
+      "artists": [
+        "Borges",
+        "MC Cabelinho",
+        "Veigh",
+        "RUXN",
+        "Palma",
+        "Kizzy"
+      ],
+      "album": "Amor e Ódio",
+      "releaseDate": "2023-12-13",
+      "durationMs": 179000,
+      "genres": [],
+      "isrc": "BCM9A2300102",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8b26dc71e6d9091e2d98207601f8e8b8/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2578003242"
+      }
+    },
+    "lyricPath": "/lyrics/99131.txt"
+  }
+]

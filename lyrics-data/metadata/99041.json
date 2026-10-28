@@ -1,0 +1,27 @@
+[
+  {
+    "id": 99041,
+    "metadata": {
+      "title": "Relíkia do Malucão",
+      "artists": [
+        "PAVUNA",
+        "Pedrin",
+        "Js da Torre",
+        "Bebeto",
+        "Renanzin",
+        "JREI",
+        "Marquin"
+      ],
+      "album": "Os Capetinhas da Pavuna",
+      "releaseDate": "2026-03-30",
+      "durationMs": 263000,
+      "genres": [],
+      "isrc": "QZ5AB2688649",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/db4288f2a606c667c8087304330ce100/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3909282391"
+      }
+    },
+    "lyricPath": "/lyrics/99041.txt"
+  }
+]

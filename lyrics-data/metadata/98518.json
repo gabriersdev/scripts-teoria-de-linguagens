@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98518,
+    "metadata": {
+      "title": "Bestinha",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Hard Rock Latino",
+      "releaseDate": "1995-10-03T12:00:00Z",
+      "durationMs": 148333,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRWMB9702644",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4d/fe/05/4dfe0507-ebe6-5da6-dbed-6047e4802f0b/5059460027329.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/bestinha/1515238039?i=1515239401&uo=4",
+        "deezer": "https://www.deezer.com/track/3895373"
+      }
+    },
+    "lyricPath": "/lyrics/98518.txt"
+  }
+]

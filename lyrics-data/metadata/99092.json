@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99092,
+    "metadata": {
+      "title": "E.P.A.M.",
+      "artists": [
+        "Slipmami"
+      ],
+      "album": "Até aqui, Slip nos ajudou",
+      "releaseDate": "2024-09-13",
+      "durationMs": 141000,
+      "genres": [],
+      "isrc": "QZNMV2457752",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7b56dc6e6b1dbf07c9c19de22d5a3ed9/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a5ae21ea-9408-4668-9050-fcf744b39b6d",
+        "deezer": "https://www.deezer.com/track/2981570951"
+      }
+    },
+    "lyricPath": "/lyrics/99092.txt"
+  }
+]

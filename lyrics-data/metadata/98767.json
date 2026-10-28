@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98767,
+    "metadata": {
+      "title": "É Com Ela Que Eu Estou - Ao Vivo",
+      "artists": [
+        "Cristiano Araújo"
+      ],
+      "album": "É Com Ela Que Eu Estou - Single",
+      "releaseDate": "2014-09-22T07:00:00Z",
+      "durationMs": 226792,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRTXU1400007",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/70/f3/13/70f31380-72be-a02a-5b43-8254cdd88bc3/7891430014179.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/%C3%A9-com-ela-que-eu-estou/920920170?i=920920184&uo=4",
+        "deezer": "https://www.deezer.com/track/86192931"
+      }
+    },
+    "lyricPath": "/lyrics/98767.txt"
+  }
+]

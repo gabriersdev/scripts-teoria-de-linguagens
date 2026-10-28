@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98196,
+    "metadata": {
+      "title": "Maldita de Ex",
+      "artists": [
+        "MC Leozin"
+      ],
+      "album": "Maldita de Ex",
+      "releaseDate": "2019-06-27",
+      "durationMs": 164000,
+      "genres": [],
+      "isrc": "QZGLM1938270",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cf73f892cc06536fe9dfb16771dc6931/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/704336972"
+      }
+    },
+    "lyricPath": "/lyrics/98196.txt"
+  }
+]

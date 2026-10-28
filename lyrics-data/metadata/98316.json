@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98316,
+    "metadata": {
+      "title": "Se Essa Bunda",
+      "artists": [
+        "Costa Gold"
+      ],
+      "album": "Se Essa Bunda - Single",
+      "releaseDate": "2021-07-29T12:00:00Z",
+      "durationMs": 249125,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRRGE2102342",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/95/fb/f1/95fbf13f-7679-5882-fc6e-003b51e2d75d/7891430578473.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/se-essa-bunda/1576888799?i=1576888804&uo=4",
+        "deezer": "https://www.deezer.com/track/1436551142"
+      }
+    },
+    "lyricPath": "/lyrics/98316.txt"
+  }
+]

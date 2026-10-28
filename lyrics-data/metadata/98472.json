@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98472,
+    "metadata": {
+      "title": "Morada",
+      "artists": [
+        "Forfun"
+      ],
+      "album": "Alegria Compartilhada",
+      "releaseDate": "2013-01-15T12:00:00Z",
+      "durationMs": 228800,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRHFT1100010",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/00/9b/3b/009b3bf4-170a-2500-8995-c89a6c1e146a/7898324306952.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/morada/977415039?i=977415269&uo=4",
+        "deezer": "https://www.deezer.com/track/96073992"
+      }
+    },
+    "lyricPath": "/lyrics/98472.txt"
+  }
+]

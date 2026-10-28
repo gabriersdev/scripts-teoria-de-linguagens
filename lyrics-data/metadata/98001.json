@@ -1,0 +1,28 @@
+[
+  {
+    "id": 98001,
+    "metadata": {
+      "title": "Puxa o Lança",
+      "artists": [
+        "MC Jvila",
+        "KayBlack",
+        "Veigh",
+        "Vulgo FK",
+        "Honaiser",
+        "Nagalli",
+        "Stick",
+        "Toledo"
+      ],
+      "album": "Já Virei Lenda Aqui",
+      "releaseDate": "2026-09-01",
+      "durationMs": 291000,
+      "genres": [],
+      "isrc": "BRWMB2601159",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/ae4b1b96126a99355622bf6571479fa1/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4238620212"
+      }
+    },
+    "lyricPath": "/lyrics/98001.txt"
+  }
+]

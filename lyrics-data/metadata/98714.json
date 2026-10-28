@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98714,
+    "metadata": {
+      "title": "Tudo Que Você Quiser - Ao Vivo",
+      "artists": [
+        "Luan Santana"
+      ],
+      "album": "Malhação Nacional 2014",
+      "releaseDate": "2014-09-22T12:00:00Z",
+      "durationMs": 250827,
+      "genres": [
+        "Soundtrack"
+      ],
+      "isrc": "BRRGE1300341",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/2b/03/692b034a-185b-1996-7ad5-2c641ebe7adb/7891430367220.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/tudo-que-voc%C3%AA-quiser-ao-vivo/917404463?i=917404589&uo=4",
+        "deezer": "https://www.deezer.com/track/71389707"
+      }
+    },
+    "lyricPath": "/lyrics/98714.txt"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": 98492,
+    "metadata": {
+      "title": "Roots Bloody Roots",
+      "artists": [
+        "Sepultura"
+      ],
+      "album": "Live in São Paulo",
+      "releaseDate": "2005-11-11",
+      "durationMs": 282000,
+      "genres": [
+        "rock",
+        "heavy metal",
+        "progressive metal",
+        "thrash metal",
+        "metal",
+        "death metal",
+        "alternative metal",
+        "pop/rock",
+        "speed/thrash metal"
+      ],
+      "isrc": "DEA450506700",
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/cacdc929-6621-4715-8423-ab339ad9c55f"
+      }
+    },
+    "lyricPath": "/lyrics/98492.txt"
+  }
+]

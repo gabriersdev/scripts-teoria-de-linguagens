@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98235,
+    "metadata": {
+      "title": "Gorilla Roxo",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "Máquina do Tempo",
+      "releaseDate": "2020-09-10",
+      "durationMs": 165000,
+      "genres": [],
+      "isrc": "BXW922000006",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9ad06bcb9f0bfe52bbd5e6ff464e4ca4/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6c312773-983f-4e27-8e94-84d1ff9ad5e3",
+        "deezer": "https://www.deezer.com/track/1049882312"
+      }
+    },
+    "lyricPath": "/lyrics/98235.txt"
+  }
+]

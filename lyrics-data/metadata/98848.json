@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98848,
+    "metadata": {
+      "title": "SURF",
+      "artists": [
+        "Alee",
+        "NADAMAL",
+        "saboya",
+        "Qualywav1",
+        "Dexter"
+      ],
+      "album": "DIAS ANTES DO CAOS",
+      "releaseDate": "2024-02-29",
+      "durationMs": 172000,
+      "genres": [],
+      "isrc": "BKNDN2400013",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d630545501528d92d0431a405f0f30f2/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2675770082"
+      }
+    },
+    "lyricPath": "/lyrics/98848.txt"
+  }
+]

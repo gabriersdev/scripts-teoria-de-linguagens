@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98542,
+    "metadata": {
+      "title": "Provas de Amor",
+      "artists": [
+        "Titãs"
+      ],
+      "album": "Vibesound Coca-Cola 3: Pop Rock Nacional",
+      "releaseDate": "2003",
+      "durationMs": 202000,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRBMG0300733",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/97/8e/50/978e50e6-1538-7307-393f-8829956c3502/mzm.tzroyhhg.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5d0146eb-99c7-4c25-bfcc-b0d4f63d41c7",
+        "itunes": "https://music.apple.com/us/album/provas-de-amor/1054522062?i=1054522070&uo=4",
+        "deezer": "https://www.deezer.com/track/128441333"
+      }
+    },
+    "lyricPath": "/lyrics/98542.txt"
+  }
+]

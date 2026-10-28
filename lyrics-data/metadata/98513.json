@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98513,
+    "metadata": {
+      "title": "Lugar Ao Sol - Ao Vivo | Acústico",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Acústico - Ao Vivo",
+      "releaseDate": "2017-04-28",
+      "durationMs": 219000,
+      "genres": [],
+      "isrc": "BRRGE1700301",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/e5ce2511bfbc22e708ca46e95b88c2ef/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/350038611"
+      }
+    },
+    "lyricPath": "/lyrics/98513.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99096,
+    "metadata": {
+      "title": "Render",
+      "artists": [
+        "Duzz"
+      ],
+      "album": "De Onde os Gigantes Vem?",
+      "releaseDate": "2024-03-15",
+      "durationMs": 160000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/caa7b1fa-0318-4a10-92e9-1347a759ade5"
+      }
+    },
+    "lyricPath": "/lyrics/99096.txt"
+  }
+]

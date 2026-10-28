@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98652,
+    "metadata": {
+      "title": "Te Esperando",
+      "artists": [
+        "Luan Santana"
+      ],
+      "album": "As melhores… até aqui",
+      "releaseDate": "2013-06-10",
+      "durationMs": 245000,
+      "genres": [],
+      "isrc": "BRRGE1300069",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/e699a3d1c554611b1211e6e4a4cb5f8b/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bbdf4b06-d58b-4647-a67b-f0580ad58f82",
+        "deezer": "https://www.deezer.com/track/67796035"
+      }
+    },
+    "lyricPath": "/lyrics/98652.txt"
+  }
+]

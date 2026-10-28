@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98759,
+    "metadata": {
+      "title": "Ficha Limpa",
+      "artists": [
+        "Gusttavo Lima"
+      ],
+      "album": "Falando de amor, vol. 1",
+      "releaseDate": "2021-06-10",
+      "durationMs": 192725,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRSME2101204",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/aa/a3/1a/aaa31a75-1d57-18aa-c5cd-b564c2d743fb/196589688453.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/084574de-0be1-41a3-8b21-4b6687caa66b",
+        "itunes": "https://music.apple.com/us/album/ficha-limpa/1659870977?i=1659871509&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98759.txt"
+  }
+]

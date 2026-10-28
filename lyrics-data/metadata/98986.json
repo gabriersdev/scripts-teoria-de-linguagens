@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98986,
+    "metadata": {
+      "title": "MÉNAGE",
+      "artists": [
+        "Vulgo FK",
+        "KayBlack",
+        "Pedro Lotto"
+      ],
+      "album": "F*CK SONGS",
+      "releaseDate": "2024-10-24",
+      "durationMs": 153000,
+      "genres": [],
+      "isrc": "BRRGE2400898",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b722c01267e21f9c38a1075b2b53de54/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2464b85e-5bdb-4cc6-b2ea-a449615841a6",
+        "deezer": "https://www.deezer.com/track/3041909061"
+      }
+    },
+    "lyricPath": "/lyrics/98986.txt"
+  }
+]

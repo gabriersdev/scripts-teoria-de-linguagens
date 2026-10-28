@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98155,
+    "metadata": {
+      "title": "País do Futebol",
+      "artists": [
+        "MC Guimê"
+      ],
+      "album": "Brazil Hits",
+      "releaseDate": "2013-11-03T12:00:00Z",
+      "durationMs": 149773,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRXM91300003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/1e/0a/35/1e0a35ba-eb3d-c326-639c-c7559c661f00/7891430011376.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/pa%C3%ADs-do-futebol-feat-emicida/912376725?i=912376826&uo=4",
+        "deezer": "https://www.deezer.com/track/99256012"
+      }
+    },
+    "lyricPath": "/lyrics/98155.txt"
+  }
+]

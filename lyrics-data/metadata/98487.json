@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98487,
+    "metadata": {
+      "title": "Vou Morar No Ar",
+      "artists": [
+        "Casa Das Máquinas"
+      ],
+      "album": "Lar de maravilhas",
+      "releaseDate": "2015",
+      "durationMs": 213266,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRSGL9400198",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/15/4e/ea/154eea8f-3457-897b-ccfd-bc613eeea0eb/7891430027377.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f1701d0a-0300-4ece-b232-25b1918e562c",
+        "itunes": "https://music.apple.com/us/album/vou-morar-no-ar/1010982412?i=1010982415&uo=4",
+        "deezer": "https://www.deezer.com/track/102971110"
+      }
+    },
+    "lyricPath": "/lyrics/98487.txt"
+  }
+]

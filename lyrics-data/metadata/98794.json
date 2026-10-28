@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98794,
+    "metadata": {
+      "title": "Homem de Família - Ao Vivo",
+      "artists": [
+        "Gusttavo Lima"
+      ],
+      "album": "50/50 (Ao Vivo) [Deluxe]",
+      "releaseDate": "2016-06-10T12:00:00Z",
+      "durationMs": 184889,
+      "genres": [
+        "Worldwide"
+      ],
+      "isrc": "BXBAL1600038",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f5/fe/bf/f5febf1c-d6cb-ec8b-dadf-e42be13cd64e/196589312891.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/homem-de-fam%C3%ADlia-ao-vivo/1634841979?i=1634842390&uo=4",
+        "deezer": "https://www.deezer.com/track/1826940227"
+      }
+    },
+    "lyricPath": "/lyrics/98794.txt"
+  }
+]

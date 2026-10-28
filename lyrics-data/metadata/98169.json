@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98169,
+    "metadata": {
+      "title": "Água Rosa",
+      "artists": [
+        "MC Anjim"
+      ],
+      "album": "Água rosa",
+      "releaseDate": "2019-05-29",
+      "durationMs": 198504,
+      "genres": [],
+      "isrc": "QZGLM1947534",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/335ded109b4d3dc83fcc067d1317c955/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/58f599bb-a37e-4a03-812c-cc98d1c6e769",
+        "deezer": "https://www.deezer.com/track/708150502"
+      }
+    },
+    "lyricPath": "/lyrics/98169.txt"
+  }
+]

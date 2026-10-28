@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98382,
+    "metadata": {
+      "title": "BENÇA",
+      "artists": [
+        "Djonga",
+        "Coyote Beatz"
+      ],
+      "album": "Ladrão",
+      "releaseDate": "2019-03-13",
+      "durationMs": 224000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRE2Y1900007",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cc/c3/54/ccc35499-6606-4ba5-eb29-e0217e02b293/195081702940.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d3342ac7-9c5a-4cc8-a339-fedaa4ab8a04",
+        "itunes": "https://music.apple.com/us/album/ben%C3%A7a-instrumental/1515791065?i=1515792291&uo=4",
+        "deezer": "https://www.deezer.com/track/3251644031"
+      }
+    },
+    "lyricPath": "/lyrics/98382.txt"
+  }
+]

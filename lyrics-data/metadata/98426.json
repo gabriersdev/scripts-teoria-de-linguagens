@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98426,
+    "metadata": {
+      "title": "O Tempo Não Pára",
+      "artists": [
+        "Cazuza"
+      ],
+      "album": "Esse cara",
+      "releaseDate": "1995",
+      "durationMs": 286360,
+      "genres": [],
+      "isrc": "BRPGD8800024",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0f61ba029f3a14618b64e32bc0fd1559/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0398a750-ef36-4bce-a062-5607efb93e3e",
+        "deezer": "https://www.deezer.com/track/2760120"
+      }
+    },
+    "lyricPath": "/lyrics/98426.txt"
+  }
+]

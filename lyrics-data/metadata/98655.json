@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98655,
+    "metadata": {
+      "title": "Anestesiado",
+      "artists": [
+        "Murilo Huff"
+      ],
+      "album": "Anestesiado (Ao Vivo) - Single",
+      "releaseDate": "2023-11-16T12:00:00Z",
+      "durationMs": 172549,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKMWS2300003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8a/37/b2/8a37b206-cee5-7f3d-6ff5-19842b01744b/8447053018590.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/anestesiado-ao-vivo/1714525657?i=1714525851&uo=4",
+        "deezer": "https://www.deezer.com/track/3263183091"
+      }
+    },
+    "lyricPath": "/lyrics/98655.txt"
+  }
+]

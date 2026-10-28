@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98354,
+    "metadata": {
+      "title": "Linda e Doida",
+      "artists": [
+        "Felp 22",
+        "Medellin"
+      ],
+      "album": "Jogador Caro",
+      "releaseDate": "2020-04-24",
+      "durationMs": 187000,
+      "genres": [],
+      "isrc": "BXIH82000012",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/f64ac655630f791c1cc3401a4ff1b45c/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/933053682"
+      }
+    },
+    "lyricPath": "/lyrics/98354.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98520,
+    "metadata": {
+      "title": "Tá querendo desquitar (Ela tá dando)",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Lavô Tá Novo",
+      "releaseDate": "2005-11-08",
+      "durationMs": 187000,
+      "genres": [],
+      "isrc": "BRWMB9702645",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0f85791cb1305b772f5e89de04aa1d4a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3895375"
+      }
+    },
+    "lyricPath": "/lyrics/98520.txt"
+  }
+]

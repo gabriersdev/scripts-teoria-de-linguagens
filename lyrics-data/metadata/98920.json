@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98920,
+    "metadata": {
+      "title": "Só Pau",
+      "artists": [
+        "Ryu, the Runner",
+        "Cassin",
+        "Stuani",
+        "Salve Crazy"
+      ],
+      "album": "Essa é a Vida de um Corredor",
+      "releaseDate": "2023-03-03",
+      "durationMs": 131000,
+      "genres": [],
+      "isrc": "BCY5N2300008",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/782cef210cd47fa6908ba6ed4b6a484b/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4030006851"
+      }
+    },
+    "lyricPath": "/lyrics/98920.txt"
+  }
+]

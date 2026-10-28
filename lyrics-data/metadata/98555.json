@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98555,
+    "metadata": {
+      "title": "Ah, Se Eu Fosse Homem... - Acústico",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "Ultraje a Rigor - 30 Anos",
+      "releaseDate": "1993-04-26T12:00:00Z",
+      "durationMs": 167787,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/37/2e/d6/372ed66a-767c-b68f-02ff-b0085e45c314/825646160594.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/ah-se-eu-fosse-homem/953074545?i=953074642&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98555.txt"
+  }
+]

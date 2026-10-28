@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98740,
+    "metadata": {
+      "title": "Circo - Ao Vivo",
+      "artists": [
+        "Paula Fernandes",
+        "Simone Mendes"
+      ],
+      "album": "Circo (Ao Vivo)",
+      "releaseDate": "2026-09-18",
+      "durationMs": 171000,
+      "genres": [],
+      "isrc": "BXJE72600002",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/dc833141659f96187a6335e15c0ab50e/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4279391392"
+      }
+    },
+    "lyricPath": "/lyrics/98740.txt"
+  }
+]

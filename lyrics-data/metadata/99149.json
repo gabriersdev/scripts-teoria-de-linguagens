@@ -1,0 +1,27 @@
+[
+  {
+    "id": 99149,
+    "metadata": {
+      "title": "Mandona (Se eu te dissesse)",
+      "artists": [
+        "Vulgo FK",
+        "Kyan",
+        "Bvga Beatz",
+        "Toledo"
+      ],
+      "album": "Mandona (Se eu te dissesse) [feat. Toledo] - Single",
+      "releaseDate": "2023-04-20T12:00:00Z",
+      "durationMs": 127059,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BXG6R2300312",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/34/cb/0734cb88-a260-ed54-98b1-b26b4b31f068/196922447198_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/mandona-se-eu-te-dissesse-feat-toledo/1683012868?i=1683012872&uo=4",
+        "deezer": "https://www.deezer.com/track/2243321067"
+      }
+    },
+    "lyricPath": "/lyrics/99149.txt"
+  }
+]

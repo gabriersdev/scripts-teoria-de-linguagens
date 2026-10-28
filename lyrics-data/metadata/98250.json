@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98250,
+    "metadata": {
+      "title": "Kenny G",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "Kenny G",
+      "releaseDate": "2019-09-04",
+      "durationMs": 189600,
+      "genres": [],
+      "isrc": "BX2M81900002",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6ad325dc5de5abc07e4df64f77f66603/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f04f9a97-630e-45d4-83ce-ad9747248089",
+        "deezer": "https://www.deezer.com/track/732547372"
+      }
+    },
+    "lyricPath": "/lyrics/98250.txt"
+  }
+]

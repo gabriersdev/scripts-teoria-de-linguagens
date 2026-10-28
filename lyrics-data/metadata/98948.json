@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98948,
+    "metadata": {
+      "title": "PUCA",
+      "artists": [
+        "Ark King",
+        "Jvrthxypz",
+        "ohayomatsu",
+        "NIKK",
+        "Junim"
+      ],
+      "album": "Lobelia's Garden",
+      "releaseDate": "2024-04-26",
+      "durationMs": 171000,
+      "genres": [],
+      "isrc": "GBWUL2489006",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/257d53ae218bc10c1a49d682f574ce8f/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2761818251"
+      }
+    },
+    "lyricPath": "/lyrics/98948.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98027,
+    "metadata": {
+      "title": "Amo Minha Favela",
+      "artists": [
+        "DJ Japa NK",
+        "MC Meno K"
+      ],
+      "album": "Amo Minha Favela",
+      "releaseDate": "2025-12-11",
+      "durationMs": 119000,
+      "genres": [],
+      "isrc": "BKUNW2500036",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9f81a0a5a62e7eeabc778ce4770af337/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3871188191"
+      }
+    },
+    "lyricPath": "/lyrics/98027.txt"
+  }
+]

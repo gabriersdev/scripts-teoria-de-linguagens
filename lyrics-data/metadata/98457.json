@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98457,
+    "metadata": {
+      "title": "É uma Partida de Futebol",
+      "artists": [
+        "Skank"
+      ],
+      "album": "Skank, Os Três Primeiros - EP Samba Poconé",
+      "releaseDate": "2018-09-28",
+      "durationMs": 215000,
+      "genres": [],
+      "isrc": "BRSME1702126",
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f88d3065-832b-4c4a-8bc7-c1bee575d382"
+      }
+    },
+    "lyricPath": "/lyrics/98457.txt"
+  }
+]

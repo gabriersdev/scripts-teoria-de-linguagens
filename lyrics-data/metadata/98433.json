@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98433,
+    "metadata": {
+      "title": "Velha roupa colorida",
+      "artists": [
+        "Elis Regina"
+      ],
+      "album": "Coleção obras-primas",
+      "releaseDate": "1996",
+      "durationMs": 254533,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRMCA7600127",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/a7/70/b7/a770b7a8-149d-2fb1-aae8-53cde68ff486/825646465354.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a705f3e5-a7b9-4519-bfdc-a845b3519eed",
+        "itunes": "https://music.apple.com/us/album/velha-roupa-colorida/997170671?i=997170824&uo=4",
+        "deezer": "https://www.deezer.com/track/17497340"
+      }
+    },
+    "lyricPath": "/lyrics/98433.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98560,
+    "metadata": {
+      "title": "Jesse Go - Acústico",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "Ultraje a Rigor - 30 Anos",
+      "releaseDate": "1985-07-13T12:00:00Z",
+      "durationMs": 233040,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP0500354",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/37/2e/d6/372ed66a-767c-b68f-02ff-b0085e45c314/825646160594.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/jesse-go/953074545?i=953074560&uo=4",
+        "deezer": "https://www.deezer.com/track/96168070"
+      }
+    },
+    "lyricPath": "/lyrics/98560.txt"
+  }
+]

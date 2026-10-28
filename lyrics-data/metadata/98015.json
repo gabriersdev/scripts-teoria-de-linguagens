@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98015,
+    "metadata": {
+      "title": "Na Ponta do Pé",
+      "artists": [
+        "Mc Prr Felipinho",
+        "DJ 7W",
+        "DJ LEILTON 011"
+      ],
+      "album": "Próximo Nível",
+      "releaseDate": "2026-07-10",
+      "durationMs": 93000,
+      "genres": [],
+      "isrc": "QT8BW2638596",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b61367128222a5d965da46c2380d7f69/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4131275411"
+      }
+    },
+    "lyricPath": "/lyrics/98015.txt"
+  }
+]

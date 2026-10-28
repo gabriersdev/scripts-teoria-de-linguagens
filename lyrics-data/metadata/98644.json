@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98644,
+    "metadata": {
+      "title": "Voltável",
+      "artists": [
+        "Tarcísio do Acordeon"
+      ],
+      "album": "Esquenta Pro São João",
+      "releaseDate": "2026-04-22T12:00:00Z",
+      "durationMs": 162859,
+      "genres": [
+        "Forró"
+      ],
+      "isrc": "BKTWA2600002",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/07/a1/1d07a18a-b7ef-4c82-0c8e-022adf704be1/8721466703398.png/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/volt%C3%A1vel/1894277345?i=1894277557&uo=4",
+        "deezer": "https://www.deezer.com/track/3966134851"
+      }
+    },
+    "lyricPath": "/lyrics/98644.txt"
+  }
+]

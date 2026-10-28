@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98384,
+    "metadata": {
+      "title": "Envolvidão",
+      "artists": [
+        "Rael"
+      ],
+      "album": "Diversoficando",
+      "releaseDate": "2014-11-15T12:00:00Z",
+      "durationMs": 206760,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRX6F1400010",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bd/57/d0/bd57d0f2-1d83-52c3-6acc-eb2d8d753880/8429006397785.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/envolvid%C3%A3o-ac%C3%BAstico/1466030490?i=1466030647&uo=4",
+        "deezer": "https://www.deezer.com/track/3246183951"
+      }
+    },
+    "lyricPath": "/lyrics/98384.txt"
+  }
+]

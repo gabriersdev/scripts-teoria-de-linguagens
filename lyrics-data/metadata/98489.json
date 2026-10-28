@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98489,
+    "metadata": {
+      "title": "Panis Et Circenses",
+      "artists": [
+        "Os Mutantes"
+      ],
+      "album": "Tecnicolor",
+      "releaseDate": null,
+      "durationMs": 133426,
+      "genres": [
+        "rock",
+        "psychedelic rock"
+      ],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/924a3970-4e7d-4dbf-a6f1-f04e02368360"
+      }
+    },
+    "lyricPath": "/lyrics/98489.txt"
+  }
+]

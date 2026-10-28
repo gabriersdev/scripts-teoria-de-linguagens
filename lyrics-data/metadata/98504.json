@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98504,
+    "metadata": {
+      "title": "Tempo Ruim",
+      "artists": [
+        "Matanza"
+      ],
+      "album": "A Arte do Insulto",
+      "releaseDate": "2006-10-10T12:00:00Z",
+      "durationMs": 162467,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP0600438",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/40/b7/4340b728-c3b3-543b-af7f-fa26ce4edf37/7898324302602.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/tempo-ruim/977391848?i=977391858&uo=4",
+        "deezer": "https://www.deezer.com/track/96188842"
+      }
+    },
+    "lyricPath": "/lyrics/98504.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98851,
+    "metadata": {
+      "title": "Top Boy Intro",
+      "artists": [
+        "Yung Nobre"
+      ],
+      "album": "Top Boy Face, Vol. 1",
+      "releaseDate": "2022-07-22",
+      "durationMs": 99000,
+      "genres": [],
+      "isrc": "BXZYA2200015",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4f7761e9e84e79b123c3e82add035a69/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1817431527"
+      }
+    },
+    "lyricPath": "/lyrics/98851.txt"
+  }
+]

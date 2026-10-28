@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99123,
+    "metadata": {
+      "title": "Damn",
+      "artists": [
+        "Raffa Moreira"
+      ],
+      "album": "BC Raff Album",
+      "releaseDate": "2020-04-23",
+      "durationMs": 133000,
+      "genres": [],
+      "isrc": "QZGLS2093503",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/33643deac2782e5d0d25e340826da1f5/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1449726612"
+      }
+    },
+    "lyricPath": "/lyrics/99123.txt"
+  }
+]

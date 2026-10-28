@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98073,
+    "metadata": {
+      "title": "Ela Quer Relacionamento",
+      "artists": [
+        "MC Gustavinho",
+        "Gt do Mira"
+      ],
+      "album": "Ela Quer Relacionamento",
+      "releaseDate": "2026-05-08",
+      "durationMs": 114000,
+      "genres": [],
+      "isrc": "QT5M42623944",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/54cc265f61b566071cbdcbcdb2ff1c18/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3946862801"
+      }
+    },
+    "lyricPath": "/lyrics/98073.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98749,
+    "metadata": {
+      "title": "Laia - Ao Vivo",
+      "artists": [
+        "George Henrique & Rodrigo",
+        "Matheus & Kauan"
+      ],
+      "album": "Uma Nova História, Vol.1 (Ao Vivo) - EP",
+      "releaseDate": "2026-08-27T12:00:00Z",
+      "durationMs": 149007,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKQ142600001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/d9/77/15d9778f-358a-7787-9015-0ac6e01b4f10/196874704554.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/laia-ao-vivo/6802382817?i=6802382823&uo=4",
+        "deezer": "https://www.deezer.com/track/4229073212"
+      }
+    },
+    "lyricPath": "/lyrics/98749.txt"
+  }
+]

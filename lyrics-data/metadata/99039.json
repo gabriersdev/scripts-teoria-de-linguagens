@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99039,
+    "metadata": {
+      "title": "BAPE ROSA",
+      "artists": [
+        "Fahel",
+        "Tevito",
+        "Boaventura",
+        "Sxntoz",
+        "Analogic"
+      ],
+      "album": "fahelmeliga tô com dua$…",
+      "releaseDate": "2026-04-09",
+      "durationMs": 173000,
+      "genres": [],
+      "isrc": "USLZJ2644439",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/e38d1c05d917aba7ec0e0b7d8704d9ba/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3893492951"
+      }
+    },
+    "lyricPath": "/lyrics/99039.txt"
+  }
+]

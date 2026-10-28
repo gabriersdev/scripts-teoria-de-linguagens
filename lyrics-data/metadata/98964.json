@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98964,
+    "metadata": {
+      "title": "WARZONE",
+      "artists": [
+        "Brandão85"
+      ],
+      "album": "WARZONE - Single",
+      "releaseDate": "2026-03-30T12:00:00Z",
+      "durationMs": 166286,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BXW922600023",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/99/92/3899928d-f9f2-4acf-77bb-0a8f85777146/5026854973463.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/warzone/1888587669?i=1888587670&uo=4",
+        "deezer": "https://www.deezer.com/track/3926170281"
+      }
+    },
+    "lyricPath": "/lyrics/98964.txt"
+  }
+]

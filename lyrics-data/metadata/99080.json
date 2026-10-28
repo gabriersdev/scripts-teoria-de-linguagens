@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99080,
+    "metadata": {
+      "title": "Não Me Faça Falar",
+      "artists": [
+        "YUNG LIXO"
+      ],
+      "album": "13 Lentes de um Final Feliz (2024)",
+      "releaseDate": "2024-12-20",
+      "durationMs": 266000,
+      "genres": [],
+      "isrc": "QZZ7X2403697",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/a01cc5f5bbb09711637d4927e9ab83cd/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/98e8a6d0-eebb-45d7-ae90-f4c6451bda61",
+        "deezer": "https://www.deezer.com/track/3144564061"
+      }
+    },
+    "lyricPath": "/lyrics/99080.txt"
+  }
+]

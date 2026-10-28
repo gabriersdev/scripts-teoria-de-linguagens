@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98519,
+    "metadata": {
+      "title": "Esporrei na manivela",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Cesta básica",
+      "releaseDate": "1996",
+      "durationMs": 293173,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/eb84154a-f930-4825-bf5f-123d997227bb"
+      }
+    },
+    "lyricPath": "/lyrics/98519.txt"
+  }
+]

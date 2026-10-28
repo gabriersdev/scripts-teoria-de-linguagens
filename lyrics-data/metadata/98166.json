@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98166,
+    "metadata": {
+      "title": "Amiga Talarica",
+      "artists": [
+        "MC Rick"
+      ],
+      "album": "Amiga Talarica",
+      "releaseDate": "2020-05-14",
+      "durationMs": 164000,
+      "genres": [],
+      "isrc": "BXG6R2000542",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b275a2ab4cea97df0a2f3a1e3e87baaf/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/958432222"
+      }
+    },
+    "lyricPath": "/lyrics/98166.txt"
+  }
+]

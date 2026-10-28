@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98891,
+    "metadata": {
+      "title": "La Fleur",
+      "artists": [
+        "Ark King",
+        "deadpeace",
+        "Junim"
+      ],
+      "album": "Ark Tape #1",
+      "releaseDate": "2022-10-25",
+      "durationMs": 132000,
+      "genres": [],
+      "isrc": "QZW9L2209361",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cbd88b640c7e84becdfb84ca3684de18/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2046582187"
+      }
+    },
+    "lyricPath": "/lyrics/98891.txt"
+  }
+]

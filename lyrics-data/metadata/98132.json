@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98132,
+    "metadata": {
+      "title": "É Piru nas Meninas - Medley das Antigas",
+      "artists": [
+        "Mc Pikachu",
+        "DJ Arana",
+        "DJ Victor Falcão"
+      ],
+      "album": "É Piru nas Meninas - Medley das Antigas",
+      "releaseDate": "2022-12-10",
+      "durationMs": 125000,
+      "genres": [],
+      "isrc": "BC3PG2206358",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0ec70ce4caa6c2e8fe13e052d53b8aaf/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2064122647"
+      }
+    },
+    "lyricPath": "/lyrics/98132.txt"
+  }
+]

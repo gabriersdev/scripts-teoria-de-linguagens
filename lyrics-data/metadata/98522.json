@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98522,
+    "metadata": {
+      "title": "Cabeça de bode",
+      "artists": [
+        "Vitorin"
+      ],
+      "album": "Cabeça de Bode - Single",
+      "releaseDate": "2024-10-11T12:00:00Z",
+      "durationMs": 120484,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/01/a7/6501a7df-70b7-2d7d-f187-6a90670a0830/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/cabe%C3%A7a-de-bode/1767132662?i=1767132663&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98522.txt"
+  }
+]

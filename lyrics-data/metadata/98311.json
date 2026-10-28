@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98311,
+    "metadata": {
+      "title": "Doce Veneno",
+      "artists": [
+        "Costa Gold"
+      ],
+      "album": "Doce Veneno (Vírus da Carne) - Single",
+      "releaseDate": "2015-08-20T12:00:00Z",
+      "durationMs": 235989,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1523016",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/63/67/366367fa-db31-cc87-dac4-6a38c6d40d85/632103031225.png/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/doce-veneno-v%C3%ADrus-da-carne/1832638784?i=1832638785&uo=4",
+        "deezer": "https://www.deezer.com/track/3491739091"
+      }
+    },
+    "lyricPath": "/lyrics/98311.txt"
+  }
+]

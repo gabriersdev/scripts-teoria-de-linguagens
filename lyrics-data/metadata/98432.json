@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98432,
+    "metadata": {
+      "title": "Um Girassol Da Cor Do Seu Cabelo",
+      "artists": [
+        "Lô Borges"
+      ],
+      "album": "Uma Travessia - 50 Anos de Carreira (ao vivo)",
+      "releaseDate": null,
+      "durationMs": 288000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/49fa8563-9c3e-4c1a-b453-006d2b90a300"
+      }
+    },
+    "lyricPath": "/lyrics/98432.txt"
+  }
+]

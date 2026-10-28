@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98295,
+    "metadata": {
+      "title": "Good Vibe",
+      "artists": [
+        "Filipe Ret",
+        "Caio Luccas",
+        "Dallass"
+      ],
+      "album": "LUME",
+      "releaseDate": "2022-06-16",
+      "durationMs": 181000,
+      "genres": [],
+      "isrc": "BRRGE2200366",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/966c622d2a432a7bffff340ef36836c7/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1766475887"
+      }
+    },
+    "lyricPath": "/lyrics/98295.txt"
+  }
+]

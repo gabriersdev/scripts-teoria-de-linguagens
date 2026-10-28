@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98440,
+    "metadata": {
+      "title": "Tédio",
+      "artists": [
+        "Biquini Cavadão"
+      ],
+      "album": "Perfil)",
+      "releaseDate": "1998-06-07",
+      "durationMs": 203000,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/64/0b/c8/640bc892-d5cd-4a6d-bf73-e8deb71b1d40/090222804852.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/2033d10a-bed6-4dc4-86b1-99f8854119eb",
+        "itunes": "https://music.apple.com/us/album/t%C3%A9dio/1614498749?i=1614499348&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98440.txt"
+  }
+]

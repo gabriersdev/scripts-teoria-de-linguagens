@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98600,
+    "metadata": {
+      "title": "Rádio Love Nacional",
+      "artists": [
+        "Detonautas"
+      ],
+      "album": "Rádio Love Nacional",
+      "releaseDate": "2026-03-13",
+      "durationMs": 179846,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP2600001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/2b/b2/6e2bb25b-786a-c546-026d-e3c9180500b4/7898324330827.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3f16f9c4-a8ba-4703-95b1-51a847c1e541",
+        "itunes": "https://music.apple.com/us/album/r%C3%A1dio-love-nacional/1872747034?i=1872747515&uo=4",
+        "deezer": "https://www.deezer.com/track/3809358692"
+      }
+    },
+    "lyricPath": "/lyrics/98600.txt"
+  }
+]

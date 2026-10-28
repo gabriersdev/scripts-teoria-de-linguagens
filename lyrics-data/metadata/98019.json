@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98019,
+    "metadata": {
+      "title": "Sentadinha Cabulosa X Saudade",
+      "artists": [
+        "DJ BRIZY",
+        "MC BN",
+        "MC BROOKLYN",
+        "Luiz Lins",
+        "DJ TN Beat",
+        "FreesTyle Sounds"
+      ],
+      "album": "Sentadinha Cabulosa",
+      "releaseDate": "2026-03-10",
+      "durationMs": 150000,
+      "genres": [],
+      "isrc": "BKY2C2600272",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b74879234a0735dcc6f3b18ca4ebe913/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3927946011"
+      }
+    },
+    "lyricPath": "/lyrics/98019.txt"
+  }
+]

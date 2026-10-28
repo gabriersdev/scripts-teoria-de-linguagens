@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98742,
+    "metadata": {
+      "title": "Proibido Terminar - Ao Vivo",
+      "artists": [
+        "Gusttavo Lima"
+      ],
+      "album": "Proibido Terminar - Single",
+      "releaseDate": "2025-02-06T12:00:00Z",
+      "durationMs": 165888,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BXBAL2500058",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/fe/31/bbfe3197-c753-7286-69be-d0a272557599/dj.owcoilzq.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/proibido-terminar/1793793204?i=1793793220&uo=4",
+        "deezer": "https://www.deezer.com/track/3212088191"
+      }
+    },
+    "lyricPath": "/lyrics/98742.txt"
+  }
+]

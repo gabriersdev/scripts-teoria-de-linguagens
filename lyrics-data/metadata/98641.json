@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98641,
+    "metadata": {
+      "title": "Mil Adjetivos (Perfeita Pra Mim)",
+      "artists": [
+        "Cleber & Cauan"
+      ],
+      "album": "Resenha na Fazenda (Ao Vivo)",
+      "releaseDate": "2026-10-01T07:00:00Z",
+      "durationMs": 178945,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BCSON2600031",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/33/5b/f0335bbd-6ba5-db3d-bc8e-12e7c79936cc/8721639204042.png/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/mil-adjetivos-perfeita-pra-mim-ao-vivo/6826182147?i=6826182151&uo=4",
+        "deezer": "https://www.deezer.com/track/3961321961"
+      }
+    },
+    "lyricPath": "/lyrics/98641.txt"
+  }
+]

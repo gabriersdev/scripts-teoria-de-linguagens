@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98599,
+    "metadata": {
+      "title": "Vamos Fugir",
+      "artists": [
+        "Skank"
+      ],
+      "album": "Rock In Rio 2011",
+      "releaseDate": "2011",
+      "durationMs": 312000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/16c03402-a442-470b-8517-9fcb823aeb6d"
+      }
+    },
+    "lyricPath": "/lyrics/98599.txt"
+  }
+]

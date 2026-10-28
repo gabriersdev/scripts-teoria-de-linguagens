@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98201,
+    "metadata": {
+      "title": "RPB",
+      "artists": [
+        "Emicida",
+        "Puro Suco",
+        "BEATDOMK"
+      ],
+      "album": "RPB/Para Tio",
+      "releaseDate": "2026-09-24",
+      "durationMs": 173000,
+      "genres": [],
+      "isrc": "BK5QH2600002",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/5e048e0cca8d9f3ef3115dadc9a4edd9/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4286271822"
+      }
+    },
+    "lyricPath": "/lyrics/98201.txt"
+  }
+]

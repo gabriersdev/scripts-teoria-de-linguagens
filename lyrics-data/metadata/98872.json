@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98872,
+    "metadata": {
+      "title": "Kaboom!",
+      "artists": [
+        "D$ Luqi",
+        "Ark King"
+      ],
+      "album": "O Emblema do Infinito",
+      "releaseDate": "2024-08-08",
+      "durationMs": 131000,
+      "genres": [],
+      "isrc": "BKLL22400011",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3ab40bdd7c87b75c21401f79028b3dcf/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d42d3170-33a8-441e-8366-203692eae8c8",
+        "deezer": "https://www.deezer.com/track/2858477992"
+      }
+    },
+    "lyricPath": "/lyrics/98872.txt"
+  }
+]

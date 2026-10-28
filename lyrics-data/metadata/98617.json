@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98617,
+    "metadata": {
+      "title": "Eu Duvido",
+      "artists": [
+        "Eduardo Costa"
+      ],
+      "album": "Eduardo Costa",
+      "releaseDate": "2006-04-11",
+      "durationMs": 210000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRTLW1700106",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9d/8e/2e/9d8e2e2f-dba7-f120-1123-0b4e39486e6b/886446779980.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9a7923d1-e14e-4d2f-b50d-bb98151c1531",
+        "itunes": "https://music.apple.com/us/album/eu-duvido/1299222215?i=1299222891&uo=4",
+        "deezer": "https://www.deezer.com/track/420264732"
+      }
+    },
+    "lyricPath": "/lyrics/98617.txt"
+  }
+]

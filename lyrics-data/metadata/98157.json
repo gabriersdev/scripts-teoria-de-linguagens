@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98157,
+    "metadata": {
+      "title": "Alguém Tem Isqueiro",
+      "artists": [
+        "MC Rick"
+      ],
+      "album": "Alguém Tem Isqueiro",
+      "releaseDate": "2018-11-13",
+      "durationMs": 147000,
+      "genres": [],
+      "isrc": "US7VG1840949",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7ddb945afe96924a7a288caf72c5454b/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/587253482"
+      }
+    },
+    "lyricPath": "/lyrics/98157.txt"
+  }
+]

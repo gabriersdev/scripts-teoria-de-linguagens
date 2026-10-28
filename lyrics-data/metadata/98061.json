@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98061,
+    "metadata": {
+      "title": "FAMOSINHA",
+      "artists": [
+        "Dj Caio Vieira",
+        "MC Meno K",
+        "Mc Rodrigo do CN"
+      ],
+      "album": "FAMOSINHA",
+      "releaseDate": "2025-02-28",
+      "durationMs": 133000,
+      "genres": [],
+      "isrc": "GBRKQ2577665",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cec98b10224bb2b8c069499aa09ba73e/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3250684331"
+      }
+    },
+    "lyricPath": "/lyrics/98061.txt"
+  }
+]

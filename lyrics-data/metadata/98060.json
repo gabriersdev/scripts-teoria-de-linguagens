@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98060,
+    "metadata": {
+      "title": "BOA NOITE (CHEGUEI)",
+      "artists": [
+        "THEUZZIN",
+        "2L Motta",
+        "Mn de Niteroi",
+        "DJ MK De Niterói"
+      ],
+      "album": "BOA NOITE (CHEGUEI)",
+      "releaseDate": "2025-09-12",
+      "durationMs": 159000,
+      "genres": [],
+      "isrc": "BC6M22550261",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/2702c9f78de121b77bc34cb7c0471171/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3573436761"
+      }
+    },
+    "lyricPath": "/lyrics/98060.txt"
+  }
+]

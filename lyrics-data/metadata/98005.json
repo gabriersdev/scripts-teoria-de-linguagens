@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98005,
+    "metadata": {
+      "title": "EXAGERADO",
+      "artists": [
+        "MC Jvila",
+        "MC Meno K",
+        "Mc Rodrigo do CN",
+        "DJ Glenner"
+      ],
+      "album": "EXAGERADO",
+      "releaseDate": "2026-05-20",
+      "durationMs": 230000,
+      "genres": [],
+      "isrc": "BK4DA2637309",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/dbe314e321469d40c0fbc9976bbc8e27/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4008389051"
+      }
+    },
+    "lyricPath": "/lyrics/98005.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98638,
+    "metadata": {
+      "title": "Calcinha de Renda",
+      "artists": [
+        "Panda & Gusttavo Lima"
+      ],
+      "album": "Calcinha de Renda (Ao Vivo) - Single",
+      "releaseDate": "2025-11-26T12:00:00Z",
+      "durationMs": 199379,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BX8WE2500032",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/03/05/d203053d-814c-643d-750b-43a0392a9e50/196873878027.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/calcinha-de-renda-ao-vivo/1855713409?i=1855713652&uo=4",
+        "deezer": "https://www.deezer.com/track/3662196962"
+      }
+    },
+    "lyricPath": "/lyrics/98638.txt"
+  }
+]

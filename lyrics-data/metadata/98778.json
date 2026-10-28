@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98778,
+    "metadata": {
+      "title": "Amigo Taxista - Ao Vivo",
+      "artists": [
+        "Zé Neto & Cristiano"
+      ],
+      "album": "Boteco do Zé Neto & Cristiano (Ao Vivo)",
+      "releaseDate": "2025-12-06",
+      "durationMs": 197970,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1600162",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/91/17/2b/91172b17-78e4-8254-bc50-3e8f519cd9f1/191773990305.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/1effa02d-ac21-4009-b09c-96a99f781965",
+        "itunes": "https://music.apple.com/us/album/amigo-taxista-ao-vivo/1319356570?i=1319357027&uo=4",
+        "deezer": "https://www.deezer.com/track/141045109"
+      }
+    },
+    "lyricPath": "/lyrics/98778.txt"
+  }
+]

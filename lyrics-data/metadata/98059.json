@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98059,
+    "metadata": {
+      "title": "MACETEI",
+      "artists": [
+        "MC Gustavinho",
+        "Gt do Mira"
+      ],
+      "album": "MACETEI - Single",
+      "releaseDate": "2026-04-17T12:00:00Z",
+      "durationMs": 116667,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": "AEA3A1930849",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/58/f5/4858f509-3247-2a9b-e674-31b3c4a3bfcf/1341965.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/macetei/1890022028?i=1890022029&uo=4",
+        "deezer": "https://www.deezer.com/track/3944479751"
+      }
+    },
+    "lyricPath": "/lyrics/98059.txt"
+  }
+]

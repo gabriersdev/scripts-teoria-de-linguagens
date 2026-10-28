@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98575,
+    "metadata": {
+      "title": "Apresento Mi Amigo!",
+      "artists": [
+        "Garotos Podres"
+      ],
+      "album": "Arriba! Arriba!",
+      "releaseDate": "1993",
+      "durationMs": 185000,
+      "genres": [],
+      "isrc": "BRPRX9800856",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cb359671e61fcdec117d70baf76bc2d3/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/cff14d5d-1239-4a06-9ab9-916f2b0551b4",
+        "deezer": "https://www.deezer.com/track/1381996652"
+      }
+    },
+    "lyricPath": "/lyrics/98575.txt"
+  }
+]

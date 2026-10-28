@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98514,
+    "metadata": {
+      "title": "Tora Tora",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Lavô tá novo",
+      "releaseDate": "1995-11-03",
+      "durationMs": 255333,
+      "genres": [],
+      "isrc": "BRWMB9702639",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0f85791cb1305b772f5e89de04aa1d4a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8c25ddac-599d-460e-826e-877b3accf255",
+        "deezer": "https://www.deezer.com/track/3895368"
+      }
+    },
+    "lyricPath": "/lyrics/98514.txt"
+  }
+]

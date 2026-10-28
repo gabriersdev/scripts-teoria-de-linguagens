@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98552,
+    "metadata": {
+      "title": "Rebelde sem causa",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "2 é demais",
+      "releaseDate": "1996",
+      "durationMs": 199826,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f01d9549-3c93-4fd5-9f55-167e21b0511e"
+      }
+    },
+    "lyricPath": "/lyrics/98552.txt"
+  }
+]

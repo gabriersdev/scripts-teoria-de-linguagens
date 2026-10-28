@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98461,
+    "metadata": {
+      "title": "Que Pais É Este",
+      "artists": [
+        "Legião Urbana"
+      ],
+      "album": "Que Pais É Este",
+      "releaseDate": "2007-09-01",
+      "durationMs": 177000,
+      "genres": [
+        "MPB"
+      ],
+      "isrc": "BREMI8700088",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/bd/8c/d5bd8cd9-e84c-73b0-1a4a-1ea397a71774/13UMGIM90177.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/562fc423-c772-4aae-a8e6-02142e2a365f",
+        "itunes": "https://music.apple.com/us/album/que-pa%C3%ADs-%C3%A9-este/713516722?i=713516821&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98461.txt"
+  }
+]

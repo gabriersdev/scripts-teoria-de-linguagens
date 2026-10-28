@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98451,
+    "metadata": {
+      "title": "Ovelha Negra",
+      "artists": [
+        "Rita Lee"
+      ],
+      "album": "Durval Discos",
+      "releaseDate": "2002",
+      "durationMs": 276000,
+      "genres": [
+        "rock",
+        "singer-songwriter",
+        "rock and roll"
+      ],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3b768400-cf6f-4e4f-a466-a44c8c6bb853"
+      }
+    },
+    "lyricPath": "/lyrics/98451.txt"
+  }
+]

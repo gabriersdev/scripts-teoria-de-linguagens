@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98052,
+    "metadata": {
+      "title": "Ela é Magrinha do Bundão",
+      "artists": [
+        "cjnobeat",
+        "Mc Gimenes",
+        "Mc Gw",
+        "MC BN"
+      ],
+      "album": "Ela é Magrinha do Bundão",
+      "releaseDate": "2026-03-05",
+      "durationMs": 160000,
+      "genres": [],
+      "isrc": "SGB502612379",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1debc072e82767bfa95547eace0cbc6a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3936348691"
+      }
+    },
+    "lyricPath": "/lyrics/98052.txt"
+  }
+]

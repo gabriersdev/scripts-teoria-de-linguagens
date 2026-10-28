@@ -1,0 +1,23 @@
+[
+  {
+    "id": 99034,
+    "metadata": {
+      "title": "Zóio",
+      "artists": [
+        "MC Igu",
+        "Loudpacc",
+        "Chulo"
+      ],
+      "album": "Noites em Nagoya",
+      "releaseDate": "2026-04-03",
+      "durationMs": 139000,
+      "genres": [],
+      "isrc": "USLZJ2666722",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c5353a6b5b8fddec5ae7a526f7ff891e/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3913587361"
+      }
+    },
+    "lyricPath": "/lyrics/99034.txt"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 99044,
+    "metadata": {
+      "title": "O bonde tá no levan",
+      "artists": [
+        "LAI$ROSA",
+        "MC KTRINE",
+        "Agostinhx"
+      ],
+      "album": "O bonde tá no levan",
+      "releaseDate": "2026-04-01",
+      "durationMs": 145000,
+      "genres": [],
+      "isrc": "BKA8H2600002",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1c40f1e038ff348cef328cc478ba560e/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3919663321"
+      }
+    },
+    "lyricPath": "/lyrics/99044.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98478,
+    "metadata": {
+      "title": "Meu Sol",
+      "artists": [
+        "Vanguart"
+      ],
+      "album": "Muito Mais Que o Amor",
+      "releaseDate": "2000-01-01T12:00:00Z",
+      "durationMs": 200200,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP1300111",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/c0/30/53/c03053b3-1067-b948-f49e-8f57cdf8a9bb/7898324308871.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/meu-sol/977427997?i=977428689&uo=4",
+        "deezer": "https://www.deezer.com/track/95954124"
+      }
+    },
+    "lyricPath": "/lyrics/98478.txt"
+  }
+]

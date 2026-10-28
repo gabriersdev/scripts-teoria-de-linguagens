@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98675,
+    "metadata": {
+      "title": "Sua Boca Mente (You're Still The One)",
+      "artists": [
+        "Zé Felipe & Ana Castela"
+      ],
+      "album": "Sua Boca Mente (You're Still The One) - Single",
+      "releaseDate": "2025-10-02T12:00:00Z",
+      "durationMs": 194304,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRTLW2500121",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/ac/ea/aeaceae3-1c9e-273c-ccbc-e323d62392c8/196873650159.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/sua-boca-mente-youre-still-the-one/1842240146?i=1842240151&uo=4",
+        "deezer": "https://www.deezer.com/track/3573789841"
+      }
+    },
+    "lyricPath": "/lyrics/98675.txt"
+  }
+]

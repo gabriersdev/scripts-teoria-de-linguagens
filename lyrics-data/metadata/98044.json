@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98044,
+    "metadata": {
+      "title": "SEQUÊNCIA FEITICEIRA",
+      "artists": [
+        "PEDRO SAMPAIO",
+        "Mc Gw",
+        "Mc Jhey",
+        "Mc Rodrigo do CN",
+        "MC Nito"
+      ],
+      "album": "Sequências #1",
+      "releaseDate": "2025-11-18",
+      "durationMs": 129000,
+      "genres": [],
+      "isrc": "BRWMB2500962",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/77b52905ffea24bff59789da80faccc5/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b2f2f981-4529-4ac8-a1df-d24c2c151906",
+        "deezer": "https://www.deezer.com/track/3511049601"
+      }
+    },
+    "lyricPath": "/lyrics/98044.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98665,
+    "metadata": {
+      "title": "Dois Gumes",
+      "artists": [
+        "Felipe e Rodrigo"
+      ],
+      "album": "Dois Gumes (Ao Vivo) - Single",
+      "releaseDate": "2025-11-06T12:00:00Z",
+      "durationMs": 191154,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKMKR2500035",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/33/f2/fc33f24c-a4b1-e573-59d2-07e7343fdbdb/00602488274425_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/dois-gumes-ao-vivo/1874621215?i=1874621224&uo=4",
+        "deezer": "https://www.deezer.com/track/3871706491"
+      }
+    },
+    "lyricPath": "/lyrics/98665.txt"
+  }
+]

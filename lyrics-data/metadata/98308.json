@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98308,
+    "metadata": {
+      "title": "Cocaína",
+      "artists": [
+        "Sabotage"
+      ],
+      "album": "Rap É Compromisso (Edição Comemorativa)",
+      "releaseDate": "2014-11-20",
+      "durationMs": 298000,
+      "genres": [],
+      "isrc": "US7VG1455258",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d9801848020a195308a0b2de9da074ff/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/945986062"
+      }
+    },
+    "lyricPath": "/lyrics/98308.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98701,
+    "metadata": {
+      "title": "Liberdade Provisória - Live - Ibirapuera / 2019",
+      "artists": [
+        "Henrique & Juliano"
+      ],
+      "album": "Ao Vivo No Ibirapuera",
+      "releaseDate": "2021-07-12",
+      "durationMs": 186000,
+      "genres": [],
+      "isrc": "BRWNV1900330",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/ac2be812e07c72dec75ba4aa8fe40684/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3878853951"
+      }
+    },
+    "lyricPath": "/lyrics/98701.txt"
+  }
+]

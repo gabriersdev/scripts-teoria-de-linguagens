@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98980,
+    "metadata": {
+      "title": "EJA Freestyle",
+      "artists": [
+        "Derek"
+      ],
+      "album": "EJA FREESTYLE",
+      "releaseDate": "2023-10-06",
+      "durationMs": 204000,
+      "genres": [],
+      "isrc": "BRUM72301343",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c508f9fda92ac840fd049381103b6a5d/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bace8840-b8bd-47a0-9c24-2142b382a503",
+        "deezer": "https://www.deezer.com/track/2477823341"
+      }
+    },
+    "lyricPath": "/lyrics/98980.txt"
+  }
+]

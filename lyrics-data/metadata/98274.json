@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98274,
+    "metadata": {
+      "title": "Veterano",
+      "artists": [
+        "Lipinho Oficial",
+        "Vinicin",
+        "Surfista",
+        "Ryuchi",
+        "Ian Durso",
+        "JVMVO"
+      ],
+      "album": "Veterano 2",
+      "releaseDate": "2026-09-16",
+      "durationMs": 439000,
+      "genres": [],
+      "isrc": "BCD592600070",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/2f82461dd876de84ae41a5a2b350c5c6/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4259575701"
+      }
+    },
+    "lyricPath": "/lyrics/98274.txt"
+  }
+]

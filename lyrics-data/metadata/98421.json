@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98421,
+    "metadata": {
+      "title": "Será",
+      "artists": [
+        "Legião Urbana"
+      ],
+      "album": "Legião Urbana - Box Set Edição de Colecionador",
+      "releaseDate": "2010",
+      "durationMs": 150533,
+      "genres": [
+        "Pop Latino"
+      ],
+      "isrc": "BREMI8400036",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/84/70/f1847074-5424-7f17-7b6f-2d1a746660c9/16UMGIM15751.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/cce48eb6-9eee-4a49-8d94-d23171da3537",
+        "itunes": "https://music.apple.com/us/album/ser%C3%A1/1453153070?i=1453153399&uo=4",
+        "deezer": "https://www.deezer.com/track/3530207"
+      }
+    },
+    "lyricPath": "/lyrics/98421.txt"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98372,
+    "metadata": {
+      "title": "Santa Marta",
+      "artists": [
+        "Felp 22",
+        "Castelobeats",
+        "Skinny Beats"
+      ],
+      "album": "Melhor Momento, Pt. 2",
+      "releaseDate": "2024-04-18",
+      "durationMs": 198000,
+      "genres": [],
+      "isrc": "BCD592400033",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/a716b40b75ec7571918c53e6d3aa6d39/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2739861171"
+      }
+    },
+    "lyricPath": "/lyrics/98372.txt"
+  }
+]

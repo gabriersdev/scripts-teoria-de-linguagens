@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98663,
+    "metadata": {
+      "title": "Assunto Que Dói",
+      "artists": [
+        "Gusttavo Lima"
+      ],
+      "album": "Feito À Mão",
+      "releaseDate": "2026-02-26T12:00:00Z",
+      "durationMs": 166667,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BXBAL2500261",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/d8/a6/3bd8a697-f495-6018-689f-e9b505278bf5/196874116920.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/assunto-que-d%C3%B3i/1879644140?i=1879644142&uo=4",
+        "deezer": "https://www.deezer.com/track/3863109181"
+      }
+    },
+    "lyricPath": "/lyrics/98663.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98200,
+    "metadata": {
+      "title": "Cenas Obscenas",
+      "artists": [
+        "Mc Anjim"
+      ],
+      "album": "Cenas Obscenas",
+      "releaseDate": "2024-03-01",
+      "durationMs": 171000,
+      "genres": [],
+      "isrc": "USLZJ2438180",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7b9100aa3cd4066461f41de587e0e54c/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2663320492"
+      }
+    },
+    "lyricPath": "/lyrics/98200.txt"
+  }
+]

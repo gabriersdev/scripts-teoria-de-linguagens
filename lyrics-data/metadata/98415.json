@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98415,
+    "metadata": {
+      "title": "Me Chama (feat. Os Ronaldos)",
+      "artists": [
+        "Lobão",
+        "Os Ronaldos"
+      ],
+      "album": "Acústico MTV",
+      "releaseDate": "2007-03",
+      "durationMs": 219000,
+      "genres": [
+        "rock roll"
+      ],
+      "isrc": "BRSME0700093",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/174b7df2a3dd92975c4c3ae0e2865d49/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6ce1554e-6f9c-448c-88a0-3aa5e7363d20",
+        "deezer": "https://www.deezer.com/track/65440242"
+      }
+    },
+    "lyricPath": "/lyrics/98415.txt"
+  }
+]

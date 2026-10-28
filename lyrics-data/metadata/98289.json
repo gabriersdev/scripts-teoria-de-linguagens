@@ -1,0 +1,27 @@
+[
+  {
+    "id": 98289,
+    "metadata": {
+      "title": "LEAL",
+      "artists": [
+        "Djonga",
+        "Coyote Beatz",
+        "Rapaz do Dread"
+      ],
+      "album": "Ladrão",
+      "releaseDate": "2019-03-13",
+      "durationMs": 212000,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRE2Y1900003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cc/c3/54/ccc35499-6606-4ba5-eb29-e0217e02b293/195081702940.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e1d35c13-5cb7-4ddb-b315-af9b0dd0b1c5",
+        "itunes": "https://music.apple.com/us/album/leal-instrumental/1515791065?i=1515792288&uo=4",
+        "deezer": "https://www.deezer.com/track/3251643991"
+      }
+    },
+    "lyricPath": "/lyrics/98289.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98580,
+    "metadata": {
+      "title": "Joelho",
+      "artists": [
+        "Mamonas Assassinas"
+      ],
+      "album": "Mamonas Assassinas: Money que é good nóis num have",
+      "releaseDate": "2025-10-01",
+      "durationMs": 145000,
+      "genres": [],
+      "isrc": "BREMI9800162",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1124461abb10d4e11123ab650eda7082/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3570043011"
+      }
+    },
+    "lyricPath": "/lyrics/98580.txt"
+  }
+]

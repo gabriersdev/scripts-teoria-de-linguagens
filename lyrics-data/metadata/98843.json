@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98843,
+    "metadata": {
+      "title": "Raluc4",
+      "artists": [
+        "Ark King",
+        "NIKK",
+        "ohayomatsu"
+      ],
+      "album": "Lobelia's Garden",
+      "releaseDate": "2024-04-26",
+      "durationMs": 75000,
+      "genres": [],
+      "isrc": "GBWUL2489071",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/257d53ae218bc10c1a49d682f574ce8f/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2761818281"
+      }
+    },
+    "lyricPath": "/lyrics/98843.txt"
+  }
+]

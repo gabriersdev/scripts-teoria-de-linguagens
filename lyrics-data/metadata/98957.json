@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98957,
+    "metadata": {
+      "title": "Lace",
+      "artists": [
+        "Cashley",
+        "Tasha & Tracie"
+      ],
+      "album": "Subestimada",
+      "releaseDate": "2025-10-14",
+      "durationMs": 224000,
+      "genres": [],
+      "isrc": "QZZ8A2588061",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7e9f52d249795dab136758c4f40ef0eb/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3602011932"
+      }
+    },
+    "lyricPath": "/lyrics/98957.txt"
+  }
+]

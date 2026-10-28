@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98569,
+    "metadata": {
+      "title": "Eu Gosto de Mulher - Ao Vivo",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "Acústico MTV",
+      "releaseDate": "2005-09-19T07:00:00Z",
+      "durationMs": 262587,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP0500363",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/15/c4/9f15c409-dc83-6022-a6bf-d82976207fd9/7898324301889.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/eu-gosto-de-mulher/977474314?i=977474494&uo=4",
+        "deezer": "https://www.deezer.com/track/96168090"
+      }
+    },
+    "lyricPath": "/lyrics/98569.txt"
+  }
+]

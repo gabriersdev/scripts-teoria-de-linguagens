@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98935,
+    "metadata": {
+      "title": "É Sal",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "Máquina do Tempo",
+      "releaseDate": "2020-09-10",
+      "durationMs": 147000,
+      "genres": [],
+      "isrc": "BXW922000004",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9ad06bcb9f0bfe52bbd5e6ff464e4ca4/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1049882342"
+      }
+    },
+    "lyricPath": "/lyrics/98935.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99025,
+    "metadata": {
+      "title": "I Just Wanna Go",
+      "artists": [
+        "Derek",
+        "CLY G"
+      ],
+      "album": "ARꓘANO",
+      "releaseDate": "2026-04-06",
+      "durationMs": 264000,
+      "genres": [],
+      "isrc": "BKNIU2600006",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0cabedcb58dbe273c16f4cb01fcc0fba/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4039363891"
+      }
+    },
+    "lyricPath": "/lyrics/99025.txt"
+  }
+]

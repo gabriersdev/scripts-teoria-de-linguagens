@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98804,
+    "metadata": {
+      "title": "OS MELHORES",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "XTRANHO",
+      "releaseDate": "2025-12-10",
+      "durationMs": 155000,
+      "genres": [],
+      "isrc": "BXW922500125",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c9b023c07f75e26f5998c8eeddb39fcb/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/eccadb3a-f08c-4ba2-a65f-db233fbba2e8",
+        "deezer": "https://www.deezer.com/track/3700579872"
+      }
+    },
+    "lyricPath": "/lyrics/98804.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98302,
+    "metadata": {
+      "title": "Rap É Compromisso",
+      "artists": [
+        "Sabotage"
+      ],
+      "album": "Rap É Compromisso",
+      "releaseDate": "2001",
+      "durationMs": 261000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1455255",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/ea/09/bbea09b3-1cae-5bd6-39c1-13046493ceca/702730616994_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/89211433-7174-4fb0-a8e8-1039b9fd20c0",
+        "itunes": "https://music.apple.com/us/album/rap-%C3%A9-compromisso-instrumental/1510761195?i=1510761279&uo=4",
+        "deezer": "https://www.deezer.com/track/945986032"
+      }
+    },
+    "lyricPath": "/lyrics/98302.txt"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98345,
+    "metadata": {
+      "title": "De Novo",
+      "artists": [
+        "Xamã",
+        "Bagua Records",
+        "Neo Beats"
+      ],
+      "album": "Regina",
+      "releaseDate": "2017-07-27",
+      "durationMs": 171000,
+      "genres": [],
+      "isrc": "QZ5AB1710187",
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9094f385-a959-4e62-9e69-6de237c6d388"
+      }
+    },
+    "lyricPath": "/lyrics/98345.txt"
+  }
+]

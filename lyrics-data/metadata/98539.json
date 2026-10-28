@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98539,
+    "metadata": {
+      "title": "Eu Não Sou Um Bom Lugar",
+      "artists": [
+        "Titãs"
+      ],
+      "album": "Grandes Sucessos (Seleção Essencial)",
+      "releaseDate": "2010",
+      "durationMs": 164840,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRBMG0300722",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/97/8e/50/978e50e6-1538-7307-393f-8829956c3502/mzm.tzroyhhg.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/440b80a6-6c77-4892-b11e-a762b1227a48",
+        "itunes": "https://music.apple.com/us/album/eu-n%C3%A3o-sou-um-bom-lugar/1054522062?i=1054522068&uo=4",
+        "deezer": "https://www.deezer.com/track/128441325"
+      }
+    },
+    "lyricPath": "/lyrics/98539.txt"
+  }
+]

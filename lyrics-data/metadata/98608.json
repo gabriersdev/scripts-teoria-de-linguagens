@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98608,
+    "metadata": {
+      "title": "Trocaria Tudo",
+      "artists": [
+        "Marcos & Fernando"
+      ],
+      "album": "Ao Vivo",
+      "releaseDate": "2015",
+      "durationMs": 192000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWKW1500052",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/6b/1a/7a6b1a1e-9c91-a3f8-e8a5-9d2a399bf65d/mzm.joeucvks.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/864bbe29-6bfd-4bdd-82a9-0fad6dc6ae40",
+        "itunes": "https://music.apple.com/us/album/trocaria-tudo-feat-henrique-juliano-ao-vivo/1056248538?i=1056248558&uo=4",
+        "deezer": "https://www.deezer.com/track/111849700"
+      }
+    },
+    "lyricPath": "/lyrics/98608.txt"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98017,
+    "metadata": {
+      "title": "MTG Pra Ficar Legal",
+      "artists": [
+        "DJ JZ",
+        "Mc Fael Halls",
+        "Mc Menor Thalis"
+      ],
+      "album": "MTG Pra Ficar Legal",
+      "releaseDate": "2024-06-21",
+      "durationMs": 141000,
+      "genres": [],
+      "isrc": "QZWDD2485052",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/25eba1fcedbd4bc1542b12e3d18f64da/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2851473082"
+      }
+    },
+    "lyricPath": "/lyrics/98017.txt"
+  }
+]

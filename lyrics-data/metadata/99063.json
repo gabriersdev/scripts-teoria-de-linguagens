@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99063,
+    "metadata": {
+      "title": "Joias da Família",
+      "artists": [
+        "YUNG LIXO"
+      ],
+      "album": "13 Lentes de um Final Feliz",
+      "releaseDate": "2024-12-20",
+      "durationMs": 248360,
+      "genres": [],
+      "isrc": "QZZ7X2403689",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/a01cc5f5bbb09711637d4927e9ab83cd/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/920e298f-6f66-49af-914c-e6c29336e33e",
+        "deezer": "https://www.deezer.com/track/3144563981"
+      }
+    },
+    "lyricPath": "/lyrics/99063.txt"
+  }
+]

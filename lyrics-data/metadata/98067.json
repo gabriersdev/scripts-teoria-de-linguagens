@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98067,
+    "metadata": {
+      "title": "Esse Cupido Não Me Ajuda",
+      "artists": [
+        "Dexhenry",
+        "DJ QUIRINO",
+        "Yuri Redicopa",
+        "Ascending"
+      ],
+      "album": "Esse Cupido Não Me Ajuda",
+      "releaseDate": "2025-11-24",
+      "durationMs": 124000,
+      "genres": [],
+      "isrc": "GXBAV2607196",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/49cb1e98e1c3dc80bfb3cd8515816366/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3674606252"
+      }
+    },
+    "lyricPath": "/lyrics/98067.txt"
+  }
+]

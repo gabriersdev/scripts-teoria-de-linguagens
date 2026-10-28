@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98221,
+    "metadata": {
+      "title": "Dum Dum",
+      "artists": [
+        "Rincon Sapiência"
+      ],
+      "album": "Um Corpo Preto",
+      "releaseDate": "2026-06-30",
+      "durationMs": 176470,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "QMBZ92636998",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ef/e9/a1efe95f-d30e-5dff-3931-7f56e8e357e1/820233793223.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5861cf56-2675-450b-8c67-e451aea6b12f",
+        "itunes": "https://music.apple.com/us/album/dum-dum/6781384423?i=6781384891&uo=4",
+        "deezer": "https://www.deezer.com/track/4094456061"
+      }
+    },
+    "lyricPath": "/lyrics/98221.txt"
+  }
+]

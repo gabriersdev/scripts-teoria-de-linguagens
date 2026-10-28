@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98553,
+    "metadata": {
+      "title": "Nós Vamos Invadir Sua Praia",
+      "artists": [
+        "Ultraje a Rigor"
+      ],
+      "album": "Acústico MTV",
+      "releaseDate": "2005",
+      "durationMs": 315026,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/68ebd0de-d4d8-4570-842a-15a2aed6a217"
+      }
+    },
+    "lyricPath": "/lyrics/98553.txt"
+  }
+]

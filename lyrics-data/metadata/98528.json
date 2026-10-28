@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98528,
+    "metadata": {
+      "title": "Enquanto Houver Sol",
+      "artists": [
+        "Titãs"
+      ],
+      "album": "MTV ao vivo",
+      "releaseDate": "2005-08-12",
+      "durationMs": 171000,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRBMG0300729",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/02/07/5f/02075ff9-5d6c-2c3a-02ef-fa907fdae486/888880313645.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9381b5a1-6831-4e21-9c13-3640abbd41b4",
+        "itunes": "https://music.apple.com/us/album/enquanto-houver-sol/1133727190?i=1133727498&uo=4",
+        "deezer": "https://www.deezer.com/track/128441329"
+      }
+    },
+    "lyricPath": "/lyrics/98528.txt"
+  }
+]

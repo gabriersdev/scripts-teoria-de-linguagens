@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98443,
+    "metadata": {
+      "title": "Pânico em S.P.",
+      "artists": [
+        "Inocentes"
+      ],
+      "album": "20 anos de Rock Brasil, Volume 3 & 4",
+      "releaseDate": "2003",
+      "durationMs": 215189,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/acde4bea-4785-4db9-9656-2aa99ffeeefa"
+      }
+    },
+    "lyricPath": "/lyrics/98443.txt"
+  }
+]

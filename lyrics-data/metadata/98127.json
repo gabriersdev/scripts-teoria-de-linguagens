@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98127,
+    "metadata": {
+      "title": "Vai Toma",
+      "artists": [
+        "Mc Pikachu",
+        "MC Fioti",
+        "Novo Império"
+      ],
+      "album": "Vai Toma - Single",
+      "releaseDate": "2016-11-16T12:00:00Z",
+      "durationMs": 200504,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "QZ5AB1633792",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c0/d2/63/c0d263ff-7d91-b74b-aea6-2df96bf58372/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/vai-toma/1177546754?i=1177546767&uo=4",
+        "deezer": "https://www.deezer.com/track/136464272"
+      }
+    },
+    "lyricPath": "/lyrics/98127.txt"
+  }
+]

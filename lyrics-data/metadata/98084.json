@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98084,
+    "metadata": {
+      "title": "THAINÁ THAINÁ",
+      "artists": [
+        "MC Nito",
+        "MT DO PALACIO"
+      ],
+      "album": "THAINÁ THAINÁ (REMIX) - Single",
+      "releaseDate": "2026-08-21T12:00:00Z",
+      "durationMs": 124286,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/ac/d2/83acd247-b4a7-2e3f-67f6-dc8d1f468ce6/8721554169310.png/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/thain%C3%A1-thain%C3%A1-remix/6799246087?i=6799246088&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98084.txt"
+  }
+]

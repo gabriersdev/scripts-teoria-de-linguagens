@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98409,
+    "metadata": {
+      "title": "Viagem (Radio Edit)",
+      "artists": [
+        "David Ballot"
+      ],
+      "album": "Viagem (Radio Edit) - Single",
+      "releaseDate": "2018-06-05T12:00:00Z",
+      "durationMs": 185233,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "AEA0Q1878773",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ad/3b/72/ad3b72cd-ad51-cb84-878d-a5c2d2a4b21e/cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/viagem-radio-edit/1405875485?i=1405875731&uo=4",
+        "deezer": "https://www.deezer.com/track/510190192"
+      }
+    },
+    "lyricPath": "/lyrics/98409.txt"
+  }
+]

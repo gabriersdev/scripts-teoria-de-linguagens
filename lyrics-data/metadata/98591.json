@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98591,
+    "metadata": {
+      "title": "Gil Goma",
+      "artists": [
+        "Ratos De Porão"
+      ],
+      "album": "Brasil / Anarkophobia",
+      "releaseDate": "1999",
+      "durationMs": 43840,
+      "genres": [],
+      "isrc": "BRELD0500197",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3728662d4464d8c0d1e6790a4de046f1/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a3a57a73-0789-44c4-b157-d9f8533babae",
+        "deezer": "https://www.deezer.com/track/111007774"
+      }
+    },
+    "lyricPath": "/lyrics/98591.txt"
+  }
+]

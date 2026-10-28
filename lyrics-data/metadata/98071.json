@@ -1,0 +1,28 @@
+[
+  {
+    "id": 98071,
+    "metadata": {
+      "title": "Calafrio",
+      "artists": [
+        "DJ KN DE VILA VELHA",
+        "DJ Arana",
+        "MC Ryan SP",
+        "Vulgo FK",
+        "TDK Rec",
+        "MC Jvila"
+      ],
+      "album": "MONTAGEM CALAFRIO MR LONELY - Single",
+      "releaseDate": "2026-04-25T12:00:00Z",
+      "durationMs": 142577,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/1f/7a/191f7a65-be1a-8bbf-252b-ac77edfbdaa7/2958598.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/montagem-calafrio-mr-lonely/1895419466?i=6763653992&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98071.txt"
+  }
+]

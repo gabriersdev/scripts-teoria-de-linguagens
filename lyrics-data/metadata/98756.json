@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98756,
+    "metadata": {
+      "title": "Infarto",
+      "artists": [
+        "Diego & Victor Hugo"
+      ],
+      "album": "Ao vivo em Brasília",
+      "releaseDate": "2019-07-12",
+      "durationMs": 166000,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRSME1802268",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bc/3c/24/bc3c2422-5671-5a39-4051-53d005590c07/886447524787.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8bf5b97c-6e98-4fb2-8a33-49295c602d1d",
+        "itunes": "https://music.apple.com/us/album/infarto-ao-vivo-em-bras%C3%ADlia/1470102696?i=1470102698&uo=4",
+        "deezer": "https://www.deezer.com/track/574608772"
+      }
+    },
+    "lyricPath": "/lyrics/98756.txt"
+  }
+]

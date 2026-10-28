@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98976,
+    "metadata": {
+      "title": "Sem Sentimento",
+      "artists": [
+        "Vulgo FK",
+        "DU'L",
+        "MC GP",
+        "Pedro Lotto",
+        "Toledo",
+        "Galdino"
+      ],
+      "album": "Sem Sentimento",
+      "releaseDate": "2025-04-03",
+      "durationMs": 132000,
+      "genres": [],
+      "isrc": "BRRGE2500206",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/2498145cf8ca17ff600a3f888ac46043/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3293510931"
+      }
+    },
+    "lyricPath": "/lyrics/98976.txt"
+  }
+]

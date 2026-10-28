@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98233,
+    "metadata": {
+      "title": "War",
+      "artists": [
+        "Filipe Ret",
+        "Dallass"
+      ],
+      "album": "FRXV (Ao Vivo)",
+      "releaseDate": "2023-12-15",
+      "durationMs": 153093,
+      "genres": [],
+      "isrc": "BRRGE2101319",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/dfc53733c6052b14e79ed7e3c9a0ff3c/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bfd92b41-e5d7-4f60-a8fb-ba4c9466f209",
+        "deezer": "https://www.deezer.com/track/1270057472"
+      }
+    },
+    "lyricPath": "/lyrics/98233.txt"
+  }
+]

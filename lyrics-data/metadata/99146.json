@@ -1,0 +1,27 @@
+[
+  {
+    "id": 99146,
+    "metadata": {
+      "title": "Lenda",
+      "artists": [
+        "Borges",
+        "Filipe Ret",
+        "TkN",
+        "Mindu"
+      ],
+      "album": "Amor e ódio",
+      "releaseDate": "2025-08-15T12:00:00Z",
+      "durationMs": 207722,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/d5/6c/dbd56c26-8a91-eb5a-cae2-82440a17d6d2/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c44f1f15-f0b5-49d7-9c6f-2249d4c15d29",
+        "itunes": "https://music.apple.com/us/album/perdoa-lendas-e-mist%C3%A9rios-ac%C3%BAstico/1831141195?i=1831141200&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/99146.txt"
+  }
+]

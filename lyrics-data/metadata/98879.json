@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98879,
+    "metadata": {
+      "title": "BEM-VINDO AO HARDMODE (INTRO)",
+      "artists": [
+        "Lil Chainz"
+      ],
+      "album": "HARDMODE",
+      "releaseDate": "2024-05-30",
+      "durationMs": 81000,
+      "genres": [],
+      "isrc": "BC2GV2400019",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cdf4b8aa26818c96b2bd4406e8173f69/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2811575232"
+      }
+    },
+    "lyricPath": "/lyrics/98879.txt"
+  }
+]

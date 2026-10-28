@@ -1,0 +1,27 @@
+[
+  {
+    "id": 98038,
+    "metadata": {
+      "title": "Menor Neurose",
+      "artists": [
+        "DJ Gu",
+        "MC Joãozinho VT",
+        "MC Tuto",
+        "MC Marks",
+        "MC Vine7",
+        "Mc Dkziin",
+        "MC Jottak"
+      ],
+      "album": "Menor Neurose",
+      "releaseDate": "2026-04-24",
+      "durationMs": 324000,
+      "genres": [],
+      "isrc": "BCSOR2600227",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/212201e6b32fc65678f7e3fde14d3083/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3980943471"
+      }
+    },
+    "lyricPath": "/lyrics/98038.txt"
+  }
+]

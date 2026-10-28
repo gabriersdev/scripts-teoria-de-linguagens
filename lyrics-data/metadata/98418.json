@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98418,
+    "metadata": {
+      "title": "O Vagabundo (Giramondo)",
+      "artists": [
+        "Os Incríveis"
+      ],
+      "album": "2 LPs em 1 CD",
+      "releaseDate": "1970-01-01T12:00:00Z",
+      "durationMs": 170000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRBMG6900091",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/13/06/c8/mzi.jzrjddqb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0186ed30-fe97-4fdd-b5d7-086950027e4d",
+        "itunes": "https://music.apple.com/us/album/o-vagabundo-giramondo/401815382?i=401815400&uo=4",
+        "deezer": "https://www.deezer.com/track/15425944"
+      }
+    },
+    "lyricPath": "/lyrics/98418.txt"
+  }
+]

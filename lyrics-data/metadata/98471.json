@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98471,
+    "metadata": {
+      "title": "Razões E Emoções",
+      "artists": [
+        "NX Zero"
+      ],
+      "album": "Norte (Ao Vivo)",
+      "releaseDate": "2017-10-27T12:00:00Z",
+      "durationMs": 245960,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/20/91/8e/20918e16-ec79-3372-f5ad-1b07a2b016b8/7898324314469.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/raz%C3%B5es-e-emo%C3%A7%C3%B5es-ao-vivo/1294931990?i=1294932264&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98471.txt"
+  }
+]

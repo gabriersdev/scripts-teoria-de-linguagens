@@ -1,0 +1,30 @@
+[
+  {
+    "id": 98232,
+    "metadata": {
+      "title": "Poetas no Topo 5",
+      "artists": [
+        "Pineapple StormTv",
+        "Oruam",
+        "Sant",
+        "Victor Xamã",
+        "NandaTsunami",
+        "LPT Zlatan",
+        "L7NNON",
+        "AR Baby",
+        "Sid",
+        "Salve Malak"
+      ],
+      "album": "Poetas No Topo - Democracia",
+      "releaseDate": "2026-10-23",
+      "durationMs": 636000,
+      "genres": [],
+      "isrc": "BX6Y62600127",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/fbbd7bb79dab411316cb558fca023190/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4366130441"
+      }
+    },
+    "lyricPath": "/lyrics/98232.txt"
+  }
+]

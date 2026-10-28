@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98292,
+    "metadata": {
+      "title": "Horas Iguais",
+      "artists": [
+        "WIU",
+        "Oruam"
+      ],
+      "album": "Horas Iguais",
+      "releaseDate": "2022-10-05",
+      "durationMs": 246942,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BXW922200024",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1a/fa/3d/1afa3de8-ae17-0c7c-c0b9-0c2f7c4d46be/196589541321.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b5cf3da1-32b4-4ff0-824e-fa788b9abc18",
+        "itunes": "https://music.apple.com/us/album/horas-iguais/1647919288?i=1647919291&uo=4",
+        "deezer": "https://www.deezer.com/track/1942010607"
+      }
+    },
+    "lyricPath": "/lyrics/98292.txt"
+  }
+]

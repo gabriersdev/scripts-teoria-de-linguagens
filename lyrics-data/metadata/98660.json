@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98660,
+    "metadata": {
+      "title": "Diz Pra Ela / Vivendo Aqui No Mato",
+      "artists": [
+        "Zé Neto & Cristiano"
+      ],
+      "album": "Magia das Estrelas",
+      "releaseDate": "2026-01-22",
+      "durationMs": 244224,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE2500291",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/60/f7/f460f7dd-09a6-bfe9-f7bd-52e563195674/196873473161.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/930984f3-cebe-4744-a0bf-59b4272f1eaf",
+        "itunes": "https://music.apple.com/us/album/diz-pra-ela-vivendo-aqui-no-mato-ao-vivo/1868035268?i=1868035289&uo=4",
+        "deezer": "https://www.deezer.com/track/3766490072"
+      }
+    },
+    "lyricPath": "/lyrics/98660.txt"
+  }
+]

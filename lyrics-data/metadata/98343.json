@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98343,
+    "metadata": {
+      "title": "Desigualdade Social",
+      "artists": [
+        "Salvador Da Rima",
+        "Murillo e LT no Beat",
+        "LUDV1C"
+      ],
+      "album": "Desigualdade Social",
+      "releaseDate": "2025-10-16",
+      "durationMs": 170000,
+      "genres": [],
+      "isrc": "QZTVM2516657",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6f5f2b457dec55988f948027825ca846/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3596797322"
+      }
+    },
+    "lyricPath": "/lyrics/98343.txt"
+  }
+]

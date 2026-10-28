@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98746,
+    "metadata": {
+      "title": "Na Hora de Amar - Ao Vivo",
+      "artists": [
+        "Gusttavo Lima"
+      ],
+      "album": "Buteco do Gusttavo Lima, Vol. 2",
+      "releaseDate": "2017-12-01T12:00:00Z",
+      "durationMs": 228853,
+      "genres": [
+        "Worldwide"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5c/d4/1a/5cd41a92-c182-553a-68f1-a2ddf3322118/196589304254.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/na-hora-de-amar-insens%C3%ADvel/1634841600?i=1634841614&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98746.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98521,
+    "metadata": {
+      "title": "Sereia da pedreira",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Rock latino pesado",
+      "releaseDate": "1995-10-03T12:00:00Z",
+      "durationMs": 108133,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRWMB9702646",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5b/0e/25/5b0e25b4-6322-40d6-9ba4-9e4c24817847/842474137574.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/sereia-da-pedreira/1483567342?i=1483567530&uo=4",
+        "deezer": "https://www.deezer.com/track/3895376"
+      }
+    },
+    "lyricPath": "/lyrics/98521.txt"
+  }
+]

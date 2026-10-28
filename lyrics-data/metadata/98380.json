@@ -1,0 +1,27 @@
+[
+  {
+    "id": 98380,
+    "metadata": {
+      "title": "Só Eu Sei",
+      "artists": [
+        "BK",
+        "Nansy Silvvz",
+        "Djavan"
+      ],
+      "album": "Diamantes, lágrimas e rostos para esquecer",
+      "releaseDate": "2025-01-28",
+      "durationMs": 220218,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BXA5K2500002",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/98/4c/13984c56-f8fc-318e-9bc4-65b925b4783b/8447053281338.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5a4da162-dc42-439f-858d-80546e98c30e",
+        "itunes": "https://music.apple.com/us/album/s%C3%B3-eu-sei/1792341554?i=1792341557&uo=4",
+        "deezer": "https://www.deezer.com/track/3280953011"
+      }
+    },
+    "lyricPath": "/lyrics/98380.txt"
+  }
+]

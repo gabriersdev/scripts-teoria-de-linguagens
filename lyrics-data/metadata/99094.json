@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99094,
+    "metadata": {
+      "title": "Velotrol",
+      "artists": [
+        "Slipmami"
+      ],
+      "album": "Até aqui, Slip nos ajudou",
+      "releaseDate": "2024-09-13",
+      "durationMs": 90000,
+      "genres": [],
+      "isrc": "QZNMV2457754",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7b56dc6e6b1dbf07c9c19de22d5a3ed9/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4c1b6c7e-d2b4-4f65-802a-9f47daf32aa2",
+        "deezer": "https://www.deezer.com/track/2981570971"
+      }
+    },
+    "lyricPath": "/lyrics/99094.txt"
+  }
+]

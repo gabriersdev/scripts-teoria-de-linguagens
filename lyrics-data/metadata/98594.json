@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98594,
+    "metadata": {
+      "title": "Heroína Suicida",
+      "artists": [
+        "Ratos De Porão"
+      ],
+      "album": "Brasil / Anarkophobia",
+      "releaseDate": "1999",
+      "durationMs": 135933,
+      "genres": [],
+      "isrc": "BRELD0500200",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3728662d4464d8c0d1e6790a4de046f1/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/01c004e1-2259-4587-9ead-cdac81f4167f",
+        "deezer": "https://www.deezer.com/track/111007780"
+      }
+    },
+    "lyricPath": "/lyrics/98594.txt"
+  }
+]

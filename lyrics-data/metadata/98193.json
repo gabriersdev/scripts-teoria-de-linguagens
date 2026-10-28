@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98193,
+    "metadata": {
+      "title": "Intimidade",
+      "artists": [
+        "MC Laranjinha"
+      ],
+      "album": "Intimidade",
+      "releaseDate": "2020-02-25",
+      "durationMs": 121000,
+      "genres": [],
+      "isrc": "QZGLM2007005",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/949ff0b1b9726878c5da8694ca8d96ac/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/883242012"
+      }
+    },
+    "lyricPath": "/lyrics/98193.txt"
+  }
+]

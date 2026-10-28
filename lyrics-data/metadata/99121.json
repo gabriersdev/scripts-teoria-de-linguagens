@@ -1,0 +1,26 @@
+[
+  {
+    "id": 99121,
+    "metadata": {
+      "title": "Jordan",
+      "artists": [
+        "Kawe",
+        "JayA Luuck",
+        "Original Quality"
+      ],
+      "album": "Jordan - Single",
+      "releaseDate": "2019-12-13T12:00:00Z",
+      "durationMs": 190154,
+      "genres": [
+        "Hip-Hop"
+      ],
+      "isrc": "QZHZ51943289",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/45/81/4d/45814d04-603b-fafd-61d9-aab692375be9/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/jordan/1489974504?i=1489974505&uo=4",
+        "deezer": "https://www.deezer.com/track/826408362"
+      }
+    },
+    "lyricPath": "/lyrics/99121.txt"
+  }
+]

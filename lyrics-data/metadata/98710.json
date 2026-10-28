@@ -1,0 +1,27 @@
+[
+  {
+    "id": 98710,
+    "metadata": {
+      "title": "Apelido Carinhoso",
+      "artists": [
+        "Gusttavo Lima"
+      ],
+      "album": "Buteco do Gusttavo Lima, Vol. 2",
+      "releaseDate": "2017-12-01",
+      "durationMs": 199701,
+      "genres": [
+        "ballad",
+        "bachata",
+        "forró"
+      ],
+      "isrc": "BXBAL1700066",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c6/38/33/c63833bd-8774-b031-6dde-b1dab7f6046c/196589688422.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7c667271-bd1e-4221-8482-dcbe38a66512",
+        "itunes": "https://music.apple.com/us/album/apelido-carinhoso/1655992795?i=1655992798&uo=4",
+        "deezer": "https://www.deezer.com/track/1826940407"
+      }
+    },
+    "lyricPath": "/lyrics/98710.txt"
+  }
+]

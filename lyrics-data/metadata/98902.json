@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98902,
+    "metadata": {
+      "title": "Orangotango",
+      "artists": [
+        "Brandão85"
+      ],
+      "album": "Zoo",
+      "releaseDate": "2022-02-17T12:00:00Z",
+      "durationMs": 159882,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BXXCT2200015",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/7b/34/c77b345a-e6de-e0cb-3ee7-dea22ab247dc/703441368431.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/orangotango/1790985604?i=1790985616&uo=4",
+        "deezer": "https://www.deezer.com/track/3189136711"
+      }
+    },
+    "lyricPath": "/lyrics/98902.txt"
+  }
+]

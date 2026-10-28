@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98777,
+    "metadata": {
+      "title": "Caso Indefinido - Ao Vivo",
+      "artists": [
+        "Cristiano Araújo"
+      ],
+      "album": "Caso Indefinido - Single",
+      "releaseDate": "2013-07-15T12:00:00Z",
+      "durationMs": 215347,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/d0/da/d6/d0dad644-94f5-a410-aa37-bd0c7c993d71/7891430320423.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/caso-indefinido/669875070?i=669875071&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98777.txt"
+  }
+]

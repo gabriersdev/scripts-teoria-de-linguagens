@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98784,
+    "metadata": {
+      "title": "Bombonzinho - Ao Vivo",
+      "artists": [
+        "Israel & Rodolffo & Ana Castela"
+      ],
+      "album": "Bombonzinho (Ao Vivo) - Single",
+      "releaseDate": "2022-11-03T12:00:00Z",
+      "durationMs": 154702,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE2200815",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/06/52/10/06521064-c44b-54ff-0ae4-befc3bd515ac/7891430724078.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/bombonzinho-ao-vivo/1651063803?i=1651063809&uo=4",
+        "deezer": "https://www.deezer.com/track/1978300657"
+      }
+    },
+    "lyricPath": "/lyrics/98784.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98540,
+    "metadata": {
+      "title": "Pra Você Ficar",
+      "artists": [
+        "Titãs"
+      ],
+      "album": "Como estão vocês?",
+      "releaseDate": "2003-11",
+      "durationMs": 178826,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRBMG0300728",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/02/07/5f/02075ff9-5d6c-2c3a-02ef-fa907fdae486/888880313645.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/15465c2f-bc3e-49ec-8ed9-f9f8d59dad49",
+        "itunes": "https://music.apple.com/us/album/pra-voc%C3%AA-ficar/1133727190?i=1133727497&uo=4",
+        "deezer": "https://www.deezer.com/track/128441327"
+      }
+    },
+    "lyricPath": "/lyrics/98540.txt"
+  }
+]

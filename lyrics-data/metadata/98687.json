@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98687,
+    "metadata": {
+      "title": "Tanto",
+      "artists": [
+        "Seu Desejo"
+      ],
+      "album": "Tanto - Single",
+      "releaseDate": "2024-08-24T12:00:00Z",
+      "durationMs": 204046,
+      "genres": [
+        "Forró"
+      ],
+      "isrc": "QZTPX2417413",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/6d/01/f36d01b4-32f0-1304-d266-c8ddbe0b7003/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/tanto/1764311009?i=1764311010&uo=4",
+        "deezer": "https://www.deezer.com/track/2963090091"
+      }
+    },
+    "lyricPath": "/lyrics/98687.txt"
+  }
+]

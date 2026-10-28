@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98775,
+    "metadata": {
+      "title": "Impressionando Os Anjos - Ao Vivo",
+      "artists": [
+        "Diego Costa"
+      ],
+      "album": "Ao Vivo em Lamarão /BA",
+      "releaseDate": "2018-08-18T12:00:00Z",
+      "durationMs": 223321,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3f/d2/a9/3fd2a942-07f1-b4ac-e130-5f4c86655b3a/5479.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/impressionando-os-anjos-ao-vivo/1516531022?i=1516531342&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98775.txt"
+  }
+]

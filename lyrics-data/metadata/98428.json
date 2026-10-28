@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98428,
+    "metadata": {
+      "title": "Sujeito De Sorte",
+      "artists": [
+        "Belchior"
+      ],
+      "album": "Sem limite",
+      "releaseDate": "2006-07-20",
+      "durationMs": 194400,
+      "genres": [],
+      "isrc": "BRMCA7600027",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cbcabc9113f7d73d3ade193de92b2710/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a29d308d-a1b2-467f-a1ef-b8a22964b2bf",
+        "deezer": "https://www.deezer.com/track/4685338"
+      }
+    },
+    "lyricPath": "/lyrics/98428.txt"
+  }
+]

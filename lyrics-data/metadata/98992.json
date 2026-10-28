@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98992,
+    "metadata": {
+      "title": "FLORES 💐",
+      "artists": [
+        "KayBlack",
+        "Vulgo FK",
+        "Murillo e LT no Beat"
+      ],
+      "album": "FKAY",
+      "releaseDate": "2025-11-25T08:00:00Z",
+      "durationMs": 161280,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRWMB2501575",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/ac/68/1dac68f4-a8b0-220d-f63a-c6a6406bbb34/5026854256771.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/flores/1854266112?i=1854266357&uo=4",
+        "deezer": "https://www.deezer.com/track/3666882682"
+      }
+    },
+    "lyricPath": "/lyrics/98992.txt"
+  }
+]

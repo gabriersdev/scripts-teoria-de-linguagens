@@ -1,0 +1,23 @@
+[
+  {
+    "id": 99147,
+    "metadata": {
+      "title": "Nois é Nois",
+      "artists": [
+        "Veigh",
+        "Supernova Ent"
+      ],
+      "album": "Nois é Nois",
+      "releaseDate": "2024-03-15",
+      "durationMs": 120000,
+      "genres": [],
+      "isrc": "BKSUV2300001",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9e406aa945fbaf43376287cdb15840c4/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ff661c7b-2a7c-4180-ae81-d3d8410656fc",
+        "deezer": "https://www.deezer.com/track/2685503862"
+      }
+    },
+    "lyricPath": "/lyrics/99147.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99029,
+    "metadata": {
+      "title": "pela família",
+      "artists": [
+        "Dfideliz"
+      ],
+      "album": "pela família",
+      "releaseDate": "2026-04-09",
+      "durationMs": 118000,
+      "genres": [],
+      "isrc": "GBRKQ2612748",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1e0c2c41c27f42dafac3bc31f17dcdb6/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3945586261"
+      }
+    },
+    "lyricPath": "/lyrics/99029.txt"
+  }
+]

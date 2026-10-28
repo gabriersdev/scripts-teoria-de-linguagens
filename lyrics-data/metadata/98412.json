@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98412,
+    "metadata": {
+      "title": "Mulher de fases",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Luau MTV",
+      "releaseDate": "2000",
+      "durationMs": 206000,
+      "genres": [],
+      "isrc": "BRWMB9900522",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/40e6006f623d923560013aef1ab2df7b/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/78f9f4de-082c-4fda-8d2f-4ad9ee6c31bc",
+        "deezer": "https://www.deezer.com/track/761220"
+      }
+    },
+    "lyricPath": "/lyrics/98412.txt"
+  }
+]
