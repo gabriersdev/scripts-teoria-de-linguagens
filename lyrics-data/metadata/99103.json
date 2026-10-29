@@ -2,18 +2,19 @@
   {
     "id": 99103,
     "metadata": {
-      "title": "Capa de Revista",
+      "title": "Dias Difíceis, Pt. 2",
       "artists": [
-        "jonaveliz"
+        "Duzz",
+        "Ecologyk"
       ],
-      "album": "Capa de Revista",
-      "releaseDate": "2021-11-11",
-      "durationMs": 143000,
+      "album": "offduzz, vol. 2",
+      "releaseDate": "2023-12-21",
+      "durationMs": 126000,
       "genres": [],
-      "isrc": "QZNJX2141654",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/701f138958de4aa338d59fb10d1fb2b7/1000x1000-000000-80-0-0.jpg",
+      "isrc": "QZW9M2319588",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3159cc3ed77943e651149c756c8f2130/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/1518383742"
+        "deezer": "https://www.deezer.com/track/2589999312"
       }
     },
     "lyricPath": "/lyrics/99103.txt"

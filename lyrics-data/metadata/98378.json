@@ -2,23 +2,23 @@
   {
     "id": 98378,
     "metadata": {
-      "title": "Mais uma Semana",
+      "title": "ATÍPICO",
       "artists": [
-        "Tangi",
-        "Pelé MilFlows",
-        "Neo Beats",
-        "inBlack",
-        "Tio Thulio",
-        "CP no Beat"
+        "Djonga",
+        "Coyote Beatz"
       ],
-      "album": "Mais uma Semana",
-      "releaseDate": "2025-10-03",
-      "durationMs": 135000,
-      "genres": [],
-      "isrc": "QZNJZ2559681",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1647f478a1d4041d5724fe52a7fd4e72/1000x1000-000000-80-0-0.jpg",
+      "album": "O Menino Que Queria Ser Deus",
+      "releaseDate": "2018",
+      "durationMs": 199952,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRE2Y1800001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/dd/a7/e0dda733-6d25-df3c-08e1-60a884dbad7b/8445162063326.jpg/1000x1000bb.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3532626231"
+        "musicbrainz": "https://musicbrainz.org/recording/90888f0e-45e6-4470-afa5-022f57f90e96",
+        "itunes": "https://music.apple.com/us/album/at%C3%ADpico-feat-coyote-beatz/1506095456?i=1506095460&uo=4",
+        "deezer": "https://www.deezer.com/track/3251546871"
       }
     },
     "lyricPath": "/lyrics/98378.txt"

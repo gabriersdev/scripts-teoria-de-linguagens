@@ -2,24 +2,23 @@
   {
     "id": 98377,
     "metadata": {
-      "title": "Muleque Zika",
+      "title": "Agradecer",
       "artists": [
-        "Tropa do Bruxo",
-        "Branco R.P.3",
-        "Dexter",
-        "DJ Chernobyl",
-        "CP no Beat",
-        "RIC MUSIC",
-        "Analogic"
+        "Costa Gold",
+        "Amanjé Sound System"
       ],
-      "album": "Bruxaria 051",
-      "releaseDate": "2025-10-17",
-      "durationMs": 209000,
-      "genres": [],
-      "isrc": "QZZ8B2517997",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8502b1d014f424621b743d93d33458e5/1000x1000-000000-80-0-0.jpg",
+      "album": "Posfácio",
+      "releaseDate": "2014-11-20",
+      "durationMs": 245000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1579780",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/fc/b87bfcc5-33fa-6f68-bc7f-ac8eb8cb1693/646809667718.png/1000x1000bb.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3595016982"
+        "musicbrainz": "https://musicbrainz.org/recording/d40c59df-3c73-4fa8-802b-3a6e5e6c239f",
+        "itunes": "https://music.apple.com/us/album/agradecer-feat-amanj%C3%A9-sound-system/1832639302?i=1832639317&uo=4",
+        "deezer": "https://www.deezer.com/track/3491740211"
       }
     },
     "lyricPath": "/lyrics/98377.txt"

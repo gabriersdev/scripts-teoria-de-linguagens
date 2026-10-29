@@ -2,18 +2,22 @@
   {
     "id": 98223,
     "metadata": {
-      "title": "Estrela Cadente",
+      "title": "Lisergia",
       "artists": [
-        "Tz da Coronel"
+        "Costa Gold"
       ],
-      "album": "Estrela Cadente",
-      "releaseDate": "2026-05-12",
-      "durationMs": 162000,
-      "genres": [],
-      "isrc": "BC2TS2600001",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/eccaf40c95cfda785d50a19ff826e4a2/1000x1000-000000-80-0-0.jpg",
+      "album": "Posfácio",
+      "releaseDate": "2014-11-20",
+      "durationMs": 196000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1579775",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/fc/b87bfcc5-33fa-6f68-bc7f-ac8eb8cb1693/646809667718.png/1000x1000bb.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3990256141"
+        "musicbrainz": "https://musicbrainz.org/recording/c0f4713f-b681-4cf9-b3c5-9e605ad0417f",
+        "itunes": "https://music.apple.com/us/album/lisergia/1832639302?i=1832639312&uo=4",
+        "deezer": "https://www.deezer.com/track/3491740161"
       }
     },
     "lyricPath": "/lyrics/98223.txt"

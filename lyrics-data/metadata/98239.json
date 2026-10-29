@@ -2,27 +2,20 @@
   {
     "id": 98239,
     "metadata": {
-      "title": "Gangstar",
+      "title": "ULTIMA CHANCE",
       "artists": [
-        "Oruam",
-        "Chefin",
-        "Salvador Da Rima",
-        "Real Fuba",
-        "Elow",
-        "Kabeh",
-        "Vertigo",
-        "NovaChance"
+        "WillsBife",
+        "Victor Xamã",
+        "O.R"
       ],
-      "album": "Gangstar (feat. Eu Oruam) - Single",
-      "releaseDate": "2026-02-02T12:00:00Z",
-      "durationMs": 193306,
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/56/14/f55614b2-a28d-7a3e-f770-09a004f4e73f/cover.jpg/1000x1000bb.jpg",
+      "album": "ULTIMA CHANCE",
+      "releaseDate": "2020-01-30",
+      "durationMs": 181000,
+      "genres": [],
+      "isrc": "BXWMU2000011",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/09daf5fffda1a56b3e46c43ac6d40a4f/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/gangstar-feat-eu-oruam/1877594881?i=1877595152&uo=4"
+        "deezer": "https://www.deezer.com/track/3258385871"
       }
     },
     "lyricPath": "/lyrics/98239.txt"

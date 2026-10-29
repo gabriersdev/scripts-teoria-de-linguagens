@@ -2,23 +2,24 @@
   {
     "id": 98385,
     "metadata": {
-      "title": "Piratas Do Universo",
+      "title": "UFA",
       "artists": [
-        "Dom R",
-        "Scott Storch",
-        "CP no Beat",
-        "Malto"
+        "Djonga",
+        "Coyote Beatz",
+        "Sidoka",
+        "Sant"
       ],
-      "album": "OVNIS",
-      "releaseDate": "2025-05-23T12:00:00Z",
-      "durationMs": 188800,
+      "album": "O MENINO QUE QUERIA SER DEUS (feat. Coyote Beatz)",
+      "releaseDate": "2018-03-16T12:00:00Z",
+      "durationMs": 351979,
       "genres": [
-        "Hip-Hop/Rap"
+        "Rap"
       ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/7f/fd/4b7ffd73-72c4-75e0-bb05-51d2c0480bf4/199257301029_cover.jpg/1000x1000bb.jpg",
+      "isrc": "BRE2Y1800003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/dd/a7/e0dda733-6d25-df3c-08e1-60a884dbad7b/8445162063326.jpg/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/piratas-do-universo-feat-malto/1806372226?i=1806372440&uo=4"
+        "itunes": "https://music.apple.com/us/album/ufa-feat-sidoka-sant-coyote-beatz/1506095456?i=1506095465&uo=4",
+        "deezer": "https://www.deezer.com/track/3251546891"
       }
     },
     "lyricPath": "/lyrics/98385.txt"

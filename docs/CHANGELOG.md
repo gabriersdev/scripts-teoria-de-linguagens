@@ -6,11 +6,14 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 
 ### Adicionado
 - Assistente interativo `scripts/track-slot-filler.ts`:
-  - Seleção de gênero via argumento de CLI ou menu interativo, exibindo o número de vagas pendentes ("Substituir faixa #{ID}") em cada lista.
+  - Seleção de gênero via argumento de CLI ou menu interativo, com suporte a filtros de escopo (`--placeholders`, `--partial`, `--incomplete` ou padrão todos).
+  - Expansão de elegibilidade: além das vagas reservadas ("Substituir faixa #{ID}"), permite substituir faixas incompletas (`complete: false`) e parciais (`complete: 1 - sem letra`).
+  - Remoção automática de arquivos físicos obsoletos (`/lyrics-data/metadata/{id}.json` e `/lyrics-data/lyrics/{id}.txt`) ao confirmar a substituição.
   - Consumo direto de faixas via URLs de álbuns e playlists do Spotify (`lib/spotify-api-client.ts`), eliminando a necessidade de digitação manual de títulos e artistas.
   - Trava anti-duplicata automática: faixas da playlist/álbum que já existirem no corpus são filtradas e ignoradas.
   - Consulta prévia em memória de metadados técnicos (MusicBrainz, iTunes, Deezer) e letras musicais (LRCLIB, Genius, lyrics.ovh) sem geração de arquivos físicos em disco.
-  - Salvamento a quente no arquivo JSON de `/lyrics-list` com confirmação do usuário (`complete: false`) e inclusão da URL no atributo `source`.
+  - Gravação física imediata: ao confirmar a substituição, salva diretamente os arquivos definitivos de metadados (`/lyrics-data/metadata/{id}.json`) e letra (`/lyrics-data/lyrics/{id}.txt`), sincronizando o status de completude (`true` para letra presente, `1` para apenas metadados ou `false` para pendente).
+  - Salvamento a quente no arquivo JSON de `/lyrics-list` com confirmação do usuário e inclusão da URL no atributo `source`.
 - Script auditor e corretor `scripts/duplicate-verifier.ts`:
   - Detecção de colisões de identificador (mesmo `id` atribuído a faixas distintas em listas diferentes).
   - Identificação de faixas duplicadas no mesmo gênero e faixas duplicadas em múltiplos gêneros com base em título limpo e artista primário sanitizados.
@@ -19,6 +22,8 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
   - Saída limpa e estruturada no terminal via `console.info` e `console.warn` sem caracteres decorativos desnecessários.
 
 ### Modificado
+- `scripts/lyrics-service.ts`:
+  - Implementação de fallback para o endpoint público de busca do Genius (`https://genius.com/api/search/multi`) ativado automaticamente caso a API autenticada retorne erro ou atinja o rate limit (HTTP 429), permitindo localizar letras mesmo quando a chave de demonstração estiver esgotada.
 - `package.json`:
   - Adição de `tsx` nas `devDependencies`.
   - Mapeamento completo de comandos npm (`scripts`) para os serviços de auditoria, extração, verificação de duplicatas, preenchimento de slots e consultas pontuais.

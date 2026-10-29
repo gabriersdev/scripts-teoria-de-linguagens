@@ -2,24 +2,24 @@
   {
     "id": 99041,
     "metadata": {
-      "title": "Relíkia do Malucão",
+      "title": "Avisa Minha Mãe",
       "artists": [
-        "PAVUNA",
-        "Pedrin",
-        "Js da Torre",
-        "Bebeto",
-        "Renanzin",
-        "JREI",
-        "Marquin"
+        "Borges",
+        "WIU",
+        "TkN",
+        "Kizzy",
+        "Galdino",
+        "Pugli"
       ],
-      "album": "Os Capetinhas da Pavuna",
-      "releaseDate": "2026-03-30",
-      "durationMs": 263000,
+      "album": "Amor e ódio",
+      "releaseDate": "2023-09-12",
+      "durationMs": 195000,
       "genres": [],
-      "isrc": "QZ5AB2688649",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/db4288f2a606c667c8087304330ce100/1000x1000-000000-80-0-0.jpg",
+      "isrc": "BCM9A2300081",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9c33b64ff8a0eda6f603b9c24d34a613/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3909282391"
+        "musicbrainz": "https://musicbrainz.org/recording/5fde1990-1746-4490-b450-ae033d31e97e",
+        "deezer": "https://www.deezer.com/track/2442459755"
       }
     },
     "lyricPath": "/lyrics/99041.txt"

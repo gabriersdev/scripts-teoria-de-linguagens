@@ -2,21 +2,22 @@
   {
     "id": 98208,
     "metadata": {
-      "title": "Quem é você?",
+      "title": "Parasitas",
       "artists": [
-        "Akashi Cruz"
+        "Costa Gold"
       ],
-      "album": "Quem é você? - Single",
-      "releaseDate": "2026-02-09T12:00:00Z",
-      "durationMs": 122049,
+      "album": "Posfácio",
+      "releaseDate": "2014-11-20",
+      "durationMs": 192000,
       "genres": [
-        "Rap"
+        "Hip-Hop/Rap"
       ],
-      "isrc": "BC2GV2600005",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/ff/04/73ff0452-d8ca-4c02-01ff-a95c24ae0c35/196874062760.jpg/1000x1000bb.jpg",
+      "isrc": "US7VG1579770",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/fc/b87bfcc5-33fa-6f68-bc7f-ac8eb8cb1693/646809667718.png/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/quem-%C3%A9-voc%C3%AA/1874069031?i=1874069032&uo=4",
-        "deezer": "https://www.deezer.com/track/3818630421"
+        "musicbrainz": "https://musicbrainz.org/recording/3dbeb461-b098-4d4e-a706-e7d41ea27c31",
+        "itunes": "https://music.apple.com/us/album/parasitas/1832639302?i=1832639307&uo=4",
+        "deezer": "https://www.deezer.com/track/3491740111"
       }
     },
     "lyricPath": "/lyrics/98208.txt"

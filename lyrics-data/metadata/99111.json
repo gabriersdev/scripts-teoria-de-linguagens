@@ -2,21 +2,20 @@
   {
     "id": 99111,
     "metadata": {
-      "title": "Causando Acidente",
+      "title": "ClubHouse",
       "artists": [
-        "jonaveliz"
+        "Duzz",
+        "OkGucciBoy",
+        "MATHINVOKER"
       ],
-      "album": "Causando Acidente - Single",
-      "releaseDate": "2020-11-03T12:00:00Z",
-      "durationMs": 143029,
-      "genres": [
-        "Hip-Hop"
-      ],
-      "isrc": "QZNJW2037084",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f9/99/fa/f999fa37-b475-5e48-0656-e7625a6a5b88/0.jpg/1000x1000bb.jpg",
+      "album": "offduzz, vol. 2",
+      "releaseDate": "2023-12-21",
+      "durationMs": 170000,
+      "genres": [],
+      "isrc": "QZW9M2319592",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3159cc3ed77943e651149c756c8f2130/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/causando-acidente/1538475495?i=1538475496&uo=4",
-        "deezer": "https://www.deezer.com/track/1129511032"
+        "deezer": "https://www.deezer.com/track/2589999352"
       }
     },
     "lyricPath": "/lyrics/99111.txt"

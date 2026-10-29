@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98983,
+    "metadata": {
+      "title": "Aonde Eu Sou Cria",
+      "artists": [
+        "Borges",
+        "NGC Daddy",
+        "Mainstreet"
+      ],
+      "album": "Intocável",
+      "releaseDate": "2021-06-04",
+      "durationMs": 154000,
+      "genres": [],
+      "isrc": "BCM9A2100019",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/92bb832ced84c40f17f5a69365b02f14/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ea7276bf-65c9-4e32-8575-70f55d9ee650",
+        "deezer": "https://www.deezer.com/track/1360204462"
+      }
+    },
+    "lyricPath": "/lyrics/98983.txt"
+  }
+]

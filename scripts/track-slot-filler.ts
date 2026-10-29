@@ -1,17 +1,19 @@
 /**
- * O TrackSlotFiller gerencia o preenchimento de vagas marcadas
- * como "Substituir faixa #{ID}" nos arquivos de listas musicais (/lyrics-list).
+ * O TrackSlotFiller gerencia o preenchimento e substituicao de vagas
+ * nos arquivos de listas musicais (/lyrics-list).
  *
- * O fluxo opera consumindo faixas diretamente de uma URL de álbum ou playlist do Spotify,
- * eliminando a necessidade de digitação manual e mitigando inconsistências de catálogo.
- * Para cada slot pendente, o serviço consome as músicas retornadas pela API do Spotify e:
+ * O fluxo permite substituir tanto vagas reservadas ("Substituir faixa #{ID}")
+ * quanto faixas incompletas (complete: false) ou parciais (complete: 1 - sem letra),
+ * consumindo diretamente as faixas de uma URL de album ou playlist do Spotify.
+ *
+ * Para cada slot processado, o serviço:
  * 1. Aplica trava anti-duplicata contra o corpus completo.
- * 2. Consulta prévia em tempo real de metadados técnicos (MusicBrainz, iTunes, Deezer) em memória.
- * 3. Consulta prévia em tempo real de letras musicais (LRCLIB, Genius, lyrics.ovh) em memória.
- *
- * Ao receber a confirmação do operador, o arquivo JSON correspondente é persistido
- * imediatamente (salvamento a quente), mantendo o status `complete: false` e registrando
- * a URL de origem no atributo `source` da lista.
+ * 2. Consulta previa em tempo real de metadados tecnicos (MusicBrainz, iTunes, Deezer) em memoria.
+ * 3. Consulta previa em tempo real de letras musicais (LRCLIB, Genius, lyrics.ovh) em memoria.
+ * 4. Ao confirmar a substituicao, limpa eventuais arquivos fisicos obsoletos, grava imediatamente
+ *    os novos arquivos de metadados (/lyrics-data/metadata/{id}.json) e letra (/lyrics-data/lyrics/{id}.txt),
+ *    atualiza a lista JSON com a flag de completude calculada (true, 1 ou false) e registra
+ *    a URL no atributo `source` da lista.
  */
 
 import * as fs from 'fs/promises';
@@ -43,12 +45,15 @@ interface LyricsListFile {
   lyrics: LyricItem[];
 }
 
-interface PendingSlot {
+export type SlotType = 'placeholder' | 'incomplete' | 'partial';
+
+export interface PendingSlot {
   id: number | string;
   genre: string;
   file: string;
   originalName: string;
   originalArtists: string;
+  slotType: SlotType;
 }
 
 interface ExistingTrack {
@@ -61,8 +66,17 @@ interface ExistingTrack {
   genre: string;
 }
 
+export interface FillerRunOptions {
+  genre?: string;
+  url?: string;
+  scope?: 'all' | 'placeholders' | 'partial' | 'incomplete';
+}
+
 export class TrackSlotFiller {
   private listDir: string;
+  private dataDir: string;
+  private metadataDir: string;
+  private lyricsDir: string;
   private metadataService: TrackMetadataService;
   private lyricsService: LyricsService;
   private spotifyClient: SpotifyApiClient;
@@ -72,6 +86,10 @@ export class TrackSlotFiller {
   constructor() {
     const baseDir = path.dirname(fileURLToPath(import.meta.url));
     this.listDir = path.resolve(baseDir, '../lyrics-list');
+    this.dataDir = path.resolve(baseDir, '../lyrics-data');
+    this.metadataDir = path.join(this.dataDir, 'metadata');
+    this.lyricsDir = path.join(this.dataDir, 'lyrics');
+
     this.metadataService = new TrackMetadataService();
     this.lyricsService = new LyricsService();
     this.spotifyClient = new SpotifyApiClient();
@@ -105,7 +123,10 @@ export class TrackSlotFiller {
     return nameMatch || artistMatch;
   }
 
-  public async loadCorpusData(): Promise<{ slots: PendingSlot[]; existingTracks: ExistingTrack[] }> {
+  public async loadCorpusData(scope: 'all' | 'placeholders' | 'partial' | 'incomplete' = 'all'): Promise<{
+    slots: PendingSlot[];
+    existingTracks: ExistingTrack[];
+  }> {
     const files = (await fs.readdir(this.listDir))
       .filter(f => f.endsWith('.json'))
       .sort();
@@ -123,15 +144,35 @@ export class TrackSlotFiller {
         if (!group.lyrics || !Array.isArray(group.lyrics)) continue;
 
         for (const item of group.lyrics) {
-          if (this.isPlaceholder(item.name, item.artists)) {
-            slots.push({
-              id: item.id,
-              genre,
-              file,
-              originalName: item.name,
-              originalArtists: item.artists || ''
-            });
-          } else if (item.name) {
+          const isPlace = this.isPlaceholder(item.name, item.artists);
+          const isCompleteFalse = item.complete === false;
+          const isComplete1 = item.complete === 1;
+
+          let slotType: SlotType | null = null;
+          if (isPlace) slotType = 'placeholder';
+          else if (isComplete1) slotType = 'partial';
+          else if (isCompleteFalse) slotType = 'incomplete';
+
+          if (slotType) {
+            const matchesScope =
+              scope === 'all' ||
+              (scope === 'placeholders' && slotType === 'placeholder') ||
+              (scope === 'partial' && slotType === 'partial') ||
+              (scope === 'incomplete' && slotType === 'incomplete');
+
+            if (matchesScope) {
+              slots.push({
+                id: item.id,
+                genre,
+                file,
+                originalName: item.name || '',
+                originalArtists: item.artists || '',
+                slotType
+              });
+            }
+          }
+
+          if (item.name && !isPlace) {
             const parsed = parseArtists(item.artists);
             existingTracks.push({
               id: item.id,
@@ -183,11 +224,75 @@ export class TrackSlotFiller {
     return [];
   }
 
+  public async deletePhysicalFiles(slotId: number | string): Promise<{ deletedMeta: boolean; deletedLyrics: boolean }> {
+    const metaFile = path.join(this.metadataDir, `${slotId}.json`);
+    const lyricFile = path.join(this.lyricsDir, `${slotId}.txt`);
+    let deletedMeta = false;
+    let deletedLyrics = false;
+
+    try {
+      await fs.unlink(metaFile);
+      deletedMeta = true;
+    } catch {
+      // Arquivo nao existia
+    }
+
+    try {
+      await fs.unlink(lyricFile);
+      deletedLyrics = true;
+    } catch {
+      // Arquivo nao existia
+    }
+
+    return { deletedMeta, deletedLyrics };
+  }
+
+  public async writePhysicalFiles(
+    slotId: number | string,
+    metadata: TrackMetadata | null,
+    lyricsResult: LyricsResult | null
+  ): Promise<{ wroteMeta: boolean; wroteLyrics: boolean }> {
+    await fs.mkdir(this.metadataDir, { recursive: true });
+    await fs.mkdir(this.lyricsDir, { recursive: true });
+
+    let wroteMeta = false;
+    let wroteLyrics = false;
+    const trackId = slotId.toString();
+
+    if (metadata && (metadata.isrc || metadata.durationMs || metadata.album)) {
+      const jsonOutput = [
+        {
+          id: slotId,
+          metadata: metadata,
+          lyricPath: `/lyrics/${trackId}.txt`
+        }
+      ];
+      await fs.writeFile(
+        path.join(this.metadataDir, `${trackId}.json`),
+        JSON.stringify(jsonOutput, null, 2),
+        'utf-8'
+      );
+      wroteMeta = true;
+    }
+
+    if (lyricsResult && lyricsResult.lyrics) {
+      await fs.writeFile(
+        path.join(this.lyricsDir, `${trackId}.txt`),
+        lyricsResult.lyrics,
+        'utf-8'
+      );
+      wroteLyrics = true;
+    }
+
+    return { wroteMeta, wroteLyrics };
+  }
+
   public async saveSlot(
     file: string,
     slotId: number | string,
     newTitle: string,
     newArtists: string,
+    complete: boolean | number,
     sourceUrl?: string
   ): Promise<boolean> {
     const filePath = path.join(this.listDir, file);
@@ -202,7 +307,7 @@ export class TrackSlotFiller {
         if (item.id === slotId) {
           item.name = newTitle.trim();
           item.artists = newArtists.trim();
-          item.complete = false;
+          item.complete = complete;
           updated = true;
           break;
         }
@@ -223,11 +328,12 @@ export class TrackSlotFiller {
     return updated;
   }
 
-  public async run(genreArg?: string, urlArg?: string): Promise<void> {
-    const { slots, existingTracks } = await this.loadCorpusData();
+  public async run(options: FillerRunOptions = {}): Promise<void> {
+    const scope = options.scope || 'all';
+    const { slots, existingTracks } = await this.loadCorpusData(scope);
 
     if (slots.length === 0) {
-      console.info('Nenhuma vaga pendente no corpus.');
+      console.info('Nenhuma vaga elegivel encontrada no corpus.');
       this.close();
       return;
     }
@@ -242,14 +348,16 @@ export class TrackSlotFiller {
 
     let selectedSlots: PendingSlot[] = [];
 
-    if (genreArg) {
-      const filterLower = genreArg.toLowerCase().trim();
-      const matchedGenre = Array.from(genreSlotMap.keys()).find(g => g.toLowerCase() === filterLower || g.toLowerCase().includes(filterLower));
+    if (options.genre) {
+      const filterLower = options.genre.toLowerCase().trim();
+      const matchedGenre = Array.from(genreSlotMap.keys()).find(
+        g => g.toLowerCase() === filterLower || g.toLowerCase().includes(filterLower)
+      );
 
       if (matchedGenre && genreSlotMap.has(matchedGenre)) {
         selectedSlots = genreSlotMap.get(matchedGenre)!;
       } else {
-        console.warn(`Genero nao encontrado: "${genreArg}".`);
+        console.warn(`Genero nao encontrado: "${options.genre}".`);
         for (const [g, list] of genreSlotMap.entries()) {
           console.info(`  ${g}: ${list.length} vagas`);
         }
@@ -258,7 +366,7 @@ export class TrackSlotFiller {
       }
     } else {
       const availableGenres = Array.from(genreSlotMap.entries());
-      console.info('Vagas pendentes por genero:');
+      console.info('Vagas elegiveis por genero:');
       availableGenres.forEach(([g, list], idx) => {
         console.info(`  ${idx + 1}. ${g} (${list.length})`);
       });
@@ -287,7 +395,7 @@ export class TrackSlotFiller {
       }
     }
 
-    let currentUrl = urlArg?.trim() || '';
+    let currentUrl = options.url?.trim() || '';
     let spotifyQueue: SpotifyTrack[] = [];
 
     const loadUrlTracks = async (url: string): Promise<boolean> => {
@@ -316,11 +424,13 @@ export class TrackSlotFiller {
 
       while (!slotResolved) {
         while (spotifyQueue.length === 0) {
-          const inputUrl = await this.question(`URL Spotify para preencher #${slot.id} (${slot.genre}) [:q sair, Enter pular]: `);
+          const inputUrl = await this.question(
+            `URL Spotify para vaga #${slot.id} (${slot.genre}) [:q sair, Enter pular]: `
+          );
           const trimmedUrl = inputUrl.trim();
 
           if (trimmedUrl === ':q') {
-            console.info(`Encerrado. Vagas preenchidas: ${filledCount}.`);
+            console.info(`Encerrado. Vagas substituidas: ${filledCount}.`);
             this.close();
             return;
           }
@@ -339,8 +449,10 @@ export class TrackSlotFiller {
         const candidate = spotifyQueue.shift()!;
         const artistsStr = candidate.artists.join(', ');
 
-        // 1. Verificacao de Duplicata no Corpus
-        const duplicates = this.findCorpusDuplicates(candidate.title, artistsStr, existingTracks);
+        // 1. Verificacao de Duplicata no Corpus (ignora o proprio slot se for o mesmo ID)
+        const duplicates = this.findCorpusDuplicates(candidate.title, artistsStr, existingTracks).filter(
+          d => d.id !== slot.id
+        );
         if (duplicates.length > 0) {
           const dup = duplicates[0];
           console.warn(`Duplicata no corpus ignorada: "${candidate.title}" (${artistsStr}) -> ID ${dup.id} [${dup.genre}].`);
@@ -371,32 +483,68 @@ export class TrackSlotFiller {
           ? `Sim (${lyricsResult.source}, ${lyricsResult.lyrics.split('\n').filter(l => l.trim().length > 0).length} linhas)`
           : 'Nao';
 
+        const statusLabel =
+          slot.slotType === 'placeholder'
+            ? 'Vaga reservada'
+            : slot.slotType === 'partial'
+              ? `Atual: "${slot.originalName}" - "${slot.originalArtists}" (complete: 1 - sem letra)`
+              : `Atual: "${slot.originalName}" - "${slot.originalArtists}" (complete: false)`;
+
         console.info();
-        console.info(`[${processedCount}/${selectedSlots.length}] ID ${slot.id} (${slot.genre})`);
+        console.info(`[${processedCount}/${selectedSlots.length}] ID ${slot.id} (${slot.genre}) | ${statusLabel}`);
         console.info(`Candidata: "${candidate.title}" - "${artistsStr}"`);
         console.info(`Metadados: ${metaSummary} | Letra: ${lyricsSummary}`);
 
-        const confirm = await this.question(`Confirmar #${slot.id}? (S/n/p/sair): `);
+        const confirm = await this.question(`Confirmar substituicao #${slot.id}? (S/n/p/sair): `);
         const confirmAnswer = confirm.trim().toLowerCase();
 
         if (confirmAnswer === ':q' || confirmAnswer === 'sair') {
-          console.info(`Encerrado. Vagas preenchidas: ${filledCount}.`);
+          console.info(`Encerrado. Vagas substituidas: ${filledCount}.`);
           this.close();
           return;
         }
 
         if (confirmAnswer === 'p') {
-          // Pula a vaga mantendo a faixa candidata para o proximo slot
           spotifyQueue.unshift(candidate);
           slotResolved = true;
           break;
         }
 
         if (confirmAnswer === '' || confirmAnswer === 's' || confirmAnswer === 'sim') {
-          const saved = await this.saveSlot(slot.file, slot.id, candidate.title, artistsStr, currentUrl);
+          // 1. Remove arquivos fisicos obsoletos anteriores
+          await this.deletePhysicalFiles(slot.id);
+
+          // 2. Grava imediatamente os novos arquivos fisicos de metadados e letra
+          const { wroteMeta, wroteLyrics } = await this.writePhysicalFiles(slot.id, metadata, lyricsResult);
+
+          // 3. Calcula o status de completude oficial
+          let completeStatus: boolean | number = false;
+          if (wroteLyrics) {
+            completeStatus = true;
+          } else if (wroteMeta) {
+            completeStatus = 1;
+          } else {
+            completeStatus = false;
+          }
+
+          // 4. Salva a faixa na lista JSON
+          const saved = await this.saveSlot(slot.file, slot.id, candidate.title, artistsStr, completeStatus, currentUrl);
+
           if (saved) {
             filledCount++;
-            console.info(`ID ${slot.id} gravado em ${slot.file}.`);
+            const createdNotes = [
+              wroteMeta ? 'metadados gravados' : null,
+              wroteLyrics ? 'letra gravada' : null
+            ].filter(Boolean);
+            const statusLabel = completeStatus === true ? 'completo' : completeStatus === 1 ? 'so metadados' : 'pendente';
+            const detailsMsg = createdNotes.length > 0 ? ` (${statusLabel}: ${createdNotes.join(', ')})` : ` (${statusLabel})`;
+            console.info(`ID ${slot.id} gravado em ${slot.file}${detailsMsg}.`);
+
+            // Atualiza catalogo em memoria: remove a musica antiga deste ID e inclui a nova
+            const existingIndex = existingTracks.findIndex(t => t.id === slot.id);
+            if (existingIndex !== -1) {
+              existingTracks.splice(existingIndex, 1);
+            }
 
             const parsed = parseArtists(artistsStr);
             existingTracks.push({
@@ -413,14 +561,13 @@ export class TrackSlotFiller {
           }
           slotResolved = true;
         } else {
-          // 'n' descarta esta musica candidata e busca a proxima da fila do Spotify para o mesmo slot
           console.info('Faixa descartada. Avaliando proxima da fila...');
         }
       }
     }
 
     console.info();
-    console.info(`Finalizado. Vagas preenchidas: ${filledCount}/${selectedSlots.length}.`);
+    console.info(`Finalizado. Vagas substituidas: ${filledCount}/${selectedSlots.length}.`);
     this.close();
   }
 }
@@ -431,17 +578,24 @@ if (isCLI) {
   const args = process.argv.slice(2);
   let genreArg: string | undefined;
   let urlArg: string | undefined;
+  let scopeArg: 'all' | 'placeholders' | 'partial' | 'incomplete' = 'all';
 
   for (const arg of args) {
     if (arg.startsWith('http') || arg.includes('spotify.com')) {
       urlArg = arg;
-    } else if (!genreArg) {
+    } else if (arg === '--placeholders') {
+      scopeArg = 'placeholders';
+    } else if (arg === '--partial') {
+      scopeArg = 'partial';
+    } else if (arg === '--incomplete') {
+      scopeArg = 'incomplete';
+    } else if (!genreArg && !arg.startsWith('--')) {
       genreArg = arg;
     }
   }
 
   const filler = new TrackSlotFiller();
-  filler.run(genreArg, urlArg).catch((err) => {
+  filler.run({ genre: genreArg, url: urlArg, scope: scopeArg }).catch((err) => {
     if (err?.code !== 'ERR_USE_AFTER_CLOSE') {
       console.error('Erro na execucao:', err);
     }

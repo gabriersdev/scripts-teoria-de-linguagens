@@ -2,18 +2,19 @@
   {
     "id": 99047,
     "metadata": {
-      "title": "EFEITO REFLEXO",
+      "title": "Saúde e Dinheiro",
       "artists": [
-        "Sidoka"
+        "Duzz",
+        "Ecologyk"
       ],
-      "album": "EFEITO REFLEXO",
-      "releaseDate": "2026-03-27",
-      "durationMs": 193000,
+      "album": "offduzz, vol. 2",
+      "releaseDate": "2023-12-21",
+      "durationMs": 167000,
       "genres": [],
-      "isrc": "BK6NL2600013",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6327a0219b5592bfa1a33449a308bd09/1000x1000-000000-80-0-0.jpg",
+      "isrc": "QZW9M2319583",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3159cc3ed77943e651149c756c8f2130/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3909428301"
+        "deezer": "https://www.deezer.com/track/2589999262"
       }
     },
     "lyricPath": "/lyrics/99047.txt"

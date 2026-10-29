@@ -2,20 +2,19 @@
   {
     "id": 98376,
     "metadata": {
-      "title": "O Tempo (Under Sesh #7)",
+      "title": "É Foda...",
       "artists": [
-        "Drow Mattos",
-        "Long beatz",
-        "Drow Beats"
+        "Costa Gold"
       ],
-      "album": "O Tempo (Under Sesh #7)",
-      "releaseDate": "2025-08-05",
-      "durationMs": 110000,
+      "album": "Posfácio",
+      "releaseDate": "2014-11-20",
+      "durationMs": 216000,
       "genres": [],
-      "isrc": "BKZB82500015",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/af6cbe248b6df85b0e455f567fba2c41/1000x1000-000000-80-0-0.jpg",
+      "isrc": "US7VG1579779",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/24360f42fcfd6186b9eedf04adb204a9/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3462550671"
+        "musicbrainz": "https://musicbrainz.org/recording/8779744d-65f6-4c3e-b134-facf6bfdd4f7",
+        "deezer": "https://www.deezer.com/track/3491740201"
       }
     },
     "lyricPath": "/lyrics/98376.txt"

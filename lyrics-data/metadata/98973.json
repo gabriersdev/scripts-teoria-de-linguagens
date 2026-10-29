@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98973,
+    "metadata": {
+      "title": "La Chica",
+      "artists": [
+        "NGC Daddy"
+      ],
+      "album": "La Chica",
+      "releaseDate": "2019-12-29",
+      "durationMs": 159000,
+      "genres": [],
+      "isrc": "US7VG2008815",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/87fe4144ddb5ae0804db2e5289ce561a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/854673482"
+      }
+    },
+    "lyricPath": "/lyrics/98973.txt"
+  }
+]

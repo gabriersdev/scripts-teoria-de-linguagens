@@ -2,20 +2,20 @@
   {
     "id": 99128,
     "metadata": {
-      "title": "I Just Wanna Lo-Fi",
+      "title": "Vida Perigosa",
       "artists": [
-        "jonaveliz"
+        "Duzz",
+        "L. Abner",
+        "cane$auce"
       ],
-      "album": "I Just Wanna Lo-Fi - Single",
-      "releaseDate": "2026-07-15T12:00:00Z",
-      "durationMs": 133688,
-      "genres": [
-        "Ambient"
-      ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/1e/e9/141ee96d-2ff9-4b7d-bdca-702c78509ff4/0.jpg/1000x1000bb.jpg",
+      "album": "offduzz, vol. 2",
+      "releaseDate": "2023-12-21",
+      "durationMs": 195000,
+      "genres": [],
+      "isrc": "QZW9M2319598",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3159cc3ed77943e651149c756c8f2130/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/i-just-wanna-lo-fi/6791914773?i=6791914777&uo=4"
+        "deezer": "https://www.deezer.com/track/2589999412"
       }
     },
     "lyricPath": "/lyrics/99128.txt"

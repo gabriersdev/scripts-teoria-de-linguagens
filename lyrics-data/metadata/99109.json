@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99109,
+    "metadata": {
+      "title": "Docinho",
+      "artists": [
+        "Duzz",
+        "Ecologyk"
+      ],
+      "album": "offduzz, vol. 2",
+      "releaseDate": "2023-12-21",
+      "durationMs": 129000,
+      "genres": [],
+      "isrc": "QZW9M2319590",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3159cc3ed77943e651149c756c8f2130/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2589999332"
+      }
+    },
+    "lyricPath": "/lyrics/99109.txt"
+  }
+]

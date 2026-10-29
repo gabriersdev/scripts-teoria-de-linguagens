@@ -2,20 +2,24 @@
   {
     "id": 98383,
     "metadata": {
-      "title": "Flow Kill Bill",
+      "title": "JUNHO DE 94",
       "artists": [
-        "Rod Rizz",
-        "Dj Paulo Beck",
-        "ET de Terno"
+        "Djonga",
+        "Coyote Beatz",
+        "DJ Cost"
       ],
-      "album": "Flow Kill Bill",
-      "releaseDate": "2025-10-31",
-      "durationMs": 198000,
-      "genres": [],
-      "isrc": "QZNMX2579208",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7c5bb5cc3086b6901b0be7c8f5661349/1000x1000-000000-80-0-0.jpg",
+      "album": "O Menino Que Queria Ser Deus",
+      "releaseDate": "2018",
+      "durationMs": 329008,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRE2Y1800002",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/dd/a7/e0dda733-6d25-df3c-08e1-60a884dbad7b/8445162063326.jpg/1000x1000bb.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3586916661"
+        "musicbrainz": "https://musicbrainz.org/recording/1c0f82e0-57c6-4d87-b3e8-b0548b9507c1",
+        "itunes": "https://music.apple.com/us/album/junho-de-94-feat-coyote-beatz/1506095456?i=1506095463&uo=4",
+        "deezer": "https://www.deezer.com/track/3251546881"
       }
     },
     "lyricPath": "/lyrics/98383.txt"

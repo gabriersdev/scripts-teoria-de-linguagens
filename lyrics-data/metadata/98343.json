@@ -2,20 +2,24 @@
   {
     "id": 98343,
     "metadata": {
-      "title": "Desigualdade Social",
+      "title": "Recordações",
       "artists": [
-        "Salvador Da Rima",
-        "Murillo e LT no Beat",
-        "LUDV1C"
+        "Costa Gold",
+        "Rashid",
+        "Kamau"
       ],
-      "album": "Desigualdade Social",
-      "releaseDate": "2025-10-16",
-      "durationMs": 170000,
-      "genres": [],
-      "isrc": "QZTVM2516657",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6f5f2b457dec55988f948027825ca846/1000x1000-000000-80-0-0.jpg",
+      "album": "Posfácio",
+      "releaseDate": "2014-11-20",
+      "durationMs": 262000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1579777",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/fc/b87bfcc5-33fa-6f68-bc7f-ac8eb8cb1693/646809667718.png/1000x1000bb.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3596797322"
+        "musicbrainz": "https://musicbrainz.org/recording/5fc6c8be-8f99-4f67-9796-9096a72c871c",
+        "itunes": "https://music.apple.com/us/album/recorda%C3%A7%C3%B5es-feat-rashid-lacy-kamau/1832639302?i=1832639314&uo=4",
+        "deezer": "https://www.deezer.com/track/3491740181"
       }
     },
     "lyricPath": "/lyrics/98343.txt"

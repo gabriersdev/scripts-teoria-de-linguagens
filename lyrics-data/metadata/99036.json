@@ -2,20 +2,23 @@
   {
     "id": 99036,
     "metadata": {
-      "title": "Regra Nº 5",
+      "title": "Casa Bomba",
       "artists": [
-        "Chris MC",
-        "L7NNON",
-        "JP Diazz"
+        "Borges",
+        "Jovem Dex",
+        "meLLo",
+        "Mindu",
+        "Neconbeat"
       ],
-      "album": "Regra Nº 5",
-      "releaseDate": "2026-04-08",
-      "durationMs": 202000,
+      "album": "Amor e ódio",
+      "releaseDate": "2023-12-13",
+      "durationMs": 157000,
       "genres": [],
-      "isrc": "BKLOT2600001",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/eb50736c7448bbb892f94e6f7496b636/1000x1000-000000-80-0-0.jpg",
+      "isrc": "BCM9A2300107",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8b26dc71e6d9091e2d98207601f8e8b8/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3932862031"
+        "musicbrainz": "https://musicbrainz.org/recording/b1c15d18-8a9f-4b5e-9f1c-7faa9e9e5c95",
+        "deezer": "https://www.deezer.com/track/2578003292"
       }
     },
     "lyricPath": "/lyrics/99036.txt"

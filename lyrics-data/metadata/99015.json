@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99015,
+    "metadata": {
+      "title": "Bendito",
+      "artists": [
+        "NGC Daddy"
+      ],
+      "album": "Bendito",
+      "releaseDate": "2020-09-18",
+      "durationMs": 177000,
+      "genres": [],
+      "isrc": "BCAOX2000009",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b65ac20b1925fb1102df2783132aa023/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1076658652"
+      }
+    },
+    "lyricPath": "/lyrics/99015.txt"
+  }
+]

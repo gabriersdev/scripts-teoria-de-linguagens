@@ -2,19 +2,21 @@
   {
     "id": 98837,
     "metadata": {
-      "title": "TETO PRETO",
+      "title": "MDMA 2",
       "artists": [
-        "Nosred",
-        "3X"
+        "Derek",
+        "Ryu, the Runner",
+        "Stef"
       ],
-      "album": "YAWDER AESTHETICSZ",
-      "releaseDate": "2025-04-10",
-      "durationMs": 93000,
+      "album": "MDMA 2",
+      "releaseDate": "2023-10-06",
+      "durationMs": 202000,
       "genres": [],
-      "isrc": "BCE7P2501065",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d010c9d4a01d750a107b9bb866aa3c67/1000x1000-000000-80-0-0.jpg",
+      "isrc": "BRUM72301351",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c508f9fda92ac840fd049381103b6a5d/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3296253981"
+        "musicbrainz": "https://musicbrainz.org/recording/6f6207c7-3e86-4b17-8d5f-84fcfffaa402",
+        "deezer": "https://www.deezer.com/track/2477823331"
       }
     },
     "lyricPath": "/lyrics/98837.txt"

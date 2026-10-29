@@ -2,25 +2,22 @@
   {
     "id": 98212,
     "metadata": {
-      "title": "CAÇA DO TESOURO",
+      "title": "Ms. Finesse",
       "artists": [
-        "THE BOX",
-        "MC Fr da Norte",
-        "Boaventura",
-        "Ouroempessoa",
-        "Rucinni",
-        "Fahel"
+        "Costa Gold"
       ],
-      "album": "CAÇA DO TESOURO - Single",
-      "releaseDate": "2026-06-02T12:00:00Z",
-      "durationMs": 158897,
+      "album": "Posfácio",
+      "releaseDate": "2014-11-20",
+      "durationMs": 258000,
       "genres": [
-        "Rap"
+        "Hip-Hop/Rap"
       ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/24/03/d8240366-b924-ea62-b9f9-62088b0b7208/196874541340.jpg/1000x1000bb.jpg",
+      "isrc": "US7VG1579771",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/fc/b87bfcc5-33fa-6f68-bc7f-ac8eb8cb1693/646809667718.png/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/ca%C3%A7a-do-tesouro/6781880219?i=6781880220&uo=4"
+        "musicbrainz": "https://musicbrainz.org/recording/adced678-61d2-49aa-83be-719c497e59cf",
+        "itunes": "https://music.apple.com/us/album/ms-finesse/1832639302?i=1832639308&uo=4",
+        "deezer": "https://www.deezer.com/track/3491740121"
       }
     },
     "lyricPath": "/lyrics/98212.txt"

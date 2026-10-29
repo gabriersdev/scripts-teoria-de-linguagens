@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98801,
+    "metadata": {
+      "title": "não fez",
+      "artists": [
+        "ohayomatsu",
+        "Junim",
+        "fvcknick",
+        "emanelesss"
+      ],
+      "album": "h.w.f",
+      "releaseDate": "2025-02-12",
+      "durationMs": 189000,
+      "genres": [],
+      "isrc": "QZ5FN2523151",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6d1b6a26f67189d9fc317fcb11827bc6/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3196435921"
+      }
+    },
+    "lyricPath": "/lyrics/98801.txt"
+  }
+]

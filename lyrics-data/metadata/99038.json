@@ -2,20 +2,21 @@
   {
     "id": 99038,
     "metadata": {
-      "title": "AMIGA DE VERDADE",
+      "title": "Billie Jean",
       "artists": [
-        "Aka Rasta",
-        "C7",
-        "Art"
+        "Borges",
+        "TkN",
+        "RUXN"
       ],
-      "album": "AMIGA DE VERDADE",
-      "releaseDate": "2026-04-09",
-      "durationMs": 180000,
+      "album": "Amor e ódio",
+      "releaseDate": "2023-12-13",
+      "durationMs": 113000,
       "genres": [],
-      "isrc": "BKG1M2600001",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6fb848c80ba74045b114572ba14ca784/1000x1000-000000-80-0-0.jpg",
+      "isrc": "BCM9A2300109",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8b26dc71e6d9091e2d98207601f8e8b8/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3910705051"
+        "musicbrainz": "https://musicbrainz.org/recording/ea5e4267-bc9e-4953-b595-14b91a79a2b3",
+        "deezer": "https://www.deezer.com/track/2578003302"
       }
     },
     "lyricPath": "/lyrics/99038.txt"

@@ -2,22 +2,22 @@
   {
     "id": 99030,
     "metadata": {
-      "title": "Sabor da Mulher Brasileira",
+      "title": "Proibidão Freestyle",
       "artists": [
-        "BIN",
-        "Kizzy"
+        "Borges",
+        "NGC Daddy",
+        "Galdino",
+        "RUXN"
       ],
-      "album": "Sabor da Mulher Brasileira - Single",
-      "releaseDate": "2026-03-16T12:00:00Z",
-      "durationMs": 136765,
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
-      "isrc": "BKTKP2600005",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/f2/39/dbf239f1-317c-7e28-3d54-af2e6cd46684/cover.jpg/1000x1000bb.jpg",
+      "album": "Amor e ódio",
+      "releaseDate": "2023-12-13",
+      "durationMs": 166000,
+      "genres": [],
+      "isrc": "BCM9A2300099",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8b26dc71e6d9091e2d98207601f8e8b8/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/sabor-da-mulher-brasileira/1882752003?i=1882752312&uo=4",
-        "deezer": "https://www.deezer.com/track/3881597581"
+        "musicbrainz": "https://musicbrainz.org/recording/1448f127-f01a-4e6e-97da-2269df50851b",
+        "deezer": "https://www.deezer.com/track/2578003322"
       }
     },
     "lyricPath": "/lyrics/99030.txt"

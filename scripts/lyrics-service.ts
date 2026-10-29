@@ -157,10 +157,6 @@ export class LyricsService {
     primaryArtist: string,
     allArtists: string[]
   ): Promise<GeniusSearchResult | null> {
-    if (!this.geniusAccessToken) {
-      return null;
-    }
-    
     const findSongHit = (hits: Array<{ type: string; result: GeniusSearchResult }>) => {
       return hits.find((item) => {
         if (item.type !== "song") return false;
@@ -170,37 +166,69 @@ export class LyricsService {
       })?.result ?? null;
     };
 
-    const searchTerm = `${primaryArtist} ${cleanTitle}`.trim();
-    const url = new URL("https://api.genius.com/search");
-    url.searchParams.set("q", searchTerm);
-    
-    const result = await this.#fetchJson<GeniusSearchResponse>(
-      url.toString(),
-      {
-        headers: {
-          Authorization: `Bearer ${this.geniusAccessToken}`,
-        },
-      },
-    );
-    
-    let matchedSong = result?.response?.hits ? findSongHit(result.response.hits) : null;
-    
-    if (!matchedSong && primaryArtist) {
-      const fallbackUrl = new URL("https://api.genius.com/search");
-      fallbackUrl.searchParams.set("q", cleanTitle);
-      const fallbackResult = await this.#fetchJson<GeniusSearchResponse>(
-        fallbackUrl.toString(),
+    let matchedSong: GeniusSearchResult | null = null;
+
+    if (this.geniusAccessToken) {
+      const searchTerm = `${primaryArtist} ${cleanTitle}`.trim();
+      const url = new URL("https://api.genius.com/search");
+      url.searchParams.set("q", searchTerm);
+      
+      const result = await this.#fetchJson<GeniusSearchResponse>(
+        url.toString(),
         {
           headers: {
             Authorization: `Bearer ${this.geniusAccessToken}`,
           },
         },
       );
-      if (fallbackResult?.response?.hits) {
-        matchedSong = findSongHit(fallbackResult.response.hits);
+      
+      matchedSong = result?.response?.hits ? findSongHit(result.response.hits) : null;
+      
+      if (!matchedSong && primaryArtist) {
+        const fallbackUrl = new URL("https://api.genius.com/search");
+        fallbackUrl.searchParams.set("q", cleanTitle);
+        const fallbackResult = await this.#fetchJson<GeniusSearchResponse>(
+          fallbackUrl.toString(),
+          {
+            headers: {
+              Authorization: `Bearer ${this.geniusAccessToken}`,
+            },
+          },
+        );
+        if (fallbackResult?.response?.hits) {
+          matchedSong = findSongHit(fallbackResult.response.hits);
+        }
       }
     }
-    
+
+    // Fallback: endpoint publico do Genius (sem necessidade de token / contorna rate limit 429)
+    if (!matchedSong) {
+      const publicSearchTerms = [`${primaryArtist} ${cleanTitle}`.trim(), cleanTitle];
+      for (const query of publicSearchTerms) {
+        if (!query) continue;
+        const publicUrl = `https://genius.com/api/search/multi?q=${encodeURIComponent(query)}`;
+        const publicRes = await this.#fetchJson<{
+          response?: {
+            sections?: Array<{
+              type: string;
+              hits?: Array<{
+                type: string;
+                result: GeniusSearchResult;
+              }>;
+            }>;
+          };
+        }>(publicUrl);
+
+        for (const section of publicRes?.response?.sections || []) {
+          if (section.type === "song" || section.type === "top_hit") {
+            matchedSong = findSongHit(section.hits || []);
+            if (matchedSong) break;
+          }
+        }
+        if (matchedSong) break;
+      }
+    }
+
     return matchedSong;
   }
   

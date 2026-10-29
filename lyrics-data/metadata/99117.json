@@ -2,21 +2,20 @@
   {
     "id": 99117,
     "metadata": {
-      "title": "Aeromoça de Favela",
+      "title": "A Pura",
       "artists": [
-        "jonaveliz"
+        "Duzz",
+        "NexoAnexo",
+        "Ecologyk"
       ],
-      "album": "Aeromoça de Favela - Single",
-      "releaseDate": "2021-09-13T12:00:00Z",
-      "durationMs": 179979,
-      "genres": [
-        "Hip-Hop"
-      ],
-      "isrc": "QZNJW2116637",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/48/f7/e048f74b-2a45-c2f3-15ab-000bba7676cf/0.jpg/1000x1000bb.jpg",
+      "album": "offduzz, vol. 2",
+      "releaseDate": "2023-12-21",
+      "durationMs": 171000,
+      "genres": [],
+      "isrc": "QZW9M2319595",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3159cc3ed77943e651149c756c8f2130/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/aeromo%C3%A7a-de-favela/1585011093?i=1585011094&uo=4",
-        "deezer": "https://www.deezer.com/track/1488786452"
+        "deezer": "https://www.deezer.com/track/2589999382"
       }
     },
     "lyricPath": "/lyrics/99117.txt"
