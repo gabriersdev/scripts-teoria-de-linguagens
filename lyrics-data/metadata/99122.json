@@ -2,19 +2,20 @@
   {
     "id": 99122,
     "metadata": {
-      "title": "Cogulândia",
+      "title": "Trilha Sonora é o AK",
       "artists": [
-        "Matuê"
+        "Duzz",
+        "Gui Gomez",
+        "Celo1st"
       ],
-      "album": "Máquina do Tempo",
-      "releaseDate": "2020-09-10",
-      "durationMs": 120000,
+      "album": "offduzz, vol. 2",
+      "releaseDate": "2023-12-21",
+      "durationMs": 150000,
       "genres": [],
-      "isrc": "BXW922000008",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9ad06bcb9f0bfe52bbd5e6ff464e4ca4/1000x1000-000000-80-0-0.jpg",
+      "isrc": "QZW9M2319597",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3159cc3ed77943e651149c756c8f2130/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/63f76841-047c-436e-bbde-a69f6a8b8421",
-        "deezer": "https://www.deezer.com/track/1049882292"
+        "deezer": "https://www.deezer.com/track/2589999402"
       }
     },
     "lyricPath": "/lyrics/99122.txt"

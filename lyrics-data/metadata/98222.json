@@ -2,23 +2,23 @@
   {
     "id": 98222,
     "metadata": {
-      "title": "HATER",
+      "title": "Nego Tu Sabe?",
       "artists": [
-        "Muse Maya",
-        "Stick"
+        "Costa Gold",
+        "De Leve"
       ],
-      "album": "PERSONA",
-      "releaseDate": "2026-06-06T12:00:00Z",
-      "durationMs": 120000,
+      "album": "Posfácio",
+      "releaseDate": "2014-11-20",
+      "durationMs": 219000,
       "genres": [
         "Hip-Hop/Rap"
       ],
-      "isrc": "BKSUV2600090",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/08/d0/a408d0bb-62dd-b64b-3c8a-17636eb10bbb/196874457610.jpg/1000x1000bb.jpg",
+      "isrc": "US7VG1579774",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/fc/b87bfcc5-33fa-6f68-bc7f-ac8eb8cb1693/646809667718.png/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/f1996377-fe58-4c9c-a289-f122e2a9331e",
-        "itunes": "https://music.apple.com/us/album/hater/6775531351?i=6775531354&uo=4",
-        "deezer": "https://www.deezer.com/track/4057526231"
+        "musicbrainz": "https://musicbrainz.org/recording/636cbd93-7b0b-4bc8-83b0-f476f1d8f590",
+        "itunes": "https://music.apple.com/us/album/nego-tu-sabe-feat-de-leve/1832639302?i=1832639311&uo=4",
+        "deezer": "https://www.deezer.com/track/3491740151"
       }
     },
     "lyricPath": "/lyrics/98222.txt"

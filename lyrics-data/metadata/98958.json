@@ -2,18 +2,19 @@
   {
     "id": 98958,
     "metadata": {
-      "title": "Estrela Cadente",
+      "title": "Putas e Drogas",
       "artists": [
-        "Tz da Coronel"
+        "Borges",
+        "Ajaxx"
       ],
-      "album": "Estrela Cadente",
-      "releaseDate": "2026-05-12",
-      "durationMs": 162000,
+      "album": "Amor e Ódio",
+      "releaseDate": "2023-12-13",
+      "durationMs": 142000,
       "genres": [],
-      "isrc": "BC2TS2600001",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/eccaf40c95cfda785d50a19ff826e4a2/1000x1000-000000-80-0-0.jpg",
+      "isrc": "BCM9A2300101",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8b26dc71e6d9091e2d98207601f8e8b8/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3990256141"
+        "deezer": "https://www.deezer.com/track/2578003272"
       }
     },
     "lyricPath": "/lyrics/98958.txt"

@@ -2,23 +2,22 @@
   {
     "id": 98215,
     "metadata": {
-      "title": "Maturidade",
+      "title": "Misericórdia",
       "artists": [
-        "Filtr Music Brasil",
-        "Pelé MilFlows",
-        "WEY",
-        "Fepache"
+        "Costa Gold"
       ],
-      "album": "Filtr Collab: Mc Gabzin e Avine Vinny - Single",
-      "releaseDate": "2025-07-17T12:00:00Z",
-      "durationMs": 178393,
+      "album": "Posfácio",
+      "releaseDate": "2014-11-20",
+      "durationMs": 260000,
       "genres": [
-        "Pop"
+        "Hip-Hop/Rap"
       ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/d3/28/ebd328e6-7212-e7e4-7fb8-cb02f516ef2e/196872549850.jpg/1000x1000bb.jpg",
+      "isrc": "US7VG1579773",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/fc/b87bfcc5-33fa-6f68-bc7f-ac8eb8cb1693/646809667718.png/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/mtg-maturidade-filtr-collab/1825255475?i=1825255479&uo=4"
+        "musicbrainz": "https://musicbrainz.org/recording/b7ad3302-db8b-4cff-ba03-b0f977a532d6",
+        "itunes": "https://music.apple.com/us/album/miseric%C3%B3rdia/1832639302?i=1832639310&uo=4",
+        "deezer": "https://www.deezer.com/track/3491740141"
       }
     },
     "lyricPath": "/lyrics/98215.txt"

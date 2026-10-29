@@ -2,20 +2,19 @@
   {
     "id": 99109,
     "metadata": {
-      "title": "Qq cê tá insinuando",
+      "title": "Docinho",
       "artists": [
-        "Sidoka",
-        "Intactoz Corp."
+        "Duzz",
+        "Ecologyk"
       ],
-      "album": "Merci £",
-      "releaseDate": "2020-02-18",
-      "durationMs": 176000,
+      "album": "offduzz, vol. 2",
+      "releaseDate": "2023-12-21",
+      "durationMs": 129000,
       "genres": [],
-      "isrc": "QZFZ42063721",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/befa4056b17bfa6192bc237e33ad9747/1000x1000-000000-80-0-0.jpg",
+      "isrc": "QZW9M2319590",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3159cc3ed77943e651149c756c8f2130/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/0b9bcee6-7721-4f7e-b4a5-cb12b1697a8e",
-        "deezer": "https://www.deezer.com/track/1843447927"
+        "deezer": "https://www.deezer.com/track/2589999332"
       }
     },
     "lyricPath": "/lyrics/99109.txt"

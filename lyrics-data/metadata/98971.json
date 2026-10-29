@@ -2,27 +2,19 @@
   {
     "id": 98971,
     "metadata": {
-      "title": "Gangstar",
+      "title": "Ouro Branco",
       "artists": [
-        "Oruam",
-        "Chefin",
-        "Salvador Da Rima",
-        "Real Fuba",
-        "Elow",
-        "Kabeh",
-        "Vertigo",
-        "NovaChance"
+        "NGC Daddy",
+        "BlakkClout"
       ],
-      "album": "Gangstar (feat. Eu Oruam) - Single",
-      "releaseDate": "2026-02-02T12:00:00Z",
-      "durationMs": 193306,
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/56/14/f55614b2-a28d-7a3e-f770-09a004f4e73f/cover.jpg/1000x1000bb.jpg",
+      "album": "Ouro Branco",
+      "releaseDate": "2019-11-15",
+      "durationMs": 137000,
+      "genres": [],
+      "isrc": "QZHZ51902896",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1ef7d9b846aa03755fd2d4ab1f803e50/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/gangstar-feat-eu-oruam/1877594881?i=1877595152&uo=4"
+        "deezer": "https://www.deezer.com/track/803351802"
       }
     },
     "lyricPath": "/lyrics/98971.txt"

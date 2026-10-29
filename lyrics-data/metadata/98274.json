@@ -2,23 +2,22 @@
   {
     "id": 98274,
     "metadata": {
-      "title": "Veterano",
+      "title": "BALANÇAR",
       "artists": [
-        "Lipinho Oficial",
-        "Vinicin",
-        "Surfista",
-        "Ryuchi",
-        "Ian Durso",
-        "JVMVO"
+        "WillsBife",
+        "Flora Matos"
       ],
-      "album": "Veterano 2",
-      "releaseDate": "2026-09-16",
-      "durationMs": 439000,
-      "genres": [],
-      "isrc": "BCD592600070",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/2f82461dd876de84ae41a5a2b350c5c6/1000x1000-000000-80-0-0.jpg",
+      "album": "FEBRE AMARELA (Deluxe Edition)",
+      "releaseDate": "2020-12-14T12:00:00Z",
+      "durationMs": 208980,
+      "genres": [
+        "Urbano latino"
+      ],
+      "isrc": "BXWMU2000012",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/5a/ed/3a5aed83-777d-cab0-03ef-7f8c3e1a6712/8445162554282.jpg/1000x1000bb.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/4259575701"
+        "itunes": "https://music.apple.com/us/album/balan%C3%A7ar-instrumental/1597019610?i=1597021395&uo=4",
+        "deezer": "https://www.deezer.com/track/3258350731"
       }
     },
     "lyricPath": "/lyrics/98274.txt"

@@ -2,22 +2,23 @@
   {
     "id": 99028,
     "metadata": {
-      "title": "Diva Pop",
+      "title": "Nós É Só Menorzin",
       "artists": [
-        "Azzy",
-        "A.LBeats"
+        "Borges",
+        "Oruam",
+        "VTnoBeat"
       ],
-      "album": "Diva Pop - Single",
-      "releaseDate": "2026-03-12T12:00:00Z",
-      "durationMs": 152276,
+      "album": "Amor e ódio",
+      "releaseDate": "2025-01-31T12:00:00Z",
+      "durationMs": 126505,
       "genres": [
-        "Brazilian"
+        "Baile Funk"
       ],
-      "isrc": "BRWMB2600162",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/83/d7/5883d772-9082-db2b-81d1-442c623265b8/5026854696010.jpg/1000x1000bb.jpg",
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/df/fa/c7dffa12-1c75-1bf9-8af5-bb48d3262ccb/cover.jpg/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/diva-pop/1876660580?i=1876660693&uo=4",
-        "deezer": "https://www.deezer.com/track/3838402421"
+        "musicbrainz": "https://musicbrainz.org/recording/898ece61-8029-4ded-97d8-59226af7a75e",
+        "itunes": "https://music.apple.com/us/album/n%C3%B3s-%C3%A9-s%C3%B3-menorzin-remix/1792001925?i=1792002928&uo=4"
       }
     },
     "lyricPath": "/lyrics/99028.txt"

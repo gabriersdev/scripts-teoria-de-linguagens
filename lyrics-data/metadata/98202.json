@@ -2,22 +2,22 @@
   {
     "id": 98202,
     "metadata": {
-      "title": "It's Fine (Luz)",
+      "title": "Posfácio",
       "artists": [
-        "Celo Dut",
-        "Liniker"
+        "Costa Gold"
       ],
-      "album": "It's Fine (Luz) - Single",
-      "releaseDate": "2026-09-16T12:00:00Z",
-      "durationMs": 255686,
+      "album": "Posfácio",
+      "releaseDate": "2014-11-20",
+      "durationMs": 189000,
       "genres": [
-        "Rap"
+        "Hip-Hop/Rap"
       ],
-      "isrc": "BCLOQ2600043",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/af/14/28af14be-8104-3ad9-4d29-eca1746529a2/196874754535.jpg/1000x1000bb.jpg",
+      "isrc": "US7VG1579766",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/fc/b87bfcc5-33fa-6f68-bc7f-ac8eb8cb1693/646809667718.png/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/its-fine-luz/6808456982?i=6808456983&uo=4",
-        "deezer": "https://www.deezer.com/track/4265264592"
+        "musicbrainz": "https://musicbrainz.org/recording/8beef6c3-47cc-4419-a70a-3e6735711bc9",
+        "itunes": "https://music.apple.com/us/album/posf%C3%A1cio/1832639302?i=1832639303&uo=4",
+        "deezer": "https://www.deezer.com/track/3491740071"
       }
     },
     "lyricPath": "/lyrics/98202.txt"

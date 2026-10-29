@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98998,
+    "metadata": {
+      "title": "Artista Genérico",
+      "artists": [
+        "Veigh",
+        "Supernova Ent"
+      ],
+      "album": "Eu Venci o Mundo",
+      "releaseDate": "2025-06-27",
+      "durationMs": 150861,
+      "genres": [],
+      "isrc": "BKSUV2500060",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/437d155b84c6ee8b59ff4a35e196171f/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/dc38692a-51a5-412e-952b-7e0a9723c6b6",
+        "deezer": "https://www.deezer.com/track/3408825051"
+      }
+    },
+    "lyricPath": "/lyrics/98998.txt"
+  }
+]

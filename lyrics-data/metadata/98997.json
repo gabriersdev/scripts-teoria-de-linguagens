@@ -2,20 +2,18 @@
   {
     "id": 98997,
     "metadata": {
-      "title": "Van Cleef",
+      "title": "Bag de Grife",
       "artists": [
-        "Orochi",
-        "Filipe Ret",
-        "Portugal No Beat"
+        "NGC Daddy"
       ],
-      "album": "Eu Odeio o Dia dos Namorados",
-      "releaseDate": "2025-06-13",
-      "durationMs": 169000,
+      "album": "Bag de Grife",
+      "releaseDate": "2021-05-19",
+      "durationMs": 127000,
       "genres": [],
-      "isrc": "BCM9A2500024",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/54242856fe4dc95a4d40a5c6175f76d9/1000x1000-000000-80-0-0.jpg",
+      "isrc": "QZHZ42127205",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/f961accd5b6989c2d3c9cf23bde59a90/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3408789721"
+        "deezer": "https://www.deezer.com/track/1366006932"
       }
     },
     "lyricPath": "/lyrics/98997.txt"

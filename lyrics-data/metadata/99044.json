@@ -2,20 +2,22 @@
   {
     "id": 99044,
     "metadata": {
-      "title": "O bonde tá no levan",
+      "title": "Copo de Bebida",
       "artists": [
-        "LAI$ROSA",
-        "MC KTRINE",
-        "Agostinhx"
+        "Borges",
+        "Delacruz",
+        "Ajaxx",
+        "Galdino"
       ],
-      "album": "O bonde tá no levan",
-      "releaseDate": "2026-04-01",
-      "durationMs": 145000,
+      "album": "Amor e ódio",
+      "releaseDate": "2023-12-13",
+      "durationMs": 166000,
       "genres": [],
-      "isrc": "BKA8H2600002",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1c40f1e038ff348cef328cc478ba560e/1000x1000-000000-80-0-0.jpg",
+      "isrc": "BCM9A2300100",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8b26dc71e6d9091e2d98207601f8e8b8/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3919663321"
+        "musicbrainz": "https://musicbrainz.org/recording/69284c1f-477a-483a-b708-59b4b0d827fe",
+        "deezer": "https://www.deezer.com/track/2578003342"
       }
     },
     "lyricPath": "/lyrics/99044.txt"

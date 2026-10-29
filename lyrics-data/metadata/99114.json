@@ -2,18 +2,20 @@
   {
     "id": 99114,
     "metadata": {
-      "title": "Tá Onde, Vida?",
+      "title": "Mal-Aluno",
       "artists": [
-        "jonaveliz"
+        "Duzz",
+        "brTT",
+        "Ecologyk"
       ],
-      "album": "Tá Onde, Vida?",
-      "releaseDate": "2023-02-24",
-      "durationMs": 156000,
+      "album": "offduzz, vol. 2",
+      "releaseDate": "2023-12-21",
+      "durationMs": 155000,
       "genres": [],
-      "isrc": "BCYJQ2300003",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b8dbecd1f77d66884dc8c25d0e44e0c0/1000x1000-000000-80-0-0.jpg",
+      "isrc": "QZW9M2319594",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3159cc3ed77943e651149c756c8f2130/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/2163477167"
+        "deezer": "https://www.deezer.com/track/2589999372"
       }
     },
     "lyricPath": "/lyrics/99114.txt"

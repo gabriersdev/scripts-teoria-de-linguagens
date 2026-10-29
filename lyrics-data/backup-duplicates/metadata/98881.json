@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98881,
+    "metadata": {
+      "title": "777-666",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "Máquina do Tempo",
+      "releaseDate": "2020-09-10",
+      "durationMs": 164000,
+      "genres": [],
+      "isrc": "BXW922000007",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9ad06bcb9f0bfe52bbd5e6ff464e4ca4/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/10475443-8251-4934-8bee-f507ba50406e",
+        "deezer": "https://www.deezer.com/track/1049882332"
+      }
+    },
+    "lyricPath": "/lyrics/98881.txt"
+  }
+]

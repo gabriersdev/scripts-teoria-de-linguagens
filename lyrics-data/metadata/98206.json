@@ -2,23 +2,23 @@
   {
     "id": 98206,
     "metadata": {
-      "title": "PREDESTINADA",
+      "title": "Alameda Weed",
       "artists": [
-        "Muse Maya",
-        "Nagalli"
+        "Costa Gold",
+        "Wentz"
       ],
-      "album": "PERSONA",
-      "releaseDate": "2026-08-20T12:00:00Z",
-      "durationMs": 106329,
+      "album": "Posfácio",
+      "releaseDate": "2014-11-20",
+      "durationMs": 268000,
       "genres": [
         "Hip-Hop/Rap"
       ],
-      "isrc": "BKSUV2600068",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/ef/ae/5befae6e-ccc8-cc77-392d-c0fd04827f85/196874691090.jpg/1000x1000bb.jpg",
+      "isrc": "US7VG1579768",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/fc/b87bfcc5-33fa-6f68-bc7f-ac8eb8cb1693/646809667718.png/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/f68b9e00-139a-4c4d-b77c-38ef6321afdc",
-        "itunes": "https://music.apple.com/us/album/predestinada/6800757147?i=6800757153&uo=4",
-        "deezer": "https://www.deezer.com/track/4219503402"
+        "musicbrainz": "https://musicbrainz.org/recording/7ee5b934-c96a-4659-859a-4f7b638ba0f1",
+        "itunes": "https://music.apple.com/us/album/alameda-weed/1832639302?i=1832639305&uo=4",
+        "deezer": "https://www.deezer.com/track/3491740091"
       }
     },
     "lyricPath": "/lyrics/98206.txt"

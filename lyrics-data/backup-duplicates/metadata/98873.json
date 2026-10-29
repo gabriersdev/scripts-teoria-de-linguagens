@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98873,
+    "metadata": {
+      "title": "Antes",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "Máquina do Tempo",
+      "releaseDate": "2020-09-10",
+      "durationMs": 169000,
+      "genres": [],
+      "isrc": "BXW922000005",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9ad06bcb9f0bfe52bbd5e6ff464e4ca4/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/22be43b1-c9a3-419f-964f-888aee08c050",
+        "deezer": "https://www.deezer.com/track/1049882302"
+      }
+    },
+    "lyricPath": "/lyrics/98873.txt"
+  }
+]

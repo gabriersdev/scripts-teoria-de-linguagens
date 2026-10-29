@@ -2,20 +2,19 @@
   {
     "id": 99119,
     "metadata": {
-      "title": "Oh Shit",
+      "title": "Posso Bater Palma?",
       "artists": [
-        "Kant",
-        "Krawk",
-        "NOG"
+        "Duzz",
+        "Ecologyk"
       ],
-      "album": "Oh Shit",
-      "releaseDate": "2020-04-10",
-      "durationMs": 232000,
+      "album": "offduzz, vol. 2",
+      "releaseDate": "2023-12-21",
+      "durationMs": 143000,
       "genres": [],
-      "isrc": "QZGLS2045454",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/351f8e2d3fe2fff8f9e3ef8f6d378a7e/1000x1000-000000-80-0-0.jpg",
+      "isrc": "QZW9M2319596",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3159cc3ed77943e651149c756c8f2130/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/935253492"
+        "deezer": "https://www.deezer.com/track/2589999392"
       }
     },
     "lyricPath": "/lyrics/99119.txt"

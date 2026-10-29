@@ -6,7 +6,7 @@
 - **`/lib`**: Bibliotecas e clientes base reutilizados pelo sistema.
   - `spotify-api-client.ts`: Motor orientado a objetos para lidar com requisições HTTP à API do Spotify (via endpoint xwolf).
 - **`/lyrics-list`**: Listas JSON estáticas (separadas por gênero, como `funk-list.json`). Guardam faixas, IDs, artistas e URLs de origem (detalhadas em `docs/DATA-SCHEMA.md`).
-- **`/lyrics-data`**: Dados minerados e estruturados contendo subpasta `/metadata` (`{id}.json`) com metadados técnicos consolidados e pasta `/lyrics` contendo as letras (`{id}.txt`).
+- **`/lyrics-data`**: Dados minerados e estruturados contendo subpasta `/metadata` (`{id}.json`) com metadados técnicos consolidados, pasta `/lyrics` contendo as letras (`{id}.txt`) e pasta `/backup-duplicates` para arquivamento seguro de arquivos de faixas desvinculadas ou substituídas.
 - **`/scripts`**: Serviços e assistentes de CLI para extração e mineração de dados.
 - **`/util`**: Scripts utilitários de manutenção executados fora do fluxo principal.
 - **`index.html`**: Interface web monólita em Bootstrap 5 e Vue 3 para visualização de métricas de integridade e consulta global de músicas consumindo diretamente os arquivos de `/lyrics-list`.
@@ -14,11 +14,13 @@
 ## Scripts (`/scripts`)
 
 - **`text-sanitizer.ts`**: Utilitário de sanitização textual. Trata separação de múltiplos colaboradores com token masking para exceções com vírgula própria (ex.: "Ryu, the Runner"), remove ruídos em títulos (ex.: "Ao Vivo", "Remaster"), calcula similaridade de títulos/artistas e valida idioma da letra por densidade de stopwords em português.
-- **`lyrics-service.ts`**: Extrai letras musicais em cascata (LRCLIB, lyrics.ovh, Genius) com validação rígida de idioma, artista e tolerância de duração.
+- **`lyrics-service.ts`**: Extrai letras musicais em cascata (LRCLIB, lyrics.ovh, Genius com raspagem semântica e fallback público anti-429) com validação rígida de idioma, artista e tolerância de duração.
 - **`track-metadata-service.ts`**: Motor de metadados. Consome MusicBrainz (Lucene), iTunes e Deezer para extrair ISRC, duração, lançamento e gênero, com validação de candidatos e merge seguro contra inconsistências.
 - **`pipeline-extractor.ts`**: Orquestrador mestre de extração contínua. Percorre os arquivos em `/lyrics-list`, processa faixas pendentes e gera arquivos de metadados (`/lyrics-data/metadata/{id}.json`) e letras (`/lyrics-data/lyrics/{id}.txt`).
 - **`sample-lyrics-verifier.ts`**: Verificador e auditor de amostragem. Seleciona aleatoriamente $N$ faixas de `/lyrics-list` (com suporte a filtro por gênero), testa o motor de letras e gera um relatório estatístico com taxa de assertividade e distribuição por provedor.
 - **`dataset-audit.ts`**: Auditor e extrator de qualidade da base. Cruza as listas em `/lyrics-list` com os arquivos físicos em `/lyrics-data/metadata` e `/lyrics-data/lyrics`, gerando relatórios de completude (Completos, apenas metadados, apenas letras, dados zerados e ausência de artistas) no geral e por gênero, com suporte opcional a sincronização das flags `complete` (`--sync`).
+- **`duplicate-verifier.ts`**: Auditor e detector de duplicatas no corpus. Identifica colisões de identificador (IDs repetidos com músicas distintas), duplicações dentro do mesmo gênero e duplicações cruzadas entre diferentes gêneros a partir de título e artista sanitizados, com suporte a *fuzzy matching* e modo de substituição automática (`--replace`) para resetar segundas ocorrências a placeholders pendentes (`complete: false`), com backup de dados físicos.
+- **`track-slot-filler.ts`**: Assistente interativo para preenchimento e substituição de vagas (placeholders "Substituir faixa #{ID}", faixas incompletas `complete: false` e parciais `complete: 1`) a partir de URLs de álbuns ou playlists do Spotify. Consome faixas oficiais da API do Spotify eliminando digitação manual, descarta automaticamente duplicatas existentes no corpus, executa consultas prévias em memória de metadados e letras, grava de imediato os arquivos físicos definitivos (`/lyrics-data/metadata/{id}.json` e `/lyrics-data/lyrics/{id}.txt`) ao confirmar a substituição e calcula a flag de completude (`true`, `1` ou `false`).
 - **`populate-artists.ts`**: Lê JSONs em `/lyrics-list`, extrai links de álbuns/playlists do atributo `source`, conecta ao Spotify e cruza dados para preencher nomes de artistas ausentes (`"artists": ""`).
 - **`manual-artist-fill.ts`**: Assistente de terminal interativo. Encontra músicas pendentes, busca sugestões no iTunes em tempo real, capta a escolha do usuário e salva no JSON imediatamente, prevenindo perda de progresso.
 - **`spotify-album-service.ts` / `spotify-playlist-service.ts`**: Consulta e testa faixas de um álbum ou playlist a partir da URL.

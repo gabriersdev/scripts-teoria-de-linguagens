@@ -2,18 +2,21 @@
   {
     "id": 99148,
     "metadata": {
-      "title": "Coração de Gelo",
+      "title": "Kalashnikov",
       "artists": [
-        "WIU"
+        "Duzz",
+        "Tchelo",
+        "OkGucciBoy",
+        "Ecologyk"
       ],
-      "album": "Manual de Como Amar Errado",
-      "releaseDate": "2022-11-29",
-      "durationMs": 168000,
+      "album": "offduzz, vol. 2",
+      "releaseDate": "2023-12-21",
+      "durationMs": 230000,
       "genres": [],
-      "isrc": "BXW922200010",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b07091e5372393f45e20d4ec7ff808d4/1000x1000-000000-80-0-0.jpg",
+      "isrc": "QZW9M2319604",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3159cc3ed77943e651149c756c8f2130/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/2012086207"
+        "deezer": "https://www.deezer.com/track/2589999472"
       }
     },
     "lyricPath": "/lyrics/99148.txt"

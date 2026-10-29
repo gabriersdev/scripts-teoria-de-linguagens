@@ -2,21 +2,20 @@
   {
     "id": 98870,
     "metadata": {
-      "title": "MEU CEMITÉRIO",
+      "title": "EJA FREESTYLE",
       "artists": [
-        "Matuê"
+        "Derek",
+        "Ryu, the Runner"
       ],
-      "album": "MEU CEMITÉRIO",
-      "releaseDate": "2025-12-08",
-      "durationMs": 207000,
-      "genres": [
-        "trap"
-      ],
-      "isrc": "BXW922500123",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c9b023c07f75e26f5998c8eeddb39fcb/1000x1000-000000-80-0-0.jpg",
+      "album": "EJA FREESTYLE",
+      "releaseDate": "2023-10-06",
+      "durationMs": 204000,
+      "genres": [],
+      "isrc": "BRUM72301343",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c508f9fda92ac840fd049381103b6a5d/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/68856905-3925-4988-b434-2383ea95a42d",
-        "deezer": "https://www.deezer.com/track/3700579772"
+        "musicbrainz": "https://musicbrainz.org/recording/bace8840-b8bd-47a0-9c24-2142b382a503",
+        "deezer": "https://www.deezer.com/track/2477823341"
       }
     },
     "lyricPath": "/lyrics/98870.txt"

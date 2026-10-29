@@ -2,20 +2,24 @@
   {
     "id": 98365,
     "metadata": {
-      "title": "Minha Dama",
+      "title": "Olha o Talarico",
       "artists": [
-        "Tangi",
-        "Pedro Qualy",
-        "The B Brothers"
+        "Costa Gold",
+        "Billy Billy",
+        "Flow MC",
+        "Doncesão"
       ],
-      "album": "Minha Dama",
-      "releaseDate": "2024-10-11",
-      "durationMs": 227000,
-      "genres": [],
-      "isrc": "QZTVM2434993",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d4b8ad983c9199d59bb1622f9d95babf/1000x1000-000000-80-0-0.jpg",
+      "album": "Posfácio",
+      "releaseDate": "2014-11-20T12:00:00Z",
+      "durationMs": 284967,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1579778",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/fc/b87bfcc5-33fa-6f68-bc7f-ac8eb8cb1693/646809667718.png/1000x1000bb.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3012420261"
+        "itunes": "https://music.apple.com/us/album/olha-o-talarico-feat-flow-mc-don-ces%C3%A3o/1832639302?i=1832639315&uo=4",
+        "deezer": "https://www.deezer.com/track/3491740191"
       }
     },
     "lyricPath": "/lyrics/98365.txt"

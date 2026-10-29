@@ -10,7 +10,11 @@
       "https://open.spotify.com/intl-pt/artist/7q1aEytv83jXNECmyaMhgn",
       "https://open.spotify.com/playlist/2mlxWXyk0K9DyyeDQrCJer",
       "https://open.spotify.com/intl-pt/artist/5deK5HnwbEKvge2svL0i0B",
-      "https://open.spotify.com/playlist/3QVE4SH10CAKr0Lj8xesT2"
+      "https://open.spotify.com/playlist/3QVE4SH10CAKr0Lj8xesT2",
+      "https://open.spotify.com/intl-pt/album/4L43fWHkQio5LICIWDnAnK",
+      "https://open.spotify.com/intl-pt/album/6P8pvNFbrgEq8DaIZBNOVt",
+      "https://open.spotify.com/playlist/1dNmf9CbgPQ7fNF21wlSDe",
+      "https://open.spotify.com/intl-pt/album/3wHxJMiiNBmAJaqFcB7llN"
     ],
     "lyrics": [
       {
@@ -21,9 +25,9 @@
       },
       {
         "id": 98202,
-        "name": "It's Fine (Luz)",
-        "artists": "Celo Dut, Liniker",
-        "complete": 1
+        "name": "Posfácio",
+        "artists": "Costa Gold",
+        "complete": true
       },
       {
         "id": 98203,
@@ -33,9 +37,9 @@
       },
       {
         "id": 98204,
-        "name": "Donas do Plaque",
-        "artists": "IKNOWFELIPE, LAI$ROSA, Barona, NandaTsunami",
-        "complete": 1
+        "name": "A Ilha",
+        "artists": "Costa Gold",
+        "complete": true
       },
       {
         "id": 98205,
@@ -45,9 +49,9 @@
       },
       {
         "id": 98206,
-        "name": "PREDESTINADA",
-        "artists": "Muse Maya, Nagalli",
-        "complete": 1
+        "name": "Alameda Weed",
+        "artists": "Costa Gold, Wentz",
+        "complete": true
       },
       {
         "id": 98207,
@@ -57,9 +61,9 @@
       },
       {
         "id": 98208,
-        "name": "Quem é você?",
-        "artists": "Akashi Cruz",
-        "complete": 1
+        "name": "Parasitas",
+        "artists": "Costa Gold",
+        "complete": true
       },
       {
         "id": 98209,
@@ -81,9 +85,9 @@
       },
       {
         "id": 98212,
-        "name": "CAÇA DO TESOURO",
-        "artists": "THE BOX, MC Fr da Norte, Boaventura, Ouroempessoa, Rucinni, Fahel",
-        "complete": 1
+        "name": "Ms. Finesse",
+        "artists": "Costa Gold",
+        "complete": true
       },
       {
         "id": 98213,
@@ -93,15 +97,15 @@
       },
       {
         "id": 98214,
-        "name": "Eliantte",
-        "artists": "MC Caverinha, tal do dias",
-        "complete": 1
+        "name": "Si Lude Não!",
+        "artists": "Costa Gold, Xis",
+        "complete": true
       },
       {
         "id": 98215,
-        "name": "Maturidade",
-        "artists": "Filtr Music Brasil, Pelé MilFlows, WEY, Fepache",
-        "complete": 1
+        "name": "Misericórdia",
+        "artists": "Costa Gold",
+        "complete": true
       },
       {
         "id": 98216,
@@ -113,7 +117,7 @@
         "id": 98217,
         "name": "THE BOX MEDLEY 14 (feat. Dudu)",
         "artists": "THE BOX, Tevito, Rei Bxd, Aimar, Ouroempessoa, Fahel, Dudu",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98218,
@@ -141,15 +145,15 @@
       },
       {
         "id": 98222,
-        "name": "HATER",
-        "artists": "Muse Maya, Stick",
-        "complete": 1
+        "name": "Nego Tu Sabe?",
+        "artists": "Costa Gold, De Leve",
+        "complete": true
       },
       {
         "id": 98223,
-        "name": "Estrela Cadente",
-        "artists": "Tz da Coronel",
-        "complete": 1
+        "name": "Lisergia",
+        "artists": "Costa Gold",
+        "complete": true
       },
       {
         "id": 98224,
@@ -167,7 +171,7 @@
         "id": 98226,
         "name": "Talvez você precise de mim",
         "artists": "Veigh, Supernova Ent",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98227,
@@ -191,7 +195,7 @@
         "id": 98230,
         "name": "Joga Bonito",
         "artists": "Kyan, Enzo from the Block, Mu540",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98231,
@@ -203,7 +207,7 @@
         "id": 98232,
         "name": "Poetas no Topo 5",
         "artists": "Pineapple StormTv, Oruam, Sant, Victor Xamã, NandaTsunami, LPT Zlatan, L7NNON, AR Baby, Sid, Salve Malak",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98233,
@@ -243,9 +247,9 @@
       },
       {
         "id": 98239,
-        "name": "Gangstar",
-        "artists": "Oruam, Chefin, Salvador Da Rima, Real Fuba, Elow, Kabeh, Vertigo, NovaChance",
-        "complete": 1
+        "name": "ULTIMA CHANCE",
+        "artists": "WillsBife, Victor Xamã, O.R",
+        "complete": true
       },
       {
         "id": 98240,
@@ -401,7 +405,7 @@
         "id": 98265,
         "name": "Além do Dinheiro",
         "artists": "Filipe Ret, Dallass, Ariel Donato",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98266,
@@ -453,9 +457,9 @@
       },
       {
         "id": 98274,
-        "name": "Veterano",
-        "artists": "Lipinho Oficial, Vinicin, Surfista, Ryuchi, Ian Durso, JVMVO",
-        "complete": 1
+        "name": "BALANÇAR",
+        "artists": "WillsBife, Flora Matos",
+        "complete": true
       },
       {
         "id": 98275,
@@ -669,9 +673,9 @@
       },
       {
         "id": 98310,
-        "name": "O Gatilho",
-        "artists": "Sabotage, Céu, BNegão, Rodrigo Brandao, Instituto, Ganjaman, Quincas",
-        "complete": 1
+        "name": "VIAJEI",
+        "artists": "WillsBife, Luccas Carlos",
+        "complete": true
       },
       {
         "id": 98311,
@@ -735,9 +739,9 @@
       },
       {
         "id": 98321,
-        "name": "Eu Já Era Trap",
-        "artists": "Escobar VL, Brerner",
-        "complete": 1
+        "name": "A Queima Roupa",
+        "artists": "Costa Gold, Funkero",
+        "complete": true
       },
       {
         "id": 98322,
@@ -749,13 +753,13 @@
         "id": 98323,
         "name": "Dharma",
         "artists": "AJULLIACOSTA, Dj KLJay, Maffalda",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98324,
         "name": "Se Eu Pudesse",
         "artists": "2ZDinizz, L7NNON, HHR",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98325,
@@ -867,9 +871,9 @@
       },
       {
         "id": 98343,
-        "name": "Desigualdade Social",
-        "artists": "Salvador Da Rima, Murillo e LT no Beat, LUDV1C",
-        "complete": 1
+        "name": "Recordações",
+        "artists": "Costa Gold, Rashid, Kamau",
+        "complete": true
       },
       {
         "id": 98344,
@@ -999,9 +1003,9 @@
       },
       {
         "id": 98365,
-        "name": "Minha Dama",
-        "artists": "Tangi, Pedro Qualy, The B Brothers",
-        "complete": 1
+        "name": "Olha o Talarico",
+        "artists": "Costa Gold, Billy Billy, Flow MC, Doncesão",
+        "complete": true
       },
       {
         "id": 98366,
@@ -1065,21 +1069,21 @@
       },
       {
         "id": 98376,
-        "name": "O Tempo (Under Sesh #7)",
-        "artists": "Drow Mattos, Long beatz, Drow Beats",
-        "complete": 1
+        "name": "É Foda...",
+        "artists": "Costa Gold",
+        "complete": true
       },
       {
         "id": 98377,
-        "name": "Muleque Zika",
-        "artists": "Tropa do Bruxo, Branco R.P.3, Dexter, DJ Chernobyl, CP no Beat, RIC MUSIC, Analogic",
-        "complete": 1
+        "name": "Agradecer",
+        "artists": "Costa Gold, Amanjé Sound System",
+        "complete": true
       },
       {
         "id": 98378,
-        "name": "Mais uma Semana",
-        "artists": "Tangi, Pelé MilFlows, Neo Beats, inBlack, Tio Thulio, CP no Beat",
-        "complete": 1
+        "name": "ATÍPICO",
+        "artists": "Djonga, Coyote Beatz",
+        "complete": true
       },
       {
         "id": 98379,
@@ -1107,9 +1111,9 @@
       },
       {
         "id": 98383,
-        "name": "Flow Kill Bill",
-        "artists": "Rod Rizz, Dj Paulo Beck, ET de Terno",
-        "complete": 1
+        "name": "JUNHO DE 94",
+        "artists": "Djonga, Coyote Beatz, DJ Cost",
+        "complete": true
       },
       {
         "id": 98384,
@@ -1119,9 +1123,9 @@
       },
       {
         "id": 98385,
-        "name": "Piratas Do Universo",
-        "artists": "Dom R, Scott Storch, CP no Beat, Malto",
-        "complete": 1
+        "name": "UFA",
+        "artists": "Djonga, Coyote Beatz, Sidoka, Sant",
+        "complete": true
       },
       {
         "id": 98386,
@@ -1173,8 +1177,8 @@
       },
       {
         "id": 98394,
-        "name": "Dás Arábia",
-        "artists": "Costa Gold",
+        "name": "LAMBO",
+        "artists": "WillsBife, Filipe Carti, Dalua",
         "complete": true
       },
       {

@@ -2,21 +2,19 @@
   {
     "id": 99108,
     "metadata": {
-      "title": "Pijama",
+      "title": "Aqua Di Giò",
       "artists": [
-        "jonaveliz"
+        "Duzz",
+        "L. Abner"
       ],
-      "album": "Pijama - Single",
-      "releaseDate": "2021-10-28T12:00:00Z",
-      "durationMs": 143557,
-      "genres": [
-        "Hip-Hop"
-      ],
-      "isrc": "QZNJX2140563",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/9b/26/e09b26e3-3a62-8673-b665-0942b0d07964/0.jpg/1000x1000bb.jpg",
+      "album": "offduzz, vol. 2",
+      "releaseDate": "2023-12-21",
+      "durationMs": 173000,
+      "genres": [],
+      "isrc": "QZW9M2319589",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3159cc3ed77943e651149c756c8f2130/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/pijama/1589596571?i=1589596572&uo=4",
-        "deezer": "https://www.deezer.com/track/1517348612"
+        "deezer": "https://www.deezer.com/track/2589999322"
       }
     },
     "lyricPath": "/lyrics/99108.txt"

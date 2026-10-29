@@ -2,18 +2,26 @@
   {
     "id": 99027,
     "metadata": {
-      "title": "LEVEL UP",
+      "title": "Diamante",
       "artists": [
-        "Sidoka"
+        "NGC Daddy",
+        "MC PH",
+        "Borges",
+        "Neo BXD",
+        "Oreozin",
+        "MC Lugu",
+        "MC GP",
+        "NGC Records",
+        "Murillo e LT no Beat"
       ],
-      "album": "LEVEL UP",
-      "releaseDate": "2026-04-10",
-      "durationMs": 233000,
+      "album": "Diamante",
+      "releaseDate": "2024-02-01",
+      "durationMs": 362000,
       "genres": [],
-      "isrc": "BK6NL2600014",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6327a0219b5592bfa1a33449a308bd09/1000x1000-000000-80-0-0.jpg",
+      "isrc": "QZ5AB2412344",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/67ffe5c62192503399e83e4ed20660c4/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3947444551"
+        "deezer": "https://www.deezer.com/track/2638005592"
       }
     },
     "lyricPath": "/lyrics/99027.txt"

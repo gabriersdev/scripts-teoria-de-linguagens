@@ -5,13 +5,26 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "extract": "tsx scripts/pipeline-extractor.ts",
+    "audit": "tsx scripts/dataset-audit.ts",
+    "audit:sync": "tsx scripts/dataset-audit.ts --sync",
+    "duplicates": "tsx scripts/duplicate-verifier.ts",
+    "duplicates:replace": "tsx scripts/duplicate-verifier.ts --replace",
+    "duplicates:fuzzy": "tsx scripts/duplicate-verifier.ts --fuzzy",
+    "fill:slots": "tsx scripts/track-slot-filler.ts",
+    "fill:artists": "tsx util/manual-artist-fill.ts",
+    "populate:artists": "tsx util/populate-artists.ts",
+    "verify:lyrics": "tsx scripts/sample-lyrics-verifier.ts",
+    "lookup:lyrics": "tsx scripts/lyrics-service.ts",
+    "lookup:metadata": "tsx scripts/track-metadata-service.ts",
+    "update:ids": "tsx util/update-lyrics-list-ids.ts"
   },
   "private": true,
   "dependencies": {
     "dotenv": "^18.0.5"
   },
   "devDependencies": {
-    "@types/node": "^26.6.4"
+    "@types/node": "^26.6.4",
+    "tsx": "^4.23.15"
   }
 }

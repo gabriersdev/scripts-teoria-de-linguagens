@@ -2,19 +2,19 @@
   {
     "id": 99068,
     "metadata": {
-      "title": "Máquina do Tempo",
+      "title": "O Mesmo",
       "artists": [
-        "Matuê"
+        "Duzz",
+        "Peunubeat"
       ],
-      "album": "Máquina do Tempo",
-      "releaseDate": "2020-09-10",
-      "durationMs": 230000,
+      "album": "offduzz, vol. 2",
+      "releaseDate": "2023-12-21",
+      "durationMs": 160000,
       "genres": [],
-      "isrc": "BXW922000009",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9ad06bcb9f0bfe52bbd5e6ff464e4ca4/1000x1000-000000-80-0-0.jpg",
+      "isrc": "QZW9M2319586",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3159cc3ed77943e651149c756c8f2130/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/659ad507-f346-4e21-acb5-14b4697da0cd",
-        "deezer": "https://www.deezer.com/track/1049882352"
+        "deezer": "https://www.deezer.com/track/2589999292"
       }
     },
     "lyricPath": "/lyrics/99068.txt"

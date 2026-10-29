@@ -2,19 +2,22 @@
   {
     "id": 98887,
     "metadata": {
-      "title": "Gorilla Roxo",
+      "title": "NA ONDA",
       "artists": [
-        "Matuê"
+        "Derek",
+        "Duquesa",
+        "Kafé"
       ],
-      "album": "Máquina do Tempo",
-      "releaseDate": "2020-09-10",
-      "durationMs": 165000,
-      "genres": [],
-      "isrc": "BXW922000006",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9ad06bcb9f0bfe52bbd5e6ff464e4ca4/1000x1000-000000-80-0-0.jpg",
+      "album": "Handel: Agrippina",
+      "releaseDate": "1997-01-01T12:00:00Z",
+      "durationMs": 84427,
+      "genres": [
+        "Classical"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b4/5b/79/b45b7975-0732-c924-7e73-5f3e192983b5/00028943800921.rgb.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/6c312773-983f-4e27-8e94-84d1ff9ad5e3",
-        "deezer": "https://www.deezer.com/track/1049882312"
+        "itunes": "https://music.apple.com/us/album/agrippina-act-3-lieto-il-tebro-increspi-londa/1452515840?i=1452518339&uo=4"
       }
     },
     "lyricPath": "/lyrics/98887.txt"

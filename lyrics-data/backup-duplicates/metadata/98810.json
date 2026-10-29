@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98810,
+    "metadata": {
+      "title": "Máquina do Tempo",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "Máquina do Tempo",
+      "releaseDate": "2020-09-10",
+      "durationMs": 230000,
+      "genres": [],
+      "isrc": "BXW922000009",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9ad06bcb9f0bfe52bbd5e6ff464e4ca4/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/659ad507-f346-4e21-acb5-14b4697da0cd",
+        "deezer": "https://www.deezer.com/track/1049882352"
+      }
+    },
+    "lyricPath": "/lyrics/98810.txt"
+  }
+]

@@ -2,22 +2,23 @@
   {
     "id": 98214,
     "metadata": {
-      "title": "Eliantte",
+      "title": "Si Lude Não!",
       "artists": [
-        "MC Caverinha",
-        "tal do dias"
+        "Costa Gold",
+        "Xis"
       ],
-      "album": "Eliantte - Single",
-      "releaseDate": "2026-07-30T12:00:00Z",
-      "durationMs": 160000,
+      "album": "Posfácio",
+      "releaseDate": "2014-11-20",
+      "durationMs": 269000,
       "genres": [
-        "Rap"
+        "Hip-Hop/Rap"
       ],
-      "isrc": "BRRGE2601315",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/e1/4e/39e14ec9-88ff-7ba9-36c2-bf593583c7e6/196874620557.jpg/1000x1000bb.jpg",
+      "isrc": "US7VG1579772",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/fc/b87bfcc5-33fa-6f68-bc7f-ac8eb8cb1693/646809667718.png/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/eliantte/6792147389?i=6792147390&uo=4",
-        "deezer": "https://www.deezer.com/track/4161586952"
+        "musicbrainz": "https://musicbrainz.org/recording/c1bf2bd2-0b45-4d2d-9295-34a04cf76c06",
+        "itunes": "https://music.apple.com/us/album/si-lude-n%C3%A3o-feat-xis/1832639302?i=1832639309&uo=4",
+        "deezer": "https://www.deezer.com/track/3491740131"
       }
     },
     "lyricPath": "/lyrics/98214.txt"
