@@ -2,6 +2,27 @@
 
 Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 
+## [1.4.0] - 2026-11-01
+
+### Adicionado
+- Mecanismo de busca textual e regex `scripts/lyrics-regex-search.ts`:
+  - Varredura de ocorrências de termos e expressões regulares sobre os 1.079 arquivos de letras em `/lyrics-data/lyrics/`.
+  - Cruzamento em tempo real com metadados do catálogo (`/lyrics-list`) para associar títulos, artistas e gêneros musicais.
+  - Suporte a sintaxe de expressão regular literal (`/padrao/flags`), busca por palavra exata (`--word` / `-w`), diferenciação de caixa (`--case-sensitive` / `-c`) e filtro por gênero (`--genre=<nome>`).
+  - Métricas analíticas agregadas por gênero: faixas analisadas, faixas com correspondência, total de ocorrências, taxa de difusão (%) e densidade média de aparições.
+  - Exibição de trechos com numeração de linha e ordenação decrescente por frequência de ocorrências.
+  - Suporte a saída estruturada em JSON (`--json`) e modo resumo estatístico (`--summary`).
+- Comando npm `"search:lyrics"` registrado em `package.json`.
+
+### Modificado
+- `scripts/lyrics-regex-search.ts`:
+  - Adicionado suporte a argumentos posicionais diretos (`npm run search:lyrics "<termo>" [genero] [all] [summary] [word]`), eliminando a necessidade de flags `--` e prevenindo que o PowerShell engula delimitadores.
+  - Corrigido o filtro de gênero (`--genre` / `-g`) para priorizar correspondência exata contra o catálogo de gêneros, prevenindo falsos positivos por substring (como `rap` colidindo com `trap` e `trap-extra`).
+  - Adicionado suporte a flags curtas e argumentos separados por espaço (`--genre rap`, `-g rap`, `-g=<nome>`, `-a`, `-l <N>`).
+- `index.html`:
+  - Implementada a navegação direta a partir do clique no nome do gênero na tabela "Detalhamento por Gênero" da aba de métricas, redirecionando para a "Consulta Global" filtrada pelo gênero selecionado.
+  - Ajustado o método `setTabAndGenre` para resetar os filtros de status e busca textual (`searchQuery`), exibindo imediatamente a relação de faixas correspondentes.
+
 ## [1.3.2] - 2026-10-28
 
 ### Adicionado

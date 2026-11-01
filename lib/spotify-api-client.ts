@@ -16,7 +16,7 @@ export class SpotifyApiClient {
       return null;
     }
   }
-
+  
   public async fetchAlbumTracks(albumId: string): Promise<SpotifyTrack[]> {
     try {
       const response = await fetch(`https://spotify.xwolf.space/api/album/${albumId}`);
@@ -33,7 +33,7 @@ export class SpotifyApiClient {
       return [];
     }
   }
-
+  
   public async fetchPlaylistTracks(playlistId: string): Promise<SpotifyTrack[]> {
     try {
       const response = await fetch(`https://spotify.xwolf.space/api/playlist/${playlistId}`);

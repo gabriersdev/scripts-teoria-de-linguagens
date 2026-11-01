@@ -34,12 +34,12 @@
     .text-capitalize * {
       text-transform: capitalize !important;
     }
-
+    
     .cursor-pointer {
       cursor: pointer;
       user-select: none;
     }
-
+    
     .cursor-pointer:hover {
       background-color: #e9ecef !important;
     }
@@ -122,7 +122,7 @@
       <main class="col-md-9 col-lg-10">
         <!-- Visao 1: Metricas e Qualidade -->
         <section v-if="currentTab === 'metrics'">
-          <div class="d-flex justify-content-between align-items-center mb-3">
+          <div class="d-flex gap-2 flex-wrap justify-content-between align-items-center mb-3">
             <div>
               <h1 class="h5 mb-1 text-dark fw-bold">Auditoria de Integridade do Corpus Musical</h1>
               <p class="text-secondary small mb-0">{{ tracks.length }} faixas analisadas diretamente nas listas JSON</p>
@@ -219,7 +219,16 @@
                 </thead>
                 <tbody>
                 <tr v-for="g in sortedGenreStats" :key="g.key">
-                  <td class="fw-medium text-dark">{{ g.name?.toString().toUpperCase() }}</td>
+                  <td class="fw-medium text-dark">
+                    <a
+                      href="#"
+                      class="text-decoration-none link-primary fw-semibold line-clamp-1"
+                      @click.prevent="setTabAndGenre('search', g.key)"
+                      :title="'Ver detalhamento do gênero ' + g.name"
+                    >
+                      {{ g.name?.toString().toUpperCase() }}
+                    </a>
+                  </td>
                   <td class="text-end">{{ g.total }}</td>
                   <td class="text-end text-success fw-medium">{{ g.both }}</td>
                   <td class="text-end text-warning">{{ g.metaOnly }}</td>
@@ -246,7 +255,7 @@
         
         <!-- Visao 2: Consulta Global -->
         <section v-if="currentTab === 'search'">
-          <div class="d-flex justify-content-between align-items-center mb-3">
+          <div class="d-flex gap-2 flex-wrap justify-content-between align-items-center mb-3">
             <div>
               <h1 class="h5 mb-1 text-dark fw-bold">Consulta Global de Músicas</h1>
               <p class="text-secondary small mb-0">Busca em tempo real por nome da música e artistas colaboradores</p>
@@ -341,10 +350,10 @@
                     <span class="text-capitalize">{{ (formatGenre(t.genre) || "")?.toString().toUpperCase() }}</span>
                   </td>
                   <td class="small text-uppercase">
-                    <span v-if="t.complete === true" class="text-success fw-medium">Completo</span>
-                    <span v-else-if="t.complete === 1" class="text-warning fw-medium">Apenas Metadados</span>
-                    <span v-else-if="t.status === 'lyricsOnly'" class="text-secondary fw-medium">Apenas Letra</span>
-                    <span v-else class="text-danger fw-medium">Pendente</span>
+                    <span v-if="t.complete === true" class="text-success fw-medium line-clamp-1">Completo</span>
+                    <span v-else-if="t.complete === 1" class="text-warning fw-medium line-clamp-1">Apenas Metadados</span>
+                    <span v-else-if="t.status === 'lyricsOnly'" class="text-secondary fw-medium line-clamp-1">Apenas Letra</span>
+                    <span v-else class="text-danger fw-medium line-clamp-1">Pendente</span>
                   </td>
                 </tr>
                 </tbody>
@@ -379,7 +388,7 @@
 
 <script>
   const {createApp} = Vue;
-
+  
   const SortButton = {
     name: 'SortButton',
     props: {
@@ -492,23 +501,23 @@
         if (!this.genreSortColumn) {
           return stats;
         }
-
+        
         const column = this.genreSortColumn;
         const direction = this.genreSortDirection === 'desc' ? -1 : 1;
-
+        
         return stats.sort((a, b) => {
           if (column === 'name') {
             const nameA = a.name || '';
             const nameB = b.name || '';
-            return nameA.localeCompare(nameB, 'pt-BR', { sensitivity: 'base' }) * direction;
+            return nameA.localeCompare(nameB, 'pt-BR', {sensitivity: 'base'}) * direction;
           }
-
+          
           if (column === 'percent') {
             const percentA = a.total > 0 ? a.both / a.total : 0;
             const percentB = b.total > 0 ? b.both / b.total : 0;
             return (percentA - percentB) * direction;
           }
-
+          
           const valA = Number(a[column]) || 0;
           const valB = Number(b[column]) || 0;
           return (valA - valB) * direction;
@@ -543,32 +552,32 @@
         if (!this.trackSortColumn) {
           return list;
         }
-
+        
         const column = this.trackSortColumn;
         const direction = this.trackSortDirection === 'desc' ? -1 : 1;
-
+        
         return list.sort((a, b) => {
           if (column === 'id') {
             const idA = Number(a.id) || 0;
             const idB = Number(b.id) || 0;
             return (idA - idB) * direction;
           }
-
+          
           if (column === 'genre') {
             const genreA = this.formatGenre(a.genre) || '';
             const genreB = this.formatGenre(b.genre) || '';
-            return genreA.localeCompare(genreB, 'pt-BR', { sensitivity: 'base' }) * direction;
+            return genreA.localeCompare(genreB, 'pt-BR', {sensitivity: 'base'}) * direction;
           }
-
+          
           if (column === 'status') {
             const statusA = this.getTrackStatusLabel(a);
             const statusB = this.getTrackStatusLabel(b);
-            return statusA.localeCompare(statusB, 'pt-BR', { sensitivity: 'base' }) * direction;
+            return statusA.localeCompare(statusB, 'pt-BR', {sensitivity: 'base'}) * direction;
           }
-
+          
           const valA = a[column] || '';
           const valB = b[column] || '';
-          return valA.toString().localeCompare(valB.toString(), 'pt-BR', { sensitivity: 'base' }) * direction;
+          return valA.toString().localeCompare(valB.toString(), 'pt-BR', {sensitivity: 'base'}) * direction;
         });
       },
       totalPages() {
@@ -666,9 +675,11 @@
         }
         this.currentPage = 1;
       },
-      setTabAndGenre(tab, genre) {
+      setTabAndGenre(tab, genre, status = '') {
         this.currentTab = tab;
         this.selectedGenre = genre;
+        this.selectedStatus = status;
+        this.searchQuery = '';
         this.currentPage = 1;
       }
     }

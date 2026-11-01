@@ -1,6 +1,6 @@
 import * as fs from 'fs/promises';
 import * as path from 'path';
-import { fileURLToPath } from 'url';
+import {fileURLToPath} from 'url';
 import {
   normalizeString,
   sanitizeTitle,
@@ -70,31 +70,31 @@ export interface VerifierOptions {
 
 export class DuplicateVerifier {
   private listDir: string;
-
+  
   constructor() {
     const baseDir = path.dirname(fileURLToPath(import.meta.url));
     this.listDir = path.resolve(baseDir, '../lyrics-list');
   }
-
+  
   public async loadAllTracks(): Promise<TrackRecord[]> {
     const files = (await fs.readdir(this.listDir))
       .filter(f => f.endsWith('.json'))
       .sort();
-
+    
     const tracks: TrackRecord[] = [];
-
+    
     for (const file of files) {
       const genre = file.replace('-list.json', '').replace('.json', '');
       const filePath = path.join(this.listDir, file);
       const raw = await fs.readFile(filePath, 'utf-8');
       const data: LyricsListFile[] = JSON.parse(raw);
-
+      
       for (const group of data) {
         if (!group.lyrics || !Array.isArray(group.lyrics)) continue;
-
+        
         for (const item of group.lyrics) {
           if (!item.name) continue;
-
+          
           const parsed = parseArtists(item.artists);
           tracks.push({
             id: item.id,
@@ -109,18 +109,18 @@ export class DuplicateVerifier {
         }
       }
     }
-
+    
     return tracks;
   }
-
+  
   public async run(options: VerifierOptions = {}): Promise<DuplicateReport> {
     let tracks = await this.loadAllTracks();
-
+    
     if (options.genreFilter) {
       const filter = options.genreFilter.toLowerCase();
       tracks = tracks.filter(t => t.genre.toLowerCase().includes(filter));
     }
-
+    
     // 1. Identificar Colisões de ID
     const idMap = new Map<string | number, TrackRecord[]>();
     for (const t of tracks) {
@@ -129,14 +129,14 @@ export class DuplicateVerifier {
       }
       idMap.get(t.id)!.push(t);
     }
-
+    
     const idCollisions: IdCollision[] = [];
     for (const [id, grouped] of idMap.entries()) {
       if (grouped.length > 1) {
-        idCollisions.push({ id, tracks: grouped });
+        idCollisions.push({id, tracks: grouped});
       }
     }
-
+    
     // 2. Agrupar por Título Limpo + Artista Primário
     const clusterMap = new Map<string, TrackRecord[]>();
     for (const t of tracks) {
@@ -149,15 +149,15 @@ export class DuplicateVerifier {
       }
       clusterMap.get(key)!.push(t);
     }
-
+    
     const sameGenreClusters: DuplicateCluster[] = [];
     const crossGenreClusters: DuplicateCluster[] = [];
-
+    
     for (const [key, group] of clusterMap.entries()) {
       if (group.length > 1) {
         const genres = Array.from(new Set(group.map(t => t.genre)));
         const isCrossGenre = genres.length > 1;
-
+        
         const cluster: DuplicateCluster = {
           key,
           title: group[0].name,
@@ -166,7 +166,7 @@ export class DuplicateVerifier {
           tracks: group,
           isCrossGenre
         };
-
+        
         if (isCrossGenre) {
           if (!options.sameGenreOnly) {
             crossGenreClusters.push(cluster);
@@ -178,7 +178,7 @@ export class DuplicateVerifier {
         }
       }
     }
-
+    
     // 3. Verificação Difusa (Fuzzy Matching) se solicitada
     const fuzzyPairs: FuzzyDuplicatePair[] = [];
     if (options.includeFuzzy) {
@@ -187,22 +187,22 @@ export class DuplicateVerifier {
           const a = tracks[i];
           const b = tracks[j];
           if (a.id === b.id) continue;
-
+          
           // Se já for match exato de chave, pula
           if (a.cleanTitle === b.cleanTitle && a.primaryArtist === b.primaryArtist) {
             continue;
           }
-
+          
           const similarTitle = isTitleSimilar(a.name, b.name);
           const artistMatches = matchArtist(a.primaryArtist, b.allArtists) || matchArtist(b.primaryArtist, a.allArtists);
-
+          
           if (similarTitle && artistMatches) {
-            fuzzyPairs.push({ trackA: a, trackB: b });
+            fuzzyPairs.push({trackA: a, trackB: b});
           }
         }
       }
     }
-
+    
     const report: DuplicateReport = {
       totalTracks: tracks.length,
       idCollisions,
@@ -210,16 +210,16 @@ export class DuplicateVerifier {
       crossGenreClusters,
       fuzzyPairs
     };
-
+    
     this.printCleanReport(report, options);
     return report;
   }
-
+  
   private printCleanReport(report: DuplicateReport, options: VerifierOptions): void {
     console.info();
     console.info(`Auditoria de Duplicatas do Corpus Musical (${report.totalTracks} faixas analisadas)`);
     console.info();
-
+    
     console.info('Resumo Geral:');
     console.info(`  Total de Faixas Analisadas:           ${report.totalTracks}`);
     console.info(`  Colisoes de Identificador (ID):        ${report.idCollisions.length}`);
@@ -229,7 +229,7 @@ export class DuplicateVerifier {
       console.info(`  Correspondencias Aproximadas (Fuzzy):  ${report.fuzzyPairs.length}`);
     }
     console.info();
-
+    
     // Secao 1: Colisoes de ID
     if (report.idCollisions.length > 0) {
       console.warn(`Colisoes de ID Detectadas (${report.idCollisions.length} casos):`);
@@ -241,7 +241,7 @@ export class DuplicateVerifier {
       }
       console.info();
     }
-
+    
     // Secao 2: Duplicatas no Mesmo Genero
     if (!options.crossGenreOnly && report.sameGenreClusters.length > 0) {
       console.info(`Duplicatas no Mesmo Genero (${report.sameGenreClusters.length} grupos):`);
@@ -252,7 +252,7 @@ export class DuplicateVerifier {
       }
       console.info();
     }
-
+    
     // Secao 3: Duplicatas Cruzadas
     if (!options.sameGenreOnly && report.crossGenreClusters.length > 0) {
       console.info(`Duplicatas Cruzadas entre Generos (${report.crossGenreClusters.length} grupos):`);
@@ -265,7 +265,7 @@ export class DuplicateVerifier {
       }
       console.info();
     }
-
+    
     // Secao 4: Fuzzy
     if (options.includeFuzzy && report.fuzzyPairs.length > 0) {
       console.info(`Correspondencias Aproximadas / Fuzzy (${report.fuzzyPairs.length} pares):`);
@@ -276,11 +276,11 @@ export class DuplicateVerifier {
       console.info();
     }
   }
-
+  
   public async replaceDuplicates(options: VerifierOptions = {}): Promise<TrackRecord[]> {
-    const report = await this.run({ ...options, includeFuzzy: false });
+    const report = await this.run({...options, includeFuzzy: false});
     const allClusters = [...report.sameGenreClusters, ...report.crossGenreClusters];
-
+    
     const toReplaceMap = new Map<number | string, TrackRecord>();
     for (const cluster of allClusters) {
       for (let i = 1; i < cluster.tracks.length; i++) {
@@ -288,27 +288,27 @@ export class DuplicateVerifier {
         toReplaceMap.set(tr.id, tr);
       }
     }
-
+    
     if (toReplaceMap.size === 0) {
       console.info('Nenhuma duplicata encontrada para substituir.');
       return [];
     }
-
+    
     const files = (await fs.readdir(this.listDir))
       .filter(f => f.endsWith('.json'))
       .sort();
-
+    
     const replacedTracks: TrackRecord[] = [];
-
+    
     for (const file of files) {
       const filePath = path.join(this.listDir, file);
       const raw = await fs.readFile(filePath, 'utf-8');
       const data: LyricsListFile[] = JSON.parse(raw);
       let fileModified = false;
-
+      
       for (const group of data) {
         if (!group.lyrics || !Array.isArray(group.lyrics)) continue;
-
+        
         for (const item of group.lyrics) {
           if (toReplaceMap.has(item.id)) {
             const tr = toReplaceMap.get(item.id)!;
@@ -320,29 +320,29 @@ export class DuplicateVerifier {
           }
         }
       }
-
+      
       if (fileModified) {
         await fs.writeFile(filePath, JSON.stringify(data, null, 2) + '\n', 'utf-8');
       }
     }
-
+    
     // Criar backup e desvincular arquivos fisicos obsoletos em lyrics-data
     const baseDir = path.dirname(fileURLToPath(import.meta.url));
     const dataDir = path.resolve(baseDir, '../lyrics-data');
     const metadataDir = path.join(dataDir, 'metadata');
     const lyricsDir = path.join(dataDir, 'lyrics');
     const backupDir = path.join(dataDir, 'backup-duplicates');
-
-    await fs.mkdir(path.join(backupDir, 'metadata'), { recursive: true });
-    await fs.mkdir(path.join(backupDir, 'lyrics'), { recursive: true });
-
+    
+    await fs.mkdir(path.join(backupDir, 'metadata'), {recursive: true});
+    await fs.mkdir(path.join(backupDir, 'lyrics'), {recursive: true});
+    
     let backedUpMetadata = 0;
     let backedUpLyrics = 0;
-
+    
     for (const tr of replacedTracks) {
       const metaFile = path.join(metadataDir, `${tr.id}.json`);
       const lyricFile = path.join(lyricsDir, `${tr.id}.txt`);
-
+      
       try {
         await fs.access(metaFile);
         await fs.rename(metaFile, path.join(backupDir, 'metadata', `${tr.id}.json`));
@@ -350,7 +350,7 @@ export class DuplicateVerifier {
       } catch {
         // Arquivo nao existe
       }
-
+      
       try {
         await fs.access(lyricFile);
         await fs.rename(lyricFile, path.join(backupDir, 'lyrics', `${tr.id}.txt`));
@@ -359,14 +359,14 @@ export class DuplicateVerifier {
         // Arquivo nao existe
       }
     }
-
+    
     console.info('Substituicao de duplicatas concluida com sucesso:');
     console.info(`  Total de faixas duplicadas substituidas: ${replacedTracks.length}`);
     console.info(`  Arquivos de metadados movidos para backup: ${backedUpMetadata}`);
     console.info(`  Arquivos de letra movidos para backup:     ${backedUpLyrics}`);
     console.info(`  Destino do backup:                        ${backupDir}`);
     console.info();
-
+    
     return replacedTracks;
   }
 }
@@ -380,7 +380,7 @@ if (isCLI) {
   const includeFuzzy = args.includes('--fuzzy');
   const doReplace = args.includes('--replace') || args.includes('--substitute');
   const genreArg = args.find(a => !a.startsWith('--'));
-
+  
   const verifier = new DuplicateVerifier();
   if (doReplace) {
     verifier.replaceDuplicates({

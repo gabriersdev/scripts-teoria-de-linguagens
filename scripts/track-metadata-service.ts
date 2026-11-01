@@ -58,7 +58,7 @@ export class TrackMetadataService {
         return;
       }
     }
-
+    
     if (!current.title && newH.title) current.title = newH.title;
     if (current.artists.length === 0 && newH.artists && newH.artists.length > 0) current.artists = newH.artists;
     if (!current.album && newH.album) current.album = newH.album;
@@ -80,9 +80,9 @@ export class TrackMetadataService {
   }
   
   public async fetchMetadata(queryTitle: string, queryArtist?: string, manualGenresInfo?: string[]): Promise<TrackMetadata> {
-    const { primaryArtist, allArtists } = parseArtists(queryArtist);
+    const {primaryArtist, allArtists} = parseArtists(queryArtist);
     const cleanTitle = sanitizeTitle(queryTitle);
-
+    
     const meta: TrackMetadata = {
       title: queryTitle,
       artists: allArtists.length > 0 ? allArtists : (queryArtist ? [queryArtist] : []),
@@ -94,7 +94,7 @@ export class TrackMetadataService {
       coverUrl: null,
       sources: {}
     };
-
+    
     const isSingleWord = !cleanTitle.includes(" ");
     const hasNoArtist = allArtists.length === 0;
     const shouldSkipMusicBrainzFirst = isSingleWord && hasNoArtist;
@@ -126,12 +126,12 @@ export class TrackMetadataService {
     try {
       const sanitizedTitleQuery = title.replace(/"/g, "");
       let query = `recording:"${sanitizedTitleQuery}"`;
-
+      
       if (primaryArtist) {
         const sanitizedArtist = primaryArtist.replace(/"/g, "");
         query = `recording:"${sanitizedTitleQuery}" AND artist:"${sanitizedArtist}"`;
       }
-
+      
       const url = `https://musicbrainz.org/ws/2/recording/?query=${encodeURIComponent(query)}&inc=releases+isrcs+tags&fmt=json&limit=5`;
       
       await this.delay(1000);
@@ -148,7 +148,7 @@ export class TrackMetadataService {
         const titleMatched = isTitleSimilar(title, rec.title);
         return artistMatched && titleMatched;
       });
-
+      
       if (!candidate) return null;
       
       const release = candidate.releases && candidate.releases.length > 0 ? candidate.releases[0] : null;
@@ -184,9 +184,9 @@ export class TrackMetadataService {
         const titleMatched = isTitleSimilar(title, rec.trackName);
         return artistMatched && titleMatched;
       });
-
+      
       if (!candidate) return null;
-
+      
       const coverUrl = candidate.artworkUrl100 ? candidate.artworkUrl100.replace('100x100bb', '1000x1000bb') : null;
       
       return {
@@ -222,7 +222,7 @@ export class TrackMetadataService {
           data = await response.json();
         }
       }
-
+      
       if (!data.data || data.data.length === 0) return null;
       
       const candidate = data.data.find((rec: any) => {
@@ -230,7 +230,7 @@ export class TrackMetadataService {
         const titleMatched = isTitleSimilar(title, rec.title);
         return artistMatched && titleMatched;
       });
-
+      
       if (!candidate) return null;
       
       const trackUrl = `https://api.deezer.com/track/${candidate.id}`;
@@ -266,12 +266,12 @@ const isCLI = typeof process !== 'undefined' && process.argv && process.argv[1] 
 if (isCLI) {
   const songArg = process.argv[2];
   const artistArg = process.argv[3];
-
+  
   if (!songArg) {
     console.log("Uso: npx tsx scripts/track-metadata-service.ts \"<Nome da Musica>\" \"<Artista(s)>\"");
     process.exit(1);
   }
-
+  
   const service = new TrackMetadataService();
   service.fetchMetadata(songArg, artistArg).then((meta) => {
     console.log("\nMetadados extraidos com sucesso:\n");
