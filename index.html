@@ -220,8 +220,12 @@
                 <tbody>
                 <tr v-for="g in sortedGenreStats" :key="g.key">
                   <td class="fw-medium text-dark">
-<!--                    TODO: adicionar link ou botão para carregamento o detalhamento DO GENERO -->
-                    <a href="#" class="cursor-pointer line-clamp-1">
+<a
+                      href="#"
+                      class="text-decoration-none link-primary fw-semibold line-clamp-1"
+                      @click.prevent="setTabAndGenre('search', g.key)"
+                      :title="'Ver detalhamento do gênero ' + g.name"
+                    >
                       {{ g.name?.toString().toUpperCase() }}
                     </a>
                   </td>
@@ -671,9 +675,11 @@
         }
         this.currentPage = 1;
       },
-      setTabAndGenre(tab, genre) {
+      setTabAndGenre(tab, genre, status = '') {
         this.currentTab = tab;
         this.selectedGenre = genre;
+        this.selectedStatus = status;
+        this.searchQuery = '';
         this.currentPage = 1;
       }
     }

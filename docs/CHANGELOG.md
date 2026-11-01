@@ -14,6 +14,11 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
   - Suporte a saída estruturada em JSON (`--json`) e modo resumo estatístico (`--summary`).
 - Comando npm `"search:lyrics"` registrado em `package.json`.
 
+### Modificado
+- `index.html`:
+  - Implementada a navegação direta a partir do clique no nome do gênero na tabela "Detalhamento por Gênero" da aba de métricas, redirecionando para a "Consulta Global" filtrada pelo gênero selecionado.
+  - Ajustado o método `setTabAndGenre` para resetar os filtros de status e busca textual (`searchQuery`), exibindo imediatamente a relação de faixas correspondentes.
+
 ## [1.3.2] - 2026-10-28
 
 ### Adicionado
