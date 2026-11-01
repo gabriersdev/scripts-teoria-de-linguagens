@@ -118,11 +118,11 @@ export class LyricsService {
           continue;
         }
         
-        return { candidate: item, cleanLyrics };
+        return {candidate: item, cleanLyrics};
       }
       return null;
     };
-
+    
     const url = new URL("https://lrclib.net/api/search");
     if (primaryArtist) {
       url.searchParams.set("track_name", cleanTitle);
@@ -165,9 +165,9 @@ export class LyricsService {
         return artistMatched && titleMatched;
       })?.result ?? null;
     };
-
+    
     let matchedSong: GeniusSearchResult | null = null;
-
+    
     if (this.geniusAccessToken) {
       const searchTerm = `${primaryArtist} ${cleanTitle}`.trim();
       const url = new URL("https://api.genius.com/search");
@@ -200,7 +200,7 @@ export class LyricsService {
         }
       }
     }
-
+    
     // Fallback: endpoint publico do Genius (sem necessidade de token / contorna rate limit 429)
     if (!matchedSong) {
       const publicSearchTerms = [`${primaryArtist} ${cleanTitle}`.trim(), cleanTitle];
@@ -218,7 +218,7 @@ export class LyricsService {
             }>;
           };
         }>(publicUrl);
-
+        
         for (const section of publicRes?.response?.sections || []) {
           if (section.type === "song" || section.type === "top_hit") {
             matchedSong = findSongHit(section.hits || []);
@@ -228,7 +228,7 @@ export class LyricsService {
         if (matchedSong) break;
       }
     }
-
+    
     return matchedSong;
   }
   
