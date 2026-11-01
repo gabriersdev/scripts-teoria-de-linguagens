@@ -2,6 +2,18 @@
 
 Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 
+## [1.4.0] - 2026-11-01
+
+### Adicionado
+- Mecanismo de busca textual e regex `scripts/lyrics-regex-search.ts`:
+  - Varredura de ocorrências de termos e expressões regulares sobre os 1.079 arquivos de letras em `/lyrics-data/lyrics/`.
+  - Cruzamento em tempo real com metadados do catálogo (`/lyrics-list`) para associar títulos, artistas e gêneros musicais.
+  - Suporte a sintaxe de expressão regular literal (`/padrao/flags`), busca por palavra exata (`--word` / `-w`), diferenciação de caixa (`--case-sensitive` / `-c`) e filtro por gênero (`--genre=<nome>`).
+  - Métricas analíticas agregadas por gênero: faixas analisadas, faixas com correspondência, total de ocorrências, taxa de difusão (%) e densidade média de aparições.
+  - Exibição de trechos com numeração de linha e ordenação decrescente por frequência de ocorrências.
+  - Suporte a saída estruturada em JSON (`--json`) e modo resumo estatístico (`--summary`).
+- Comando npm `"search:lyrics"` registrado em `package.json`.
+
 ## [1.3.2] - 2026-10-28
 
 ### Adicionado
