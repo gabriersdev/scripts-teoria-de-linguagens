@@ -15,6 +15,10 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 - Comando npm `"search:lyrics"` registrado em `package.json`.
 
 ### Modificado
+- `scripts/lyrics-regex-search.ts`:
+  - Adicionado suporte a argumentos posicionais diretos (`npm run search:lyrics "<termo>" [genero] [all] [summary] [word]`), eliminando a necessidade de flags `--` e prevenindo que o PowerShell engula delimitadores.
+  - Corrigido o filtro de gênero (`--genre` / `-g`) para priorizar correspondência exata contra o catálogo de gêneros, prevenindo falsos positivos por substring (como `rap` colidindo com `trap` e `trap-extra`).
+  - Adicionado suporte a flags curtas e argumentos separados por espaço (`--genre rap`, `-g rap`, `-g=<nome>`, `-a`, `-l <N>`).
 - `index.html`:
   - Implementada a navegação direta a partir do clique no nome do gênero na tabela "Detalhamento por Gênero" da aba de métricas, redirecionando para a "Consulta Global" filtrada pelo gênero selecionado.
   - Ajustado o método `setTabAndGenre` para resetar os filtros de status e busca textual (`searchQuery`), exibindo imediatamente a relação de faixas correspondentes.

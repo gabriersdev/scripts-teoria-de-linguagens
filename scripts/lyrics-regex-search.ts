@@ -118,8 +118,14 @@ export class LyricsRegexSearch {
     let pattern = rawInput.trim();
     let flags = options.caseSensitive ? 'g' : 'gi';
     
-    // Suporte a sintaxe literal de expressao regular: /padrao/flags
-    if (pattern.startsWith('/') && pattern.lastIndexOf('/') > 0) {
+    // Tratamento para Git Bash / MSYS no Windows:
+    // O Git Bash converte argumentos iniciados com barra (ex: "/\btermo\b/") para "//btermo/b/"
+    if (pattern.startsWith('//b') && pattern.endsWith('/b/')) {
+      pattern = `\\b${pattern.slice(3, -3)}\\b`;
+    } else if (pattern.startsWith('/b') && pattern.endsWith('/b/')) {
+      pattern = `\\b${pattern.slice(2, -3)}\\b`;
+    } else if (pattern.startsWith('/') && pattern.lastIndexOf('/') > 0) {
+      // Suporte a sintaxe literal de expressao regular: /padrao/flags
       const lastSlashIdx = pattern.lastIndexOf('/');
       const extractedPattern = pattern.slice(1, lastSlashIdx);
       const extractedFlags = pattern.slice(lastSlashIdx + 1);
@@ -160,6 +166,10 @@ export class LyricsRegexSearch {
     let totalAnalyzed = 0;
     let totalOccurrences = 0;
     
+    const knownGenres = new Set(Array.from(trackIndex.values()).map(t => t.genre.toLowerCase()));
+    const normalizedFilter = options.genreFilter?.trim().toLowerCase();
+    const isExactGenre = normalizedFilter ? knownGenres.has(normalizedFilter) : false;
+    
     for (const file of lyricFiles) {
       const id = file.replace('.txt', '');
       const track = trackIndex.get(id) || {
@@ -169,9 +179,12 @@ export class LyricsRegexSearch {
         genre: 'desconhecido'
       };
       
-      if (options.genreFilter) {
-        const filterLower = options.genreFilter.toLowerCase();
-        if (!track.genre.toLowerCase().includes(filterLower)) {
+      if (normalizedFilter) {
+        const trackGenre = track.genre.toLowerCase();
+        const matches = isExactGenre
+          ? trackGenre === normalizedFilter
+          : trackGenre.includes(normalizedFilter);
+        if (!matches) {
           continue;
         }
       }
@@ -341,23 +354,22 @@ export class LyricsRegexSearch {
 
 function showHelp(): void {
   console.info('Uso:');
-  console.info('  npx tsx scripts/lyrics-regex-search.ts "<padrao-ou-palavra>" [opcoes]');
+  console.info('  npm run search:lyrics "<padrao-ou-palavra>" [genero] [all] [summary] [word]');
+  console.info('  npm run search:lyrics \'--\' "<padrao-ou-palavra>" [opcoes com --]');
   console.info();
-  console.info('Exemplos:');
-  console.info('  npx tsx scripts/lyrics-regex-search.ts "amor"');
-  console.info('  npx tsx scripts/lyrics-regex-search.ts "\\bamor\\b"');
-  console.info('  npx tsx scripts/lyrics-regex-search.ts "/(?:dinheiro|grana)/i"');
-  console.info('  npx tsx scripts/lyrics-regex-search.ts "saudade" --genre=sertanejo');
-  console.info('  npx tsx scripts/lyrics-regex-search.ts "fogo" --word');
-  console.info('  npx tsx scripts/lyrics-regex-search.ts "favela" --all');
-  console.info('  npx tsx scripts/lyrics-regex-search.ts "tempo" --summary');
+  console.info('Exemplos (Sem necessidade de flags -- ou aspas especiais):');
+  console.info('  npm run search:lyrics "/\\bputa\\b/" trap-extra all');
+  console.info('  npm run search:lyrics "puta" trap-extra word all');
+  console.info('  npm run search:lyrics "amor" sertanejo');
+  console.info('  npm run search:lyrics "/(?:dinheiro|grana)/i" rap all');
+  console.info('  npm run search:lyrics "favela" all summary');
   console.info();
-  console.info('Opcoes:');
-  console.info('  --genre=<nome>        Filtra a busca por um genero especifico (funk, rock, rap, sertanejo, etc.)');
+  console.info('Opcoes via flag (quando usar \'--\'):');
+  console.info('  --genre=<nome>, -g    Filtra a busca por um genero especifico (funk, rock, rap, sertanejo, etc.)');
   console.info('  --word, -w            Garante correspondencia de palavra inteira (adiciona delimitadores \\b)');
   console.info('  --case-sensitive, -c  Diferencia maiusculas de minusculas (padrao: case-insensitive)');
-  console.info('  --limit=<N>           Limite de faixas detalhadas a exibir (padrao: 20)');
-  console.info('  --all                 Exibe todas as faixas sem limite');
+  console.info('  --limit=<N>, -l       Limite de faixas detalhadas a exibir (padrao: 20)');
+  console.info('  --all, -a             Exibe todas as faixas sem limite');
   console.info('  --summary             Exibe apenas o resumo estatistico sem linhas detalhadas');
   console.info('  --json                Retorna o resultado estruturado em formato JSON');
   console.info('  --help, -h            Exibe esta mensagem de ajuda');
@@ -376,23 +388,41 @@ if (isCLI) {
   let patternArg: string | undefined;
   const options: SearchOptions = {};
   
-  for (const arg of args) {
+  for (let i = 0; i < args.length; i++) {
+    const arg = args[i];
     if (arg.startsWith('--genre=')) {
       options.genreFilter = arg.replace('--genre=', '');
+    } else if ((arg === '--genre' || arg === '-g') && i + 1 < args.length && !args[i + 1].startsWith('-')) {
+      options.genreFilter = args[++i];
+    } else if (arg.startsWith('-g=')) {
+      options.genreFilter = arg.replace('-g=', '');
     } else if (arg === '--word' || arg === '-w') {
       options.wholeWord = true;
     } else if (arg === '--case-sensitive' || arg === '-c') {
       options.caseSensitive = true;
     } else if (arg === '--summary' || arg === '--summary-only') {
       options.summaryOnly = true;
-    } else if (arg === '--all') {
+    } else if (arg === '--all' || arg === '-a') {
       options.limit = 0;
     } else if (arg.startsWith('--limit=')) {
       options.limit = parseInt(arg.replace('--limit=', ''), 10);
+    } else if ((arg === '--limit' || arg === '-l') && i + 1 < args.length && !args[i + 1].startsWith('-')) {
+      options.limit = parseInt(args[++i], 10);
     } else if (arg === '--json') {
       options.outputJson = true;
-    } else if (!patternArg && !arg.startsWith('--')) {
+    } else if (!patternArg && !arg.startsWith('-')) {
       patternArg = arg;
+    } else if (!arg.startsWith('-')) {
+      const lower = arg.toLowerCase();
+      if (lower === 'all') {
+        options.limit = 0;
+      } else if (lower === 'summary') {
+        options.summaryOnly = true;
+      } else if (lower === 'word') {
+        options.wholeWord = true;
+      } else if (!options.genreFilter) {
+        options.genreFilter = arg;
+      }
     }
   }
   
