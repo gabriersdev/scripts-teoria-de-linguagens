@@ -48,6 +48,6 @@ function scanDirectory(currentPath: string): void {
 scanDirectory(directory);
 
 console.log("Resultado");
-console.log(`Arquivos analisados: ${totalFiles}`);
-console.log(`Linhas com conteúdo: ${totalLines}`);
+console.log(`Arquivos analisados: ${totalFiles.toLocaleString()}`);
+console.log(`Linhas com conteúdo: ${totalLines.toLocaleString()}`);
 // console.log(`Caracteres (sem espaços): ${totalCharacters}`);
