@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-BR" xmlns="http://www.w3.org/1999/html">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,7 +15,7 @@
     }
     
     body {
-      font-family: var(--bs-body-font-family);
+      font-family: var(--bs-body-font-family), sans-serif;
     }
     
     [class*="line-clamp-"] {
@@ -42,6 +42,10 @@
     
     .cursor-pointer:hover {
       background-color: #e9ecef !important;
+    }
+    
+    .text-small, small {
+      font-size: 13px !important;
     }
   </style>
 </head>
@@ -135,32 +139,52 @@
           <!-- Resumo Geral em Caixas Simples (Sem Aninhamento) -->
           <div class="row g-3 mb-4">
             <div class="col-sm-6 col-xl-3">
-              <div class="card border p-3">
+              <a
+                href="#"
+                class="card border p-3 text-decoration-none cursor-pointer"
+                @click.prevent="setTabAndGenre('search', '', 'both')"
+                title="Filtrar músicas completas na consulta global"
+              >
                 <div class="text-secondary small mb-1">Completo (Metadados + Letra)</div>
                 <div class="h4 mb-1 text-success fw-bold">{{ summary.both }}</div>
                 <div class="text-secondary small">{{ calcPercent(summary.both, summary.total) }} do total</div>
-              </div>
+              </a>
             </div>
             <div class="col-sm-6 col-xl-3">
-              <div class="card border p-3">
+              <a
+                href="#"
+                class="card border p-3 text-decoration-none cursor-pointer"
+                @click.prevent="setTabAndGenre('search', '', 'metaOnly')"
+                title="Filtrar músicas apenas com metadados na consulta global"
+              >
                 <div class="text-secondary small mb-1">Apenas metadados (Falta letra)</div>
                 <div class="h4 mb-1 text-warning fw-bold">{{ summary.metaOnly }}</div>
                 <div class="text-secondary small">{{ calcPercent(summary.metaOnly, summary.total) }} do total</div>
-              </div>
+              </a>
             </div>
             <div class="col-sm-6 col-xl-3">
-              <div class="card border p-3">
+              <a
+                href="#"
+                class="card border p-3 text-decoration-none cursor-pointer"
+                @click.prevent="setTabAndGenre('search', '', 'lyricsOnly')"
+                title="Filtrar músicas apenas com letra na consulta global"
+              >
                 <div class="text-secondary small mb-1">Apenas letra (Falta metadados)</div>
                 <div class="h4 mb-1 text-secondary fw-bold">{{ summary.lyricsOnly }}</div>
                 <div class="text-secondary small">{{ calcPercent(summary.lyricsOnly, summary.total) }} do total</div>
-              </div>
+              </a>
             </div>
             <div class="col-sm-6 col-xl-3">
-              <div class="card border p-3">
+              <a
+                href="#"
+                class="card border p-3 text-decoration-none cursor-pointer"
+                @click.prevent="setTabAndGenre('search', '', 'neither')"
+                title="Filtrar músicas sem dados extraídos na consulta global"
+              >
                 <div class="text-secondary small mb-1">Nenhum Dado Extraído</div>
                 <div class="h4 mb-1 text-danger fw-bold">{{ summary.neither }}</div>
                 <div class="text-secondary small">{{ calcPercent(summary.neither, summary.total) }} do total</div>
-              </div>
+              </a>
             </div>
           </div>
           
@@ -222,7 +246,7 @@
                   <td class="fw-medium text-dark">
                     <a
                       href="#"
-                      class="text-decoration-none link-primary fw-semibold line-clamp-1"
+                      class="text-decoration text-body line-clamp-1"
                       @click.prevent="setTabAndGenre('search', g.key)"
                       :title="'Ver detalhamento do gênero ' + g.name"
                     >
@@ -267,31 +291,37 @@
           <div class="card border p-3 mb-3">
             <div class="row g-2">
               <div class="col-md-6">
-                <label class="form-label small fw-semibold text-secondary mb-1">Nome da Música ou Artista</label>
-                <input
-                  type="text"
-                  class="form-control form-control-sm"
-                  placeholder="Ex: Puxa o Lança, Veigh, Ratos de Porão..."
-                  v-model="searchQuery"
-                  @input="currentPage = 1"
-                >
+                <label class="w-100">
+                  <span class="form-label small fw-semibold text-secondary mb-1">Nome da Música ou Artista</span>
+                  <input
+                    type="text"
+                    class="form-control form-control-sm text-uppercase"
+                    placeholder="Ex: EJA, Veigh, Ryu, the runner..."
+                    v-model="searchQuery"
+                    @input="currentPage = 1"
+                  >
+                </label>
               </div>
               <div class="col-md-3">
-                <label class="form-label small fw-semibold text-secondary mb-1">Gênero</label>
-                <select class="form-select form-select-sm" v-model="selectedGenre" @change="currentPage = 1">
-                  <option value="">Todos os Gêneros</option>
-                  <option v-for="g in genres" :key="g.key" :value="g.key">{{ g.name }}</option>
-                </select>
+                <label class="w-100">
+                  <span class="form-label small fw-semibold text-secondary mb-1">Gênero</span>
+                  <select class="form-select form-select-sm text-uppercase" v-model="selectedGenre" @change="currentPage = 1">
+                    <option value="">Todos os Gêneros</option>
+                    <option v-for="g in genres" :key="g.key" :value="g.key">{{ g.name }}</option>
+                  </select>
+                </label>
               </div>
               <div class="col-md-3">
-                <label class="form-label small fw-semibold text-secondary mb-1">Status</label>
-                <select class="form-select form-select-sm" v-model="selectedStatus" @change="currentPage = 1">
-                  <option value="">Todos os Status</option>
-                  <option value="both">Completo</option>
-                  <option value="metaOnly">Apenas metadados</option>
-                  <option value="lyricsOnly">Apenas letra</option>
-                  <option value="neither">Pendente</option>
-                </select>
+                <label class="w-100">
+                  <span class="form-label small fw-semibold text-secondary mb-1">Status</span>
+                  <select class="form-select form-select-sm text-uppercase" v-model="selectedStatus" @change="currentPage = 1">
+                    <option value="">Todos os Status</option>
+                    <option value="both">Completo</option>
+                    <option value="metaOnly">Apenas metadados</option>
+                    <option value="lyricsOnly">Apenas letra</option>
+                    <option value="neither">Pendente</option>
+                  </select>
+                </label>
               </div>
             </div>
           </div>
@@ -341,13 +371,38 @@
                   </td>
                 </tr>
                 <tr v-for="t in paginatedTracks" :key="t.id">
-                  <td class="text-secondary small">{{ t.id }}</td>
-                  <td class="fw-medium text-dark line-clamp-1">{{ t.name?.toString().toUpperCase() }}</td>
+                  <td class="text-secondary small">
+                    <a
+                      href="#"
+                      class="text-decoration text-body-secondary"
+                      @click.prevent="openTrackDetails(t)"
+                      title="Conferir detalhes da música"
+                    >
+                      {{ t.id }}
+                    </a>
+                  </td>
+                  <td class="fw-medium text-dark">
+                    <a
+                      href="#"
+                      class="text-decoration text-body"
+                      @click.prevent="openTrackDetails(t)"
+                      title="Conferir detalhes da música"
+                    >
+                      <span class="line-clamp-1">{{ t.name?.toString().toUpperCase() }}</span>
+                    </a>
+                  </td>
                   <td class="text-secondary small">
                     <span class="line-clamp-1">{{ (t.artists || "Não informado")?.toString().toUpperCase() }}</span>
                   </td>
                   <td class="small">
-                    <span class="text-capitalize">{{ (formatGenre(t.genre) || "")?.toString().toUpperCase() }}</span>
+                    <a
+                      href="#"
+                      class="text-decoration text-body-secondary line-clamp-1"
+                      @click.prevent="setTabAndGenre('search', t.genre)"
+                      :title="'Ver detalhamento do gênero ' + formatGenre(t.genre)"
+                    >
+                      <span class="text-capitalize">{{ (formatGenre(t.genre) || "")?.toString().toUpperCase() }}</span>
+                    </a>
                   </td>
                   <td class="small text-uppercase">
                     <span v-if="t.complete === true" class="text-success fw-medium line-clamp-1">Completo</span>
@@ -379,6 +434,139 @@
           </div>
         </section>
       </main>
+    </div>
+  </div>
+  
+  <!-- Offcanvas: Detalhes da Música -->
+  <div
+    class="offcanvas offcanvas-end"
+    tabindex="-1"
+    id="trackDetailsOffcanvas"
+    aria-labelledby="trackDetailsOffcanvasLabel"
+    style="width: 520px; max-width: 95vw;"
+  >
+    <div class="offcanvas-header border-bottom py-3">
+      <div class="overflow-hidden pe-2">
+        <span class="text-secondary small d-block">Música #{{ selectedTrack?.id }}</span>
+        <h5 class="offcanvas-title h6 fw-bold text-dark text-truncate mb-0" id="trackDetailsOffcanvasLabel">
+          {{ selectedTrack?.name }}
+        </h5>
+      </div>
+      <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Fechar"></button>
+    </div>
+    
+    <div class="offcanvas-body p-3">
+      <!-- Loading State -->
+      <div v-if="trackDetailsLoading" class="text-center py-5">
+        <div class="spinner-border spinner-border-sm text-primary mb-2" role="status"></div>
+        <p class="text-secondary small mb-0">Carregando informações da faixa...</p>
+      </div>
+      
+      <div v-else-if="selectedTrack">
+        <!-- Cabeçalho Informativo: Gênero, Status e Artistas -->
+        <div class="mb-5">
+          <div class="d-flex align-items-center justify-content-between mb-2">
+            <span class="fw-normal text-uppercase">
+              {{ formatGenre(selectedTrack.genre) }}
+            </span>
+            <span v-if="selectedTrack.complete === true" class="text-success small fw-medium">Completo</span>
+            <span v-else-if="selectedTrack.complete === 1" class="text-warning small fw-medium">Apenas Metadados</span>
+            <span v-else-if="selectedTrack.status === 'lyricsOnly'" class="text-secondary small fw-medium">Apenas Letra</span>
+            <span v-else class="text-danger small fw-medium">Pendente</span>
+          </div>
+          
+          <div class="text-secondary small mb-1">Artistas:</div>
+          <div class="text-dark fw-medium text-capitalize">
+            {{ selectedTrack.artists || "Não informado" }}
+          </div>
+        </div>
+        
+        <!-- Seção: Metadados Técnicos -->
+        <div class="mb-5">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <span class="fw-semibold small text-dark">Metadados</span>
+            <span v-if="trackMetadata" class="text-success text-small">Disponível</span>
+            <span v-else class="text-secondary text-small">Não encontrado</span>
+          </div>
+          
+          <div v-if="trackMetadata" class="small">
+            <div class="d-flex gap-3 align-items-start mb-3" v-if="trackMetadata.coverUrl">
+              <img
+                :src="trackMetadata.coverUrl"
+                alt="Capa do Álbum"
+                class="flex-shrink-0 border"
+                style="width: 88px; height: 88px; object-fit: cover;"
+              >
+              <div class="overflow-hidden">
+                <span class="text-secondary d-block" style="font-size: 0.75rem;">Álbum</span>
+                <span class="text-dark fw-medium text-truncate d-block mb-1">{{ (trackMetadata.album || "Não informado").toUpperCase() }}</span>
+                <span class="text-secondary d-block" style="font-size: 0.75rem;">Lançamento</span>
+                <span class="text-dark">{{ (trackMetadata.releaseDate) || "Não informado" }}</span>
+              </div>
+            </div>
+            
+            <div class="row g-2 pt-1 border-top" v-if="!trackMetadata.coverUrl">
+              <div class="col-6" v-if="trackMetadata.album">
+                <span class="text-secondary d-block" style="font-size: 0.75rem;">Álbum:</span>
+                <span class="text-dark text-truncate d-block">{{ trackMetadata.album }}</span>
+              </div>
+              <div class="col-6" v-if="trackMetadata.releaseDate">
+                <span class="text-secondary d-block" style="font-size: 0.75rem;">Lançamento:</span>
+                <span class="text-dark">{{ trackMetadata.releaseDate }}</span>
+              </div>
+            </div>
+            
+            <div class="row g-2 pt-2 border-top">
+              <div class="col-6">
+                <span class="text-secondary d-block" style="font-size: 0.75rem;">Duração:</span>
+                <span class="text-dark">{{ formatDuration(trackMetadata.durationMs) }}</span>
+              </div>
+              <div class="col-6">
+                <span class="text-secondary d-block" style="font-size: 0.75rem;">Código ISRC:</span>
+                <span class="text-dark" v-if="trackMetadata.isrc">{{ trackMetadata.isrc }}</span>
+                <span class="text-secondary" v-else>Não informado</span>
+              </div>
+            </div>
+            
+            <div class="pt-2 border-top mt-2" v-if="trackMetadata.sources && Object.keys(trackMetadata.sources).length > 0">
+              <span class="text-secondary d-block mb-1" style="font-size: 0.75rem;">Fontes de Metadados:</span>
+              <div class="d-flex flex-wrap gap-2">
+                <a
+                  v-for="(url, provider) in trackMetadata.sources"
+                  :key="provider"
+                  :href="url"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="text-uppercase text-body"
+                >
+                  {{ provider }}
+                </a>
+              </div>
+            </div>
+          </div>
+          
+          <div v-else class="text-secondary small">
+            Nenhum arquivo de metadados localizado em <span>lyrics-data/metadata/{{ selectedTrack.id }}.json</span>.
+          </div>
+        </div>
+        
+        <!-- Seção: Letra da Música -->
+        <div class="">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <span class="fw-semibold small text-dark">Letra da Música</span>
+            <span v-if="trackLyrics" class="text-success text-small">Disponível</span>
+            <span v-else class="text-secondary text-small">Não encontrada</span>
+          </div>
+          
+          <div v-if="trackLyrics" class="bg-light border rounded p-3 overflow-auto">
+            <pre class="mb-0 text-dark small" style="white-space: pre-wrap; font-family: inherit;">{{ trackLyrics }}</pre>
+          </div>
+          
+          <div v-else class="text-secondary small">
+            Nenhum arquivo de letra localizado em <span>lyrics-data/lyrics/{{ selectedTrack.id }}.txt</span>.
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
@@ -441,6 +629,11 @@
         genreSortDirection: 'asc',
         trackSortColumn: 'id',
         trackSortDirection: 'asc',
+        selectedTrack: null,
+        trackMetadata: null,
+        trackLyrics: null,
+        trackDetailsLoading: false,
+        offcanvasInstance: null,
         genres: [
           {key: 'funk', name: 'Funk', file: './lyrics-list/funk-list.json'},
           {key: 'rap', name: 'Rap', file: './lyrics-list/rap-list.json'},
@@ -681,6 +874,49 @@
         this.selectedStatus = status;
         this.searchQuery = '';
         this.currentPage = 1;
+      },
+      formatDuration(ms) {
+        if (!ms || isNaN(ms)) return 'Não informada';
+        const totalSec = Math.floor(ms / 1000);
+        const min = Math.floor(totalSec / 60);
+        const sec = totalSec % 60;
+        return `${min}:${sec.toString().padStart(2, '0')}`;
+      },
+      async openTrackDetails(track) {
+        this.selectedTrack = track;
+        this.trackMetadata = null;
+        this.trackLyrics = null;
+        this.trackDetailsLoading = true;
+        
+        if (!this.offcanvasInstance) {
+          const el = document.getElementById('trackDetailsOffcanvas');
+          if (el && window.bootstrap && window.bootstrap.Offcanvas) {
+            this.offcanvasInstance = new bootstrap.Offcanvas(el);
+          }
+        }
+        if (this.offcanvasInstance) {
+          this.offcanvasInstance.show();
+        }
+        
+        try {
+          const [metaRes, lyricsRes] = await Promise.allSettled([
+            fetch(`./lyrics-data/metadata/${track.id}.json`),
+            fetch(`./lyrics-data/lyrics/${track.id}.txt`)
+          ]);
+          
+          if (metaRes.status === 'fulfilled' && metaRes.value.ok) {
+            const data = await metaRes.value.json();
+            this.trackMetadata = Array.isArray(data) ? (data[0]?.metadata || data[0]) : (data?.metadata || data);
+          }
+          
+          if (lyricsRes.status === 'fulfilled' && lyricsRes.value.ok) {
+            this.trackLyrics = await lyricsRes.value.text();
+          }
+        } catch (err) {
+          console.error('Erro ao carregar detalhes da música:', err);
+        } finally {
+          this.trackDetailsLoading = false;
+        }
       }
     }
   });
