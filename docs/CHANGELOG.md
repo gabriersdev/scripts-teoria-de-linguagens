@@ -2,6 +2,20 @@
 
 Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 
+## [1.4.1] - 2026-11-02
+
+### Adicionado
+- Componente Offcanvas lateral do Bootstrap 5 em `index.html` para exibição detalhada de faixas:
+  - Acionado ao clicar no ID ou no título de qualquer música na tabela de "Consulta Global".
+  - Consulta assíncrona em paralelo aos arquivos locais de metadados técnicos (`/lyrics-data/metadata/{id}.json`) e lírica (`/lyrics-data/lyrics/{id}.txt`).
+  - Exibição de arte de capa, álbum, data de lançamento, duração formatada (mm:ss), código ISRC, links externos das fontes e letra integral com formatação preservada.
+  - Tratamento visual para estados de carregamento e ausência de dados.
+
+### Modificado
+- `index.html`:
+  - Implementada a navegação e filtragem direta ao clicar nos cards de resumo geral da aba de métricas ("Completo", "Apenas metadados", "Apenas letra" e "Nenhum dado extraído"), redirecionando para a "Consulta Global" com o status correspondente ativado.
+  - Remoção de todos os comentários e marcadores de desenvolvimento pendente (`TODO`).
+
 ## [1.4.0] - 2026-11-01
 
 ### Adicionado
