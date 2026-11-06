@@ -2,18 +2,24 @@
   {
     "id": 98197,
     "metadata": {
-      "title": "Dona Cleusa 2",
+      "title": "Pagodin",
       "artists": [
-        "MC Rick"
+        "DJ WN",
+        "MC Cebezinho",
+        "Mc Kanhoto",
+        "Mc Kadu",
+        "Mc Robs"
       ],
-      "album": "Dona Cleusa 2",
-      "releaseDate": "2025-08-29",
-      "durationMs": 151000,
-      "genres": [],
-      "isrc": "QT5M22581960",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/41bee21886d60108127ed0700771461c/1000x1000-000000-80-0-0.jpg",
+      "album": "Vamo de Pagodin - Single",
+      "releaseDate": "2024-05-03T12:00:00Z",
+      "durationMs": 160865,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/d0/7f/29d07fe9-3cd5-5e51-d3ce-4080e5330306/0.jpg/1000x1000bb.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3517080641"
+        "itunes": "https://music.apple.com/us/album/vamo-de-pagodin/1743803473?i=1743803476&uo=4"
       }
     },
     "lyricPath": "/lyrics/98197.txt"

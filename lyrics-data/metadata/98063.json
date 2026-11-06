@@ -2,22 +2,20 @@
   {
     "id": 98063,
     "metadata": {
-      "title": "BONITA POR FOTO",
+      "title": "Amante, Fiel e Ex (1 + 1 = 2 + 1 = 3)",
       "artists": [
-        "MC Gustavinho",
-        "Gt do Mira"
+        "Dj Sati Marconex",
+        "MC Madan",
+        "MC Luiggi"
       ],
-      "album": "BONITA POR FOTO - Single",
-      "releaseDate": "2025-11-07T12:00:00Z",
-      "durationMs": 118000,
-      "genres": [
-        "Latin"
-      ],
-      "isrc": "QT5M52551911",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/a4/53/aca453a0-6c49-46e7-95fa-bde0561fa71b/316338.jpg/1000x1000bb.jpg",
+      "album": "Amante, Fiel e Ex (1 + 1 = 2 + 1 = 3)",
+      "releaseDate": "2021-01-09",
+      "durationMs": 133000,
+      "genres": [],
+      "isrc": "BCDMP2100023",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3e8d13ef5b228feea984c3a4c7b39078/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/bonita-por-foto/6770732017?i=6770732020&uo=4",
-        "deezer": "https://www.deezer.com/track/3617023012"
+        "deezer": "https://www.deezer.com/track/1297522562"
       }
     },
     "lyricPath": "/lyrics/98063.txt"

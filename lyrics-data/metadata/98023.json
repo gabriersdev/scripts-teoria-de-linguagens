@@ -2,23 +2,21 @@
   {
     "id": 98023,
     "metadata": {
-      "title": "Menos Foco Mais Ansiedade (Ce Ta Nervosa)",
+      "title": "Bolhas Makiavélicas",
       "artists": [
-        "dj andreoli",
-        "Mc Jacaré",
-        "MC Ryan SP",
-        "ZANOLINI",
-        "Mc Lele JP",
-        "MC LUUKY"
+        "d.silvestre",
+        "MC LELE 011",
+        "Yuri Redicopa"
       ],
-      "album": "Menos Foco Mais Ansiedade (Ce Ta Nervosa)",
-      "releaseDate": "2026-05-28",
-      "durationMs": 234000,
+      "album": "D.Silvestre",
+      "releaseDate": "2024-07-12",
+      "durationMs": 115000,
       "genres": [],
-      "isrc": "BKWDJ2600048",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1bae5ceef567266bbe079399a8649d18/1000x1000-000000-80-0-0.jpg",
+      "isrc": "QZNJY2432022",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d78f630ddf1657e1f4a2bfa408cf9f47/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/4049144161"
+        "musicbrainz": "https://musicbrainz.org/recording/0488bb34-fb73-4d60-9ad2-9a3610b821b5",
+        "deezer": "https://www.deezer.com/track/2881490712"
       }
     },
     "lyricPath": "/lyrics/98023.txt"

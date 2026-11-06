@@ -2,19 +2,27 @@
   {
     "id": 98173,
     "metadata": {
-      "title": "Pegando Ela",
+      "title": "Favela",
       "artists": [
-        "MC Don Juan",
-        "MC Pikachu"
+        "MC Ryan SP",
+        "MC Cebezinho",
+        "Mc Paiva ZS",
+        "Love Funk",
+        "MC Neguinho do Kaxeta",
+        "Mc Kadu",
+        "Mc IG"
       ],
-      "album": "Pegando Ela",
-      "releaseDate": "2021-07-31",
-      "durationMs": 136000,
-      "genres": [],
-      "isrc": "BXG6R1700242",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4b74f5e80d793504c12d5d291e2e2ed5/1000x1000-000000-80-0-0.jpg",
+      "album": "Feliz no Simples 🍀",
+      "releaseDate": "2025-05-13T07:00:00Z",
+      "durationMs": 366829,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BXKG22200798",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/7a/31/f47a31c2-c021-abd4-16f7-52873259a4c5/5021732801074.jpg/1000x1000bb.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/1441709742"
+        "itunes": "https://music.apple.com/us/album/bailarina-da-favela-feat-mc-cebezinho-dj-oreia/1813128208?i=1813128449&uo=4",
+        "deezer": "https://www.deezer.com/track/1843044597"
       }
     },
     "lyricPath": "/lyrics/98173.txt"

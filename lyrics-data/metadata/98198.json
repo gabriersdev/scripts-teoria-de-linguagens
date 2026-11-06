@@ -2,20 +2,21 @@
   {
     "id": 98198,
     "metadata": {
-      "title": "Novinha",
+      "title": "VERMELHO",
       "artists": [
-        "Mc Leozin",
-        "Mc Menor DN",
-        "DJ ARTHUZIIN"
+        "Gloria Groove"
       ],
-      "album": "NOVINHA",
-      "releaseDate": "2026-02-27",
-      "durationMs": 144000,
-      "genres": [],
-      "isrc": "QZ5FN2687093",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c919e8f55ddb0b7018c205eaf0b204d4/1000x1000-000000-80-0-0.jpg",
+      "album": "LADY LESTE",
+      "releaseDate": "2022-02-10T12:00:00Z",
+      "durationMs": 152690,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BXSBS2200002",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/18/4a/07184a33-173a-4595-f581-f1a55583e2ff/dj.geexiitu.jpg/1000x1000bb.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3841353601"
+        "itunes": "https://music.apple.com/us/album/vermelho/1607610334?i=1607610495&uo=4",
+        "deezer": "https://www.deezer.com/track/1638702402"
       }
     },
     "lyricPath": "/lyrics/98198.txt"

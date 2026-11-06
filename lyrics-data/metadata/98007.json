@@ -2,21 +2,20 @@
   {
     "id": 98007,
     "metadata": {
-      "title": "Malvado",
+      "title": "Balança e Bafora",
       "artists": [
-        "MC Gustavinho"
+        "GP DA ZL",
+        "Dj Alexia",
+        "MC Juninho da VD"
       ],
-      "album": "Malvado - Single",
-      "releaseDate": "2024-11-05T12:00:00Z",
-      "durationMs": 163923,
-      "genres": [
-        "Electronic"
-      ],
-      "isrc": "BXG212400019",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/31/7f/2a317fbe-6c87-b914-20ad-effe53e0f485/198999279702.jpg/1000x1000bb.jpg",
+      "album": "1S",
+      "releaseDate": "2025-05-02",
+      "durationMs": 126000,
+      "genres": [],
+      "isrc": "BK7NM2500161",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d675053cd639e115c711441d73237a27/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/malvado/1778280595?i=1778280596&uo=4",
-        "deezer": "https://www.deezer.com/track/3079821101"
+        "deezer": "https://www.deezer.com/track/3339206221"
       }
     },
     "lyricPath": "/lyrics/98007.txt"

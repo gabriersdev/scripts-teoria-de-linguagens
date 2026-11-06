@@ -2,20 +2,22 @@
   {
     "id": 98654,
     "metadata": {
-      "title": "Me Leva Pra Casa / Escrito Nas Estrelas / Saudade",
+      "title": "Esqueceu Foi Porra",
       "artists": [
-        "Zezé Di Camargo"
+        "Eric Land",
+        "Tarcísio do Acordeon"
       ],
-      "album": "Zezé Di Camargo & Luciano",
-      "releaseDate": "1999-08-19T12:00:00Z",
-      "durationMs": 205082,
+      "album": "Esqueceu Foi Porra - Single",
+      "releaseDate": "2021-03-11T12:00:00Z",
+      "durationMs": 177531,
       "genres": [
-        "Brazilian"
+        "Forró"
       ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/b5/8e/2d/mzi.nhbavxbh.jpg/1000x1000bb.jpg",
+      "isrc": "BXZAW2100011",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/97/2a/cb/972acb82-c55f-c24b-3027-d6c808b53bac/7892920142808.jpg/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/saudade/321702871?i=321703423&uo=4"
+        "itunes": "https://music.apple.com/us/album/esqueceu-foi-porra/1591417325?i=1591417507&uo=4",
+        "deezer": "https://www.deezer.com/track/1527984692"
       }
     },
     "lyricPath": "/lyrics/98654.txt"

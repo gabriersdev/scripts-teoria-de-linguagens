@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98572,
+    "metadata": {
+      "title": "Refrão De Bolero - Ao Vivo",
+      "artists": [
+        "Engenheiros Do Hawaii"
+      ],
+      "album": "10.000 Destinos - Ao Vivo",
+      "releaseDate": "2000-01-01T12:00:00Z",
+      "durationMs": 165867,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2d/56/7b/2d567b51-7544-2f76-34c1-4d483d09b0da/06UMGIM46710.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/refr%C3%A3o-de-bolero/1452786496?i=1452786663&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98572.txt"
+  }
+]

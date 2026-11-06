@@ -2,19 +2,24 @@
   {
     "id": 98129,
     "metadata": {
-      "title": "Vo da Choque No",
+      "title": "Baile no Morro",
       "artists": [
-        "Mc Pikachu",
-        "DJ NWT"
+        "MC Tairon",
+        "Mc Vitin Da Igrejinha",
+        "Dj Win",
+        "life song"
       ],
-      "album": "Vo da Choque No",
-      "releaseDate": "2023-07-22",
-      "durationMs": 119000,
-      "genres": [],
-      "isrc": "BCIH82303632",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/ca83d8462e0608e1cd0018d3bd01f9b4/1000x1000-000000-80-0-0.jpg",
+      "album": "Baile no morro",
+      "releaseDate": "2022-06-17",
+      "durationMs": 140307,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BX9L12200055",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/c0/98/b5c0981a-2867-e836-acf7-d38987ac209b/786724406099.png/1000x1000bb.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/2381485875"
+        "musicbrainz": "https://musicbrainz.org/recording/462fd0d6-dc73-4565-b8c2-45420d55e196",
+        "itunes": "https://music.apple.com/us/album/baile-no-morro/1770484124?i=1770484126&uo=4"
       }
     },
     "lyricPath": "/lyrics/98129.txt"

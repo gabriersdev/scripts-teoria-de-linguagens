@@ -10,7 +10,9 @@
       "https://open.spotify.com/intl-pt/artist/2euX7vCVnJy3TVEGfc0RCl",
       "https://open.spotify.com/intl-pt/album/7ftWvjc9Gq6xC5d19lrFqZ",
       "https://open.spotify.com/playlist/7aa4ympuQrplm0T7vbY9xd",
-      "https://open.spotify.com/intl-pt/artist/5OlITTCPCIxWOa3TEpemuF"
+      "https://open.spotify.com/intl-pt/artist/5OlITTCPCIxWOa3TEpemuF",
+      "https://open.spotify.com/playlist/6DeTIzccdngtKuMuuzTfGn",
+      "https://open.spotify.com/playlist/3wvAF42PbEVJOQcbYYASEn?si=4lmopAq3RzeCw7SG-OiMQA"
     ],
     "lyrics": [
       {
@@ -21,9 +23,9 @@
       },
       {
         "id": 98402,
-        "name": "É Proibido Fumar - Versão remasterizada",
-        "artists": "Roberto Carlos",
-        "complete": false
+        "name": "Dias Atrás",
+        "artists": "CPM 22",
+        "complete": true
       },
       {
         "id": 98403,
@@ -63,9 +65,9 @@
       },
       {
         "id": 98409,
-        "name": "Viagem (Radio Edit)",
-        "artists": "David Ballot",
-        "complete": 1
+        "name": "À Sua Maneira (De Música Ligera) - Ao Vivo",
+        "artists": "Capital Inicial",
+        "complete": true
       },
       {
         "id": 98410,
@@ -309,9 +311,9 @@
       },
       {
         "id": 98450,
-        "name": "You Don't Know Me",
-        "artists": "Caetano Veloso",
-        "complete": 1
+        "name": "Zóio De Lula",
+        "artists": "Charlie Brown Jr.",
+        "complete": true
       },
       {
         "id": 98451,
@@ -561,9 +563,9 @@
       },
       {
         "id": 98492,
-        "name": "Roots Bloody Roots",
-        "artists": "Sepultura",
-        "complete": 1
+        "name": "Cedo Ou Tarde",
+        "artists": "NX Zero",
+        "complete": true
       },
       {
         "id": 98493,
@@ -597,9 +599,9 @@
       },
       {
         "id": 98498,
-        "name": "I Saw You Saying - That You Say That You Saw",
-        "artists": "Raimundos",
-        "complete": 1
+        "name": "Grão",
+        "artists": "Balara",
+        "complete": true
       },
       {
         "id": 98499,
@@ -663,9 +665,9 @@
       },
       {
         "id": 98509,
-        "name": "Substituir faixa #98509",
-        "artists": "Adicionar artista",
-        "complete": false
+        "name": "Sutilmente",
+        "artists": "Skank",
+        "complete": true
       },
       {
         "id": 98510,
@@ -741,9 +743,9 @@
       },
       {
         "id": 98522,
-        "name": "Cabeça de bode",
-        "artists": "Vitorin",
-        "complete": 1
+        "name": "Até quando esperar",
+        "artists": "Detonautas",
+        "complete": true
       },
       {
         "id": 98523,
@@ -807,9 +809,9 @@
       },
       {
         "id": 98533,
-        "name": "Substituir faixa #98533",
-        "artists": "Adicionar artista",
-        "complete": false
+        "name": "Aonde Quer Que Eu Vá",
+        "artists": "Os Paralamas Do Sucesso",
+        "complete": true
       },
       {
         "id": 98534,
@@ -831,9 +833,9 @@
       },
       {
         "id": 98537,
-        "name": "Kgb",
-        "artists": "ADÉLA",
-        "complete": 1
+        "name": "Ela Vai Voltar (Todos Os Defeitos De Uma Mulher Perfeita)",
+        "artists": "Charlie Brown Jr.",
+        "complete": true
       },
       {
         "id": 98538,
@@ -909,9 +911,9 @@
       },
       {
         "id": 98550,
-        "name": "Substituir faixa #98550",
-        "artists": "Adicionar artista",
-        "complete": false
+        "name": "Lugar Ao Sol",
+        "artists": "Charlie Brown Jr.",
+        "complete": true
       },
       {
         "id": 98551,
@@ -951,9 +953,9 @@
       },
       {
         "id": 98557,
-        "name": "Substituir faixa #98557",
-        "artists": "Adicionar artista",
-        "complete": false
+        "name": "À Sua Maneira (De Música Ligeira)",
+        "artists": "Capital Inicial",
+        "complete": true
       },
       {
         "id": 98558,
@@ -975,9 +977,9 @@
       },
       {
         "id": 98561,
-        "name": "Substituir faixa #98561",
-        "artists": "Adicionar artista",
-        "complete": false
+        "name": "Resposta",
+        "artists": "Skank",
+        "complete": true
       },
       {
         "id": 98562,
@@ -1041,9 +1043,9 @@
       },
       {
         "id": 98572,
-        "name": "Substituir faixa #98572",
-        "artists": "Adicionar artista",
-        "complete": false
+        "name": "Refrão De Bolero - Ao Vivo",
+        "artists": "Engenheiros Do Hawaii",
+        "complete": true
       },
       {
         "id": 98573,
@@ -1169,7 +1171,7 @@
         "id": 98593,
         "name": "Plano Furado, Pt. 2",
         "artists": "Ratos De Porão",
-        "complete": 1
+        "complete": true
       },
       {
         "id": 98594,

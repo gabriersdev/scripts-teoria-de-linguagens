@@ -2,25 +2,23 @@
   {
     "id": 98071,
     "metadata": {
-      "title": "Calafrio",
+      "title": "Casei Com a Putaria",
       "artists": [
-        "DJ KN DE VILA VELHA",
-        "DJ Arana",
+        "Mc Paiva ZS",
         "MC Ryan SP",
-        "Vulgo FK",
-        "TDK Rec",
-        "MC Jvila"
+        "Kotim"
       ],
-      "album": "MONTAGEM CALAFRIO MR LONELY - Single",
-      "releaseDate": "2026-04-25T12:00:00Z",
-      "durationMs": 142577,
+      "album": "Brega Funk Casei Com a Putaria - Single",
+      "releaseDate": "2024-10-19T12:00:00Z",
+      "durationMs": 145185,
       "genres": [
-        "Latin"
+        "Brazilian"
       ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/1f/7a/191f7a65-be1a-8bbf-252b-ac77edfbdaa7/2958598.jpg/1000x1000bb.jpg",
+      "isrc": "BXKG22200702",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/04/b5/ad04b5c9-f6ef-8f38-02b7-baadef384a7a/8445824481994_cover.jpg/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/montagem-calafrio-mr-lonely/1895419466?i=6763653992&uo=4"
+        "itunes": "https://music.apple.com/us/album/brega-funk-casei-com-a-putaria/1774800236?i=1774800237&uo=4",
+        "deezer": "https://www.deezer.com/track/1805332687"
       }
     },
     "lyricPath": "/lyrics/98071.txt"

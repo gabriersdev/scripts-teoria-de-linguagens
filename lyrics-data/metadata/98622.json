@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98622,
+    "metadata": {
+      "title": "Opa Cadê Eu - Ao Vivo",
+      "artists": [
+        "Clayton & Romário"
+      ],
+      "album": "Ao Vivo em Brasília (Vol.2)",
+      "releaseDate": "2025-02-06",
+      "durationMs": 154926,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BCYWS2400003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/d1/70/6dd1703b-c042-441b-f270-43f7fbbb1f01/5021732624116.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ecf3b39a-63cb-4d92-8bd1-2e1a3b5ffdce",
+        "itunes": "https://music.apple.com/us/album/opa-cad%C3%AA-eu-ao-vivo/1792007192?i=1792007193&uo=4",
+        "deezer": "https://www.deezer.com/track/3198382131"
+      }
+    },
+    "lyricPath": "/lyrics/98622.txt"
+  }
+]

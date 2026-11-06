@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98790,
+    "metadata": {
+      "title": "Filho da Mãe - Ao Vivo",
+      "artists": [
+        "Guilherme & Benuto"
+      ],
+      "album": "+ Amor, + Música Vol. 3 (Ao Vivo)",
+      "releaseDate": "2025-07-03",
+      "durationMs": 137350,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BCVV82400128",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/09/e5/f109e544-604e-a39a-ecdd-9eb7349511c9/196873895475.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a2a21e58-5ddb-44eb-b986-b88985b61956",
+        "itunes": "https://music.apple.com/us/album/filho-da-m%C3%A3e-ao-vivo/1857812530?i=1857813107&uo=4",
+        "deezer": "https://www.deezer.com/track/3546991531"
+      }
+    },
+    "lyricPath": "/lyrics/98790.txt"
+  }
+]

@@ -2,19 +2,23 @@
   {
     "id": 98083,
     "metadata": {
-      "title": "TO CORRENDO DE LAÇO",
+      "title": "O Preço",
       "artists": [
-        "MC Gustavinho",
-        "Gt do Mira"
+        "MC Hariel",
+        "MC Ryan SP",
+        "Mc Paiva ZS"
       ],
-      "album": "TO CORRENDO DE LAÇO",
-      "releaseDate": "2025-10-16",
-      "durationMs": 114000,
-      "genres": [],
-      "isrc": "QT5M52552281",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/38a224090dda1f465ccb6c9c9aeda40b/1000x1000-000000-80-0-0.jpg",
+      "album": "O Preço - Single",
+      "releaseDate": "2022-10-14T12:00:00Z",
+      "durationMs": 267333,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRWMB2200951",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/04/d3/9904d36b-57a2-541d-f413-79ded2ed6315/5054197356216.jpg/1000x1000bb.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3598586612"
+        "itunes": "https://music.apple.com/us/album/o-pre%C3%A7o/1646505319?i=1646505323&uo=4",
+        "deezer": "https://www.deezer.com/track/1926562847"
       }
     },
     "lyricPath": "/lyrics/98083.txt"

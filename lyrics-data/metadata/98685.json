@@ -2,21 +2,22 @@
   {
     "id": 98685,
     "metadata": {
-      "title": "Mentes Tão Bem / Você Mente",
+      "title": "Não Pode Se Apaixonar",
       "artists": [
-        "Zezé Di Camargo & Luciano"
+        "Xand Avião",
+        "DJ Ivis",
+        "Mc Danny"
       ],
-      "album": "Double Face",
-      "releaseDate": "2005-07-05T12:00:00Z",
-      "durationMs": 229027,
+      "album": "Não Pode Se Apaixonar - Single",
+      "releaseDate": "2021-02-12T12:00:00Z",
+      "durationMs": 170000,
       "genres": [
-        "Sertanejo"
+        "Forró"
       ],
-      "isrc": "BRZCL1000009",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/67/92/98/6792985a-1491-ea2d-9dd8-7463159c229e/884977597561.jpg/1000x1000bb.jpg",
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7f/46/d6/7f46d6b1-62be-0d45-d7c6-3e1cb4ecbdac/7891430547271.jpg/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/mentes-t%C3%A3o-bem/1498245225?i=1498245640&uo=4",
-        "deezer": "https://www.deezer.com/track/871740832"
+        "itunes": "https://music.apple.com/us/album/n%C3%A3o-pode-se-apaixonar/1552960653?i=1552961380&uo=4"
       }
     },
     "lyricPath": "/lyrics/98685.txt"

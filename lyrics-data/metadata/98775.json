@@ -2,20 +2,23 @@
   {
     "id": 98775,
     "metadata": {
-      "title": "Impressionando Os Anjos - Ao Vivo",
+      "title": "Vai Sentar no Pai",
       "artists": [
-        "Diego Costa"
+        "DJ Ivis",
+        "JS o Mão de Ouro",
+        "Xand Avião"
       ],
-      "album": "Ao Vivo em Lamarão /BA",
-      "releaseDate": "2018-08-18T12:00:00Z",
-      "durationMs": 223321,
+      "album": "Vai Sentar no Pai - Single",
+      "releaseDate": "2021-05-12T12:00:00Z",
+      "durationMs": 192462,
       "genres": [
-        "Brazilian"
+        "Baile Funk"
       ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3f/d2/a9/3fd2a942-07f1-b4ac-e130-5f4c86655b3a/5479.jpg/1000x1000bb.jpg",
+      "isrc": "BX2IA2100109",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/45/c3/7845c303-ca1a-7aae-2627-9e221bcf938d/239a707b-0ad1-46a8-978d-41a9b60a5d07.jpg/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/impressionando-os-anjos-ao-vivo/1516531022?i=1516531342&uo=4"
+        "itunes": "https://music.apple.com/us/album/vai-sentar-no-pai/6767666226?i=6767666227&uo=4",
+        "deezer": "https://www.deezer.com/track/2023860257"
       }
     },
     "lyricPath": "/lyrics/98775.txt"

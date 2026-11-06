@@ -2,20 +2,22 @@
   {
     "id": 98522,
     "metadata": {
-      "title": "Cabeça de bode",
+      "title": "Até quando esperar",
       "artists": [
-        "Vitorin"
+        "Detonautas"
       ],
-      "album": "Cabeça de Bode - Single",
-      "releaseDate": "2024-10-11T12:00:00Z",
-      "durationMs": 120484,
+      "album": "Acústico",
+      "releaseDate": "2009-04-11",
+      "durationMs": 246000,
       "genres": [
-        "Rock"
+        "Brazilian"
       ],
-      "isrc": null,
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/01/a7/6501a7df-70b7-2d7d-f187-6a90670a0830/0.jpg/1000x1000bb.jpg",
+      "isrc": "BRSME0900580",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/34/02/fc/3402fcee-8143-e457-4cac-aeca37ad0dcb/mzi.mmcckpnr.jpg/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/cabe%C3%A7a-de-bode/1767132662?i=1767132663&uo=4"
+        "musicbrainz": "https://musicbrainz.org/recording/e8f82f46-7811-4918-9a24-f520ee8950c3",
+        "itunes": "https://music.apple.com/us/album/at%C3%A9-quando-esperar/402160876?i=402160886&uo=4",
+        "deezer": "https://www.deezer.com/track/13359367"
       }
     },
     "lyricPath": "/lyrics/98522.txt"
