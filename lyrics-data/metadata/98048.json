@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98048,
+    "metadata": {
+      "title": "Cara Bacana",
+      "artists": [
+        "MC G15"
+      ],
+      "album": "Cara Bacana",
+      "releaseDate": "2017-05-03",
+      "durationMs": 232727,
+      "genres": [],
+      "isrc": "BXG6R2100800",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/36df2b6262521f6deaee410216a39f10/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/16e6295a-d460-4682-a17a-1a858ee1fd17",
+        "deezer": "https://www.deezer.com/track/1448348782"
+      }
+    },
+    "lyricPath": "/lyrics/98048.txt"
+  }
+]

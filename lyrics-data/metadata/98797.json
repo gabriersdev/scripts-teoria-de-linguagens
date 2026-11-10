@@ -2,21 +2,23 @@
   {
     "id": 98797,
     "metadata": {
-      "title": "Cê Já Me Namorou",
+      "title": "FALA MAL DE MIM",
       "artists": [
-        "Victor Reis"
+        "PEDRO SAMPAIO",
+        "Daniel Caon",
+        "Wesley Safadão"
       ],
-      "album": "Cê Já Me Namorou - Single",
-      "releaseDate": "2026-09-10T12:00:00Z",
-      "durationMs": 150987,
+      "album": "FALA MAL DE MIM - Single",
+      "releaseDate": "2021-01-28T12:00:00Z",
+      "durationMs": 154182,
       "genres": [
-        "Sertanejo"
+        "Brazilian"
       ],
-      "isrc": "BR7K82600001",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/71/fa/8e71fa87-40f4-08c9-ae1f-feb4f70bdde7/196874738368.jpg/1000x1000bb.jpg",
+      "isrc": "BRWMB2001244",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/47/e3/db/47e3db6b-f547-0972-f837-19689cffae5d/190296788109.jpg/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/c%C3%AA-j%C3%A1-me-namorou/6806397067?i=6806397070&uo=4",
-        "deezer": "https://www.deezer.com/track/4252567291"
+        "itunes": "https://music.apple.com/us/album/fala-mal-de-mim/1549872524?i=1549872525&uo=4",
+        "deezer": "https://www.deezer.com/track/1225298162"
       }
     },
     "lyricPath": "/lyrics/98797.txt"

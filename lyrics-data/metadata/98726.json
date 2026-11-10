@@ -2,21 +2,22 @@
   {
     "id": 98726,
     "metadata": {
-      "title": "Penteadeira - Ao Vivo",
+      "title": "Esquema Preferido (feat. Tarcísio do Acordeon)",
       "artists": [
-        "Bruno & Marrone"
+        "DJ Ivis",
+        "Tarcísio do Acordeon"
       ],
-      "album": "De Volta Aos Bares II, Vol.1 (Ao Vivo)",
-      "releaseDate": "2026-10-01T12:00:00Z",
-      "durationMs": 170160,
+      "album": "Baile do DJ Ivis: Piseiro Hits",
+      "releaseDate": "2020-11-25T12:00:00Z",
+      "durationMs": 190680,
       "genres": [
-        "Sertanejo"
+        "Brazilian"
       ],
-      "isrc": "BRWOS2600012",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/9d/71/5b9d71ad-1977-29db-05f1-c3c1d4d009b1/885288573152.jpg/1000x1000bb.jpg",
+      "isrc": "BXZVR2100001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/42/62/dc/4262dcac-e5c4-93e0-a383-e5d490b3e8b1/8720205261618.jpg/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/penteadeira-ao-vivo/6812832462?i=6812832467&uo=4",
-        "deezer": "https://www.deezer.com/track/4290372942"
+        "itunes": "https://music.apple.com/us/album/esquema-preferido/1655260619?i=1655260630&uo=4",
+        "deezer": "https://www.deezer.com/track/2009888127"
       }
     },
     "lyricPath": "/lyrics/98726.txt"

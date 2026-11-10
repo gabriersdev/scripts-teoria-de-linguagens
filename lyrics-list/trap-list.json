@@ -11,7 +11,8 @@
       "https://open.spotify.com/playlist/1rNzQHvVHRnNAwLutBffcF",
       "https://open.spotify.com/playlist/1dNmf9CbgPQ7fNF21wlSDe",
       "https://open.spotify.com/intl-pt/album/4XjGW9ICzbGHxtWeI7dUAt",
-      "https://open.spotify.com/intl-pt/album/3I3lw5f91oPrhh8CKkAVra"
+      "https://open.spotify.com/intl-pt/album/3I3lw5f91oPrhh8CKkAVra",
+      "https://open.spotify.com/playlist/1kQO2m7Z9Ot6rKweYBYtMF"
     ],
     "lyrics": [
       {
@@ -196,9 +197,9 @@
       },
       {
         "id": 98980,
-        "name": "Substituir faixa #98980",
-        "artists": "Adicionar artista",
-        "complete": false
+        "name": "A Morte do Autotune",
+        "artists": "Matuê",
+        "complete": true
       },
       {
         "id": 98981,

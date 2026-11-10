@@ -2,21 +2,22 @@
   {
     "id": 98774,
     "metadata": {
-      "title": "Suíte 14 - Ao Vivo",
+      "title": "Falei pra Tu",
       "artists": [
-        "Israel Novaes"
+        "Diego & Arnaldo",
+        "DJ Ivis"
       ],
-      "album": "Villa Mix Festival 2016 (Deluxe) (Ao Vivo)",
-      "releaseDate": "2016-06-17T12:00:00Z",
-      "durationMs": 132852,
+      "album": "Falei pra Tu - Single",
+      "releaseDate": "2021-04-01T12:00:00Z",
+      "durationMs": 192065,
       "genres": [
         "Sertanejo"
       ],
-      "isrc": "BRUXD1600054",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/a5/aa/52a5aa33-ec6b-1c52-fd57-73a183f587b0/191773483616.jpg/1000x1000bb.jpg",
+      "isrc": "BRSME2100732",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/51/42/80/51428029-3708-7973-310a-fe4962cbd753/886449174539.jpg/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/su%C3%ADte-14-ao-vivo/1260830756?i=1260831732&uo=4",
-        "deezer": "https://www.deezer.com/track/384831751"
+        "itunes": "https://music.apple.com/us/album/falei-pra-tu/1559648699?i=1559648976&uo=4",
+        "deezer": "https://www.deezer.com/track/1283567762"
       }
     },
     "lyricPath": "/lyrics/98774.txt"

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98561,
+    "metadata": {
+      "title": "Resposta",
+      "artists": [
+        "Skank"
+      ],
+      "album": "Luau MTV",
+      "releaseDate": "2004",
+      "durationMs": 243933,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRSME9800265",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c8/91/59/c8915987-dea8-cd1e-bf95-3d8ce93cf5ca/886443812093.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/513fd8a5-3e79-434d-a49e-bf8366dbfd3b",
+        "itunes": "https://music.apple.com/us/album/resposta/588335548?i=588335683&uo=4",
+        "deezer": "https://www.deezer.com/track/13263710"
+      }
+    },
+    "lyricPath": "/lyrics/98561.txt"
+  }
+]

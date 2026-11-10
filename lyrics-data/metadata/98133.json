@@ -2,20 +2,21 @@
   {
     "id": 98133,
     "metadata": {
-      "title": "Cadê o Plug",
+      "title": "Botadinha Saliente",
       "artists": [
-        "Mc Pikachu",
-        "Prod Brunin",
-        "PRODUTORA THE KING MUSIC"
+        "Rogerinho"
       ],
-      "album": "Cadê o Plug",
-      "releaseDate": "2024-03-28",
-      "durationMs": 71000,
-      "genres": [],
-      "isrc": "QZGLS2441563",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/465faa8c64a17c3927aedc73c81b2ace/1000x1000-000000-80-0-0.jpg",
+      "album": "Botadinha Saliente (Remix) - Single",
+      "releaseDate": "2025-10-03T12:00:00Z",
+      "durationMs": 143284,
+      "genres": [
+        "Funk"
+      ],
+      "isrc": "BCN5Z2200001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/a4/21/0fa421cd-7724-e79b-56e7-084ca9a26786/0.jpg/1000x1000bb.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/2719781722"
+        "itunes": "https://music.apple.com/us/album/botadinha-saliente-remix/1843197562?i=1843197563&uo=4",
+        "deezer": "https://www.deezer.com/track/1633681632"
       }
     },
     "lyricPath": "/lyrics/98133.txt"

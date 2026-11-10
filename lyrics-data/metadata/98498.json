@@ -2,22 +2,21 @@
   {
     "id": 98498,
     "metadata": {
-      "title": "I Saw You Saying - That You Say That You Saw",
+      "title": "Grão",
       "artists": [
-        "Raimundos"
+        "Balara"
       ],
-      "album": "E-Collection",
-      "releaseDate": "2003-08-04",
-      "durationMs": 204000,
+      "album": "Aponte Para o Amor",
+      "releaseDate": "2022-07-13T12:00:00Z",
+      "durationMs": 195317,
       "genres": [
-        "Rock"
+        "Pop"
       ],
-      "isrc": "BRWMB9702647",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3f/a4/f8/3fa4f883-d23e-1845-984e-9d1ae2b268eb/0.jpg/1000x1000bb.jpg",
+      "isrc": "BRLC32100069",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3a/cc/70/3acc70bf-aca3-c1f1-771a-3b12f5a09872/0733045910163.jpg/1000x1000bb.jpg",
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/6d46d005-7903-4c1a-806d-2bcba91fdce6",
-        "itunes": "https://music.apple.com/us/album/i-saw-you-saying-that-you-say-that-you-saw-ao-vivo/879819848?i=879819864&uo=4",
-        "deezer": "https://www.deezer.com/track/3895377"
+        "itunes": "https://music.apple.com/us/album/gr%C3%A3o/1618111132?i=1618111136&uo=4",
+        "deezer": "https://www.deezer.com/track/1713160597"
       }
     },
     "lyricPath": "/lyrics/98498.txt"

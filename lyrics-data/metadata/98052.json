@@ -2,21 +2,21 @@
   {
     "id": 98052,
     "metadata": {
-      "title": "Ela é Magrinha do Bundão",
+      "title": "Jontex (fumaça do ice)",
       "artists": [
-        "cjnobeat",
-        "Mc Gimenes",
-        "Mc Gw",
-        "MC BN"
+        "Mc Menor Rf",
+        "DJ GUIZIN DA SERRA"
       ],
-      "album": "Ela é Magrinha do Bundão",
-      "releaseDate": "2026-03-05",
-      "durationMs": 160000,
-      "genres": [],
-      "isrc": "SGB502612379",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1debc072e82767bfa95547eace0cbc6a/1000x1000-000000-80-0-0.jpg",
+      "album": "Fumaça do ice - Single",
+      "releaseDate": "2026-03-16T12:00:00Z",
+      "durationMs": 224077,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/04/44/da04445d-64ad-1afe-b66a-69cb076ca73d/199891972012_cover.jpg/1000x1000bb.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3936348691"
+        "itunes": "https://music.apple.com/us/album/fuma%C3%A7a-do-ice/1893902047?i=1893902058&uo=4"
       }
     },
     "lyricPath": "/lyrics/98052.txt"

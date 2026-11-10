@@ -2,21 +2,20 @@
   {
     "id": 98050,
     "metadata": {
-      "title": "Ela Tá Farmando Aura",
+      "title": "Olha o Tamanho Dessa Onda",
       "artists": [
-        "Gordinho Bolado",
-        "MC LONE",
-        "É O CAVERINHA",
-        "MC Levin"
+        "d.silvestre",
+        "MC LELE 011"
       ],
-      "album": "Ela Tá Farmando Aura",
-      "releaseDate": "2026-04-03",
-      "durationMs": 129000,
+      "album": "O que as mulheres querem",
+      "releaseDate": "2025-07-04",
+      "durationMs": 105692,
       "genres": [],
-      "isrc": "BCFSL2600039",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/fd94ac8321ea1b4012a4466f77758c22/1000x1000-000000-80-0-0.jpg",
+      "isrc": "QZNJX2527907",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b966899522abe3bb9ca0e1dfe0b978b5/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3943746101"
+        "musicbrainz": "https://musicbrainz.org/recording/e127aad1-f213-4ae3-bcf0-e6a455c1bed3",
+        "deezer": "https://www.deezer.com/track/3435166371"
       }
     },
     "lyricPath": "/lyrics/98050.txt"

@@ -2,22 +2,24 @@
   {
     "id": 98098,
     "metadata": {
-      "title": "No Foco Noite e Dia",
+      "title": "Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho)",
       "artists": [
-        "MC Gustavinho",
-        "Gt do Mira"
+        "L7NNON",
+        "Os Hawaianos",
+        "DJ Bel da CDD",
+        "DJ Biel do Furduncinho"
       ],
-      "album": "No Foco Noite e Dia - Single",
-      "releaseDate": "2026-04-10T12:00:00Z",
-      "durationMs": 160005,
+      "album": "Desenrola bate joga de ladin",
+      "releaseDate": "2022-04-08",
+      "durationMs": 115846,
       "genres": [
-        "Latin"
+        "Funk"
       ],
-      "isrc": "SGW502625481",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/04/c5/3004c513-cfa8-22b2-18e9-01de2a45eacb/365507.jpg/1000x1000bb.jpg",
+      "isrc": "BR5TG2200015",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/c8/d1/68c8d1ab-a07e-ae0b-7523-25cb26242640/fd39648e-a031-4b8e-a3af-e4959f0c89b1.jpg/1000x1000bb.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/no-foco-noite-e-dia/1882774059?i=1882774062&uo=4",
-        "deezer": "https://www.deezer.com/track/3959266521"
+        "musicbrainz": "https://musicbrainz.org/recording/bd14e966-7e3e-4de0-8f8d-3357bee715bd",
+        "itunes": "https://music.apple.com/us/album/desenrola-bate-joga-de-ladin-feat-dj-biel-do-furduncinho/1842203900?i=1842203901&uo=4"
       }
     },
     "lyricPath": "/lyrics/98098.txt"

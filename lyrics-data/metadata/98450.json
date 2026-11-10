@@ -2,22 +2,18 @@
   {
     "id": 98450,
     "metadata": {
-      "title": "You Don't Know Me",
+      "title": "Zóio De Lula",
       "artists": [
-        "Caetano Veloso"
+        "Charlie Brown Jr."
       ],
-      "album": "The Definitive Collection",
-      "releaseDate": "2012-05-25",
-      "durationMs": 230000,
-      "genres": [
-        "MPB"
-      ],
-      "isrc": "BRMCA7200152",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/12/b2/2712b23f-21d2-7e27-6896-8af0d216509d/00602537065974.rgb.jpg/1000x1000bb.jpg",
+      "album": "Pop Rock Brasil 2001: Amigo da água, ao vivo",
+      "releaseDate": "2001-10-10",
+      "durationMs": 299933,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
       "sources": {
-        "musicbrainz": "https://musicbrainz.org/recording/73ec68c8-f771-4587-95cf-e85cdb4ed1f9",
-        "itunes": "https://music.apple.com/us/album/you-dont-know-me/1443511751?i=1443511758&uo=4",
-        "deezer": "https://www.deezer.com/track/877265"
+        "musicbrainz": "https://musicbrainz.org/recording/35b82b41-f71f-41b4-9d5d-8d5ceb492b6f"
       }
     },
     "lyricPath": "/lyrics/98450.txt"

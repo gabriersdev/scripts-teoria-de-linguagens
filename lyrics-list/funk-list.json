@@ -7,7 +7,10 @@
       "https://open.spotify.com/playlist/0m28smFsaxFLcUloEASxTX",
       "https://open.spotify.com/playlist/1GuTtTLwxAS1MEEtNhGxJr",
       "https://open.spotify.com/playlist/6FGvr539Nmi6w7LZUkSCjL",
-      "https://open.spotify.com/playlist/3nQI2cbJdUGlsRYxmpmkss"
+      "https://open.spotify.com/playlist/3nQI2cbJdUGlsRYxmpmkss",
+      "https://open.spotify.com/playlist/2WB0hRwpJR7pQoPkqerEoG",
+      "https://open.spotify.com/playlist/2naRcRxO6hEnKAWrBgg7Ay",
+      "https://open.spotify.com/playlist/5lvugnx6P4lCBBFggFxLxC"
     ],
     "lyrics": [
       {
@@ -48,9 +51,9 @@
       },
       {
         "id": 98007,
-        "name": "Malvado",
-        "artists": "MC Gustavinho",
-        "complete": 1
+        "name": "Balança e Bafora",
+        "artists": "GP DA ZL, Dj Alexia, MC Juninho da VD",
+        "complete": true
       },
       {
         "id": 98008,
@@ -96,15 +99,15 @@
       },
       {
         "id": 98015,
-        "name": "Na Ponta do Pé",
-        "artists": "Mc Prr Felipinho, DJ 7W, DJ LEILTON 011",
-        "complete": 1
+        "name": "Bem-Vinda ao Submundo",
+        "artists": "GP DA ZL, MC ZL",
+        "complete": true
       },
       {
         "id": 98016,
-        "name": "Jontex (fumaça do ice)",
-        "artists": "Mc Menor Rf, DJ GUIZIN DA SERRA",
-        "complete": 1
+        "name": "Flexiona Toma Toma",
+        "artists": "DJ João Marconex, mlk vinheta, DJ Giovanne Mandelão, Mc Tauã",
+        "complete": true
       },
       {
         "id": 98017,
@@ -126,15 +129,15 @@
       },
       {
         "id": 98020,
-        "name": "RECEBA",
-        "artists": "MC Gustavinho, Gt do Mira",
-        "complete": 1
+        "name": "Relaxa a Bct Mulher",
+        "artists": "DJ NATHAN RV, DJ Blakes, Mc Roba Cena",
+        "complete": true
       },
       {
         "id": 98021,
-        "name": "Toda Hora em Vv",
-        "artists": "DJ 2L de Vila Velha, Mc MV, Mc 2G Do SF, Mc Gorran, DJ KN DE VILA VELHA",
-        "complete": 1
+        "name": "2026",
+        "artists": "Jhow, Leejack, GP DA ZL, Dj Alexia",
+        "complete": true
       },
       {
         "id": 98022,
@@ -144,9 +147,9 @@
       },
       {
         "id": 98023,
-        "name": "Menos Foco Mais Ansiedade (Ce Ta Nervosa)",
-        "artists": "dj andreoli, Mc Jacaré, MC Ryan SP, ZANOLINI, Mc Lele JP, MC LUUKY",
-        "complete": 1
+        "name": "Bolhas Makiavélicas",
+        "artists": "d.silvestre, MC LELE 011, Yuri Redicopa",
+        "complete": true
       },
       {
         "id": 98024,
@@ -162,9 +165,9 @@
       },
       {
         "id": 98026,
-        "name": "VOLTEI PRA PUTARIA",
-        "artists": "DJ MIAC",
-        "complete": 1
+        "name": "Joga o Cabelo X Senta e Kika",
+        "artists": "MC Torugo, DJ Miller Oficial, DJ Douglinhas",
+        "complete": true
       },
       {
         "id": 98027,
@@ -258,9 +261,9 @@
       },
       {
         "id": 98042,
-        "name": "ABALAR SEU JUIZO",
-        "artists": "MC Gustavinho, Gt do Mira",
-        "complete": 1
+        "name": "BEBIDA DROGA E SEXO",
+        "artists": "Mc Neguinho do Morro, MC Donzela, DJ NDM, MITOS ENTRETENIMENTO",
+        "complete": true
       },
       {
         "id": 98043,
@@ -294,9 +297,9 @@
       },
       {
         "id": 98048,
-        "name": "SENTANDO NO MALVADO",
-        "artists": "MC Gustavinho, Gt do Mira",
-        "complete": false
+        "name": "Cara Bacana",
+        "artists": "MC G15",
+        "complete": true
       },
       {
         "id": 98049,
@@ -306,21 +309,21 @@
       },
       {
         "id": 98050,
-        "name": "Ela Tá Farmando Aura",
-        "artists": "Gordinho Bolado, MC LONE, É O CAVERINHA, MC Levin",
-        "complete": 1
+        "name": "Olha o Tamanho Dessa Onda",
+        "artists": "d.silvestre, MC LELE 011",
+        "complete": true
       },
       {
         "id": 98051,
-        "name": "Tomar Tomando (Se Sabe Que Eu To Gostando)",
-        "artists": "Anderson Neiff, Dj careca, DJ BIELL DN, Paulista DJ, CACAU CHUU",
-        "complete": 1
+        "name": "Medley de Bandido",
+        "artists": "DJ Jeeh FDC, Meno Saaint",
+        "complete": true
       },
       {
         "id": 98052,
-        "name": "Ela é Magrinha do Bundão",
-        "artists": "cjnobeat, Mc Gimenes, Mc Gw, MC BN",
-        "complete": 1
+        "name": "Jontex (fumaça do ice)",
+        "artists": "Mc Menor Rf, DJ GUIZIN DA SERRA",
+        "complete": true
       },
       {
         "id": 98053,
@@ -360,15 +363,15 @@
       },
       {
         "id": 98059,
-        "name": "MACETEI",
-        "artists": "MC Gustavinho, Gt do Mira",
-        "complete": 1
+        "name": "Vcs Tão Acabando Com o Funk (Diss pro Gi Panelas)",
+        "artists": "d.silvestre, MC Du Red",
+        "complete": true
       },
       {
         "id": 98060,
-        "name": "BOA NOITE (CHEGUEI)",
-        "artists": "THEUZZIN, 2L Motta, Mn de Niteroi, DJ MK De Niterói",
-        "complete": 1
+        "name": "Bota amor (Coloca Nela)",
+        "artists": "DJ GUSTAVO DA VS, MC CAROL 011, Mc Buret",
+        "complete": true
       },
       {
         "id": 98061,
@@ -384,9 +387,9 @@
       },
       {
         "id": 98063,
-        "name": "BONITA POR FOTO",
-        "artists": "MC Gustavinho, Gt do Mira",
-        "complete": 1
+        "name": "Amante, Fiel e Ex (1 + 1 = 2 + 1 = 3)",
+        "artists": "Dj Sati Marconex, MC Madan, MC Luiggi",
+        "complete": true
       },
       {
         "id": 98064,
@@ -432,9 +435,9 @@
       },
       {
         "id": 98071,
-        "name": "Calafrio",
-        "artists": "DJ KN DE VILA VELHA, DJ Arana, MC Ryan SP, Vulgo FK, TDK Rec, MC Jvila",
-        "complete": 1
+        "name": "Casei Com a Putaria",
+        "artists": "Mc Paiva ZS, MC Ryan SP, Kotim",
+        "complete": true
       },
       {
         "id": 98072,
@@ -444,9 +447,9 @@
       },
       {
         "id": 98073,
-        "name": "Ela Quer Relacionamento",
-        "artists": "MC Gustavinho, Gt do Mira",
-        "complete": 1
+        "name": "Ai Preto",
+        "artists": "L7NNON, DJ Biel do Furduncinho, Bianca",
+        "complete": true
       },
       {
         "id": 98074,
@@ -486,15 +489,15 @@
       },
       {
         "id": 98080,
-        "name": "Vovô Ele É 157, e da Tropa do 7",
-        "artists": "Biurifol, MC YARA OFICIAL, MC LEON, DJ Yuri Chagas, DJ Nego Jhow",
-        "complete": 1
+        "name": "Nois É os Cara",
+        "artists": "Mc Paiva ZS, Gabb MC, Mc Kadu, Love Funk, MC Lemos",
+        "complete": true
       },
       {
         "id": 98081,
-        "name": "Sem Frescura, Sem Pirraça",
-        "artists": "Mc Rodrigo do CN, Mc Jhey, DJ PH DE CAMPOS, DJ Denilson o clínico",
-        "complete": 1
+        "name": "Quem Não Conhece Tá Sem Internet",
+        "artists": "MC Marks, DJ BOY, Dj GM",
+        "complete": true
       },
       {
         "id": 98082,
@@ -504,9 +507,9 @@
       },
       {
         "id": 98083,
-        "name": "TO CORRENDO DE LAÇO",
-        "artists": "MC Gustavinho, Gt do Mira",
-        "complete": 1
+        "name": "O Preço",
+        "artists": "MC Hariel, MC Ryan SP, Mc Paiva ZS",
+        "complete": true
       },
       {
         "id": 98084,
@@ -516,9 +519,9 @@
       },
       {
         "id": 98085,
-        "name": "Meu Carro Nao Tem Porta Luva - Remastered 2024",
-        "artists": "DJ NATAN 22, Mc Rodrigo do CN, DJ DN do Dick",
-        "complete": 1
+        "name": "Doce Veneno",
+        "artists": "MC Paiva",
+        "complete": true
       },
       {
         "id": 98086,
@@ -576,9 +579,9 @@
       },
       {
         "id": 98095,
-        "name": "Macetada nas do Job",
-        "artists": "Mc Rodrigo do CN, MC 2jhow, DJ Cayoo, Mc Ws da leste",
-        "complete": 1
+        "name": "Tubarão Te Amo",
+        "artists": "Dj LK da Escócia, Tchakabum, MC Ryan SP, mc jhenny, Mc RF",
+        "complete": true
       },
       {
         "id": 98096,
@@ -594,9 +597,9 @@
       },
       {
         "id": 98098,
-        "name": "No Foco Noite e Dia",
-        "artists": "MC Gustavinho, Gt do Mira",
-        "complete": 1
+        "name": "Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho)",
+        "artists": "L7NNON, Os Hawaianos, DJ Bel da CDD, DJ Biel do Furduncinho",
+        "complete": true
       },
       {
         "id": 98099,
@@ -744,9 +747,9 @@
       },
       {
         "id": 98123,
-        "name": "Chefe É Chefe",
-        "artists": "MC Hariel",
-        "complete": 1
+        "name": "Festa de Vagabundo",
+        "artists": "Mc Paiva ZS, Love Funk, Kotim",
+        "complete": true
       },
       {
         "id": 98124,
@@ -780,9 +783,9 @@
       },
       {
         "id": 98129,
-        "name": "Vo da Choque No",
-        "artists": "Mc Pikachu, DJ NWT",
-        "complete": 1
+        "name": "Baile no Morro",
+        "artists": "MC Tairon, Mc Vitin Da Igrejinha, Dj Win, life song",
+        "complete": true
       },
       {
         "id": 98130,
@@ -804,9 +807,9 @@
       },
       {
         "id": 98133,
-        "name": "Cadê o Plug",
-        "artists": "Mc Pikachu, Prod Brunin, PRODUTORA THE KING MUSIC",
-        "complete": 1
+        "name": "Botadinha Saliente",
+        "artists": "Rogerinho",
+        "complete": true
       },
       {
         "id": 98134,
@@ -816,21 +819,21 @@
       },
       {
         "id": 98135,
-        "name": "Toma Piru",
-        "artists": "Mc Pikachu",
-        "complete": 1
+        "name": "Quebradas",
+        "artists": "MC Paulin da Capital, Mc Lipi, MC Cabelinho, Dj GM",
+        "complete": true
       },
       {
         "id": 98136,
-        "name": "Vou Te Rasgar",
-        "artists": "Mc Pikachu",
-        "complete": 1
+        "name": "Boca de Mel",
+        "artists": "Mc Jacaré",
+        "complete": true
       },
       {
         "id": 98137,
-        "name": "O Meu Pau Não Luta Box",
-        "artists": "DJ LK Da VB, Mc Pikachu, FLUXO DE RUA MUSIC",
-        "complete": 1
+        "name": "Anota Aí",
+        "artists": "Mc Lipi",
+        "complete": true
       },
       {
         "id": 98138,
@@ -846,9 +849,9 @@
       },
       {
         "id": 98140,
-        "name": "Tava no Fluxo - Mandelão",
-        "artists": "DJ Blakes, Mc Pikachu",
-        "complete": 1
+        "name": "Só Era Pix, Não Era Amor",
+        "artists": "Mc IG, DJ BOY, MC Hariel",
+        "complete": true
       },
       {
         "id": 98141,
@@ -924,9 +927,9 @@
       },
       {
         "id": 98153,
-        "name": "Dá Oi Pras Solteiras",
-        "artists": "MC Rick",
-        "complete": 1
+        "name": "A Cara do Crime 3 (Brinde à Liberdade)",
+        "artists": "Mc Poze do Rodo, Orochi, Filipe Ret, Mainstreet, Bielzin",
+        "complete": true
       },
       {
         "id": 98154,
@@ -1038,15 +1041,15 @@
       },
       {
         "id": 98172,
-        "name": "Depois Que Eu Terminei",
-        "artists": "GORDÃO DO PC, Mc Lele JP, MC Rick, Mc Leozin",
-        "complete": 1
+        "name": "Eu Vou Machucar Só um Pouquinho X Catucando Gostosinho",
+        "artists": "JC NO BEAT, MC Teteu, DJ F7",
+        "complete": true
       },
       {
         "id": 98173,
-        "name": "Pegando Ela",
-        "artists": "MC Don Juan, MC Pikachu",
-        "complete": 1
+        "name": "Favela",
+        "artists": "MC Ryan SP, MC Cebezinho, Mc Paiva ZS, Love Funk, MC Neguinho do Kaxeta, Mc Kadu, Mc IG",
+        "complete": true
       },
       {
         "id": 98174,
@@ -1110,9 +1113,9 @@
       },
       {
         "id": 98184,
-        "name": "Substituir faixa #98184",
-        "artists": "Adicionar artista",
-        "complete": false
+        "name": "Introdução em Dó Menor",
+        "artists": "GP DA ZL, MC Nito, MC DOM LP, Mc Gw",
+        "complete": true
       },
       {
         "id": 98185,
@@ -1122,9 +1125,9 @@
       },
       {
         "id": 98186,
-        "name": "Substituir faixa #98186",
-        "artists": "Adicionar artista",
-        "complete": false
+        "name": "Bala Halls (Ela é Profissional 2)",
+        "artists": "GP DA ZL, DJ C15 DA ZO, Mc Jhey",
+        "complete": true
       },
       {
         "id": 98187,
@@ -1188,27 +1191,27 @@
       },
       {
         "id": 98197,
-        "name": "Dona Cleusa 2",
-        "artists": "MC Rick",
-        "complete": 1
+        "name": "Pagodin",
+        "artists": "DJ WN, MC Cebezinho, Mc Kanhoto, Mc Kadu, Mc Robs",
+        "complete": true
       },
       {
         "id": 98198,
-        "name": "Novinha",
-        "artists": "Mc Leozin, Mc Menor DN, DJ ARTHUZIIN",
-        "complete": 1
+        "name": "VERMELHO",
+        "artists": "Gloria Groove",
+        "complete": true
       },
       {
         "id": 98199,
-        "name": "Maldita Dose",
-        "artists": "DJ ARTHUZIIN",
-        "complete": 1
+        "name": "Mel do Egito",
+        "artists": "Leandro e as Abusadas, CABBRAU",
+        "complete": true
       },
       {
         "id": 98200,
-        "name": "Cenas Obscenas",
-        "artists": "Mc Anjim",
-        "complete": 1
+        "name": "Bagulho Louco",
+        "artists": "Mc Paiva ZS, Kotim",
+        "complete": true
       }
     ]
   }

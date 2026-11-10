@@ -6,7 +6,9 @@
       "https://open.spotify.com/playlist/37i9dQZF1EQmI5l5ME2ybc",
       "https://open.spotify.com/playlist/5NwTiGhazK8dFjebf9GE6o",
       "https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl",
-      "https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl"
+      "https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl",
+      "https://open.spotify.com/playlist/48EpgsHKLGAsbJvGlf1UF9",
+      "https://open.spotify.com/playlist/6igHanEMC42bXN3SMyp4vJ?si=4f9icKTfTz2kIyWKySUmQA"
     ],
     "lyrics": [
       {
@@ -137,9 +139,9 @@
       },
       {
         "id": 98622,
-        "name": "Eu Te Seguro",
-        "artists": "Zé Vaqueiro",
-        "complete": false
+        "name": "Opa Cadê Eu - Ao Vivo",
+        "artists": "Clayton & Romário",
+        "complete": true
       },
       {
         "id": 98623,
@@ -155,9 +157,9 @@
       },
       {
         "id": 98625,
-        "name": "Patrão",
+        "name": "Notificação Preferida - Ao Vivo",
         "artists": "Zé Neto & Cristiano",
-        "complete": false
+        "complete": true
       },
       {
         "id": 98626,
@@ -317,9 +319,9 @@
       },
       {
         "id": 98652,
-        "name": "Substituir faixa #98652",
-        "artists": "Adicionar artista",
-        "complete": false
+        "name": "Logo Eu",
+        "artists": "Jorge & Mateus",
+        "complete": true
       },
       {
         "id": 98653,
@@ -329,9 +331,9 @@
       },
       {
         "id": 98654,
-        "name": "Me Leva Pra Casa / Escrito Nas Estrelas / Saudade",
-        "artists": "Zezé Di Camargo",
-        "complete": 1
+        "name": "Esqueceu Foi Porra",
+        "artists": "Eric Land, Tarcísio do Acordeon",
+        "complete": true
       },
       {
         "id": 98655,
@@ -503,9 +505,9 @@
       },
       {
         "id": 98683,
-        "name": "Cronômetro",
-        "artists": "Zé Vaqueiro",
-        "complete": false
+        "name": "Veneno - Ao Vivo",
+        "artists": "Murilo Huff, Zé Neto & Cristiano",
+        "complete": true
       },
       {
         "id": 98684,
@@ -515,9 +517,9 @@
       },
       {
         "id": 98685,
-        "name": "Mentes Tão Bem / Você Mente",
-        "artists": "Zezé Di Camargo & Luciano",
-        "complete": 1
+        "name": "Não Pode Se Apaixonar",
+        "artists": "Xand Avião, DJ Ivis, Mc Danny",
+        "complete": true
       },
       {
         "id": 98686,
@@ -545,9 +547,9 @@
       },
       {
         "id": 98690,
-        "name": "Sou Eu / Tentei Te Esquecer",
-        "artists": "Matogrosso & Mathias",
-        "complete": 1
+        "name": "Ela Aperta a Minha Mente",
+        "artists": "Xand Avião, Os Barões Da Pisadinha",
+        "complete": true
       },
       {
         "id": 98691,
@@ -743,9 +745,9 @@
       },
       {
         "id": 98723,
-        "name": "Cê Perdeu (Igual Eu)",
-        "artists": "Simone Mendes",
-        "complete": 1
+        "name": "Volta Bebê, Volta Neném",
+        "artists": "Dj Guuga, DJ Ivis",
+        "complete": true
       },
       {
         "id": 98724,
@@ -761,9 +763,9 @@
       },
       {
         "id": 98726,
-        "name": "Penteadeira",
-        "artists": "Bruno & Marrone",
-        "complete": 1
+        "name": "Esquema Preferido (feat. Tarcísio do Acordeon)",
+        "artists": "DJ Ivis, Tarcísio do Acordeon",
+        "complete": true
       },
       {
         "id": 98727,
@@ -773,9 +775,9 @@
       },
       {
         "id": 98728,
-        "name": "Substituir faixa #98728",
-        "artists": "Adicionar artista",
-        "complete": false
+        "name": "Escondendo o Ouro - Ao Vivo",
+        "artists": "Zé Neto & Cristiano",
+        "complete": true
       },
       {
         "id": 98729,
@@ -947,15 +949,15 @@
       },
       {
         "id": 98757,
-        "name": "Decide Aí - Na Praia",
-        "artists": "Naiara Azevedo",
-        "complete": false
+        "name": "Grau de Maluca - Ao Vivo",
+        "artists": "Guilherme & Benuto, Grupo Menos É Mais, Matheus Fernandes",
+        "complete": true
       },
       {
         "id": 98758,
-        "name": "O Nosso Santo Bateu",
-        "artists": "Matheus e Kauan",
-        "complete": false
+        "name": "Mudou O Texto",
+        "artists": "Danilo e Davi",
+        "complete": true
       },
       {
         "id": 98759,
@@ -1031,9 +1033,9 @@
       },
       {
         "id": 98771,
-        "name": "Nessas Horas",
-        "artists": "João Gomes",
-        "complete": 1
+        "name": "Me Chama Mozão",
+        "artists": "Naiara Azevedo, DJ Ivis",
+        "complete": true
       },
       {
         "id": 98772,
@@ -1049,15 +1051,15 @@
       },
       {
         "id": 98774,
-        "name": "Suíte 14",
-        "artists": "Israel Novaes",
-        "complete": 1
+        "name": "Falei pra Tu",
+        "artists": "Diego & Arnaldo, DJ Ivis",
+        "complete": true
       },
       {
         "id": 98775,
-        "name": "Impressionando Os Anjos",
-        "artists": "Diego Costa",
-        "complete": 1
+        "name": "Vai Sentar no Pai",
+        "artists": "DJ Ivis, JS o Mão de Ouro, Xand Avião",
+        "complete": true
       },
       {
         "id": 98776,
@@ -1145,9 +1147,9 @@
       },
       {
         "id": 98790,
-        "name": "Bagunça Minha Vida Em Goiânia",
-        "artists": "Maiara & Maraisa",
-        "complete": false
+        "name": "Filho da Mãe - Ao Vivo",
+        "artists": "Guilherme & Benuto",
+        "complete": true
       },
       {
         "id": 98791,
@@ -1187,9 +1189,9 @@
       },
       {
         "id": 98797,
-        "name": "Cê Já Me Namorou",
-        "artists": "Victor Reis",
-        "complete": 1
+        "name": "FALA MAL DE MIM",
+        "artists": "PEDRO SAMPAIO, Daniel Caon, Wesley Safadão",
+        "complete": true
       },
       {
         "id": 98798,

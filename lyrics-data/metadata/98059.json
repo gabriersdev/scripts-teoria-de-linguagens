@@ -2,22 +2,19 @@
   {
     "id": 98059,
     "metadata": {
-      "title": "MACETEI",
+      "title": "Vcs Tão Acabando Com o Funk (Diss pro Gi Panelas)",
       "artists": [
-        "MC Gustavinho",
-        "Gt do Mira"
+        "d.silvestre",
+        "MC Du Red"
       ],
-      "album": "MACETEI - Single",
-      "releaseDate": "2026-04-17T12:00:00Z",
-      "durationMs": 116667,
-      "genres": [
-        "Latin"
-      ],
-      "isrc": "AEA3A1930849",
-      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/58/f5/4858f509-3247-2a9b-e674-31b3c4a3bfcf/1341965.jpg/1000x1000bb.jpg",
+      "album": "Vcs Tão Acabando Com o Funk (Diss pro Gi Panelas)",
+      "releaseDate": "2024-12-17",
+      "durationMs": 145000,
+      "genres": [],
+      "isrc": "QZW9M2436665",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/395f9c4c020f6e753d2a3a3a27b7c5a5/1000x1000-000000-80-0-0.jpg",
       "sources": {
-        "itunes": "https://music.apple.com/us/album/macetei/1890022028?i=1890022029&uo=4",
-        "deezer": "https://www.deezer.com/track/3944479751"
+        "deezer": "https://www.deezer.com/track/3147205431"
       }
     },
     "lyricPath": "/lyrics/98059.txt"

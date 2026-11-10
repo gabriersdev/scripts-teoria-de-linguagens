@@ -2,20 +2,21 @@
   {
     "id": 98137,
     "metadata": {
-      "title": "O Meu Pau Não Luta Box",
+      "title": "Anota Aí",
       "artists": [
-        "DJ LK Da VB",
-        "Mc Pikachu",
-        "FLUXO DE RUA MUSIC"
+        "Mc Lipi"
       ],
-      "album": "O Meu Pau Não Luta Box",
-      "releaseDate": "2025-07-12",
-      "durationMs": 241000,
-      "genres": [],
-      "isrc": "QZNJX2544285",
-      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6e6bf599a074471a44b51ab209e0d3be/1000x1000-000000-80-0-0.jpg",
+      "album": "Anota Aí - Single",
+      "releaseDate": "2021-12-16T12:00:00Z",
+      "durationMs": 223059,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BXKG22101546",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ec/f4/01/ecf40170-17ef-920a-a13b-4feec13f7c27/0.jpg/1000x1000bb.jpg",
       "sources": {
-        "deezer": "https://www.deezer.com/track/3441844611"
+        "itunes": "https://music.apple.com/us/album/anota-a%C3%AD/1599158229?i=1599158230&uo=4",
+        "deezer": "https://www.deezer.com/track/1581098352"
       }
     },
     "lyricPath": "/lyrics/98137.txt"
