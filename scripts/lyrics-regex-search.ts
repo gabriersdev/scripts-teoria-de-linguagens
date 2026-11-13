@@ -7,30 +7,10 @@
  * de extrair linhas contextuais e calcular taxas de difusao e frequencia.
  */
 
-import * as fs from 'fs/promises';
-import * as path from 'path';
 import {fileURLToPath} from 'url';
+import {LyricsCorpus, TrackInfo} from '../lib/lyrics-corpus.js';
 
-interface LyricItem {
-  id: number | string;
-  name: string;
-  artists?: string;
-  complete?: boolean | number;
-}
-
-interface LyricsListFile {
-  complete: boolean;
-  id: string;
-  source: string[];
-  lyrics: LyricItem[];
-}
-
-export interface TrackInfo {
-  id: number | string;
-  name: string;
-  artists: string;
-  genre: string;
-}
+export type {TrackInfo};
 
 export interface LineMatch {
   lineNumber: number;
@@ -73,45 +53,14 @@ export interface SearchOptions {
 }
 
 export class LyricsRegexSearch {
-  private listDir: string;
-  private lyricsDir: string;
-  
-  constructor() {
-    const baseDir = path.dirname(fileURLToPath(import.meta.url));
-    this.listDir = path.resolve(baseDir, '../lyrics-list');
-    this.lyricsDir = path.resolve(baseDir, '../lyrics-data/lyrics');
+  private readonly corpus: LyricsCorpus;
+
+  constructor(corpus = new LyricsCorpus()) {
+    this.corpus = corpus;
   }
-  
+
   public async loadTrackIndex(): Promise<Map<string, TrackInfo>> {
-    const files = (await fs.readdir(this.listDir))
-      .filter(f => f.endsWith('.json'))
-      .sort();
-    
-    const trackMap = new Map<string, TrackInfo>();
-    
-    for (const file of files) {
-      const genre = file.replace('-list.json', '').replace('.json', '');
-      const filePath = path.join(this.listDir, file);
-      const raw = await fs.readFile(filePath, 'utf-8');
-      const data: LyricsListFile[] = JSON.parse(raw);
-      
-      for (const group of data) {
-        if (!group.lyrics || !Array.isArray(group.lyrics)) continue;
-        
-        for (const item of group.lyrics) {
-          if (item.id !== undefined && item.id !== null) {
-            trackMap.set(String(item.id), {
-              id: item.id,
-              name: item.name || `Faixa #${item.id}`,
-              artists: item.artists || 'Sem Artista',
-              genre
-            });
-          }
-        }
-      }
-    }
-    
-    return trackMap;
+    return this.corpus.loadTrackIndex();
   }
   
   public parsePattern(rawInput: string, options: SearchOptions): RegExp {
@@ -150,55 +99,21 @@ export class LyricsRegexSearch {
   
   public async search(patternInput: string, options: SearchOptions = {}): Promise<SearchReport> {
     const regex = this.parsePattern(patternInput, options);
-    const trackIndex = await this.loadTrackIndex();
-    
-    let lyricFiles: string[] = [];
-    try {
-      lyricFiles = (await fs.readdir(this.lyricsDir))
-        .filter(f => f.endsWith('.txt'))
-        .sort();
-    } catch {
-      throw new Error(`Diretorio de letras nao encontrado em: ${this.lyricsDir}`);
-    }
-    
+
     const genreStatsMap = new Map<string, { totalWithLyrics: number; matchingTracks: number; occurrences: number }>();
     const results: TrackSearchResult[] = [];
     let totalAnalyzed = 0;
     let totalOccurrences = 0;
-    
-    const knownGenres = new Set(Array.from(trackIndex.values()).map(t => t.genre.toLowerCase()));
-    const normalizedFilter = options.genreFilter?.trim().toLowerCase();
-    const isExactGenre = normalizedFilter ? knownGenres.has(normalizedFilter) : false;
-    
-    for (const file of lyricFiles) {
-      const id = file.replace('.txt', '');
-      const track = trackIndex.get(id) || {
-        id,
-        name: `Faixa #${id}`,
-        artists: 'Desconhecido',
-        genre: 'desconhecido'
-      };
-      
-      if (normalizedFilter) {
-        const trackGenre = track.genre.toLowerCase();
-        const matches = isExactGenre
-          ? trackGenre === normalizedFilter
-          : trackGenre.includes(normalizedFilter);
-        if (!matches) {
-          continue;
-        }
-      }
-      
+
+    for await (const {track, content} of this.corpus.iterateLyrics({genreFilter: options.genreFilter})) {
       totalAnalyzed++;
-      
+
       if (!genreStatsMap.has(track.genre)) {
         genreStatsMap.set(track.genre, {totalWithLyrics: 0, matchingTracks: 0, occurrences: 0});
       }
       const genreStat = genreStatsMap.get(track.genre)!;
       genreStat.totalWithLyrics++;
-      
-      const filePath = path.join(this.lyricsDir, file);
-      const content = await fs.readFile(filePath, 'utf-8');
+
       const lines = content.split(/\r?\n/);
       
       let trackOccurrences = 0;

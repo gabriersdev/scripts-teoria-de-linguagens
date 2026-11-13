@@ -15,6 +15,7 @@
     "fill:artists": "tsx util/manual-artist-fill.ts",
     "populate:artists": "tsx util/populate-artists.ts",
     "search:lyrics": "tsx scripts/lyrics-regex-search.ts",
+    "incidence:words": "tsx scripts/incidence-words.ts",
     "verify:lyrics": "tsx scripts/sample-lyrics-verifier.ts",
     "lookup:lyrics": "tsx scripts/lyrics-service.ts",
     "lookup:metadata": "tsx scripts/track-metadata-service.ts",

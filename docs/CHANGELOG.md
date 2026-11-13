@@ -2,6 +2,27 @@
 
 Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 
+## [1.5.0] - 2026-11-10
+
+### Adicionado
+- Biblioteca compartilhada `lib/lyrics-corpus.ts`:
+  - Classe `LyricsCorpus` extraída para centralizar a indexação das listas em `/lyrics-list/*.json` e o carregamento/iteração das letras em `/lyrics-data/lyrics/*.txt`, com suporte a filtro de gênero com prioridade de correspondência exata.
+- Biblioteca compartilhada `lib/word-filters.ts` e catálogos em `/lib`:
+  - Tokenizador `tokenizeLyricWords` com remoção padrão de marcações estruturais entre colchetes (`[Refrão]`, `[Verso 1]`, etc.), preservação de apóstrofos/hífens internos, suporte a normalização de acentos e tamanho mínimo configurável.
+  - Catálogo estático `lib/ignore-words.json` (stopwords em português) carregado via `loadIgnoreWords` e integração com `lib/swear-words.json` via `loadSwearWords`.
+- Analisador de incidência lexical `scripts/incidence-words.ts`:
+  - Contabilização das palavras mais frequentes no corpus completo e por gênero musical, com métricas de ocorrências totais, quantidade de faixas distintas, taxa de difusão (%) e participação percentual (%).
+  - Filtragem padrão de stopwords do português, suporte a lista extra via `--ignore`, integração com `lib/swear-words.json` (`highlight`, `--only-swear` / `swear`, `--exclude-swear` / `no-swear`), argumentos posicionais ou via flags CLI e saída em tabela ou JSON (`--json`).
+- Comando npm `"incidence:words"` registrado em `package.json`.
+
+### Modificado
+- `scripts/lyrics-regex-search.ts`:
+  - Refatorado para reutilizar `LyricsCorpus` (`lib/lyrics-corpus.ts`), eliminando a duplicação da lógica de carregamento e indexação de faixas/letras.
+- `tsconfig.json`:
+  - Inclusão do diretório `lib/**/*` no escopo de verificação TypeScript.
+- `docs/ARCHITECTURE.md` e `docs/BUSINESS-RULES.md`:
+  - Documentação dos novos módulos em `/lib`, do script `scripts/incidence-words.ts` e da regra de filtragem lexical do corpus.
+
 ## [1.4.1] - 2026-11-02
 
 ### Adicionado
