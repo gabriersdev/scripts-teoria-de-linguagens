@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98243,
+    "metadata": {
+      "title": "Melhor Agora",
+      "artists": [
+        "Filipe Ret",
+        "Dallass",
+        "Honaiser",
+        "LODONI"
+      ],
+      "album": "FRXV (Ao Vivo)",
+      "releaseDate": "2023-12-15",
+      "durationMs": 134282,
+      "genres": [],
+      "isrc": "BRRGE2301038",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4ef3ecf94fcf128ab7685986085f1ac9/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d9e45de8-0144-450e-af2b-d0ce4311ee0a",
+        "deezer": "https://www.deezer.com/track/2565544752"
+      }
+    },
+    "lyricPath": "/lyrics/98243.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99042,
+    "metadata": {
+      "title": "Boladão Escutando Orochi",
+      "artists": [
+        "Orochi",
+        "Oruam",
+        "Portugal No Beat",
+        "Galdino"
+      ],
+      "album": "Boladão Escutando Orochi",
+      "releaseDate": "2026-03-24",
+      "durationMs": 206000,
+      "genres": [],
+      "isrc": "BCM9A2600024",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/bae87d8ca1145b5d58969d5f9db7a560/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3915284051"
+      }
+    },
+    "lyricPath": "/lyrics/99042.txt"
+  }
+]

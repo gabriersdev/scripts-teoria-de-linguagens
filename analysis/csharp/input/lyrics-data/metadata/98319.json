@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98319,
+    "metadata": {
+      "title": "Mãos Ao Alto!",
+      "artists": [
+        "Costa Gold",
+        "Cacife Clandestino"
+      ],
+      "album": "Cacife Gold, Vol. 2",
+      "releaseDate": "2017-07-09",
+      "durationMs": 300000,
+      "genres": [
+        "Hip-Hop/Rap",
+        "Rap"
+      ],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1074577352"
+      }
+    },
+    "lyricPath": "/lyrics/98319.txt"
+  }
+]

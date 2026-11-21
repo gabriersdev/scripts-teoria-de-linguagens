@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99022,
+    "metadata": {
+      "title": "Ruas de Sangue",
+      "artists": [
+        "NGC Daddy"
+      ],
+      "album": "Ruas de Sangue",
+      "releaseDate": "2021-08-04",
+      "durationMs": 151000,
+      "genres": [],
+      "isrc": "QZMZ92148884",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b05cace20568a0acdaadf187cafb0645/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1446037892"
+      }
+    },
+    "lyricPath": "/lyrics/99022.txt"
+  }
+]

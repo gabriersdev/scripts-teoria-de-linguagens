@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98987,
+    "metadata": {
+      "title": "Real Underground",
+      "artists": [
+        "NGC Daddy"
+      ],
+      "album": "Real Underground",
+      "releaseDate": "2022-02-10",
+      "durationMs": 130000,
+      "genres": [],
+      "isrc": "QZGLM2207317",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/a7563d7808aa139c281f64da20de80c4/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1645475052"
+      }
+    },
+    "lyricPath": "/lyrics/98987.txt"
+  }
+]

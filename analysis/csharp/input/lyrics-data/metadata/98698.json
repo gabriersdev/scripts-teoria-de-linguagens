@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98698,
+    "metadata": {
+      "title": "Evento do Ano",
+      "artists": [
+        "Bruno & Marrone"
+      ],
+      "album": "Evento do Ano (Ao Vivo) - Single",
+      "releaseDate": "2026-08-27T12:00:00Z",
+      "durationMs": 183952,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWOS2600023",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/71/ef/ae71efce-dfd6-b870-b792-17f29b0885f2/885288333848.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/evento-do-ano-ao-vivo/6802418785?i=6802418789&uo=4",
+        "deezer": "https://www.deezer.com/track/4229356422"
+      }
+    },
+    "lyricPath": "/lyrics/98698.txt"
+  }
+]

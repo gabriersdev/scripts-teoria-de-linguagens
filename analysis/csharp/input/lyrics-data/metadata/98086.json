@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98086,
+    "metadata": {
+      "title": "Senta e Cala a Boca",
+      "artists": [
+        "Mc Jacaré",
+        "DJ JHOW BEATS"
+      ],
+      "album": "Senta e Cala a Boca - Single",
+      "releaseDate": "2025-03-12T12:00:00Z",
+      "durationMs": 143402,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": "BKC3C2500004",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/14/80/b414809a-6404-5d86-54fb-f3bb8d13dec1/304487.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/senta-e-cala-a-boca/6768945688?i=6768945690&uo=4",
+        "deezer": "https://www.deezer.com/track/3212653741"
+      }
+    },
+    "lyricPath": "/lyrics/98086.txt"
+  }
+]

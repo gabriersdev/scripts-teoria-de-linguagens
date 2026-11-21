@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98144,
+    "metadata": {
+      "title": "Veracruz",
+      "artists": [
+        "MC Kevin"
+      ],
+      "album": "Veracruz",
+      "releaseDate": "2016-01-06",
+      "durationMs": 234000,
+      "genres": [],
+      "isrc": "US7VG1601528",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7177c70cd8cf806cb321520ce8727737/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/952083242"
+      }
+    },
+    "lyricPath": "/lyrics/98144.txt"
+  }
+]

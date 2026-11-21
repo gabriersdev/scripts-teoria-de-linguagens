@@ -1,0 +1,29 @@
+[
+  {
+    "id": 98448,
+    "metadata": {
+      "title": "Sinceramente",
+      "artists": [
+        "Cachorro Grande"
+      ],
+      "album": "Pista livre",
+      "releaseDate": "2005-05",
+      "durationMs": 251866,
+      "genres": [
+        "rock",
+        "alternative rock",
+        "brazilian",
+        "indie",
+        "rock and roll"
+      ],
+      "isrc": "BRDEP0500083",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/44/b0/9d/44b09d8b-b1b4-e9f7-2926-1857e1c55a5c/7898324304392.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/1301bd83-dee3-437e-958b-bf8ba158cdd0",
+        "itunes": "https://music.apple.com/us/album/sinceramente/977448857?i=977448861&uo=4",
+        "deezer": "https://www.deezer.com/track/96008358"
+      }
+    },
+    "lyricPath": "/lyrics/98448.txt"
+  }
+]

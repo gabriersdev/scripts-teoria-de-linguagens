@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98787,
+    "metadata": {
+      "title": "Cópia Proibida",
+      "artists": [
+        "Léo Foguete"
+      ],
+      "album": "Obrigado Deus",
+      "releaseDate": "2024-10-26",
+      "durationMs": 159480,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BCSUV2401332",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/7d/59/3a7d5982-27f7-1af2-a256-adb70823a347/8721253186748.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f8e4b870-4933-4d79-b151-8796821ff91d",
+        "itunes": "https://music.apple.com/us/album/c%C3%B3pia-proibida/1785708951?i=1785708954&uo=4",
+        "deezer": "https://www.deezer.com/track/3145716341"
+      }
+    },
+    "lyricPath": "/lyrics/98787.txt"
+  }
+]

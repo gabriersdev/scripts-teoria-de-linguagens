@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98016,
+    "metadata": {
+      "title": "Flexiona Toma Toma",
+      "artists": [
+        "DJ João Marconex",
+        "mlk vinheta",
+        "DJ Giovanne Mandelão",
+        "Mc Tauã"
+      ],
+      "album": "Flexiona Toma Toma",
+      "releaseDate": "2025-03-28",
+      "durationMs": 110000,
+      "genres": [],
+      "isrc": "BKF442500030",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/961f78a2fd6e0a3d3d04f2ae2c9defca/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3412338411"
+      }
+    },
+    "lyricPath": "/lyrics/98016.txt"
+  }
+]

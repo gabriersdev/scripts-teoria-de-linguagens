@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98184,
+    "metadata": {
+      "title": "Introdução em Dó Menor",
+      "artists": [
+        "GP DA ZL",
+        "MC Nito",
+        "MC DOM LP",
+        "Mc Gw"
+      ],
+      "album": "1S",
+      "releaseDate": "2025-05-02",
+      "durationMs": 159000,
+      "genres": [],
+      "isrc": "BK7NM2500156",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d675053cd639e115c711441d73237a27/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3339206171"
+      }
+    },
+    "lyricPath": "/lyrics/98184.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98390,
+    "metadata": {
+      "title": "O Casamento",
+      "artists": [
+        "Sid",
+        "Spinardi",
+        "Ugo Ludovico"
+      ],
+      "album": "Pancada Sem Luva 2.0",
+      "releaseDate": "2024-03-05T12:00:00Z",
+      "durationMs": 247667,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/e1/54/e6e154cf-1673-710f-8396-763269cc24bb/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/convite-de-casamento/1737705901?i=1737705914&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98390.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98771,
+    "metadata": {
+      "title": "Me Chama Mozão",
+      "artists": [
+        "Naiara Azevedo",
+        "DJ Ivis"
+      ],
+      "album": "Me Chama Mozão - Single",
+      "releaseDate": "2021-03-05T12:00:00Z",
+      "durationMs": 182508,
+      "genres": [
+        "Forró"
+      ],
+      "isrc": "BX8WE2100010",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/e0/03/bfe00391-a2ff-09d2-4caf-42b83532fa04/06be29e9-ca2e-4f72-b00f-86507666dbab.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/me-chama-moz%C3%A3o/1824535979?i=1824535980&uo=4",
+        "deezer": "https://www.deezer.com/track/1626200292"
+      }
+    },
+    "lyricPath": "/lyrics/98771.txt"
+  }
+]

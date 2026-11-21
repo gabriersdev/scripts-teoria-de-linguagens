@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98877,
+    "metadata": {
+      "title": "Clone",
+      "artists": [
+        "Yung Nobre",
+        "Kyan",
+        "Mu540"
+      ],
+      "album": "Clone",
+      "releaseDate": "2022-07-07",
+      "durationMs": 198000,
+      "genres": [],
+      "isrc": "BXZYA2200018",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7416e67167d4961557d31af417d8335a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1807363377"
+      }
+    },
+    "lyricPath": "/lyrics/98877.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98997,
+    "metadata": {
+      "title": "Bag de Grife",
+      "artists": [
+        "NGC Daddy"
+      ],
+      "album": "Bag de Grife",
+      "releaseDate": "2021-05-19",
+      "durationMs": 127000,
+      "genres": [],
+      "isrc": "QZHZ42127205",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/f961accd5b6989c2d3c9cf23bde59a90/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1366006932"
+      }
+    },
+    "lyricPath": "/lyrics/98997.txt"
+  }
+]

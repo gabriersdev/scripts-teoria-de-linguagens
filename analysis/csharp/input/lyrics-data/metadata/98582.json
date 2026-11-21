@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98582,
+    "metadata": {
+      "title": "Garoto Podre",
+      "artists": [
+        "Garotos Podres"
+      ],
+      "album": "Rock de Suburbio",
+      "releaseDate": "1995",
+      "durationMs": 211000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6d04741d-0fbf-46f5-a914-61479188869b"
+      }
+    },
+    "lyricPath": "/lyrics/98582.txt"
+  }
+]

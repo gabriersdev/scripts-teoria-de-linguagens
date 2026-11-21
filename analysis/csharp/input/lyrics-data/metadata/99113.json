@@ -1,0 +1,23 @@
+[
+  {
+    "id": 99113,
+    "metadata": {
+      "title": "Acelerando",
+      "artists": [
+        "Orochi",
+        "jess beats"
+      ],
+      "album": "Celebridade",
+      "releaseDate": "2020-03-27",
+      "durationMs": 232000,
+      "genres": [],
+      "isrc": "BX02F2000002",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/ff2fb91f07e9b2f409fdd59fe326f730/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/19138ac0-2550-4af5-b2d1-4aa4181446ae",
+        "deezer": "https://www.deezer.com/track/914213732"
+      }
+    },
+    "lyricPath": "/lyrics/99113.txt"
+  }
+]

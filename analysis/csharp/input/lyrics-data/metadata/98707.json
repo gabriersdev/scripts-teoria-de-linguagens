@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98707,
+    "metadata": {
+      "title": "Vou Ter Que Superar - Ao Vivo",
+      "artists": [
+        "Matheus & Kauan",
+        "Marília Mendonça"
+      ],
+      "album": "Tem Moda Pra Tudo (Ao Vivo)",
+      "releaseDate": "2019-03-22",
+      "durationMs": 189000,
+      "genres": [],
+      "isrc": "BRUM71900076",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/ac517ea4a1ba61d88292c557ba1ac27b/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/650483992"
+      }
+    },
+    "lyricPath": "/lyrics/98707.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98672,
+    "metadata": {
+      "title": "Dois Tristes",
+      "artists": [
+        "Simone Mendes"
+      ],
+      "album": "Só hits",
+      "releaseDate": "2024-04-04",
+      "durationMs": 189000,
+      "genres": [],
+      "isrc": "BRUM72302190",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/446cfd7e59aa1a0e336b4940c4af47a8/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/cbcb87b3-1c92-4b62-bd8a-c62f867f547b",
+        "deezer": "https://www.deezer.com/track/2674743712"
+      }
+    },
+    "lyricPath": "/lyrics/98672.txt"
+  }
+]

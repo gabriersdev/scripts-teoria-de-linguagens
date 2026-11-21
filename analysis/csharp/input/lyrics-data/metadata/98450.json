@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98450,
+    "metadata": {
+      "title": "Zóio De Lula",
+      "artists": [
+        "Charlie Brown Jr."
+      ],
+      "album": "Pop Rock Brasil 2001: Amigo da água, ao vivo",
+      "releaseDate": "2001-10-10",
+      "durationMs": 299933,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/35b82b41-f71f-41b4-9d5d-8d5ceb492b6f"
+      }
+    },
+    "lyricPath": "/lyrics/98450.txt"
+  }
+]

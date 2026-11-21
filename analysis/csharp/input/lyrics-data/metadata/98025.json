@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98025,
+    "metadata": {
+      "title": "Red Bull",
+      "artists": [
+        "MC Pikachu"
+      ],
+      "album": "Red Bull",
+      "releaseDate": "2017-07-19",
+      "durationMs": 184000,
+      "genres": [
+        "Funk",
+        "Baile Funk"
+      ],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1443968182"
+      }
+    },
+    "lyricPath": "/lyrics/98025.txt"
+  }
+]
