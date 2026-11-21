@@ -41,10 +41,16 @@ Ao validar retornos de provedores externos (MusicBrainz, iTunes, Deezer, LRCLIB)
 Para integrar o corpus de pesquisa em língua portuguesa:
 - Textos com predomínio de vocabulário ou stopwords em idioma estrangeiro (inglês/espanhol) devem ser rejeitados e submetidos ao próximo provedor da cascata.
 - Avisos de placeholder ("instrumental", "letra não disponível") desclassificam o resultado.
+- **Higienização de Marcadores Temporais:** Letras sincronizadas (LRC) contendo marcadores de linha (`[mm:ss.xxx]`), de palavra/sílaba (`<mm:ss.xxx>`) ou metadados de cabeçalho (`[ar:...]`) devem ser limpas (`sanitizeLyrics`), expurgando ruídos numéricos e temporais antes de salvar o arquivo definitivo em disco.
 
 ## 10. Análise Lexical e Filtragem do Corpus (`incidence-words.ts`)
 Na apuração de frequência de palavras sobre `/lyrics-data/lyrics`:
 - **Remoção de tags estruturais:** Marcações editoriais ou de seção entre colchetes (ex.: `[Refrão]`, `[Verso 1]`, `[Intro]`, `[?]`) são descartadas por padrão antes da tokenização para não inflar contagens com metadados textuais (preservável via `--keep-tags`).
 - **Stopwords por padrão (`lib/ignore-words.json`):** Artigos, preposições, contrações, conjunções, pronomes e verbos auxiliares/ligação de alta frequência da língua portuguesa catalogados em `lib/ignore-words.json` são ignorados por padrão na contagem (incluíveis via `--all-words`).
 - **Classificação de `lib/swear-words.json`:** Os termos catalogados permanecem contabilizados e sinalizados no relatório padrão, podendo ser isolados (`--only-swear` / `swear`) ou excluídos (`--exclude-swear` / `no-swear`).
+
+## 11. Busca com Expansão Elástica de Caracteres (`lyrics-regex-search.ts`)
+Na varredura de termos sobre letras cantadas:
+- **Alongamento Fonético/Rítmico:** Em gêneros musicais, caracteres são frequentemente repetidos para coincidir com a métrica e o tempo da melodia (ex.: `puuuuta`, `putaaaa`, `vadiiiia`).
+- **Construção de Padrão Elástico:** A busca elástica converte cada caractere da palavra base no quantificador de repetição positiva $c+$ (1 ou mais repetições) e tolera a terminação plural opcional ($s*$), capturando termos estendidos e formas no plural (ex.: `puta` casa com `puuuta`, `putas` e `puuutasss`).
 
