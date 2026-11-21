@@ -2,6 +2,27 @@
 
 Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 
+## [1.6.0] - 2026-11-21
+
+### Adicionado
+- Utilitário de higienização de letras `scripts/sanitize-lyrics.ts`:
+  - Varredura completa sobre o corpus `/lyrics-data/lyrics/*.txt` para detecção e remoção atômica de marcadores de sincronia e timestamps LRC (`<mm:ss.xxx>`, `[mm:ss.xxx]` e tags `[ar:...]`).
+  - Suporte a modo de simulação (`--dry-run` / `-d`) e comando npm `"sanitize:lyrics"` registrado em `package.json`.
+- Função `sanitizeLyrics` em `scripts/text-sanitizer.ts`:
+  - Purificação de strings líricas contra marcadores temporais residuais e normalização de espaçamento.
+- Função `buildElasticWordPattern` em `scripts/text-sanitizer.ts`:
+  - Geração de padrões regulares com quantificador positivo em cada caractere ($c+$) e terminação opcional de plural ($s*$) para capturar variações de alongamento fonético e flexões no plural.
+- Suporte a busca elástica em `scripts/lyrics-regex-search.ts`:
+  - Nova opção `--elastic` / `-e` (e argumento posicional `elastic`) para expandir palavras-chave em expressões regulares flexíveis (ex.: `puta` casa com `puuuuta`, `putas` e `puuutasss`).
+
+### Modificado
+- `scripts/lyrics-service.ts`:
+  - Integração de `sanitizeLyrics` na ingestão de letras via LRCLIB, Genius e lyrics.ovh, prevenindo que arquivos futuros sejam persistidos com tags de sincronização.
+- `/lyrics-data/lyrics/98417.txt`:
+  - Execução da sanitização com expurgo de 183 marcadores temporais inline remanescentes da faixa "Balada Do Louco" (Os Mutantes).
+- `docs/ARCHITECTURE.md` e `docs/BUSINESS-RULES.md`:
+  - Documentação da regra de higienização de marcadores temporais e do padrão elástico de repetição de caracteres para análise lírica.
+
 ## [1.5.0] - 2026-11-10
 
 ### Adicionado

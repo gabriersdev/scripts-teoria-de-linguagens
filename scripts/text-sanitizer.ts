@@ -166,3 +166,36 @@ export function isPortugueseLyrics(lyrics: string): boolean {
   
   return ptScore >= 3;
 }
+
+export function sanitizeLyrics(rawLyrics: string): string {
+  if (!rawLyrics || !rawLyrics.trim()) return "";
+
+  return rawLyrics
+    .replace(/<\d{1,2}:\d{2}(?:\.\d{1,3})?>/g, "")
+    .replace(/\[\d{1,2}:\d{2}(?:\.\d{1,3})?\]/g, "")
+    .replace(/\[(?:ti|ar|al|by|offset|length|re|ve):[^\]]*\]/gi, "")
+    .split(/\r?\n/)
+    .map(line => line.replace(/[ \t]+/g, " ").trim())
+    .join("\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
+export function buildElasticWordPattern(word: string): string {
+  const trimmed = word.trim();
+  if (!trimmed) return "";
+
+  const hasTrailingS = /s$/i.test(trimmed);
+  const baseChars = hasTrailingS ? trimmed.slice(0, -1) : trimmed;
+
+  const expandedChars = Array.from(baseChars)
+    .map(char => {
+      const escapedChar = char.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      return `${escapedChar}+`;
+    })
+    .join("");
+
+  return hasTrailingS
+    ? `${expandedChars}s+`
+    : `${expandedChars}s*`;
+}

@@ -19,6 +19,7 @@
     "verify:lyrics": "tsx scripts/sample-lyrics-verifier.ts",
     "lookup:lyrics": "tsx scripts/lyrics-service.ts",
     "lookup:metadata": "tsx scripts/track-metadata-service.ts",
+    "sanitize:lyrics": "tsx scripts/sanitize-lyrics.ts",
     "update:ids": "tsx util/update-lyrics-list-ids.ts"
   },
   "private": true,

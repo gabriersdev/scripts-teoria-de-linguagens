@@ -9,6 +9,7 @@
 
 import {fileURLToPath} from 'url';
 import {LyricsCorpus, TrackInfo} from '../lib/lyrics-corpus.js';
+import {buildElasticWordPattern} from './text-sanitizer.js';
 
 export type {TrackInfo};
 
@@ -47,6 +48,7 @@ export interface SearchOptions {
   genreFilter?: string;
   caseSensitive?: boolean;
   wholeWord?: boolean;
+  elastic?: boolean;
   limit?: number;
   summaryOnly?: boolean;
   outputJson?: boolean;
@@ -66,13 +68,16 @@ export class LyricsRegexSearch {
   public parsePattern(rawInput: string, options: SearchOptions): RegExp {
     let pattern = rawInput.trim();
     let flags = options.caseSensitive ? 'g' : 'gi';
+    let isLiteralRegex = false;
     
     // Tratamento para Git Bash / MSYS no Windows:
     // O Git Bash converte argumentos iniciados com barra (ex: "/\btermo\b/") para "//btermo/b/"
     if (pattern.startsWith('//b') && pattern.endsWith('/b/')) {
       pattern = `\\b${pattern.slice(3, -3)}\\b`;
+      isLiteralRegex = true;
     } else if (pattern.startsWith('/b') && pattern.endsWith('/b/')) {
       pattern = `\\b${pattern.slice(2, -3)}\\b`;
+      isLiteralRegex = true;
     } else if (pattern.startsWith('/') && pattern.lastIndexOf('/') > 0) {
       // Suporte a sintaxe literal de expressao regular: /padrao/flags
       const lastSlashIdx = pattern.lastIndexOf('/');
@@ -84,9 +89,17 @@ export class LyricsRegexSearch {
         // Garante a presenca da flag global para contabilizacao completa
         flags = extractedFlags.includes('g') ? extractedFlags : `${extractedFlags}g`;
       }
+      isLiteralRegex = true;
     }
     
-    if (options.wholeWord) {
+    if (options.elastic && !isLiteralRegex) {
+      const words = pattern.split(/\s+/).filter(Boolean);
+      const elasticPatterns = words.map(word => buildElasticWordPattern(word));
+      const combined = elasticPatterns.length > 1
+        ? `(?:${elasticPatterns.join('|')})`
+        : elasticPatterns[0];
+      pattern = `\\b(?:${combined})\\b`;
+    } else if (options.wholeWord) {
       pattern = `\\b(?:${pattern})\\b`;
     }
     
@@ -269,12 +282,14 @@ export class LyricsRegexSearch {
 
 function showHelp(): void {
   console.info('Uso:');
-  console.info('  npm run search:lyrics "<padrao-ou-palavra>" [genero] [all] [summary] [word]');
+  console.info('  npm run search:lyrics "<padrao-ou-palavra>" [genero] [all] [summary] [word] [elastic]');
   console.info('  npm run search:lyrics \'--\' "<padrao-ou-palavra>" [opcoes com --]');
   console.info();
   console.info('Exemplos (Sem necessidade de flags -- ou aspas especiais):');
   console.info('  npm run search:lyrics "/\\bputa\\b/" trap-extra all');
   console.info('  npm run search:lyrics "puta" trap-extra word all');
+  console.info('  npm run search:lyrics "puta" trap-extra elastic all');
+  console.info('  npm run search:lyrics "vadia" elastic summary');
   console.info('  npm run search:lyrics "amor" sertanejo');
   console.info('  npm run search:lyrics "/(?:dinheiro|grana)/i" rap all');
   console.info('  npm run search:lyrics "favela" all summary');
@@ -282,6 +297,7 @@ function showHelp(): void {
   console.info('Opcoes via flag (quando usar \'--\'):');
   console.info('  --genre=<nome>, -g    Filtra a busca por um genero especifico (funk, rock, rap, sertanejo, etc.)');
   console.info('  --word, -w            Garante correspondencia de palavra inteira (adiciona delimitadores \\b)');
+  console.info('  --elastic, -e         Expande cada letra para repeticoes infinitas (c+) e suporta "s" plural no final');
   console.info('  --case-sensitive, -c  Diferencia maiusculas de minusculas (padrao: case-insensitive)');
   console.info('  --limit=<N>, -l       Limite de faixas detalhadas a exibir (padrao: 20)');
   console.info('  --all, -a             Exibe todas as faixas sem limite');
@@ -313,6 +329,8 @@ if (isCLI) {
       options.genreFilter = arg.replace('-g=', '');
     } else if (arg === '--word' || arg === '-w') {
       options.wholeWord = true;
+    } else if (arg === '--elastic' || arg === '-e') {
+      options.elastic = true;
     } else if (arg === '--case-sensitive' || arg === '-c') {
       options.caseSensitive = true;
     } else if (arg === '--summary' || arg === '--summary-only') {
@@ -335,6 +353,8 @@ if (isCLI) {
         options.summaryOnly = true;
       } else if (lower === 'word') {
         options.wholeWord = true;
+      } else if (lower === 'elastic') {
+        options.elastic = true;
       } else if (!options.genreFilter) {
         options.genreFilter = arg;
       }
