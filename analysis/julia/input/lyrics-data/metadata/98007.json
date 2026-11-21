@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98007,
+    "metadata": {
+      "title": "Balança e Bafora",
+      "artists": [
+        "GP DA ZL",
+        "Dj Alexia",
+        "MC Juninho da VD"
+      ],
+      "album": "1S",
+      "releaseDate": "2025-05-02",
+      "durationMs": 126000,
+      "genres": [],
+      "isrc": "BK7NM2500161",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d675053cd639e115c711441d73237a27/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3339206221"
+      }
+    },
+    "lyricPath": "/lyrics/98007.txt"
+  }
+]

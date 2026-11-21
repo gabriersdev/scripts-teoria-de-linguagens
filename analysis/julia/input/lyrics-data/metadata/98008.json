@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98008,
+    "metadata": {
+      "title": "Pau Pra Toda Obra",
+      "artists": [
+        "Mc Jacaré",
+        "MC Ryan SP",
+        "Mc IG",
+        "Mc Lele JP"
+      ],
+      "album": "Pau Pra Toda Obra",
+      "releaseDate": "2026-06-19",
+      "durationMs": 229000,
+      "genres": [],
+      "isrc": "BKC3C2600020",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/78179e8420bb79081b47f4da1bd84007/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4100657281"
+      }
+    },
+    "lyricPath": "/lyrics/98008.txt"
+  }
+]

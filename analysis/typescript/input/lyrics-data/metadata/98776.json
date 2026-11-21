@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98776,
+    "metadata": {
+      "title": "Ele Quer Ser Eu - Ao Vivo",
+      "artists": [
+        "Henrique & Juliano"
+      ],
+      "album": "Ele Quer Ser Eu (Ao Vivo) - Single",
+      "releaseDate": "2016-03-18T12:00:00Z",
+      "durationMs": 183431,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1500103",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/9f/d9/139fd9f0-d763-69b8-fb96-2f6bedc609e7/00602438705702_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/ele-quer-ser-eu-ao-vivo/1882470984?i=1882470985&uo=4",
+        "deezer": "https://www.deezer.com/track/3877702291"
+      }
+    },
+    "lyricPath": "/lyrics/98776.txt"
+  }
+]

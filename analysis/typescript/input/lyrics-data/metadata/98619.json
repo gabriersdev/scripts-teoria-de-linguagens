@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98619,
+    "metadata": {
+      "title": "Não Namora",
+      "artists": [
+        "Clayton & Romário & Zé Neto & Cristiano"
+      ],
+      "album": "Não Namora (Ao Vivo) - Single",
+      "releaseDate": "2026-02-26T12:00:00Z",
+      "durationMs": 135925,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BCYWS2600001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/25/4d/13254d62-63d0-57fd-a176-6302ce6ab867/5026854704494.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/n%C3%A3o-namora-ao-vivo/1876914404?i=1876914409&uo=4",
+        "deezer": "https://www.deezer.com/track/3840367331"
+      }
+    },
+    "lyricPath": "/lyrics/98619.txt"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98159,
+    "metadata": {
+      "title": "Dom Dom Dom",
+      "artists": [
+        "MC Pedrinho"
+      ],
+      "album": "Trap Funk",
+      "releaseDate": "2017-07-21T12:00:00Z",
+      "durationMs": 165851,
+      "genres": [
+        "Funk"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ab/22/6a/ab226acf-dc5f-20c9-6856-b33cadd3f520/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/dom-dom-dom/1270775863?i=1270775871&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98159.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98825,
+    "metadata": {
+      "title": "Goztosa (Me Olha)",
+      "artists": [
+        "Sidoka"
+      ],
+      "album": "Merci £",
+      "releaseDate": "2020-02-18",
+      "durationMs": 187000,
+      "genres": [],
+      "isrc": "US3DF2276813",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/befa4056b17bfa6192bc237e33ad9747/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3fec3d18-4ecc-46ad-8b4e-a614ee8a75e5",
+        "deezer": "https://www.deezer.com/track/1843447937"
+      }
+    },
+    "lyricPath": "/lyrics/98825.txt"
+  }
+]

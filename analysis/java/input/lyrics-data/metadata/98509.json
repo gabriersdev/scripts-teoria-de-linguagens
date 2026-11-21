@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98509,
+    "metadata": {
+      "title": "Sutilmente",
+      "artists": [
+        "Skank"
+      ],
+      "album": "Rock In Rio 2011",
+      "releaseDate": "2011",
+      "durationMs": 238000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRSME0800577",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c8/91/59/c8915987-dea8-cd1e-bf95-3d8ce93cf5ca/886443812093.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b360f206-3367-40e2-b8f9-b442df513bf3",
+        "itunes": "https://music.apple.com/us/album/sutilmente/588335548?i=588335601&uo=4",
+        "deezer": "https://www.deezer.com/track/13357318"
+      }
+    },
+    "lyricPath": "/lyrics/98509.txt"
+  }
+]

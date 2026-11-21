@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98482,
+    "metadata": {
+      "title": "Lágrimas de Crocodilo",
+      "artists": [
+        "João Penca E Seus Miquinhos Amestrados"
+      ],
+      "album": "Hot 20 - João Penca e Seus Miquinhos Amestrados",
+      "releaseDate": "2000-08-01",
+      "durationMs": 232000,
+      "genres": [],
+      "isrc": "BRBMG8600183",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d4b1e9fdf31200538d73aa63bf7eb059/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/15407451"
+      }
+    },
+    "lyricPath": "/lyrics/98482.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98397,
+    "metadata": {
+      "title": "Flow Flaflu",
+      "artists": [
+        "KANT"
+      ],
+      "album": "Flow Flaflu",
+      "releaseDate": "2019-10-19",
+      "durationMs": 161000,
+      "genres": [],
+      "isrc": "QZHZ41941394",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/229adb180163a66567da3687b4119c41/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/780850832"
+      }
+    },
+    "lyricPath": "/lyrics/98397.txt"
+  }
+]

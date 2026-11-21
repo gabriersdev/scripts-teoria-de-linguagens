@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98577,
+    "metadata": {
+      "title": "Expulsos Do Bar",
+      "artists": [
+        "Garotos Podres"
+      ],
+      "album": "Com a corda toda",
+      "releaseDate": "1997",
+      "durationMs": 162000,
+      "genres": [],
+      "isrc": "BR03D2101277",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cb359671e61fcdec117d70baf76bc2d3/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/dd15f5e9-001c-4d67-b676-09461ba41d26",
+        "deezer": "https://www.deezer.com/track/1381996672"
+      }
+    },
+    "lyricPath": "/lyrics/98577.txt"
+  }
+]

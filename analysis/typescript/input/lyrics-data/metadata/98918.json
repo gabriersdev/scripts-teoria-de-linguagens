@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98918,
+    "metadata": {
+      "title": "CRAIG",
+      "artists": [
+        "ohayomatsu",
+        "Ark King"
+      ],
+      "album": "FEELINGS & DREAMS",
+      "releaseDate": "2023-11-17",
+      "durationMs": 67000,
+      "genres": [],
+      "isrc": "QZZ8B2335811",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/f71cf41ed7b3d65ea3ed2c480f91cf65/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3077112001"
+      }
+    },
+    "lyricPath": "/lyrics/98918.txt"
+  }
+]

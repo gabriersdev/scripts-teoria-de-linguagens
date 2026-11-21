@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99008,
+    "metadata": {
+      "title": "LaLa Gang",
+      "artists": [
+        "NGC Daddy",
+        "Filipe Ret"
+      ],
+      "album": "LaLa Gang",
+      "releaseDate": "2020-07-03",
+      "durationMs": 136000,
+      "genres": [],
+      "isrc": "BCAOX2000001",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/511a27bb12213c8757ef54b03e9bffd2/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1002804632"
+      }
+    },
+    "lyricPath": "/lyrics/99008.txt"
+  }
+]

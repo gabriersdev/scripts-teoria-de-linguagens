@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98835,
+    "metadata": {
+      "title": "ALTERADO",
+      "artists": [
+        "Matuê",
+        "Phl Notunrboy"
+      ],
+      "album": "XTRANHO",
+      "releaseDate": "2025-12-10",
+      "durationMs": 193000,
+      "genres": [],
+      "isrc": "BXW922500113",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c9b023c07f75e26f5998c8eeddb39fcb/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/10a4aa5c-1f48-423f-9168-cc27628dd4b0",
+        "deezer": "https://www.deezer.com/track/3700579822"
+      }
+    },
+    "lyricPath": "/lyrics/98835.txt"
+  }
+]

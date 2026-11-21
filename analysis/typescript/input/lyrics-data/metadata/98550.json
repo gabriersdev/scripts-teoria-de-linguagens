@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98550,
+    "metadata": {
+      "title": "Lugar Ao Sol",
+      "artists": [
+        "Charlie Brown Jr."
+      ],
+      "album": "Chorão: Marginal Alado",
+      "releaseDate": "2021-04-08",
+      "durationMs": 212600,
+      "genres": [],
+      "isrc": "BREMI0100321",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/11847e826ac5d7df5f9fa5f920b91566/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/fceafdf7-936b-4146-b102-806f518e3f14",
+        "deezer": "https://www.deezer.com/track/3144765"
+      }
+    },
+    "lyricPath": "/lyrics/98550.txt"
+  }
+]

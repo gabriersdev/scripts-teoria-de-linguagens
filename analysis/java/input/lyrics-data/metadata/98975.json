@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98975,
+    "metadata": {
+      "title": "Coisas Leves",
+      "artists": [
+        "BlakkClout",
+        "NGC Daddy",
+        "MD Chefe"
+      ],
+      "album": "Coisas Leves",
+      "releaseDate": "2019-10-20",
+      "durationMs": 176000,
+      "genres": [],
+      "isrc": "QZHZ41958955",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/15706f7a18262f5cc1ff2f85d8b5cde5/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/785915622"
+      }
+    },
+    "lyricPath": "/lyrics/98975.txt"
+  }
+]

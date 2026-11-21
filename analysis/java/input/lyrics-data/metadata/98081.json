@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98081,
+    "metadata": {
+      "title": "Quem Não Conhece Tá Sem Internet",
+      "artists": [
+        "MC Marks",
+        "DJ BOY",
+        "Dj GM"
+      ],
+      "album": "Quem Não Conhece Tá Sem Internet - Single",
+      "releaseDate": "2022-08-24T12:00:00Z",
+      "durationMs": 146824,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BXG6R2200629",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fa/1f/0d/fa1f0d52-aaa8-8e34-1333-6077889dcdb7/196922157332_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/quem-n%C3%A3o-conhece-t%C3%A1-sem-internet/1640566423?i=1640566424&uo=4",
+        "deezer": "https://www.deezer.com/track/1874404917"
+      }
+    },
+    "lyricPath": "/lyrics/98081.txt"
+  }
+]

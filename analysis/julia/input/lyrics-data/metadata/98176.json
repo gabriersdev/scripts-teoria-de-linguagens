@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98176,
+    "metadata": {
+      "title": "Beat do Megatron",
+      "artists": [
+        "MC Kitinho",
+        "MC Lustosa"
+      ],
+      "album": "Putaria do Kitinho",
+      "releaseDate": "2021-07-31",
+      "durationMs": 173000,
+      "genres": [],
+      "isrc": "BXG6R1800057",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/321c1696040ed969d289f902085ccdd6/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1442899222"
+      }
+    },
+    "lyricPath": "/lyrics/98176.txt"
+  }
+]

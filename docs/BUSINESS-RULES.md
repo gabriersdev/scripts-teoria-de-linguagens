@@ -54,3 +54,18 @@ Na varredura de termos sobre letras cantadas:
 - **Alongamento Fonético/Rítmico:** Em gêneros musicais, caracteres são frequentemente repetidos para coincidir com a métrica e o tempo da melodia (ex.: `puuuuta`, `putaaaa`, `vadiiiia`).
 - **Construção de Padrão Elástico:** A busca elástica converte cada caractere da palavra base no quantificador de repetição positiva $c+$ (1 ou mais repetições) e tolera a terminação plural opcional ($s*$), capturando termos estendidos e formas no plural (ex.: `puta` casa com `puuuta`, `putas` e `puuutasss`).
 
+## 12. Identificação e Mascaramento de Palavrões nas 4 Linguagens (`analysis/`)
+Na etapa de detecção e mascaramento (A05 / F2) em TypeScript, Julia, Java e C#:
+- **Geração Dinâmica de Regex:** Nenhuma expressão regular é hardcoded; cada linguagem lê `/lib/swear-words.json` e constrói o padrão dinamicamente por funções dedicadas.
+- **Regras de Composição do Padrão:**
+  - **Repetição de caracteres:** Cada letra recebe o quantificador `+` (1 ou mais ocorrências), ex.: `puta` -> `p+...t+a+`.
+  - **Plural opcional:** Terminação `s*` adicionada ao final quando o termo base não termina em `s` (ex.: `putas`, `vadias`).
+  - **Censura da 2ª letra:** A segunda letra de cada termo (exceto hífen) aceita substituição por `*` ou `#` via `(?:<letra>+|[*#]+)` (ex.: `p*ta`, `p#ta`, `c*`).
+  - **Acentuação opcional:** Caracteres acentuados expandem para classe com e sem acento (ex.: `xerecão` -> `xerec[aã]+o+`, `cú` -> `c+(?:[uú]+|[*#]+)`).
+  - **Flexão de gênero `[X]`:** O marcador `[X]` é expandido para `[ao]+` (ex.: `arrombad[X]` -> `arrombad[ao]+`).
+  - **Case-insensitive:** Todas as engines utilizam flag ignore-case (`i`), preservando a capitalização original do texto fora dos termos mascarados.
+  - **Operador de borda Unicode:** Fronteiras `(?<![\p{L}\p{N}_])` e `(?![\p{L}\p{N}_])` garantem correspondência apenas de palavras inteiras, evitando falsos positivos (ex.: `cu` não casa em `curtir` nem `cúpula`) e suportando termos censurados no final (ex.: `c*`).
+- **Regra de Mascaramento:** Mantém o primeiro caractere (code point Unicode) e substitui todos os demais caracteres do termo encontrado por `*` (ex.: `puta` -> `p***`, `PUTAS` -> `P****`, `cú` -> `c*`).
+- **Isolamento de E/S:** Cada linguagem lê de `analysis/<lang>/input/lyrics-data/lyrics/*.txt` e persiste os arquivos mascarados em `analysis/<lang>/output/lyrics/*.txt`, além de gerar métricas consolidadas em `analysis/<lang>/output/summary.json`.
+
+

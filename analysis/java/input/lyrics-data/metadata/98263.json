@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98263,
+    "metadata": {
+      "title": "20 Ligações",
+      "artists": [
+        "Baco Exu do Blues"
+      ],
+      "album": "QVVJFA?",
+      "releaseDate": "2022-01-26",
+      "durationMs": 193600,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BX2DO2200004",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/8b/11/5d8b1169-b480-2866-3ced-59f141a58689/8445162576185.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3f8215bc-9366-490c-b342-fc96ffcbcadb",
+        "itunes": "https://music.apple.com/us/album/20-liga%C3%A7%C3%B5es/1601548374?i=1601548603&uo=4",
+        "deezer": "https://www.deezer.com/track/3258496171"
+      }
+    },
+    "lyricPath": "/lyrics/98263.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98616,
+    "metadata": {
+      "title": "Tubarões",
+      "artists": [
+        "Diego & Victor Hugo"
+      ],
+      "album": "Ao Vivo Em Uberlândia Vol. 01",
+      "releaseDate": "2025-03-27",
+      "durationMs": 162581,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BC29Q2500001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/af/27/caaf2710-03a9-86bd-4863-56dbb66d1deb/196873800271.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f76a3bc6-ea5b-4002-9127-73761ba3efed",
+        "itunes": "https://music.apple.com/us/album/tubar%C3%B5es-ao-vivo/1852125136?i=1852125137&uo=4",
+        "deezer": "https://www.deezer.com/track/3648749602"
+      }
+    },
+    "lyricPath": "/lyrics/98616.txt"
+  }
+]

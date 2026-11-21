@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98251,
+    "metadata": {
+      "title": "Fuso",
+      "artists": [
+        "Duquesa",
+        "Go Dassisti"
+      ],
+      "album": "Fuso - Single",
+      "releaseDate": "2025-09-08T12:00:00Z",
+      "durationMs": 147689,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/24/d0/4c24d06a-5974-fd32-e2df-08f1b1743c35/cover_10348940.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/fuso/1837218964?i=1837218965&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98251.txt"
+  }
+]

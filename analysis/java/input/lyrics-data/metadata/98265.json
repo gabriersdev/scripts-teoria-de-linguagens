@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98265,
+    "metadata": {
+      "title": "Além do Dinheiro",
+      "artists": [
+        "Filipe Ret",
+        "Dallass",
+        "Ariel Donato"
+      ],
+      "album": "Bendito",
+      "releaseDate": "2018-08-31T12:00:00Z",
+      "durationMs": 236725,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/2a/a7/dd2aa7ff-72a4-8a7f-cba4-801446a8a8c6/d09acb4c-2552-4b15-b709-a99f11708d3f.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/dinheiro/1736177841?i=1736177842&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98265.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98335,
+    "metadata": {
+      "title": "A Vida É Desafio",
+      "artists": [
+        "Racionais MC's",
+        "Afro-X"
+      ],
+      "album": "1000 Trutas 1000 Tretas (Ao Vivo)",
+      "releaseDate": "2006-01-01T12:00:00Z",
+      "durationMs": 404880,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f1/79/0a/f1790a95-0b5f-7ca5-ecc9-4fb0ec7932c0/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/a-vida-%C3%A9-desafio-ao-vivo/1198320666?i=1198320709&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98335.txt"
+  }
+]

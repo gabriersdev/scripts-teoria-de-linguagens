@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98811,
+    "metadata": {
+      "title": "FALIDOS",
+      "artists": [
+        "Alee",
+        "NADAMAL",
+        "Nagalli",
+        "Rocco"
+      ],
+      "album": "DIAS ANTES DO CAOS",
+      "releaseDate": "2024-02-29",
+      "durationMs": 146000,
+      "genres": [],
+      "isrc": "BKNDN2400012",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d630545501528d92d0431a405f0f30f2/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2675770072"
+      }
+    },
+    "lyricPath": "/lyrics/98811.txt"
+  }
+]

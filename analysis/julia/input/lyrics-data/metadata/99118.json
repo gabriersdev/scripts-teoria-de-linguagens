@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99118,
+    "metadata": {
+      "title": "For Real",
+      "artists": [
+        "Derek"
+      ],
+      "album": "Ícone",
+      "releaseDate": "2020-02-13",
+      "durationMs": 121000,
+      "genres": [],
+      "isrc": "US7VG2071004",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/e8c4ac9c118e7bd9a2d16b8c5cc86d12/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3467718451"
+      }
+    },
+    "lyricPath": "/lyrics/99118.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98194,
+    "metadata": {
+      "title": "Adoleta",
+      "artists": [
+        "Bonde R300"
+      ],
+      "album": "Adoleta",
+      "releaseDate": "2017-06-29",
+      "durationMs": 239000,
+      "genres": [],
+      "isrc": "US7VG1792938",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/12771d52f8dad4e1dd0c8114b06dbae3/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/379255391"
+      }
+    },
+    "lyricPath": "/lyrics/98194.txt"
+  }
+]

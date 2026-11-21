@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98018,
+    "metadata": {
+      "title": "pros menor da nova",
+      "artists": [
+        "G.A",
+        "Veigh",
+        "Mc Morena",
+        "Supernova Ent"
+      ],
+      "album": "FUNK DE CANALHA",
+      "releaseDate": "2026-05-23",
+      "durationMs": 196000,
+      "genres": [],
+      "isrc": "BKSUV2600042",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/989c78d5d42d37e1afbf7c4cf964438d/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4010526091"
+      }
+    },
+    "lyricPath": "/lyrics/98018.txt"
+  }
+]

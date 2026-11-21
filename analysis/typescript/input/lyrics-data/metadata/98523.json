@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98523,
+    "metadata": {
+      "title": "Herbocinética",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Lavô tá novo",
+      "releaseDate": "1995-11-03",
+      "durationMs": 197400,
+      "genres": [],
+      "isrc": "BRWMB9702649",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0f85791cb1305b772f5e89de04aa1d4a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c821b0d6-d618-4678-a6d6-9fae9a654d30",
+        "deezer": "https://www.deezer.com/track/3895379"
+      }
+    },
+    "lyricPath": "/lyrics/98523.txt"
+  }
+]

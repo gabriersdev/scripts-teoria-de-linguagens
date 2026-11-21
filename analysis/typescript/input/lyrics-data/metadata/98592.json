@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98592,
+    "metadata": {
+      "title": "Beber Até Morrer",
+      "artists": [
+        "Ratos De Porão"
+      ],
+      "album": "RDP Vivo",
+      "releaseDate": "2015-10-30",
+      "durationMs": 163800,
+      "genres": [],
+      "isrc": "BRELD0500225",
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/a96462b7-ab7b-43d1-babe-88f6475ca81d"
+      }
+    },
+    "lyricPath": "/lyrics/98592.txt"
+  }
+]

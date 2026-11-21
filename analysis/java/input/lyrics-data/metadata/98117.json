@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98117,
+    "metadata": {
+      "title": "Ninguém Me Segura",
+      "artists": [
+        "MC Hariel"
+      ],
+      "album": "Ninguém Me Segura - Single",
+      "releaseDate": "2015-10-26T12:00:00Z",
+      "durationMs": 175700,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "US7VG1530814",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/01/d1/dd/01d1dd63-d9fc-0eff-200a-7bdd6dacc1bf/00632103045833_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/ningu%C3%A9m-me-segura/1507292016?i=1507292017&uo=4",
+        "deezer": "https://www.deezer.com/track/927541632"
+      }
+    },
+    "lyricPath": "/lyrics/98117.txt"
+  }
+]

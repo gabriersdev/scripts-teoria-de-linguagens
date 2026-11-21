@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98050,
+    "metadata": {
+      "title": "Olha o Tamanho Dessa Onda",
+      "artists": [
+        "d.silvestre",
+        "MC LELE 011"
+      ],
+      "album": "O que as mulheres querem",
+      "releaseDate": "2025-07-04",
+      "durationMs": 105692,
+      "genres": [],
+      "isrc": "QZNJX2527907",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b966899522abe3bb9ca0e1dfe0b978b5/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e127aad1-f213-4ae3-bcf0-e6a455c1bed3",
+        "deezer": "https://www.deezer.com/track/3435166371"
+      }
+    },
+    "lyricPath": "/lyrics/98050.txt"
+  }
+]

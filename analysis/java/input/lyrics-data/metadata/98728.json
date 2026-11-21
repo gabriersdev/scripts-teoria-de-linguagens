@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98728,
+    "metadata": {
+      "title": "Escondendo o Ouro - Ao Vivo",
+      "artists": [
+        "Zé Neto & Cristiano"
+      ],
+      "album": "Magia das Estrelas, Vol. 1 (Ao Vivo)",
+      "releaseDate": "2018-01-01T08:00:00Z",
+      "durationMs": 171207,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE2500280",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/60/f7/f460f7dd-09a6-bfe9-f7bd-52e563195674/196873473161.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b3eee5ba-c71f-42d9-8dd7-39ac5340f066",
+        "itunes": "https://music.apple.com/us/album/escondendo-o-ouro-ao-vivo/1868035268?i=1868035269&uo=4",
+        "deezer": "https://www.deezer.com/track/3766489962"
+      }
+    },
+    "lyricPath": "/lyrics/98728.txt"
+  }
+]

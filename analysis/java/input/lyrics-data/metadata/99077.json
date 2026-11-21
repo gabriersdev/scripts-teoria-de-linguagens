@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99077,
+    "metadata": {
+      "title": "Veste Prada",
+      "artists": [
+        "Duzz"
+      ],
+      "album": "offduzz, vol. 2",
+      "releaseDate": "2023-12-21",
+      "durationMs": 224000,
+      "genres": [],
+      "isrc": "QZW9M2319593",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3159cc3ed77943e651149c756c8f2130/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2589999362"
+      }
+    },
+    "lyricPath": "/lyrics/99077.txt"
+  }
+]

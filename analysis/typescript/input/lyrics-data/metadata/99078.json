@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99078,
+    "metadata": {
+      "title": "Adeus",
+      "artists": [
+        "Bea Duarte"
+      ],
+      "album": "Adeus - Single",
+      "releaseDate": "2025-10-31T12:00:00Z",
+      "durationMs": 224000,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BCQVW2500019",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/1c/48/021c48d8-f78c-a0e9-a572-ffcbbdf3985a/2958357.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/adeus/1895416876?i=6763648679&uo=4",
+        "deezer": "https://www.deezer.com/track/3978166531"
+      }
+    },
+    "lyricPath": "/lyrics/99078.txt"
+  }
+]

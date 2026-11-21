@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98138,
+    "metadata": {
+      "title": "Red Bull",
+      "artists": [
+        "Mc Pikachu"
+      ],
+      "album": "Red Bull",
+      "releaseDate": "2021-07-31",
+      "durationMs": 184000,
+      "genres": [],
+      "isrc": "BXG6R2100761",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/77d08257022ce2eed7d8345c89dcfff6/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1443968182"
+      }
+    },
+    "lyricPath": "/lyrics/98138.txt"
+  }
+]

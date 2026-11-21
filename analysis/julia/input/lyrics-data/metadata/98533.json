@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98533,
+    "metadata": {
+      "title": "Aonde Quer Que Eu Vá",
+      "artists": [
+        "Os Paralamas Do Sucesso"
+      ],
+      "album": "Os Paralamas do Sucesso - 1, 16 hits",
+      "releaseDate": "2009",
+      "durationMs": 258000,
+      "genres": [],
+      "isrc": "BREMI0000459",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/425adeefd820fe7fa2be7d5a3127dfff/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/26568837-c2f4-4c3a-996b-fc0ea06eb3cd",
+        "deezer": "https://www.deezer.com/track/3316914"
+      }
+    },
+    "lyricPath": "/lyrics/98533.txt"
+  }
+]

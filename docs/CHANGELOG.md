@@ -2,6 +2,21 @@
 
 Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 
+## [1.7.0] - 2026-11-21
+
+### Adicionado
+- Diretrizes de codificação para C# em `docs/CODING-GUIDELINES-CSHARP.md` baseadas nas convenções oficiais da Microsoft.
+- Scripts de identificação e mascaramento de palavrões (A05 / F2) com geração dinâmica de expressões regulares a partir de `lib/swear-words.json`:
+  - `analysis/typescript/mask-swear-words.ts` (TypeScript)
+  - `analysis/julia/mask_swear_words.jl` (Julia)
+  - `analysis/java/SwearWordMasker.java` (Java)
+  - `analysis/csharp/SwearWordMasker.csproj`, `SwearWordRegexBuilder.cs`, `SwearWordMaskerService.cs` e `Program.cs` (C# / .NET 8)
+- Suporte unificado nas 4 linguagens para repetição positiva (`+`), plural opcional (`s*`), censura da 2ª letra (`*`/`#`), acentuação opcional, marcador `[X]` (`[ao]+`), flag case-insensitive, fronteiras Unicode de palavra e mascaramento a partir da 2ª letra (`puta` -> `p***`), com saída em `output/lyrics/` e métricas em `output/summary.json`.
+
+### Modificado
+- `docs/ARCHITECTURE.md` e `docs/BUSINESS-RULES.md`:
+  - Documentação da estrutura `/analysis` e da regra de negócio 12 para geração dinâmica de regex e mascaramento multilíngue.
+
 ## [1.6.0] - 2026-11-21
 
 ### Adicionado

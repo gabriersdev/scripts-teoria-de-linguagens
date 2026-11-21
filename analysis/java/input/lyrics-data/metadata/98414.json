@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98414,
+    "metadata": {
+      "title": "Malandragem",
+      "artists": [
+        "Cássia Eller"
+      ],
+      "album": "Minha História",
+      "releaseDate": "2012-05-28",
+      "durationMs": 249000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRPGD9400246",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/05/26/4a/05264a90-df7e-3948-d48a-c8ad22c61bf2/dj.tgaietkw.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5f9e9ab1-9b07-4e12-9d91-aceb582efb96",
+        "itunes": "https://music.apple.com/us/album/malandragem-ao-vivo/491193912?i=491193970&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98414.txt"
+  }
+]

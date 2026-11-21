@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98652,
+    "metadata": {
+      "title": "Logo Eu",
+      "artists": [
+        "Jorge & Mateus"
+      ],
+      "album": "Logo Eu - Single",
+      "releaseDate": "2013-10-04T12:00:00Z",
+      "durationMs": 156527,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRUXD1300156",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/8f/01/e6/8f01e621-e2e8-0398-395c-27b933e93c56/7891430330521.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/logo-eu/718725563?i=718725875&uo=4",
+        "deezer": "https://www.deezer.com/track/71246606"
+      }
+    },
+    "lyricPath": "/lyrics/98652.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98285,
+    "metadata": {
+      "title": "Fim de Semana no Rio",
+      "artists": [
+        "Teto"
+      ],
+      "album": "Fim de Semana no Rio",
+      "releaseDate": "2022-03-30",
+      "durationMs": 165000,
+      "genres": [],
+      "isrc": "BXW922200001",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6657de9cc1ea7ab49ae2cc7eebb648f7/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1690856697"
+      }
+    },
+    "lyricPath": "/lyrics/98285.txt"
+  }
+]

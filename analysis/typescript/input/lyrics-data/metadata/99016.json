@@ -1,0 +1,23 @@
+[
+  {
+    "id": 99016,
+    "metadata": {
+      "title": "COMPASSO",
+      "artists": [
+        "Alee",
+        "Leviano"
+      ],
+      "album": "CAOS DLX",
+      "releaseDate": "2025-07-24",
+      "durationMs": 185833,
+      "genres": [],
+      "isrc": "BKNDN2500107",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6646c5f4c6b60b0ddd4f00987623437c/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0cc916cd-6407-4792-a604-5acaf8bebb82",
+        "deezer": "https://www.deezer.com/track/3457797061"
+      }
+    },
+    "lyricPath": "/lyrics/99016.txt"
+  }
+]

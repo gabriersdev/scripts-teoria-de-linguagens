@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98969,
+    "metadata": {
+      "title": "Stalker",
+      "artists": [
+        "Derek",
+        "Phl Notunrboy"
+      ],
+      "album": "ARꓘANO",
+      "releaseDate": "2026-04-06T12:00:00Z",
+      "durationMs": 184931,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BKNIU2600012",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/bd/cc/edbdccf7-0f28-f26e-af77-650f82d950f7/cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/stalker/6772229178?i=6772229799&uo=4",
+        "deezer": "https://www.deezer.com/track/4039363951"
+      }
+    },
+    "lyricPath": "/lyrics/98969.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98030,
+    "metadata": {
+      "title": "Mente Barulhenta",
+      "artists": [
+        "Mc IG",
+        "Mc Lele JP",
+        "DJ Oreia",
+        "DJ Noiskita"
+      ],
+      "album": "Quem Tá Vivo, Tá Vivendo",
+      "releaseDate": "2026-03-26",
+      "durationMs": 215000,
+      "genres": [],
+      "isrc": "BRWMB2600273",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/cf552036cab93366e7b408de225723b8/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3913744081"
+      }
+    },
+    "lyricPath": "/lyrics/98030.txt"
+  }
+]

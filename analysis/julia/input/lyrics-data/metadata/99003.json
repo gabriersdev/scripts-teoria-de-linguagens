@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99003,
+    "metadata": {
+      "title": "Shake That",
+      "artists": [
+        "NGC Daddy"
+      ],
+      "album": "Shake That",
+      "releaseDate": "2025-02-17",
+      "durationMs": 132000,
+      "genres": [],
+      "isrc": "BK39N2500001",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9ad37b8f626cbba358c6aaad884753e2/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3217173711"
+      }
+    },
+    "lyricPath": "/lyrics/99003.txt"
+  }
+]

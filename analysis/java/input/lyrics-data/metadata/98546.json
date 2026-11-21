@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98546,
+    "metadata": {
+      "title": "A Guerra É Aqui",
+      "artists": [
+        "Titãs"
+      ],
+      "album": "Como estão vocês?",
+      "releaseDate": "2003-11",
+      "durationMs": 195413,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "BRBMG0300732",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/02/07/5f/02075ff9-5d6c-2c3a-02ef-fa907fdae486/888880313645.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6cdf02d7-5532-46a7-bccc-8d61fd840d86",
+        "itunes": "https://music.apple.com/us/album/a-guerra-%C3%A9-aqui/1133727190?i=1133727504&uo=4",
+        "deezer": "https://www.deezer.com/track/128441341"
+      }
+    },
+    "lyricPath": "/lyrics/98546.txt"
+  }
+]

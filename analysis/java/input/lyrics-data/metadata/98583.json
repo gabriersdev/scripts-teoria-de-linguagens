@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98583,
+    "metadata": {
+      "title": "Anarkia Oi!",
+      "artists": [
+        "Garotos Podres"
+      ],
+      "album": "Mais Podres do que Nunca",
+      "releaseDate": "1985-04-30T12:00:00Z",
+      "durationMs": 102347,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": "GXD7V2649307",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/a4/f1/40a4f154-b2ae-7e79-0ac9-05b720a21678/26270.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/anarkia-oi/1863752418?i=1863752430&uo=4",
+        "deezer": "https://www.deezer.com/track/3736509442"
+      }
+    },
+    "lyricPath": "/lyrics/98583.txt"
+  }
+]

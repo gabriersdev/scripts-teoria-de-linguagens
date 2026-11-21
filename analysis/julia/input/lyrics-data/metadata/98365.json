@@ -1,0 +1,27 @@
+[
+  {
+    "id": 98365,
+    "metadata": {
+      "title": "Olha o Talarico",
+      "artists": [
+        "Costa Gold",
+        "Billy Billy",
+        "Flow MC",
+        "Doncesão"
+      ],
+      "album": "Posfácio",
+      "releaseDate": "2014-11-20T12:00:00Z",
+      "durationMs": 284967,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1579778",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/fc/b87bfcc5-33fa-6f68-bc7f-ac8eb8cb1693/646809667718.png/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/olha-o-talarico-feat-flow-mc-don-ces%C3%A3o/1832639302?i=1832639315&uo=4",
+        "deezer": "https://www.deezer.com/track/3491740191"
+      }
+    },
+    "lyricPath": "/lyrics/98365.txt"
+  }
+]

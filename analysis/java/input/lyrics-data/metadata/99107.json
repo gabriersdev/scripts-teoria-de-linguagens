@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99107,
+    "metadata": {
+      "title": "V V S",
+      "artists": [
+        "Raffa Moreira"
+      ],
+      "album": "V V S - Single",
+      "releaseDate": "2018-11-01T12:00:00Z",
+      "durationMs": 142211,
+      "genres": [
+        "Hip-Hop"
+      ],
+      "isrc": "US7VG1834716",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2d/70/75/2d7075d7-b2cf-a796-ee44-fea2dd452362/718598165895_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/v-v-s/1552441188?i=1552441189&uo=4",
+        "deezer": "https://www.deezer.com/track/1234169932"
+      }
+    },
+    "lyricPath": "/lyrics/99107.txt"
+  }
+]

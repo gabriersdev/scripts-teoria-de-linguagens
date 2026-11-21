@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98581,
+    "metadata": {
+      "title": "Zé Ninguém",
+      "artists": [
+        "Biquini Cavadão"
+      ],
+      "album": "Fundamental - Biquini Cavadão",
+      "releaseDate": "2015-04-21T12:00:00Z",
+      "durationMs": 303440,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/f3/5c/bef35ce6-a036-1784-0ec9-bc80953fef5c/7898324309373.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/z%C3%A9-ningu%C3%A9m/980648275?i=980648759&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98581.txt"
+  }
+]

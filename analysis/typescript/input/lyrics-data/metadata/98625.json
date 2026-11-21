@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98625,
+    "metadata": {
+      "title": "Notificação Preferida - Ao Vivo",
+      "artists": [
+        "Zé Neto & Cristiano"
+      ],
+      "album": "Boteco do Zé Neto & Cristiano (Ao Vivo)",
+      "releaseDate": "2025-12-06",
+      "durationMs": 182341,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1800144",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/27/73/1427732e-521b-fe86-e72a-fb742ca6b592/7891430284176.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/29626b39-a404-4602-a4b8-657f1bfcc224",
+        "itunes": "https://music.apple.com/us/album/notifica%C3%A7%C3%A3o-preferida-ao-vivo/1408564288?i=1408566620&uo=4",
+        "deezer": "https://www.deezer.com/track/524693182"
+      }
+    },
+    "lyricPath": "/lyrics/98625.txt"
+  }
+]

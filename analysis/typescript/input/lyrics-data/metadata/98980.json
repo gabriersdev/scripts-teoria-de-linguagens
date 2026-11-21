@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98980,
+    "metadata": {
+      "title": "A Morte do Autotune",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "A Morte do Autotune - Single",
+      "releaseDate": "2018-07-13T12:00:00Z",
+      "durationMs": 216711,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BX2M81800014",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/17/26/7017261e-a298-2e06-fb78-fe45f2366c80/718598411657.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/a-morte-do-autotune/1842386230?i=1842386231&uo=4",
+        "deezer": "https://www.deezer.com/track/3574947511"
+      }
+    },
+    "lyricPath": "/lyrics/98980.txt"
+  }
+]

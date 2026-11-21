@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98673,
+    "metadata": {
+      "title": "Vida Vazia",
+      "artists": [
+        "Bruno & Marrone"
+      ],
+      "album": "Bruno e Marrone - Acústico",
+      "releaseDate": "1999-05-05T12:00:00Z",
+      "durationMs": 230333,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRBMG0100452",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/1d/03/7c/mzi.dvlcnxec.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/v%C3%ADda-vazia/311173630?i=311173649&uo=4",
+        "deezer": "https://www.deezer.com/track/13304046"
+      }
+    },
+    "lyricPath": "/lyrics/98673.txt"
+  }
+]

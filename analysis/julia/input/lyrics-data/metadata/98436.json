@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98436,
+    "metadata": {
+      "title": "Amor Meu Grande Amor",
+      "artists": [
+        "Angela Ro Ro"
+      ],
+      "album": "Angela Roro",
+      "releaseDate": "1979-03-16T12:00:00Z",
+      "durationMs": 195320,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/78/22/f2/7822f291-ea0e-fa67-afd5-09b3bb7cdee4/00044001723926.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/amor-meu-grande-amor/1443595653?i=1443595995&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98436.txt"
+  }
+]

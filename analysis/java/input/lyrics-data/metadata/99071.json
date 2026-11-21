@@ -1,0 +1,24 @@
+[
+  {
+    "id": 99071,
+    "metadata": {
+      "title": "Memórias",
+      "artists": [
+        "Blxck"
+      ],
+      "album": "ARQUIVO X",
+      "releaseDate": "2026-08-21T12:00:00Z",
+      "durationMs": 200578,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "HKK972602463",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/21/f4/4821f48c-2147-1341-4777-164d5cde4d9e/4571625731342_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/mem%C3%B3rias-bonus-track/6801038689?i=6801039816&uo=4",
+        "deezer": "https://www.deezer.com/track/4221034742"
+      }
+    },
+    "lyricPath": "/lyrics/99071.txt"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98121,
+    "metadata": {
+      "title": "Tempo Perdido",
+      "artists": [
+        "MC Hariel"
+      ],
+      "album": "Mundão Girou (Regravações) [Ao Vivo]",
+      "releaseDate": "2022-02-18T12:00:00Z",
+      "durationMs": 136860,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/b5/ac/4cb5acb6-321c-dc97-536c-6a98768429d9/190296354687.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/tempo-perdido-ao-vivo/1609934275?i=1609934281&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98121.txt"
+  }
+]

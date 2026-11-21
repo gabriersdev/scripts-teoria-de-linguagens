@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99079,
+    "metadata": {
+      "title": "Deixa Doer",
+      "artists": [
+        "YUNG LIXO"
+      ],
+      "album": "13 Lentes de um Final Feliz",
+      "releaseDate": "2024-12-20",
+      "durationMs": 332533,
+      "genres": [],
+      "isrc": "QZZ7X2403696",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/a01cc5f5bbb09711637d4927e9ab83cd/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0fc59ac5-ecba-43ab-975c-d8a478c78775",
+        "deezer": "https://www.deezer.com/track/3144564051"
+      }
+    },
+    "lyricPath": "/lyrics/99079.txt"
+  }
+]

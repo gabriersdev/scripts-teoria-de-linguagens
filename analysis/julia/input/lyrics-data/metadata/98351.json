@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98351,
+    "metadata": {
+      "title": "Linhas de Soco",
+      "artists": [
+        "Rincon Sapiência"
+      ],
+      "album": "Linhas de Soco",
+      "releaseDate": "2014-12-26",
+      "durationMs": 251726,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "BR33B1700001",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/21/3c/bc/213cbca8-4a66-b3b1-2738-b0e872188aaf/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c88e7667-63e3-4c8e-88e4-ad114434de79",
+        "itunes": "https://music.apple.com/us/album/linhas-de-soco/1193338560?i=1193338638&uo=4",
+        "deezer": "https://www.deezer.com/track/139632229"
+      }
+    },
+    "lyricPath": "/lyrics/98351.txt"
+  }
+]

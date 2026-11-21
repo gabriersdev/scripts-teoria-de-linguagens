@@ -1,0 +1,30 @@
+[
+  {
+    "id": 98858,
+    "metadata": {
+      "title": "ESTAGNADO",
+      "artists": [
+        "ohayomatsu",
+        "Vidari",
+        "izxx",
+        "dudumzr",
+        "NIKK",
+        "Yamashita",
+        "Ark King"
+      ],
+      "album": "FEELINGS & DREAMS",
+      "releaseDate": "2023-11-17",
+      "durationMs": 183000,
+      "genres": [
+        "Trap",
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3077112031"
+      }
+    },
+    "lyricPath": "/lyrics/98858.txt"
+  }
+]

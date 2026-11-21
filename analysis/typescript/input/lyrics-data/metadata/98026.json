@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98026,
+    "metadata": {
+      "title": "Joga o Cabelo X Senta e Kika",
+      "artists": [
+        "MC Torugo",
+        "DJ Miller Oficial",
+        "DJ Douglinhas"
+      ],
+      "album": "Joga o Cabelo X Senta e Kika",
+      "releaseDate": "2024-04-11",
+      "durationMs": 169000,
+      "genres": [],
+      "isrc": "BCM9B2400419",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7a59d509527a81cd71ed59a51dd45432/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3563384621"
+      }
+    },
+    "lyricPath": "/lyrics/98026.txt"
+  }
+]

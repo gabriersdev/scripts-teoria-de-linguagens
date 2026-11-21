@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98481,
+    "metadata": {
+      "title": "Mantenha o Respeito",
+      "artists": [
+        "Planet Hemp"
+      ],
+      "album": "Usuário",
+      "releaseDate": "1995-03-22T12:00:00Z",
+      "durationMs": 196200,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRSME9500028",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0e/06/f4/0e06f4fd-c9f3-120f-d3ae-98ddd4f40e14/886446316840.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/mantenha-o-respeito/1214025867?i=1214026007&uo=4",
+        "deezer": "https://www.deezer.com/track/144735112"
+      }
+    },
+    "lyricPath": "/lyrics/98481.txt"
+  }
+]

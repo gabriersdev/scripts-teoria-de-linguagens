@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98496,
+    "metadata": {
+      "title": "Tempos Difíceis",
+      "artists": [
+        "Celso Blues Boy"
+      ],
+      "album": "Som Na Guitarra",
+      "releaseDate": "1984-04-24",
+      "durationMs": 229020,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bf808e84-a375-49e9-a6ad-3908cbda360b"
+      }
+    },
+    "lyricPath": "/lyrics/98496.txt"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 98385,
+    "metadata": {
+      "title": "UFA",
+      "artists": [
+        "Djonga",
+        "Coyote Beatz",
+        "Sidoka",
+        "Sant"
+      ],
+      "album": "O MENINO QUE QUERIA SER DEUS (feat. Coyote Beatz)",
+      "releaseDate": "2018-03-16T12:00:00Z",
+      "durationMs": 351979,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRE2Y1800003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/dd/a7/e0dda733-6d25-df3c-08e1-60a884dbad7b/8445162063326.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/ufa-feat-sidoka-sant-coyote-beatz/1506095456?i=1506095465&uo=4",
+        "deezer": "https://www.deezer.com/track/3251546891"
+      }
+    },
+    "lyricPath": "/lyrics/98385.txt"
+  }
+]

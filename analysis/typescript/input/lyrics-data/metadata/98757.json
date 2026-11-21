@@ -1,0 +1,27 @@
+[
+  {
+    "id": 98757,
+    "metadata": {
+      "title": "Grau de Maluca - Ao Vivo",
+      "artists": [
+        "Guilherme & Benuto",
+        "Grupo Menos É Mais",
+        "Matheus Fernandes"
+      ],
+      "album": "+ Amor, + Música Vol. 3 (Ao Vivo)",
+      "releaseDate": "2025-07-03",
+      "durationMs": 172441,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BCVV82400060",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/8e/e0/cc8ee0b0-ae3c-8194-af44-d34a19d8a41c/196873353937.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/7fd13a19-3f97-4c92-bdef-943051efbc24",
+        "itunes": "https://music.apple.com/us/album/grau-de-maluca-ao-vivo/1822425415?i=1822425416&uo=4",
+        "deezer": "https://www.deezer.com/track/3427845441"
+      }
+    },
+    "lyricPath": "/lyrics/98757.txt"
+  }
+]

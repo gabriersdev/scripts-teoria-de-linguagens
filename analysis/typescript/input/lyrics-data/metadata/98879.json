@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98879,
+    "metadata": {
+      "title": "ÓPIO",
+      "artists": [
+        "Derek",
+        "Slipmami"
+      ],
+      "album": "ÓPIO",
+      "releaseDate": "2023-10-06",
+      "durationMs": 209000,
+      "genres": [],
+      "isrc": "BRUM72301345",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c508f9fda92ac840fd049381103b6a5d/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2477257941"
+      }
+    },
+    "lyricPath": "/lyrics/98879.txt"
+  }
+]

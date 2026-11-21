@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98303,
+    "metadata": {
+      "title": "Canão Foi Tão Bom",
+      "artists": [
+        "Sabotage"
+      ],
+      "album": "Originals Demo (2002)",
+      "releaseDate": "2022-04-08T12:00:00Z",
+      "durationMs": 222677,
+      "genres": [
+        "Old School Rap"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bc/ac/52/bcac5255-f53f-12a2-7612-94f454be2c62/195729571907_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/can%C3%A3o-foi-t%C3%A3o-bom-instrumental/1616712089?i=1616712402&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98303.txt"
+  }
+]

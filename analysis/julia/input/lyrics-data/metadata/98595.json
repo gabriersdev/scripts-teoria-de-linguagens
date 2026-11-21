@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98595,
+    "metadata": {
+      "title": "Crianças Sem Futuro",
+      "artists": [
+        "Ratos De Porão"
+      ],
+      "album": "No Money No English",
+      "releaseDate": "2012",
+      "durationMs": 73000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/f919f16a-1bad-41a1-87bc-2115c46544ea"
+      }
+    },
+    "lyricPath": "/lyrics/98595.txt"
+  }
+]
