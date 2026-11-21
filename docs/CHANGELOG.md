@@ -16,6 +16,9 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
   - Nova opção `--elastic` / `-e` (e argumento posicional `elastic`) para expandir palavras-chave em expressões regulares flexíveis (ex.: `puta` casa com `puuuuta`, `putas` e `puuutasss`).
 
 ### Modificado
+- `lib/swear-words.json`:
+  - Remoção de 7 termos duplicados do catálogo léxico (`fudendo`, `fudeno`, `fuder`, `gozar`, `piroca`, `piroka` e `vagabunda`).
+  - Expansão do catálogo de termos estritamente sexuais, promíscuos e anatômicos com inclusão de 49 termos únicos no total (como `bacanal`, `bucetinha`, `bucetão`, `caralhão`, `caralhinho`, `cavalgada`, `cavalgar`, `dedada`, `enrabad[X]`, `enrabar`, `esperma`, `esporra`, `esporrada`, `esporrar`, `fodelança`, `pepeca`, `pepeka`, `picão`, `pintão`, `piranhagem`, `ppk`, `putedo`, `quicada`, `quicando`, `quicar`, `rolinha`, `sarrada`, `sarrando`, `sarrar`, `xana`, `xoxotinha`, além dos 17 anteriores).
 - `scripts/lyrics-service.ts`:
   - Integração de `sanitizeLyrics` na ingestão de letras via LRCLIB, Genius e lyrics.ovh, prevenindo que arquivos futuros sejam persistidos com tags de sincronização.
 - `/lyrics-data/lyrics/98417.txt`:
