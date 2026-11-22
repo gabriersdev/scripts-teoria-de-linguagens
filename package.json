@@ -10,15 +10,14 @@
       "audit:sync": "tsx scripts/dataset-audit.ts --sync",
       "duplicates": "tsx scripts/duplicate-verifier.ts",
       "duplicates:replace": "tsx scripts/duplicate-verifier.ts --replace",
-      "duplicates:fuzzy": "tsx scripts/duplicate-verifier.ts --fuzzy",
       "fill:slots": "tsx scripts/track-slot-filler.ts",
-      "fill:artists": "tsx util/manual-artist-fill.ts",
       "search:lyrics": "tsx scripts/lyrics-regex-search.ts",
-      "incidence:words": "tsx scripts/incidence-words.ts --limit=200",
+      "incidence:words": "tsx scripts/incidence-words.ts --limit=600",
       "verify:lyrics": "tsx scripts/sample-lyrics-verifier.ts",
       "lookup:lyrics": "tsx scripts/lyrics-service.ts",
       "lookup:metadata": "tsx scripts/track-metadata-service.ts",
-      "sanitize:lyrics": "tsx scripts/sanitize-lyrics.ts"
+      "sanitize:lyrics": "tsx scripts/sanitize-lyrics.ts",
+      "analyze:all": "python data-analysis/runAnalysisPipeline.py"
     },
     "private": true,
     "dependencies": {

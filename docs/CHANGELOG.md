@@ -45,6 +45,26 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 - `docs/ARCHITECTURE.md` e `docs/BUSINESS-RULES.md`:
   - Documentação da estrutura `/analysis`, da regra de negócio 12 para geração dinâmica de regex/mascaramento multilíngue e das métricas experimentais de throughput e linearidade.
 
+## [1.7.0] - 2026-11-21
+
+### Adicionado
+- Diretrizes de codificação para C# em `docs/CODING-GUIDELINES-CSHARP.md` baseadas nas convenções oficiais da Microsoft.
+- Scripts de identificação e mascaramento de palavrões (A05 / F2) com geração dinâmica de expressões regulares a partir de `lib/swear-words.json`:
+  - `analysis/typescript/mask-swear-words.ts` (TypeScript)
+  - `analysis/julia/maskSwearWords.jl` (Julia, com flag `--export-analysis` para exportar `output/matches-catalog.csv`)
+  - `analysis/java/SwearWordMasker.java` (Java)
+  - `analysis/csharp/SwearWordMasker.csproj`, `SwearWordRegexBuilder.cs`, `SwearWordMaskerService.cs` e `Program.cs` (C# / .NET 8)
+- Otimização de desempenho nas 4 linguagens com fatoração à esquerda por Trie de prefixos (mantendo 0 divergências MD5 nos 1.150 arquivos).
+- Métricas experimentais de desempenho e linearidade $O(n)$ (`output/summary.json` e `output/linearity-metrics.csv`) nos 4 scripts com aquecimento prévio de JIT (`regexCompileMs`, `matchingTimeMs`, `elapsedMs`, `nsPerChar`, `charsPerMs`, `throughputMBs`, `pearsonCorrelationR`, `rSquared`).
+- Camada de análise de dados em `/data-analysis/` (arquivos padronizados em `camelCase`):
+  - `data-analysis/runAnalysisPipeline.py` (comando `npm run analyze:all`): orquestrador mestre que executa sequencialmente os 4 scripts de análise, valida paridade entre engines, atualiza `incidenceWordsReport.json`, reconstrói todos os datasets via `buildDatasets.py` e persiste as métricas consolidadas em `pipelineMetricsSnapshot.json` e `pipelineRunsHistory.json`.
+  - `data-analysis/buildDatasets.py` gerando 14 datasets estruturados em `data-analysis/datasets/` (benchmarks, linearidade, 1.150 faixas com metadados e década, ocorrências detalhadas, incidência/difusão/participação por termo, gênero, década, artista e saída do `incidence:words`).
+  - `data-analysis/swearWordsDataAnalysis.ipynb` (notebook Python com `pandas` e `matplotlib`, dicionário de métricas, tabelas e gráficos prontos).
+
+### Modificado
+- `docs/ARCHITECTURE.md` e `docs/BUSINESS-RULES.md`:
+  - Documentação das estruturas `/analysis` e `/data-analysis` e da regra de negócio 12.
+
 ## [1.6.0] - 2026-11-21
 
 ### Adicionado

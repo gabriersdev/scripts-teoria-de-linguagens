@@ -408,9 +408,57 @@ function writelinearitycsv(metrics::AbstractVector{FileLinearityMetric}, filepat
 end
 
 """
+Maps each matched text occurrence back to its canonical term in `lib/swear-words.json`
+and exports `output/matches-catalog.csv` for downstream linguistic analysis.
+"""
+function exportmatchcatalog(
+    swearwords::AbstractVector{<:AbstractString},
+    swearregex::Regex,
+    inputdir::AbstractString,
+    lyricfiles::AbstractVector{<:AbstractString},
+    catalogpath::AbstractString,
+)
+    sortedwords = sort(
+        [String(strip(word)) for word in swearwords if !isempty(strip(word))];
+        by = word -> (-length(tokenizeswearword(word)), word),
+    )
+
+    compiledterms = Tuple{String, Regex}[]
+    for word in sortedwords
+        pattern = buildwordpattern(word)
+        if pattern !== nothing
+            push!(compiledterms, (word, Regex("^$(pattern)\$", "i")))
+        end
+    end
+
+    open(catalogpath, "w") do io
+        println(io, "track_id,matched_text,canonical_term")
+        for filename in lyricfiles
+            trackid = replace(filename, ".txt" => "")
+            content = read(joinpath(inputdir, filename), String)
+
+            for m in eachmatch(swearregex, content)
+                matchedtext = m.match
+                canonical = "unknown"
+                for (term, termregex) in compiledterms
+                    if occursin(termregex, matchedtext)
+                        canonical = term
+                        break
+                    end
+                end
+
+                safematched = replace(matchedtext, "\"" => "\"\"")
+                safecanonical = replace(canonical, "\"" => "\"\"")
+                println(io, "\"", trackid, "\",\"", safematched, "\",\"", safecanonical, "\"")
+            end
+        end
+    end
+end
+
+"""
 Main entry point for reading lyrics, masking swear words, and persisting outputs.
 """
-function runmasking()
+function runmasking(exportcatalog::Bool = false)
     totalstartns = time_ns()
 
     scriptdir = @__DIR__
@@ -523,8 +571,14 @@ function runmasking()
     println("  Throughput (MB/s)   : ", round(summary.throughput_mbs; digits = 2))
     println("  Linearity r / R^2   : ", round(summary.pearson_r; digits = 4), " / ", round(summary.r_squared; digits = 4))
     println("  Output directory    : ", summary.output_dir)
+
+    if exportcatalog
+        catalogpath = normpath(joinpath(scriptdir, "output", "matches-catalog.csv"))
+        exportmatchcatalog(swearwords, swearregex, inputdir, lyricfiles, catalogpath)
+        println("  Match catalog CSV   : ", catalogpath)
+    end
 end
 
 end
 
-SwearWordMasker.runmasking()
+SwearWordMasker.runmasking("--export-analysis" in ARGS)
