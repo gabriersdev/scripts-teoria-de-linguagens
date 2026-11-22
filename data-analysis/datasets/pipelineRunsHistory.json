@@ -271,5 +271,96 @@
         "outputDir": "C:\\projects\\scripts-teoria-de-linguagens\\analysis\\csharp\\output\\lyrics"
       }
     ]
+  },
+  {
+    "executedAtUtc": "2026-11-22T02:22:33.979395+00:00",
+    "parity": {
+      "isConsistent": true,
+      "mismatches": [],
+      "swearWordsLoaded": 159,
+      "filesProcessed": 1150,
+      "filesWithMatches": 638,
+      "totalMatches": 5280,
+      "totalCharacters": 2281726,
+      "totalBytes": 2346003
+    },
+    "languages": [
+      {
+        "language": "Julia",
+        "swearWordsLoaded": 159,
+        "filesProcessed": 1150,
+        "filesWithMatches": 638,
+        "totalMatches": 5280,
+        "totalCharacters": 2281726,
+        "totalBytes": 2346003,
+        "regexCompileMs": 1.2375,
+        "matchingTimeMs": 30.98,
+        "matchingTimeNs": 30982100,
+        "elapsedMs": 643.59,
+        "nsPerChar": 13.58,
+        "charsPerMs": 73646.59,
+        "throughputMBs": 75.72,
+        "pearsonCorrelationR": 0.8782,
+        "rSquared": 0.7712,
+        "outputDir": "C:\\projects\\scripts-teoria-de-linguagens\\analysis\\julia\\output\\lyrics"
+      },
+      {
+        "language": "TypeScript",
+        "swearWordsLoaded": 159,
+        "filesProcessed": 1150,
+        "filesWithMatches": 638,
+        "totalMatches": 5280,
+        "totalCharacters": 2281726,
+        "totalBytes": 2346003,
+        "regexCompileMs": 19.3677,
+        "matchingTimeMs": 55.16,
+        "matchingTimeNs": 55164100,
+        "elapsedMs": 2515.88,
+        "nsPerChar": 24.18,
+        "charsPerMs": 41362.52,
+        "throughputMBs": 42.53,
+        "pearsonCorrelationR": 0.2634,
+        "rSquared": 0.0694,
+        "outputDir": "C:\\projects\\scripts-teoria-de-linguagens\\analysis\\typescript\\output\\lyrics"
+      },
+      {
+        "language": "Java",
+        "swearWordsLoaded": 159,
+        "filesProcessed": 1150,
+        "filesWithMatches": 638,
+        "totalMatches": 5280,
+        "totalCharacters": 2281726,
+        "totalBytes": 2346003,
+        "regexCompileMs": 13.9667,
+        "matchingTimeMs": 214.21,
+        "matchingTimeNs": 214207600,
+        "elapsedMs": 1052.91,
+        "nsPerChar": 93.88,
+        "charsPerMs": 10651.94,
+        "throughputMBs": 10.95,
+        "pearsonCorrelationR": 0.51,
+        "rSquared": 0.2601,
+        "outputDir": "C:\\projects\\scripts-teoria-de-linguagens\\analysis\\java\\output\\lyrics"
+      },
+      {
+        "language": "C#",
+        "swearWordsLoaded": 159,
+        "filesProcessed": 1150,
+        "filesWithMatches": 638,
+        "totalMatches": 5280,
+        "totalCharacters": 2281726,
+        "totalBytes": 2346003,
+        "regexCompileMs": 12.4698,
+        "matchingTimeMs": 364.33,
+        "matchingTimeNs": 364334700,
+        "elapsedMs": 1079.46,
+        "nsPerChar": 159.68,
+        "charsPerMs": 6262.72,
+        "throughputMBs": 6.44,
+        "pearsonCorrelationR": 0.8245,
+        "rSquared": 0.6798,
+        "outputDir": "C:\\projects\\scripts-teoria-de-linguagens\\analysis\\csharp\\output\\lyrics"
+      }
+    ]
   }
 ]
