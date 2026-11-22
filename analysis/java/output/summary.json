@@ -4,6 +4,16 @@
   "filesProcessed": 1150,
   "filesWithMatches": 639,
   "totalMatches": 5286,
-  "elapsedMs": 673.50,
+  "totalCharacters": 2281726,
+  "totalBytes": 2346003,
+  "regexCompileMs": 13.5453,
+  "matchingTimeMs": 178.15,
+  "matchingTimeNs": 178152800,
+  "elapsedMs": 1055.15,
+  "nsPerChar": 78.08,
+  "charsPerMs": 12807.69,
+  "throughputMBs": 13.17,
+  "pearsonCorrelationR": 0.5242,
+  "rSquared": 0.2748,
   "outputDir": "C:\\projects\\scripts-teoria-de-linguagens\\analysis\\java\\output\\lyrics"
 }

@@ -4,6 +4,16 @@
   "filesProcessed": 1150,
   "filesWithMatches": 639,
   "totalMatches": 5286,
-  "elapsedMs": 827.45,
+  "totalCharacters": 2281726,
+  "totalBytes": 2346003,
+  "regexCompileMs": 11.3723,
+  "matchingTimeMs": 353.01,
+  "matchingTimeNs": 353005200,
+  "elapsedMs": 898.16,
+  "nsPerChar": 154.71,
+  "charsPerMs": 6463.72,
+  "throughputMBs": 6.65,
+  "pearsonCorrelationR": 0.8167,
+  "rSquared": 0.667,
   "outputDir": "C:\\projects\\scripts-teoria-de-linguagens\\analysis\\csharp\\output\\lyrics"
 }

@@ -2,7 +2,7 @@
 
 ## Estrutura de Diretórios
 
-- **`/analysis`**: Scripts de análise e mascaramento de palavrões (atividade A05 / F2) implementados nas quatro linguagens escolhidas, cada qual com subdiretórios próprios `/input/lyrics-data` (entrada) e `/output/lyrics` + `/output/summary.json` (saída mascarada e métricas), consumindo dinamicamente `/lib/swear-words.json`:
+- **`/analysis`**: Scripts de análise e mascaramento de palavrões (atividade A05 / F2) implementados nas quatro linguagens escolhidas, cada qual com subdiretórios próprios `/input/lyrics-data` (entrada) e `/output/lyrics`, `/output/summary.json` (métricas consolidadas de desempenho, throughput e linearidade) e `/output/linearity-metrics.csv` (série por faixa para dispersão $O(n)$), consumindo dinamicamente `/lib/swear-words.json`:
   - `analysis/typescript/mask-swear-words.ts`: Implementação em TypeScript (`RegExp` com flags `giu`).
   - `analysis/julia/maskSwearWords.jl`: Implementação em Julia (`SwearWordMasker`, PCRE2 com flag `i`).
   - `analysis/java/SwearWordMasker.java`: Implementação em Java (`Pattern` com `CASE_INSENSITIVE | UNICODE_CASE | UNICODE_CHARACTER_CLASS`).

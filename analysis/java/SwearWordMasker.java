@@ -23,6 +23,7 @@ public final class SwearWordMasker {
     private static final String WORD_BOUNDARY_START = "(?<![\\p{L}\\p{N}_])";
     private static final String WORD_BOUNDARY_END = "(?![\\p{L}\\p{N}_])";
     private static final String GENDER_PLACEHOLDER = "[x]";
+    private static final String REGEX_META_CHARS = ".*+?^${}()|[]\\";
     private static final Pattern JSON_STRING_PATTERN = Pattern.compile("\"((?:[^\"\\\\]|\\\\.)*)\"");
 
     private static final Map<String, String> ACCENT_EQUIVALENTS = Map.ofEntries(
@@ -58,6 +59,19 @@ public final class SwearWordMasker {
     }
 
     /**
+     * Per-file timing and size metrics used to evaluate O(n) linearity.
+     */
+    public record FileLinearityMetric(
+        String fileName,
+        int characters,
+        int bytes,
+        int matches,
+        double matchingUs,
+        double nsPerChar
+    ) {
+    }
+
+    /**
      * Immutable summary of an execution run.
      */
     public record ExecutionSummary(
@@ -66,7 +80,17 @@ public final class SwearWordMasker {
         int filesProcessed,
         int filesWithMatches,
         int totalMatches,
+        long totalCharacters,
+        long totalBytes,
+        double regexCompileMs,
+        double matchingTimeMs,
+        long matchingTimeNs,
         double elapsedMs,
+        double nsPerChar,
+        double charsPerMs,
+        double throughputMBs,
+        double pearsonCorrelationR,
+        double rSquared,
         String outputDir
     ) {
     }
@@ -98,31 +122,63 @@ public final class SwearWordMasker {
     }
 
     /**
-     * Executes the full load, compile, mask, and persist pipeline.
+     * Executes the full load, compile, mask, benchmark, and persist pipeline.
      *
      * @throws IOException if reading inputs or writing outputs fails
      */
     public static void runMasking() throws IOException {
-        long startNanos = System.nanoTime();
+        long totalStartNanos = System.nanoTime();
 
         Path baseDir = resolveBaseDir();
         Path swearWordsPath = baseDir.resolve("../../lib/swear-words.json").normalize();
         Path inputDir = baseDir.resolve("input/lyrics-data/lyrics").normalize();
         Path outputDir = baseDir.resolve("output/lyrics").normalize();
         Path summaryPath = baseDir.resolve("output/summary.json").normalize();
+        Path linearityCsvPath = baseDir.resolve("output/linearity-metrics.csv").normalize();
 
         List<String> swearWords = loadSwearWords(swearWordsPath);
+
+        long compileStartNanos = System.nanoTime();
         Pattern swearPattern = buildSwearWordsPattern(swearWords);
+        long compileElapsedNanos = System.nanoTime() - compileStartNanos;
+
+        String warmupSample = "puta caralho xerecão c* arrombada foda-se texto limpo de teste";
+        for (int iteration = 0; iteration < 50; iteration++) {
+            maskText(warmupSample, swearPattern);
+        }
 
         Files.createDirectories(outputDir);
 
         List<Path> lyricFiles = listLyricFiles(inputDir);
         int filesWithMatches = 0;
         int totalMatches = 0;
+        long totalCharacters = 0;
+        long totalBytes = 0;
+        long totalMatchingNanos = 0;
+        List<FileLinearityMetric> linearityMetrics = new ArrayList<>(lyricFiles.size());
 
         for (Path inputFile : lyricFiles) {
-            String content = Files.readString(inputFile, StandardCharsets.UTF_8);
+            byte[] rawBytes = Files.readAllBytes(inputFile);
+            String content = new String(rawBytes, StandardCharsets.UTF_8);
+            int charCount = content.codePointCount(0, content.length());
+            int byteCount = rawBytes.length;
+
+            long matchStartNanos = System.nanoTime();
             MaskResult result = maskText(content, swearPattern);
+            long fileMatchNanos = System.nanoTime() - matchStartNanos;
+
+            totalCharacters += charCount;
+            totalBytes += byteCount;
+            totalMatchingNanos += fileMatchNanos;
+
+            linearityMetrics.add(new FileLinearityMetric(
+                inputFile.getFileName().toString(),
+                charCount,
+                byteCount,
+                result.matchCount(),
+                fileMatchNanos / 1_000.0,
+                charCount > 0 ? (double) fileMatchNanos / charCount : 0.0
+            ));
 
             if (result.matchCount() > 0) {
                 filesWithMatches++;
@@ -133,26 +189,50 @@ public final class SwearWordMasker {
             Files.writeString(outputFile, result.maskedText(), StandardCharsets.UTF_8);
         }
 
-        double elapsedMs = Math.round(((System.nanoTime() - startNanos) / 1_000_000.0) * 100.0) / 100.0;
+        double totalElapsedMs = (System.nanoTime() - totalStartNanos) / 1_000_000.0;
+        double matchingTimeMs = totalMatchingNanos / 1_000_000.0;
+        double nsPerChar = totalCharacters > 0 ? (double) totalMatchingNanos / totalCharacters : 0.0;
+        double charsPerMs = matchingTimeMs > 0.0 ? totalCharacters / matchingTimeMs : 0.0;
+        double throughputMBs = totalMatchingNanos > 0 ? ((double) totalBytes / totalMatchingNanos) * 1_000.0 : 0.0;
+        double pearsonR = computePearsonCorrelation(linearityMetrics);
+
         ExecutionSummary summary = new ExecutionSummary(
             "Java",
             swearWords.size(),
             lyricFiles.size(),
             filesWithMatches,
             totalMatches,
-            elapsedMs,
+            totalCharacters,
+            totalBytes,
+            roundTo(compileElapsedNanos / 1_000_000.0, 4),
+            roundTo(matchingTimeMs, 2),
+            totalMatchingNanos,
+            roundTo(totalElapsedMs, 2),
+            roundTo(nsPerChar, 2),
+            roundTo(charsPerMs, 2),
+            roundTo(throughputMBs, 2),
+            roundTo(pearsonR, 4),
+            roundTo(pearsonR * pearsonR, 4),
             outputDir.toAbsolutePath().toString()
         );
 
         writeSummary(summary, summaryPath);
+        writeLinearityCsv(linearityMetrics, linearityCsvPath);
 
         System.out.println("[Java] Swear word masking completed.");
-        System.out.println("  Swear words loaded : " + summary.swearWordsLoaded());
-        System.out.println("  Files processed    : " + summary.filesProcessed());
-        System.out.println("  Files with matches : " + summary.filesWithMatches());
-        System.out.println("  Total matches      : " + summary.totalMatches());
-        System.out.printf(Locale.US, "  Elapsed time (ms)  : %.2f%n", summary.elapsedMs());
-        System.out.println("  Output directory   : " + summary.outputDir());
+        System.out.println("  Swear words loaded  : " + summary.swearWordsLoaded());
+        System.out.println("  Files processed     : " + summary.filesProcessed());
+        System.out.println("  Files with matches  : " + summary.filesWithMatches());
+        System.out.println("  Total matches       : " + summary.totalMatches());
+        System.out.println("  Total characters    : " + summary.totalCharacters());
+        System.out.printf(Locale.US, "  Regex compile (ms)  : %.4f%n", summary.regexCompileMs());
+        System.out.printf(Locale.US, "  Pure matching (ms)  : %.2f%n", summary.matchingTimeMs());
+        System.out.printf(Locale.US, "  Elapsed time (ms)   : %.2f%n", summary.elapsedMs());
+        System.out.printf(Locale.US, "  Time/char (ns/char) : %.2f%n", summary.nsPerChar());
+        System.out.printf(Locale.US, "  Throughput (ch/ms)  : %.2f%n", summary.charsPerMs());
+        System.out.printf(Locale.US, "  Throughput (MB/s)   : %.2f%n", summary.throughputMBs());
+        System.out.printf(Locale.US, "  Linearity r / R^2   : %.4f / %.4f%n", summary.pearsonCorrelationR(), summary.rSquared());
+        System.out.println("  Output directory    : " + summary.outputDir());
     }
 
     /**
@@ -202,6 +282,48 @@ public final class SwearWordMasker {
         String triePattern = serializeTrieNode(root);
         String combined = WORD_BOUNDARY_START + "(?:" + triePattern + ")" + WORD_BOUNDARY_END;
         return Pattern.compile(combined, Pattern.CASE_INSENSITIVE | Pattern.UNICODE_CASE | Pattern.UNICODE_CHARACTER_CLASS);
+    }
+
+    /**
+     * Masks a matched swear word keeping the first code point and replacing the rest with {@code *}.
+     *
+     * @param term matched text
+     * @return masked text
+     */
+    public static String maskMatchedTerm(String term) {
+        int[] codePoints = term.codePoints().toArray();
+        if (codePoints.length <= 1) {
+            return term;
+        }
+
+        StringBuilder builder = new StringBuilder(codePoints.length);
+        builder.appendCodePoint(codePoints[0]);
+        for (int index = 1; index < codePoints.length; index++) {
+            builder.append(MASK_CHAR);
+        }
+        return builder.toString();
+    }
+
+    /**
+     * Finds and masks all occurrences of the compiled swear pattern in {@code text}.
+     *
+     * @param text    input lyric content
+     * @param pattern compiled swear words pattern
+     * @return {@link MaskResult} containing masked text and match count
+     */
+    public static MaskResult maskText(String text, Pattern pattern) {
+        Matcher matcher = pattern.matcher(text);
+        StringBuilder output = new StringBuilder(text.length());
+        int matchCount = 0;
+
+        while (matcher.find()) {
+            matchCount++;
+            String replacement = maskMatchedTerm(matcher.group());
+            matcher.appendReplacement(output, Matcher.quoteReplacement(replacement));
+        }
+        matcher.appendTail(output);
+
+        return new MaskResult(output.toString(), matchCount);
     }
 
     private static WordPatternParts buildWordTokenPatterns(String rawWord) {
@@ -269,48 +391,6 @@ public final class SwearWordMasker {
         return "(?:" + String.join("|", branches) + ")";
     }
 
-    /**
-     * Masks a matched swear word keeping the first code point and replacing the rest with {@code *}.
-     *
-     * @param term matched text
-     * @return masked text
-     */
-    public static String maskMatchedTerm(String term) {
-        int[] codePoints = term.codePoints().toArray();
-        if (codePoints.length <= 1) {
-            return term;
-        }
-
-        StringBuilder builder = new StringBuilder(codePoints.length);
-        builder.appendCodePoint(codePoints[0]);
-        for (int index = 1; index < codePoints.length; index++) {
-            builder.append(MASK_CHAR);
-        }
-        return builder.toString();
-    }
-
-    /**
-     * Finds and masks all occurrences of the compiled swear pattern in {@code text}.
-     *
-     * @param text    input lyric content
-     * @param pattern compiled swear words pattern
-     * @return {@link MaskResult} containing masked text and match count
-     */
-    public static MaskResult maskText(String text, Pattern pattern) {
-        Matcher matcher = pattern.matcher(text);
-        StringBuilder output = new StringBuilder(text.length());
-        int matchCount = 0;
-
-        while (matcher.find()) {
-            matchCount++;
-            String replacement = maskMatchedTerm(matcher.group());
-            matcher.appendReplacement(output, Matcher.quoteReplacement(replacement));
-        }
-        matcher.appendTail(output);
-
-        return new MaskResult(output.toString(), matchCount);
-    }
-
     private static List<String> tokenizeSwearWord(String rawWord) {
         if (rawWord == null) {
             return List.of();
@@ -359,13 +439,47 @@ public final class SwearWordMasker {
         return escapeRegexChar(token) + "+";
     }
 
-    private static final String REGEX_META_CHARS = ".*+?^${}()|[]\\";
-
     private static String escapeRegexChar(String value) {
         if (value.length() == 1 && REGEX_META_CHARS.indexOf(value.charAt(0)) >= 0) {
             return "\\" + value;
         }
         return value;
+    }
+
+    private static double computePearsonCorrelation(List<FileLinearityMetric> metrics) {
+        int count = metrics.size();
+        if (count < 2) {
+            return 0.0;
+        }
+
+        double sumX = 0.0;
+        double sumY = 0.0;
+        for (FileLinearityMetric metric : metrics) {
+            sumX += metric.characters();
+            sumY += metric.matchingUs();
+        }
+
+        double meanX = sumX / count;
+        double meanY = sumY / count;
+
+        double numerator = 0.0;
+        double sumSqX = 0.0;
+        double sumSqY = 0.0;
+        for (FileLinearityMetric metric : metrics) {
+            double dx = metric.characters() - meanX;
+            double dy = metric.matchingUs() - meanY;
+            numerator += dx * dy;
+            sumSqX += dx * dx;
+            sumSqY += dy * dy;
+        }
+
+        double denominator = Math.sqrt(sumSqX * sumSqY);
+        return denominator == 0.0 ? 0.0 : numerator / denominator;
+    }
+
+    private static double roundTo(double value, int decimals) {
+        double factor = Math.pow(10.0, decimals);
+        return Math.round(value * factor) / factor;
     }
 
     private static List<String> loadSwearWords(Path filePath) throws IOException {
@@ -432,7 +546,17 @@ public final class SwearWordMasker {
               "filesProcessed": %d,
               "filesWithMatches": %d,
               "totalMatches": %d,
+              "totalCharacters": %d,
+              "totalBytes": %d,
+              "regexCompileMs": %.4f,
+              "matchingTimeMs": %.2f,
+              "matchingTimeNs": %d,
               "elapsedMs": %.2f,
+              "nsPerChar": %.2f,
+              "charsPerMs": %.2f,
+              "throughputMBs": %.2f,
+              "pearsonCorrelationR": %.4f,
+              "rSquared": %.4f,
               "outputDir": "%s"
             }
             """,
@@ -441,11 +565,41 @@ public final class SwearWordMasker {
             summary.filesProcessed(),
             summary.filesWithMatches(),
             summary.totalMatches(),
+            summary.totalCharacters(),
+            summary.totalBytes(),
+            summary.regexCompileMs(),
+            summary.matchingTimeMs(),
+            summary.matchingTimeNs(),
             summary.elapsedMs(),
+            summary.nsPerChar(),
+            summary.charsPerMs(),
+            summary.throughputMBs(),
+            summary.pearsonCorrelationR(),
+            summary.rSquared(),
             escapeJson(summary.outputDir())
         );
 
         Files.writeString(summaryPath, json, StandardCharsets.UTF_8);
+    }
+
+    private static void writeLinearityCsv(List<FileLinearityMetric> metrics, Path csvPath) throws IOException {
+        StringBuilder builder = new StringBuilder(metrics.size() * 48);
+        builder.append("file,characters,bytes,matches,matching_us,ns_per_char\n");
+
+        for (FileLinearityMetric metric : metrics) {
+            builder.append(String.format(
+                Locale.US,
+                "%s,%d,%d,%d,%.2f,%.2f%n",
+                metric.fileName(),
+                metric.characters(),
+                metric.bytes(),
+                metric.matches(),
+                metric.matchingUs(),
+                metric.nsPerChar()
+            ));
+        }
+
+        Files.writeString(csvPath, builder.toString(), StandardCharsets.UTF_8);
     }
 
     private static String escapeJson(String value) {

@@ -66,6 +66,6 @@ Na etapa de detecção e mascaramento (A05 / F2) em TypeScript, Julia, Java e C#
   - **Case-insensitive:** Todas as engines utilizam flag ignore-case (`i`), preservando a capitalização original do texto fora dos termos mascarados.
   - **Operador de borda Unicode:** Fronteiras `(?<![\p{L}\p{N}_])` e `(?![\p{L}\p{N}_])` garantem correspondência apenas de palavras inteiras, evitando falsos positivos (ex.: `cu` não casa em `curtir` nem `cúpula`) e suportando termos censurados no final (ex.: `c*`).
 - **Regra de Mascaramento:** Mantém o primeiro caractere (code point Unicode) e substitui todos os demais caracteres do termo encontrado por `*` (ex.: `puta` -> `p***`, `PUTAS` -> `P****`, `cú` -> `c*`).
-- **Isolamento de E/S:** Cada linguagem lê de `analysis/<lang>/input/lyrics-data/lyrics/*.txt` e persiste os arquivos mascarados em `analysis/<lang>/output/lyrics/*.txt`, além de gerar métricas consolidadas em `analysis/<lang>/output/summary.json`.
+- **Isolamento de E/S e Métricas Experimentais:** Cada linguagem lê de `analysis/<lang>/input/lyrics-data/lyrics/*.txt`, persiste os arquivos mascarados em `analysis/<lang>/output/lyrics/*.txt`, grava métricas consolidadas em `analysis/<lang>/output/summary.json` (tempo de compilação da regex, tempo puro de matching em ms/ns, `ns/char`, throughput em `chars/ms` e `MB/s`, além da correlação linear de Pearson $r$ e $R^2$) e exporta a série por faixa em `analysis/<lang>/output/linearity-metrics.csv` (`file,characters,bytes,matches,matching_us,ns_per_char`) para gráficos de dispersão $O(n)$.
 
 

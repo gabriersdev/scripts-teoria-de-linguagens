@@ -4,6 +4,16 @@
   "filesProcessed": 1150,
   "filesWithMatches": 639,
   "totalMatches": 5286,
-  "elapsedMs": 525.07,
+  "totalCharacters": 2281726,
+  "totalBytes": 2346003,
+  "regexCompileMs": 1.4574,
+  "matchingTimeMs": 31.89,
+  "matchingTimeNs": 31888200,
+  "elapsedMs": 866.65,
+  "nsPerChar": 13.98,
+  "charsPerMs": 71553.93,
+  "throughputMBs": 73.57,
+  "pearsonCorrelationR": 0.7988,
+  "rSquared": 0.6382,
   "outputDir": "C:\\projects\\scripts-teoria-de-linguagens\\analysis\\julia\\output\\lyrics"
 }
