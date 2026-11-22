@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99142,
+    "metadata": {
+      "title": "carta aberta",
+      "artists": [
+        "MC Cabelinho"
+      ],
+      "album": "Carta Aberta",
+      "releaseDate": "2023-11-27T12:00:00Z",
+      "durationMs": 262258,
+      "genres": [
+        "Hip-Hop"
+      ],
+      "isrc": "BKLVW2300013",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1a/7f/ff/1a7fff85-31e5-4544-4d3e-8852a09b8a26/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0f4df29c-38c8-4cb0-91ff-9d7826a1c577",
+        "itunes": "https://music.apple.com/us/album/carta-aberta/1718792650?i=1718792652&uo=4",
+        "deezer": "https://www.deezer.com/track/2540977811"
+      }
+    },
+    "lyricPath": "/lyrics/99142.txt"
+  }
+]

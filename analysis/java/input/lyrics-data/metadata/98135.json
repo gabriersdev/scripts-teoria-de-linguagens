@@ -1,0 +1,27 @@
+[
+  {
+    "id": 98135,
+    "metadata": {
+      "title": "Quebradas",
+      "artists": [
+        "MC Paulin da Capital",
+        "Mc Lipi",
+        "MC Cabelinho",
+        "Dj GM"
+      ],
+      "album": "Quebradas (feat. MC Cabelinho) - Single",
+      "releaseDate": "2021-12-02T12:00:00Z",
+      "durationMs": 250588,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BXKG22101518",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/76/da/2b76dacc-c254-5c53-c967-13c49f693c90/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/quebradas-feat-mc-cabelinho/1597828591?i=1597828593&uo=4",
+        "deezer": "https://www.deezer.com/track/1570345402"
+      }
+    },
+    "lyricPath": "/lyrics/98135.txt"
+  }
+]

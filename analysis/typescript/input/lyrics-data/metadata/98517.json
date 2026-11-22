@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98517,
+    "metadata": {
+      "title": "Pitando no Kombão",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Dose Dupla",
+      "releaseDate": "2011",
+      "durationMs": 104306,
+      "genres": [],
+      "isrc": "BRWMB9702643",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0f85791cb1305b772f5e89de04aa1d4a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8bf93b35-7208-4295-9763-6bd6e61bb38a",
+        "deezer": "https://www.deezer.com/track/3895372"
+      }
+    },
+    "lyricPath": "/lyrics/98517.txt"
+  }
+]

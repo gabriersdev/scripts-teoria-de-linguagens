@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98612,
+    "metadata": {
+      "title": "Eu Não Sou Terapia",
+      "artists": [
+        "Danilo e Davi"
+      ],
+      "album": "Aliança - Vol.2 (Ao Vivo)",
+      "releaseDate": "2026-05-14T12:00:00Z",
+      "durationMs": 162406,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BC9T42600015",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/a9/eb/89a9ebd1-a54c-e7c4-7f97-96b762990b9f/196874365489.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/eu-n%C3%A3o-sou-terapia-ao-vivo/6765690775?i=6765690778&uo=4",
+        "deezer": "https://www.deezer.com/track/3996803841"
+      }
+    },
+    "lyricPath": "/lyrics/98612.txt"
+  }
+]

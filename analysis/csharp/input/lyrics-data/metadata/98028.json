@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98028,
+    "metadata": {
+      "title": "Pentacampeão",
+      "artists": [
+        "Bielzin",
+        "Mc Poze do Rodo",
+        "$CAM",
+        "GUINO"
+      ],
+      "album": "Pentacampeão",
+      "releaseDate": "2026-08-28",
+      "durationMs": 154000,
+      "genres": [],
+      "isrc": "BCM9A2600136",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/b0cc8a3621392754f4ef8da40f6e0687/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4250519731"
+      }
+    },
+    "lyricPath": "/lyrics/98028.txt"
+  }
+]

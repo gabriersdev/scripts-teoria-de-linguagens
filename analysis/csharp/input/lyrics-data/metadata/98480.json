@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98480,
+    "metadata": {
+      "title": "Minha alma (A paz que eu não quero)",
+      "artists": [
+        "O Rappa"
+      ],
+      "album": "iCollection Pop Brasil",
+      "releaseDate": "2016-07-29",
+      "durationMs": 338866,
+      "genres": [
+        "MPB"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/23/d3/21/23d32114-c5d4-0796-03a9-54af114508b3/825646603619.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c26b5d64-5d37-4242-b7f1-9976d427ca3e",
+        "itunes": "https://music.apple.com/us/album/minha-alma-a-paz-que-eu-n%C3%A3o-quero/519555435?i=519555436&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98480.txt"
+  }
+]

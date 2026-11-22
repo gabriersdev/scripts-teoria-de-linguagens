@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98402,
+    "metadata": {
+      "title": "Dias Atrás",
+      "artists": [
+        "CPM 22"
+      ],
+      "album": "Luau MTV",
+      "releaseDate": "2003-02-21",
+      "durationMs": 266000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/4b8d31af-3868-4979-99fd-a0a4e4279890"
+      }
+    },
+    "lyricPath": "/lyrics/98402.txt"
+  }
+]

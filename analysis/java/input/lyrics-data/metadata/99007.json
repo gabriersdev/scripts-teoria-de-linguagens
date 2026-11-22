@@ -1,0 +1,23 @@
+[
+  {
+    "id": 99007,
+    "metadata": {
+      "title": "5ª DIMENSÃO",
+      "artists": [
+        "MC Cabelinho",
+        "Dallass",
+        "LOthief"
+      ],
+      "album": "ÊXTASE",
+      "releaseDate": "2025-09-25",
+      "durationMs": 196000,
+      "genres": [],
+      "isrc": "BKLVW2500031",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/8f7390a2658753a134a28d440af09732/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3557001861"
+      }
+    },
+    "lyricPath": "/lyrics/99007.txt"
+  }
+]

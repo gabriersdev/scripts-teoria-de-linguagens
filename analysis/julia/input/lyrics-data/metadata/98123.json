@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98123,
+    "metadata": {
+      "title": "Festa de Vagabundo",
+      "artists": [
+        "Mc Paiva ZS",
+        "Love Funk",
+        "Kotim"
+      ],
+      "album": "Festa de Vagabundo",
+      "releaseDate": "2022-06-09",
+      "durationMs": 171000,
+      "genres": [],
+      "isrc": "BXKG22200591",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/ff237803dc6d9b17aa8bba8b51f9113d/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1776209257"
+      }
+    },
+    "lyricPath": "/lyrics/98123.txt"
+  }
+]

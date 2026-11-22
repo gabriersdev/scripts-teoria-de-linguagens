@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98609,
+    "metadata": {
+      "title": "Flash",
+      "artists": [
+        "Zé Vaqueiro"
+      ],
+      "album": "Flash (Minha Mente) 💠 - Single",
+      "releaseDate": "2026-10-15T12:00:00Z",
+      "durationMs": 157815,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/ba/82/6fba821c-28c0-1e0e-0b14-95c0d423e082/1200220233007.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/flash-minha-mente/6817938057?i=6817938389&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98609.txt"
+  }
+]

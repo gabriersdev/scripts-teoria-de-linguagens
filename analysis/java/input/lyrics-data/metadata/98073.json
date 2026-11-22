@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98073,
+    "metadata": {
+      "title": "Ai Preto",
+      "artists": [
+        "L7NNON",
+        "DJ Biel do Furduncinho",
+        "Bianca"
+      ],
+      "album": "Ai preto",
+      "releaseDate": "2022-06-03",
+      "durationMs": 131583,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BR5TG2200019",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/07/7a/7b077a67-0d3f-9470-4282-16421e036d04/f1d26e9b-85f8-47a7-8f97-ffa133301c02.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/8ee142d2-97de-434b-a0c8-5a71c655bbe8",
+        "itunes": "https://music.apple.com/us/album/ai-preto/1827339058?i=1827339059&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98073.txt"
+  }
+]

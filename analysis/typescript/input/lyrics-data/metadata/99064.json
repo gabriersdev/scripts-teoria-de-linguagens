@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99064,
+    "metadata": {
+      "title": "Primavera",
+      "artists": [
+        "YUNG LIXO"
+      ],
+      "album": "13 Lentes de um Final Feliz",
+      "releaseDate": "2024-12-20",
+      "durationMs": 245120,
+      "genres": [],
+      "isrc": "QZZ7X2403693",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/a01cc5f5bbb09711637d4927e9ab83cd/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/1f9456c1-615e-44b4-a526-75366fc0a5c3",
+        "deezer": "https://www.deezer.com/track/3144564021"
+      }
+    },
+    "lyricPath": "/lyrics/99064.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98699,
+    "metadata": {
+      "title": "Se Eu Te Perdoar",
+      "artists": [
+        "Clayton & Romário & Zé Felipe"
+      ],
+      "album": "Se Eu Te Perdoar (Ao Vivo) - Single",
+      "releaseDate": "2025-09-02T12:00:00Z",
+      "durationMs": 164892,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BCYWS2400048",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/dd/97/3bdd977c-d3f0-07e0-0211-e058cfc8a605/5021732972651.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/se-eu-te-perdoar-ao-vivo/1837268401?i=1837268563&uo=4",
+        "deezer": "https://www.deezer.com/track/3537838651"
+      }
+    },
+    "lyricPath": "/lyrics/98699.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98748,
+    "metadata": {
+      "title": "Batom de Cereja - Ao Vivo",
+      "artists": [
+        "Israel & Rodolffo"
+      ],
+      "album": "Aqui e Agora Deluxe",
+      "releaseDate": "2012-01-01T12:00:00Z",
+      "durationMs": 140942,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRRGE2012363",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/ed/60/04ed606b-2e84-2989-3d4d-c1eed43a5b82/7891430584573.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/batom-de-cereja-ao-vivo/1579983501?i=1579983515&uo=4",
+        "deezer": "https://www.deezer.com/track/1196471712"
+      }
+    },
+    "lyricPath": "/lyrics/98748.txt"
+  }
+]

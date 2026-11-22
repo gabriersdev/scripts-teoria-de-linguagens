@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98614,
+    "metadata": {
+      "title": "Apaga Apaga Apaga",
+      "artists": [
+        "Danilo e Davi"
+      ],
+      "album": "Toma Essa Verdade (Ao Vivo)",
+      "releaseDate": "2016-01-01T12:00:00Z",
+      "durationMs": 178883,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BC9T42400017",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/b2/1a/c5b21a34-0b1b-7ff0-0bd5-b44f9668ebd3/196872340808.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/apaga-apaga-apaga-ao-vivo/1759670683?i=1759670687&uo=4",
+        "deezer": "https://www.deezer.com/track/2916157971"
+      }
+    },
+    "lyricPath": "/lyrics/98614.txt"
+  }
+]

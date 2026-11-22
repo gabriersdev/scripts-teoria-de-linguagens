@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98679,
+    "metadata": {
+      "title": "Hoje Eu Lembrei de Você",
+      "artists": [
+        "Ana Castela"
+      ],
+      "album": "Herança Boiadeira Rodeio (Ao Vivo)",
+      "releaseDate": "2026-02-26T12:00:00Z",
+      "durationMs": 200306,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": "BKBM62600007",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/60/b1/bd60b1bf-36f5-da6a-5b86-74e84d01a4d2/7901055900570.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/hoje-eu-lembrei-de-voc%C3%AA-ao-vivo/1869361425?i=1869361428&uo=4",
+        "deezer": "https://www.deezer.com/track/3765565522"
+      }
+    },
+    "lyricPath": "/lyrics/98679.txt"
+  }
+]

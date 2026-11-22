@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98557,
+    "metadata": {
+      "title": "À Sua Maneira (De Música Ligeira)",
+      "artists": [
+        "Capital Inicial"
+      ],
+      "album": "Capital Inicial - As Mais Tocadas",
+      "releaseDate": "2002-01-01T12:00:00Z",
+      "durationMs": 301267,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRBMG0300289",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/7c/42/c67c4267-f117-4d70-78a2-1901ac19b0b4/196872219760.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/%C3%A0-sua-maneira-de-m%C3%BAsica-ligeira/1753833356?i=1753833370&uo=4",
+        "deezer": "https://www.deezer.com/track/71630123"
+      }
+    },
+    "lyricPath": "/lyrics/98557.txt"
+  }
+]

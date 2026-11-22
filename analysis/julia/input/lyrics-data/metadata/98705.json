@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98705,
+    "metadata": {
+      "title": "De Trás Pra Frente - Ao Vivo",
+      "artists": [
+        "Henrique & Juliano"
+      ],
+      "album": "Henrique e Juliano - Surreal",
+      "releaseDate": "2017-07-07T12:00:00Z",
+      "durationMs": 163089,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1700186",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6b/00/e6/6b00e682-6352-af28-1546-fbb88fdaa66c/7891430473075.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/593cd5a6-d8e8-481e-9801-136e5d5146c1",
+        "itunes": "https://music.apple.com/us/album/de-tr%C3%A1s-pra-frente-ao-vivo/1512036641?i=1512037562&uo=4",
+        "deezer": "https://www.deezer.com/track/3879158731"
+      }
+    },
+    "lyricPath": "/lyrics/98705.txt"
+  }
+]

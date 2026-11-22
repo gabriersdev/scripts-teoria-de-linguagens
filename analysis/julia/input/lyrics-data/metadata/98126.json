@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98126,
+    "metadata": {
+      "title": "Bala Perdida",
+      "artists": [
+        "MC Hariel"
+      ],
+      "album": "Bala Perdida",
+      "releaseDate": "2021-07-31",
+      "durationMs": 262000,
+      "genres": [],
+      "isrc": "BXG6R1700186",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9b150b8f88d14edc54bac3b1bdd3ad36/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1442956272"
+      }
+    },
+    "lyricPath": "/lyrics/98126.txt"
+  }
+]

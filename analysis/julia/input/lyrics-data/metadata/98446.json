@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98446,
+    "metadata": {
+      "title": "Clube Dos Canalhas",
+      "artists": [
+        "Matanza"
+      ],
+      "album": "MTV Apresenta: Matanza",
+      "releaseDate": "2008-04",
+      "durationMs": 181000,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP0600430",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/40/b7/4340b728-c3b3-543b-af7f-fa26ce4edf37/7898324302602.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/961de5a0-aaad-4076-8f18-441e07e854fd",
+        "itunes": "https://music.apple.com/us/album/clube-dos-canalhas/977391848?i=977391850&uo=4",
+        "deezer": "https://www.deezer.com/track/96188826"
+      }
+    },
+    "lyricPath": "/lyrics/98446.txt"
+  }
+]

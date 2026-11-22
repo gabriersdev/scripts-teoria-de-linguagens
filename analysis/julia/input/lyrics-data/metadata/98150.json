@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98150,
+    "metadata": {
+      "title": "Sentadão",
+      "artists": [
+        "MC Rick"
+      ],
+      "album": "Sentadão",
+      "releaseDate": "2019-04-12",
+      "durationMs": 101746,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b42e2cd5-5f65-476a-8d17-d74d5cfbbe1f"
+      }
+    },
+    "lyricPath": "/lyrics/98150.txt"
+  }
+]

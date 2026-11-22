@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98199,
+    "metadata": {
+      "title": "Maldita Dose",
+      "artists": [
+        "DJ ARTHUZIIN"
+      ],
+      "album": "Maldita Dose",
+      "releaseDate": "2025-09-12",
+      "durationMs": 251000,
+      "genres": [],
+      "isrc": "BKARF2500003",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/06841015fcb34943449489586bcc6b26/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3500157671"
+      }
+    },
+    "lyricPath": "/lyrics/98199.txt"
+  }
+]

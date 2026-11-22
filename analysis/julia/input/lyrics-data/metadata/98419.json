@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98419,
+    "metadata": {
+      "title": "Mestre Jonas",
+      "artists": [
+        "Sa",
+        "Rodrix & Guarabyra"
+      ],
+      "album": "O essencial de Sá e Guarabyra",
+      "releaseDate": "2006-08-15",
+      "durationMs": 202733,
+      "genres": [],
+      "isrc": "BREMI7300012",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9cb9f2262486e8b92a68ed9cf6ba9275/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/c08b7e87-542f-4ba1-8423-000a071e8b33",
+        "deezer": "https://www.deezer.com/track/3202527"
+      }
+    },
+    "lyricPath": "/lyrics/98419.txt"
+  }
+]

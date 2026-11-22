@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98667,
+    "metadata": {
+      "title": "Saudade Burra",
+      "artists": [
+        "Lauana Prado & Simone Mendes"
+      ],
+      "album": "Transcende (Ao Vivo)",
+      "releaseDate": "2025-01-10T12:00:00Z",
+      "durationMs": 157174,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRUM72400735",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/a3/1c/aaa31cc3-1f6d-c374-626d-b97b36757c4e/25UMGIM36099.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/saudade-burra-ao-vivo/1797635369?i=1797635371&uo=4",
+        "deezer": "https://www.deezer.com/track/3168044101"
+      }
+    },
+    "lyricPath": "/lyrics/98667.txt"
+  }
+]

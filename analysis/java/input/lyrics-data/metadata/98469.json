@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98469,
+    "metadata": {
+      "title": "1997",
+      "artists": [
+        "Hateen"
+      ],
+      "album": "N@o Eh sÓ Um4 FaSeh",
+      "releaseDate": "2006-04-26",
+      "durationMs": 189893,
+      "genres": [],
+      "isrc": "BRMSU0500113",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/87115dbf641905b222c7cd0f35847e13/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0205d1aa-cd3d-4fc0-aed8-d553a27d6863",
+        "deezer": "https://www.deezer.com/track/44393641"
+      }
+    },
+    "lyricPath": "/lyrics/98469.txt"
+  }
+]

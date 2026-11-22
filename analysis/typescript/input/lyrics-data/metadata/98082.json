@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98082,
+    "metadata": {
+      "title": "Tô na Brasilia com o Zigão",
+      "artists": [
+        "DJ Zigão",
+        "MC Roger"
+      ],
+      "album": "Tô na Brasilia com o Zigão",
+      "releaseDate": "2025-09-08",
+      "durationMs": 155000,
+      "genres": [],
+      "isrc": "BK7652500068",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/4b9eb5cd5ca77de0e1cf1b6c86ca4802/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3541335691"
+      }
+    },
+    "lyricPath": "/lyrics/98082.txt"
+  }
+]

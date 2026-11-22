@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98881,
+    "metadata": {
+      "title": "BALACLAVA",
+      "artists": [
+        "Derek",
+        "Ras Akin",
+        "Leozin"
+      ],
+      "album": "Trap The Fato Deluxe",
+      "releaseDate": "2023-10-06",
+      "durationMs": 244000,
+      "genres": [],
+      "isrc": "BRUM72301347",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c508f9fda92ac840fd049381103b6a5d/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2477823381"
+      }
+    },
+    "lyricPath": "/lyrics/98881.txt"
+  }
+]

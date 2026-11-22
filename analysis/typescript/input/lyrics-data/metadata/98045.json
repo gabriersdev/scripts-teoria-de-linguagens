@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98045,
+    "metadata": {
+      "title": "Mentira ou Verdade",
+      "artists": [
+        "DJ Biel do Furduncinho",
+        "MC Jvila",
+        "$CAM",
+        "DJ Dael",
+        "Ian Durso"
+      ],
+      "album": "Mentira ou Verdade",
+      "releaseDate": "2026-06-20",
+      "durationMs": 104000,
+      "genres": [],
+      "isrc": "QT8BW2622778",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/2365284bb2c9d15af34693b2bece7382/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4086936421"
+      }
+    },
+    "lyricPath": "/lyrics/98045.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98492,
+    "metadata": {
+      "title": "Cedo Ou Tarde",
+      "artists": [
+        "NX Zero"
+      ],
+      "album": "Agora",
+      "releaseDate": "2008-07-07",
+      "durationMs": 193466,
+      "genres": [],
+      "isrc": "BRMSU0800125",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/72078b2daad8b1d8088a70f15622d974/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/aecf6491-1349-4ca8-b253-375e73410f00",
+        "deezer": "https://www.deezer.com/track/10701833"
+      }
+    },
+    "lyricPath": "/lyrics/98492.txt"
+  }
+]

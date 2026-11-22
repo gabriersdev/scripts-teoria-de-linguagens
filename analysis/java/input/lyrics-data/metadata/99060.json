@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99060,
+    "metadata": {
+      "title": "A Trindade do Shittrap (Macaco Engraçado)",
+      "artists": [
+        "LUCKHAOS"
+      ],
+      "album": "Shittrap 10 (O funeral da ironia)",
+      "releaseDate": "2023-07-08",
+      "durationMs": 239185,
+      "genres": [],
+      "isrc": "BXIV82392572",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1f15400fe2c7a24a0ac93270091a095c/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0c49bcd6-8077-4e9a-81d3-12e066a60ded",
+        "deezer": "https://www.deezer.com/track/2326571355"
+      }
+    },
+    "lyricPath": "/lyrics/99060.txt"
+  }
+]

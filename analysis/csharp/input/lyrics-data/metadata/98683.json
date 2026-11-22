@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98683,
+    "metadata": {
+      "title": "Veneno - Ao Vivo",
+      "artists": [
+        "Murilo Huff",
+        "Zé Neto & Cristiano"
+      ],
+      "album": "Acústico (Ao Vivo)",
+      "releaseDate": "2025-08-14",
+      "durationMs": 178131,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKMWS2500013",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/45/cb/6245cb7c-9a71-c234-7855-c8ed4d8014b6/8447053323021.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ef2a2fe3-dc10-4473-8789-2a14ae8f332b",
+        "itunes": "https://music.apple.com/us/album/veneno-ao-vivo/1801531097?i=1801531490&uo=4",
+        "deezer": "https://www.deezer.com/track/3281449141"
+      }
+    },
+    "lyricPath": "/lyrics/98683.txt"
+  }
+]

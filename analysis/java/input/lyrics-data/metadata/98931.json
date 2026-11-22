@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98931,
+    "metadata": {
+      "title": "TODAS AS LUZES",
+      "artists": [
+        "Matuê"
+      ],
+      "album": "XTRANHO",
+      "releaseDate": "2025-12-10",
+      "durationMs": 153000,
+      "genres": [],
+      "isrc": "BXW922500135",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c9b023c07f75e26f5998c8eeddb39fcb/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/6dbe8688-8a5e-4b90-b12c-7d18e2200fa0",
+        "deezer": "https://www.deezer.com/track/3700579862"
+      }
+    },
+    "lyricPath": "/lyrics/98931.txt"
+  }
+]

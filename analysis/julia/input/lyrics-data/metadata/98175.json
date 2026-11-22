@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98175,
+    "metadata": {
+      "title": "A Gente Brigou",
+      "artists": [
+        "MC Don Juan"
+      ],
+      "album": "A Gente Brigou",
+      "releaseDate": "2021-07-31",
+      "durationMs": 169000,
+      "genres": [],
+      "isrc": "BXG6R1700090",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1cb0ec67c6b32ed3c6f783f209973fca/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1441730772"
+      }
+    },
+    "lyricPath": "/lyrics/98175.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98884,
+    "metadata": {
+      "title": "A Última",
+      "artists": [
+        "D$ Luqi"
+      ],
+      "album": "O Emblema do Infinito",
+      "releaseDate": "2024-08-08",
+      "durationMs": 139000,
+      "genres": [],
+      "isrc": "BKLL22400018",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3ab40bdd7c87b75c21401f79028b3dcf/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/90a841bb-d8d6-4d91-94f1-6308cd7ed69c",
+        "deezer": "https://www.deezer.com/track/2858478092"
+      }
+    },
+    "lyricPath": "/lyrics/98884.txt"
+  }
+]

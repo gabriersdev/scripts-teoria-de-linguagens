@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98298,
+    "metadata": {
+      "title": "Champagne",
+      "artists": [
+        "Orochi",
+        "PL Quest",
+        "BIN",
+        "Kizzy",
+        "Mainstreet"
+      ],
+      "album": "Lobo",
+      "releaseDate": "2021-04-29",
+      "durationMs": 245000,
+      "genres": [],
+      "isrc": "BCM9A2100014",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/30293f3dbd8d264b9364e9402b07894f/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1351992292"
+      }
+    },
+    "lyricPath": "/lyrics/98298.txt"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98501,
+    "metadata": {
+      "title": "Ela Roubou Meu Caminhão",
+      "artists": [
+        "Matanza"
+      ],
+      "album": "Santa Madre Cassino",
+      "releaseDate": "2001-01-01T12:00:00Z",
+      "durationMs": 225427,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BRDEP0100003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/52/79/80/52798093-0c55-50be-3900-d5852e8a0ca4/7898324302619.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/ela-roubou-meu-caminh%C3%A3o/980079904?i=980080295&uo=4",
+        "deezer": "https://www.deezer.com/track/96189044"
+      }
+    },
+    "lyricPath": "/lyrics/98501.txt"
+  }
+]

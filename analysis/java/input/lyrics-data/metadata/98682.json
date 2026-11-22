@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98682,
+    "metadata": {
+      "title": "Todo Mundo Menos Eu",
+      "artists": [
+        "Hugo & Guilherme & Ana Castela"
+      ],
+      "album": "Todo Mundo Menos Eu (Ao Vivo) - Single",
+      "releaseDate": "2025-09-03T12:00:00Z",
+      "durationMs": 126285,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKSGS2500045",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/84/fd/c184fd08-355a-4702-c0d2-b77710cf05a8/196873539256.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/todo-mundo-menos-eu-ao-vivo/1835019765?i=1835019766&uo=4",
+        "deezer": "https://www.deezer.com/track/3521565141"
+      }
+    },
+    "lyricPath": "/lyrics/98682.txt"
+  }
+]

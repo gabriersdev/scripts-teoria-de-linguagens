@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98224,
+    "metadata": {
+      "title": "Segredos e Defeitos",
+      "artists": [
+        "Raflow",
+        "Caio Luccas",
+        "Tz da Coronel"
+      ],
+      "album": "Segredos e Defeitos",
+      "releaseDate": "2026-06-03",
+      "durationMs": 242000,
+      "genres": [],
+      "isrc": "BKUPC2600003",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c5ef461f169590bd4c408a0f3f5c4be5/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4033711061"
+      }
+    },
+    "lyricPath": "/lyrics/98224.txt"
+  }
+]

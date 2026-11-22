@@ -1,0 +1,29 @@
+[
+  {
+    "id": 99027,
+    "metadata": {
+      "title": "Diamante",
+      "artists": [
+        "NGC Daddy",
+        "MC PH",
+        "Borges",
+        "Neo BXD",
+        "Oreozin",
+        "MC Lugu",
+        "MC GP",
+        "NGC Records",
+        "Murillo e LT no Beat"
+      ],
+      "album": "Diamante",
+      "releaseDate": "2024-02-01",
+      "durationMs": 362000,
+      "genres": [],
+      "isrc": "QZ5AB2412344",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/67ffe5c62192503399e83e4ed20660c4/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2638005592"
+      }
+    },
+    "lyricPath": "/lyrics/99027.txt"
+  }
+]

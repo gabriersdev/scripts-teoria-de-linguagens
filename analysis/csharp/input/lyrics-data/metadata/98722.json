@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98722,
+    "metadata": {
+      "title": "Status Que Eu Não Queria - Ao Vivo",
+      "artists": [
+        "Zé Neto & Cristiano"
+      ],
+      "album": "Boteco do Zé Neto & Cristiano (Ao Vivo)",
+      "releaseDate": "2025-12-06",
+      "durationMs": 153934,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BRWNV1800112",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/2b/e0/db2be0b5-f637-d504-8799-cd52b550ac36/196874517567.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/73fd7b89-62e7-4861-93d4-2090ace6b538",
+        "itunes": "https://music.apple.com/us/album/status-que-eu-n%C3%A3o-queria-ao-vivo/6779322082?i=6779322789&uo=4",
+        "deezer": "https://www.deezer.com/track/524693162"
+      }
+    },
+    "lyricPath": "/lyrics/98722.txt"
+  }
+]

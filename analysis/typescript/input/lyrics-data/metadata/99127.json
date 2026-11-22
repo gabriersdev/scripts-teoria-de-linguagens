@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99127,
+    "metadata": {
+      "title": "Manda Esperar",
+      "artists": [
+        "Sidoka",
+        "Dj Coala"
+      ],
+      "album": "Manda Esperar",
+      "releaseDate": "2020-06-23",
+      "durationMs": 220000,
+      "genres": [],
+      "isrc": "US3DF2295279",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/32ce70b927e0929450bb8af24db1f07d/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1881254587"
+      }
+    },
+    "lyricPath": "/lyrics/99127.txt"
+  }
+]

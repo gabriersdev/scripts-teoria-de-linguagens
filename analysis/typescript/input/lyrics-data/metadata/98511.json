@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98511,
+    "metadata": {
+      "title": "Aquela",
+      "artists": [
+        "Raimundos"
+      ],
+      "album": "Roda Viva",
+      "releaseDate": "2011",
+      "durationMs": 188000,
+      "genres": [
+        "Rock"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3f/a4/f8/3fa4f883-d23e-1845-984e-9d1ae2b268eb/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/fd81b8be-e43f-4b7f-a5cd-0dcbbd2002c7",
+        "itunes": "https://music.apple.com/us/album/aquela-ao-vivo/879819848?i=879819863&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98511.txt"
+  }
+]

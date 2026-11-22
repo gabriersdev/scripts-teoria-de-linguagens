@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98139,
+    "metadata": {
+      "title": "Vai Safada",
+      "artists": [
+        "Mc Pikachu",
+        "DJ R7",
+        "Mc Brinquedo"
+      ],
+      "album": "Vai Safada",
+      "releaseDate": "2021-07-31",
+      "durationMs": 150000,
+      "genres": [],
+      "isrc": "BXG6R1700133",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/639174a0608466b8c0cb1e4c5e862f3a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1443966672"
+      }
+    },
+    "lyricPath": "/lyrics/98139.txt"
+  }
+]

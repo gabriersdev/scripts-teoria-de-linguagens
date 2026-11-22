@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98982,
+    "metadata": {
+      "title": "Só Você",
+      "artists": [
+        "Orochi",
+        "Galdino",
+        "Portugal No Beat"
+      ],
+      "album": "Só Você",
+      "releaseDate": "2025-11-26",
+      "durationMs": 169000,
+      "genres": [],
+      "isrc": "BCM9A2500044",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/f17b8d596e5fb268425cac0206da5c74/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3668287132"
+      }
+    },
+    "lyricPath": "/lyrics/98982.txt"
+  }
+]

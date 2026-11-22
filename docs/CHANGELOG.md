@@ -2,6 +2,67 @@
 
 Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 
+## [1.7.0] - 2026-11-21
+
+### Adicionado
+- Diretrizes de codificação para C# em `docs/CODING-GUIDELINES-CSHARP.md` baseadas nas convenções oficiais da Microsoft.
+- Scripts de identificação e mascaramento de palavrões (A05 / F2) com geração dinâmica de expressões regulares a partir de `lib/swear-words.json`:
+  - `analysis/typescript/mask-swear-words.ts` (TypeScript)
+  - `analysis/julia/mask_swear_words.jl` (Julia)
+  - `analysis/java/SwearWordMasker.java` (Java)
+  - `analysis/csharp/SwearWordMasker.csproj`, `SwearWordRegexBuilder.cs`, `SwearWordMaskerService.cs` e `Program.cs` (C# / .NET 8)
+- Suporte unificado nas 4 linguagens para repetição positiva (`+`), plural opcional (`s*`), censura da 2ª letra (`*`/`#`), acentuação opcional, marcador `[X]` (`[ao]+`), flag case-insensitive, fronteiras Unicode de palavra e mascaramento a partir da 2ª letra (`puta` -> `p***`), com saída em `output/lyrics/` e métricas em `output/summary.json`.
+
+### Modificado
+- `docs/ARCHITECTURE.md` e `docs/BUSINESS-RULES.md`:
+  - Documentação da estrutura `/analysis` e da regra de negócio 12 para geração dinâmica de regex e mascaramento multilíngue.
+
+## [1.6.0] - 2026-11-21
+
+### Adicionado
+- Utilitário de higienização de letras `scripts/sanitize-lyrics.ts`:
+  - Varredura completa sobre o corpus `/lyrics-data/lyrics/*.txt` para detecção e remoção atômica de marcadores de sincronia e timestamps LRC (`<mm:ss.xxx>`, `[mm:ss.xxx]` e tags `[ar:...]`).
+  - Suporte a modo de simulação (`--dry-run` / `-d`) e comando npm `"sanitize:lyrics"` registrado em `package.json`.
+- Função `sanitizeLyrics` em `scripts/text-sanitizer.ts`:
+  - Purificação de strings líricas contra marcadores temporais residuais e normalização de espaçamento.
+- Função `buildElasticWordPattern` em `scripts/text-sanitizer.ts`:
+  - Geração de padrões regulares com quantificador positivo em cada caractere ($c+$) e terminação opcional de plural ($s*$) para capturar variações de alongamento fonético e flexões no plural.
+- Suporte a busca elástica em `scripts/lyrics-regex-search.ts`:
+  - Nova opção `--elastic` / `-e` (e argumento posicional `elastic`) para expandir palavras-chave em expressões regulares flexíveis (ex.: `puta` casa com `puuuuta`, `putas` e `puuutasss`).
+
+### Modificado
+- `lib/swear-words.json`:
+  - Remoção de 7 termos duplicados do catálogo léxico (`fudendo`, `fudeno`, `fuder`, `gozar`, `piroca`, `piroka` e `vagabunda`).
+  - Expansão do catálogo de termos estritamente sexuais, promíscuos e anatômicos com inclusão de termos únicos (como `bacanal`, `bucetinha`, `bucetão`, `caralhão`, `caralhinho`, `cavalgada`, `cavalgar`, `dedada`, `enrabad[X]`, `enrabar`, `esperma`, `esporra`, `esporrada`, `esporrar`, `fodelança`, `pepeca`, `pepeka`, `picão`, `pintão`, `piranhagem`, `ppk`, `putedo`, `quicada`, `quicando`, `quicar`, `rolinha`, `sarrada`, `sarrando`, `sarrar`, `xana`, `xoxotinha`).
+  - Remoção de 13 termos não sexuais, escatológicos e ofensas de orientação sexual (`baitola`, `bicha`, `bichinha`, `bichona`, `bixa`, `bixinha`, `bixona`, `bosta`, `desgreta`, `merda`, `piranha`, `viadinho` e `viado`).
+- `scripts/lyrics-service.ts`:
+  - Integração de `sanitizeLyrics` na ingestão de letras via LRCLIB, Genius e lyrics.ovh, prevenindo que arquivos futuros sejam persistidos com tags de sincronização.
+- `/lyrics-data/lyrics/98417.txt`:
+  - Execução da sanitização com expurgo de 183 marcadores temporais inline remanescentes da faixa "Balada Do Louco" (Os Mutantes).
+- `docs/ARCHITECTURE.md` e `docs/BUSINESS-RULES.md`:
+  - Documentação da regra de higienização de marcadores temporais e do padrão elástico de repetição de caracteres para análise lírica.
+
+## [1.5.0] - 2026-11-10
+
+### Adicionado
+- Biblioteca compartilhada `lib/lyrics-corpus.ts`:
+  - Classe `LyricsCorpus` extraída para centralizar a indexação das listas em `/lyrics-list/*.json` e o carregamento/iteração das letras em `/lyrics-data/lyrics/*.txt`, com suporte a filtro de gênero com prioridade de correspondência exata.
+- Biblioteca compartilhada `lib/word-filters.ts` e catálogos em `/lib`:
+  - Tokenizador `tokenizeLyricWords` com remoção padrão de marcações estruturais entre colchetes (`[Refrão]`, `[Verso 1]`, etc.), preservação de apóstrofos/hífens internos, suporte a normalização de acentos e tamanho mínimo configurável.
+  - Catálogo estático `lib/ignore-words.json` (stopwords em português) carregado via `loadIgnoreWords` e integração com `lib/swear-words.json` via `loadSwearWords`.
+- Analisador de incidência lexical `scripts/incidence-words.ts`:
+  - Contabilização das palavras mais frequentes no corpus completo e por gênero musical, com métricas de ocorrências totais, quantidade de faixas distintas, taxa de difusão (%) e participação percentual (%).
+  - Filtragem padrão de stopwords do português, suporte a lista extra via `--ignore`, integração com `lib/swear-words.json` (`highlight`, `--only-swear` / `swear`, `--exclude-swear` / `no-swear`), argumentos posicionais ou via flags CLI e saída em tabela ou JSON (`--json`).
+- Comando npm `"incidence:words"` registrado em `package.json`.
+
+### Modificado
+- `scripts/lyrics-regex-search.ts`:
+  - Refatorado para reutilizar `LyricsCorpus` (`lib/lyrics-corpus.ts`), eliminando a duplicação da lógica de carregamento e indexação de faixas/letras.
+- `tsconfig.json`:
+  - Inclusão do diretório `lib/**/*` no escopo de verificação TypeScript.
+- `docs/ARCHITECTURE.md` e `docs/BUSINESS-RULES.md`:
+  - Documentação dos novos módulos em `/lib`, do script `scripts/incidence-words.ts` e da regra de filtragem lexical do corpus.
+
 ## [1.4.1] - 2026-11-02
 
 ### Adicionado

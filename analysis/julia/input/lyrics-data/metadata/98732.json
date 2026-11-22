@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98732,
+    "metadata": {
+      "title": "Meu Silêncio - Ao Vivo",
+      "artists": [
+        "Matheus & Kauan",
+        "Simone Mendes"
+      ],
+      "album": "Meu Silêncio (Ao Vivo)",
+      "releaseDate": "2026-05-15",
+      "durationMs": 180000,
+      "genres": [],
+      "isrc": "BKU8M2600004",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/170ce593eb72101351e55eac07657149/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4008581661"
+      }
+    },
+    "lyricPath": "/lyrics/98732.txt"
+  }
+]

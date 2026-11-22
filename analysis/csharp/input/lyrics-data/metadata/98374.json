@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98374,
+    "metadata": {
+      "title": "Estilo Vagabundo 3",
+      "artists": [
+        "MV Bill",
+        "DJ Caique",
+        "Kmila Cdd"
+      ],
+      "album": "Essencial",
+      "releaseDate": "2019-07-05",
+      "durationMs": 339746,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/48a903f6-c084-4c30-b478-10fed1725a65"
+      }
+    },
+    "lyricPath": "/lyrics/98374.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98692,
+    "metadata": {
+      "title": "Melhor Me Bloquear",
+      "artists": [
+        "Felipe e Rodrigo"
+      ],
+      "album": "Questão De Tempo (Ao Vivo)",
+      "releaseDate": "2024-10-11T12:00:00Z",
+      "durationMs": 191623,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BKMKR2400014",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/4f/47/144f4779-13d6-df8f-ed97-fc11a43dd4fe/00602475348641_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/ced0575b-c723-4566-b46e-9546b4506570",
+        "itunes": "https://music.apple.com/us/album/melhor-me-bloquear-ao-vivo/1869032377?i=1869032384&uo=4",
+        "deezer": "https://www.deezer.com/track/3862324981"
+      }
+    },
+    "lyricPath": "/lyrics/98692.txt"
+  }
+]

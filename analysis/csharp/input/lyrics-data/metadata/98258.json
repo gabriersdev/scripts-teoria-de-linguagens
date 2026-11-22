@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98258,
+    "metadata": {
+      "title": "Ilusão",
+      "artists": [
+        "Filipe Ret",
+        "Dallass"
+      ],
+      "album": "Ilusão",
+      "releaseDate": "2019-11-08",
+      "durationMs": 217731,
+      "genres": [
+        "Rap"
+      ],
+      "isrc": "BRRGE1910812",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e9/f0/99/e9f0996d-f029-8344-529f-98ccdba60ed4/7891430439071.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e40f3a54-78a2-4b3c-a920-0c40fd2f2773",
+        "itunes": "https://music.apple.com/us/album/ilus%C3%A3o/1485254874?i=1485254880&uo=4",
+        "deezer": "https://www.deezer.com/track/786750112"
+      }
+    },
+    "lyricPath": "/lyrics/98258.txt"
+  }
+]

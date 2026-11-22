@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98971,
+    "metadata": {
+      "title": "Ouro Branco",
+      "artists": [
+        "NGC Daddy",
+        "BlakkClout"
+      ],
+      "album": "Ouro Branco",
+      "releaseDate": "2019-11-15",
+      "durationMs": 137000,
+      "genres": [],
+      "isrc": "QZHZ51902896",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/1ef7d9b846aa03755fd2d4ab1f803e50/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/803351802"
+      }
+    },
+    "lyricPath": "/lyrics/98971.txt"
+  }
+]

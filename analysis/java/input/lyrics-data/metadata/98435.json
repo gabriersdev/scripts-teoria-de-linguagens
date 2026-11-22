@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98435,
+    "metadata": {
+      "title": "Fullgás",
+      "artists": [
+        "Marina Lima"
+      ],
+      "album": "Cobras & Lagartos: Nacional",
+      "releaseDate": "2006",
+      "durationMs": 246000,
+      "genres": [
+        "Pop"
+      ],
+      "isrc": "BRMCA0500254",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ee/d7/df/eed7df06-b6b9-0af3-e080-5d013ec2fbcd/00042283055025.rgb.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/5f0b5048-d942-4561-9e6b-24bfc029d792",
+        "itunes": "https://music.apple.com/us/album/fullg%C3%A1s/1443510098?i=1443510868&uo=4",
+        "deezer": "https://www.deezer.com/track/17345540"
+      }
+    },
+    "lyricPath": "/lyrics/98435.txt"
+  }
+]

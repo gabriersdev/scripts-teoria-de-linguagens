@@ -1,0 +1,395 @@
+import java.io.IOException;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.LinkedHashSet;
+import java.util.List;
+import java.util.Locale;
+import java.util.Map;
+import java.util.Set;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+import java.util.stream.Stream;
+
+/**
+ * Identifies and masks swear words in lyric files using dynamically compiled
+ * Unicode-aware, case-insensitive regular expressions loaded from {@code lib/swear-words.json}.
+ */
+public final class SwearWordMasker {
+
+    private static final char MASK_CHAR = '*';
+    private static final String CENSORED_SECOND_LETTER_PATTERN = "[*#]+";
+    private static final String WORD_BOUNDARY_START = "(?<![\\p{L}\\p{N}_])";
+    private static final String WORD_BOUNDARY_END = "(?![\\p{L}\\p{N}_])";
+    private static final String GENDER_PLACEHOLDER = "[x]";
+    private static final Pattern JSON_STRING_PATTERN = Pattern.compile("\"((?:[^\"\\\\]|\\\\.)*)\"");
+
+    private static final Map<String, String> ACCENT_EQUIVALENTS = Map.ofEntries(
+        Map.entry("á", "[aá]"),
+        Map.entry("à", "[aà]"),
+        Map.entry("â", "[aâ]"),
+        Map.entry("ã", "[aã]"),
+        Map.entry("ä", "[aä]"),
+        Map.entry("é", "[eé]"),
+        Map.entry("è", "[eè]"),
+        Map.entry("ê", "[eê]"),
+        Map.entry("ë", "[eë]"),
+        Map.entry("í", "[ií]"),
+        Map.entry("ì", "[iì]"),
+        Map.entry("î", "[iî]"),
+        Map.entry("ï", "[iï]"),
+        Map.entry("ó", "[oó]"),
+        Map.entry("ò", "[oò]"),
+        Map.entry("ô", "[oô]"),
+        Map.entry("õ", "[oõ]"),
+        Map.entry("ö", "[oö]"),
+        Map.entry("ú", "[uú]"),
+        Map.entry("ù", "[uù]"),
+        Map.entry("û", "[uû]"),
+        Map.entry("ü", "[uü]"),
+        Map.entry("ç", "[cç]")
+    );
+
+    /**
+     * Immutable result of masking a single lyric text.
+     */
+    public record MaskResult(String maskedText, int matchCount) {
+    }
+
+    /**
+     * Immutable summary of an execution run.
+     */
+    public record ExecutionSummary(
+        String language,
+        int swearWordsLoaded,
+        int filesProcessed,
+        int filesWithMatches,
+        int totalMatches,
+        double elapsedMs,
+        String outputDir
+    ) {
+    }
+
+    private SwearWordMasker() {
+    }
+
+    /**
+     * Entry point for running swear word detection and masking over {@code input/lyrics-data/lyrics}.
+     *
+     * @param args optional CLI arguments (unused)
+     */
+    public static void main(String[] args) {
+        try {
+            runMasking();
+        } catch (IOException | IllegalStateException exception) {
+            System.err.println("[Java] Execution failed: " + exception.getMessage());
+            System.exit(1);
+        }
+    }
+
+    /**
+     * Executes the full load, compile, mask, and persist pipeline.
+     *
+     * @throws IOException if reading inputs or writing outputs fails
+     */
+    public static void runMasking() throws IOException {
+        long startNanos = System.nanoTime();
+
+        Path baseDir = resolveBaseDir();
+        Path swearWordsPath = baseDir.resolve("../../lib/swear-words.json").normalize();
+        Path inputDir = baseDir.resolve("input/lyrics-data/lyrics").normalize();
+        Path outputDir = baseDir.resolve("output/lyrics").normalize();
+        Path summaryPath = baseDir.resolve("output/summary.json").normalize();
+
+        List<String> swearWords = loadSwearWords(swearWordsPath);
+        Pattern swearPattern = buildSwearWordsPattern(swearWords);
+
+        Files.createDirectories(outputDir);
+
+        List<Path> lyricFiles = listLyricFiles(inputDir);
+        int filesWithMatches = 0;
+        int totalMatches = 0;
+
+        for (Path inputFile : lyricFiles) {
+            String content = Files.readString(inputFile, StandardCharsets.UTF_8);
+            MaskResult result = maskText(content, swearPattern);
+
+            if (result.matchCount() > 0) {
+                filesWithMatches++;
+                totalMatches += result.matchCount();
+            }
+
+            Path outputFile = outputDir.resolve(inputFile.getFileName());
+            Files.writeString(outputFile, result.maskedText(), StandardCharsets.UTF_8);
+        }
+
+        double elapsedMs = Math.round(((System.nanoTime() - startNanos) / 1_000_000.0) * 100.0) / 100.0;
+        ExecutionSummary summary = new ExecutionSummary(
+            "Java",
+            swearWords.size(),
+            lyricFiles.size(),
+            filesWithMatches,
+            totalMatches,
+            elapsedMs,
+            outputDir.toAbsolutePath().toString()
+        );
+
+        writeSummary(summary, summaryPath);
+
+        System.out.println("[Java] Swear word masking completed.");
+        System.out.println("  Swear words loaded : " + summary.swearWordsLoaded());
+        System.out.println("  Files processed    : " + summary.filesProcessed());
+        System.out.println("  Files with matches : " + summary.filesWithMatches());
+        System.out.println("  Total matches      : " + summary.totalMatches());
+        System.out.printf(Locale.US, "  Elapsed time (ms)  : %.2f%n", summary.elapsedMs());
+        System.out.println("  Output directory   : " + summary.outputDir());
+    }
+
+    /**
+     * Builds the dynamic regex fragment for a single swear word.
+     *
+     * @param rawWord swear word entry from the catalog
+     * @return regex pattern string, or {@code null} if blank
+     */
+    public static String buildWordPattern(String rawWord) {
+        List<String> tokens = tokenizeSwearWord(rawWord);
+        if (tokens.isEmpty()) {
+            return null;
+        }
+
+        StringBuilder builder = new StringBuilder();
+        for (int index = 0; index < tokens.size(); index++) {
+            String token = tokens.get(index);
+            String basePattern = buildTokenPattern(token);
+
+            if (index == 1 && !"-".equals(token)) {
+                builder.append("(?:").append(basePattern).append('|').append(CENSORED_SECOND_LETTER_PATTERN).append(')');
+            } else {
+                builder.append(basePattern);
+            }
+        }
+
+        String lastToken = tokens.get(tokens.size() - 1);
+        if (!"s".equals(lastToken)) {
+            builder.append("s*");
+        }
+
+        return builder.toString();
+    }
+
+    /**
+     * Compiles a single Unicode-aware, case-insensitive pattern for all swear words.
+     *
+     * @param words catalog of swear words
+     * @return compiled {@link Pattern}
+     */
+    public static Pattern buildSwearWordsPattern(List<String> words) {
+        List<String> sortedWords = new ArrayList<>();
+        for (String word : words) {
+            if (word != null && !word.trim().isEmpty()) {
+                sortedWords.add(word.trim());
+            }
+        }
+
+        sortedWords.sort(
+            Comparator.comparingInt((String word) -> tokenizeSwearWord(word).size())
+                .reversed()
+                .thenComparing(Comparator.naturalOrder())
+        );
+
+        Set<String> uniquePatterns = new LinkedHashSet<>();
+        for (String word : sortedWords) {
+            String pattern = buildWordPattern(word);
+            if (pattern != null) {
+                uniquePatterns.add(pattern);
+            }
+        }
+
+        if (uniquePatterns.isEmpty()) {
+            throw new IllegalStateException("No valid swear word patterns were generated.");
+        }
+
+        String combined = WORD_BOUNDARY_START + "(?:" + String.join("|", uniquePatterns) + ")" + WORD_BOUNDARY_END;
+        return Pattern.compile(combined, Pattern.CASE_INSENSITIVE | Pattern.UNICODE_CASE | Pattern.UNICODE_CHARACTER_CLASS);
+    }
+
+    /**
+     * Masks a matched swear word keeping the first code point and replacing the rest with {@code *}.
+     *
+     * @param term matched text
+     * @return masked text
+     */
+    public static String maskMatchedTerm(String term) {
+        int[] codePoints = term.codePoints().toArray();
+        if (codePoints.length <= 1) {
+            return term;
+        }
+
+        StringBuilder builder = new StringBuilder(codePoints.length);
+        builder.appendCodePoint(codePoints[0]);
+        for (int index = 1; index < codePoints.length; index++) {
+            builder.append(MASK_CHAR);
+        }
+        return builder.toString();
+    }
+
+    /**
+     * Finds and masks all occurrences of the compiled swear pattern in {@code text}.
+     *
+     * @param text    input lyric content
+     * @param pattern compiled swear words pattern
+     * @return {@link MaskResult} containing masked text and match count
+     */
+    public static MaskResult maskText(String text, Pattern pattern) {
+        Matcher matcher = pattern.matcher(text);
+        StringBuilder output = new StringBuilder(text.length());
+        int matchCount = 0;
+
+        while (matcher.find()) {
+            matchCount++;
+            String replacement = maskMatchedTerm(matcher.group());
+            matcher.appendReplacement(output, Matcher.quoteReplacement(replacement));
+        }
+        matcher.appendTail(output);
+
+        return new MaskResult(output.toString(), matchCount);
+    }
+
+    private static List<String> tokenizeSwearWord(String rawWord) {
+        if (rawWord == null) {
+            return List.of();
+        }
+
+        String normalized = rawWord.trim().toLowerCase(Locale.ROOT);
+        if (normalized.isEmpty()) {
+            return List.of();
+        }
+
+        int[] codePoints = normalized.codePoints().toArray();
+        List<String> tokens = new ArrayList<>(codePoints.length);
+        int index = 0;
+
+        while (index < codePoints.length) {
+            if (index + 2 < codePoints.length
+                && codePoints[index] == '['
+                && codePoints[index + 1] == 'x'
+                && codePoints[index + 2] == ']') {
+                tokens.add(GENDER_PLACEHOLDER);
+                index += 3;
+                continue;
+            }
+
+            tokens.add(new String(Character.toChars(codePoints[index])));
+            index++;
+        }
+
+        return tokens;
+    }
+
+    private static String buildTokenPattern(String token) {
+        if (GENDER_PLACEHOLDER.equals(token)) {
+            return "[ao]+";
+        }
+
+        if ("-".equals(token)) {
+            return "-";
+        }
+
+        String accentClass = ACCENT_EQUIVALENTS.get(token);
+        if (accentClass != null) {
+            return accentClass + "+";
+        }
+
+        return escapeRegexChar(token) + "+";
+    }
+
+    private static String escapeRegexChar(String value) {
+        return Pattern.quote(value);
+    }
+
+    private static List<String> loadSwearWords(Path filePath) throws IOException {
+        if (!Files.isRegularFile(filePath)) {
+            throw new IOException("Swear words file not found: " + filePath.toAbsolutePath());
+        }
+
+        String content = Files.readString(filePath, StandardCharsets.UTF_8);
+        int openBracket = content.indexOf('[');
+        int closeBracket = content.lastIndexOf(']');
+        if (openBracket < 0 || closeBracket <= openBracket) {
+            throw new IllegalStateException("Invalid swear-words JSON structure in " + filePath);
+        }
+
+        String arraySection = content.substring(openBracket + 1, closeBracket);
+        Matcher matcher = JSON_STRING_PATTERN.matcher(arraySection);
+        List<String> words = new ArrayList<>();
+
+        while (matcher.find()) {
+            String unescaped = matcher.group(1)
+                .replace("\\\"", "\"")
+                .replace("\\\\", "\\");
+            words.add(unescaped);
+        }
+
+        return words;
+    }
+
+    private static List<Path> listLyricFiles(Path inputDir) throws IOException {
+        if (!Files.isDirectory(inputDir)) {
+            throw new IOException("Input lyrics directory not found: " + inputDir.toAbsolutePath());
+        }
+
+        try (Stream<Path> stream = Files.list(inputDir)) {
+            return stream
+                .filter(Files::isRegularFile)
+                .filter(path -> path.getFileName().toString().endsWith(".txt"))
+                .sorted(Comparator.comparing(path -> path.getFileName().toString()))
+                .toList();
+        }
+    }
+
+    private static Path resolveBaseDir() {
+        Path directInput = Path.of("input/lyrics-data/lyrics");
+        if (Files.isDirectory(directInput)) {
+            return Path.of("").toAbsolutePath();
+        }
+
+        Path nestedInput = Path.of("analysis/java/input/lyrics-data/lyrics");
+        if (Files.isDirectory(nestedInput)) {
+            return Path.of("analysis/java").toAbsolutePath();
+        }
+
+        return Path.of("").toAbsolutePath();
+    }
+
+    private static void writeSummary(ExecutionSummary summary, Path summaryPath) throws IOException {
+        String json = String.format(
+            Locale.US,
+            """
+            {
+              "language": "%s",
+              "swearWordsLoaded": %d,
+              "filesProcessed": %d,
+              "filesWithMatches": %d,
+              "totalMatches": %d,
+              "elapsedMs": %.2f,
+              "outputDir": "%s"
+            }
+            """,
+            escapeJson(summary.language()),
+            summary.swearWordsLoaded(),
+            summary.filesProcessed(),
+            summary.filesWithMatches(),
+            summary.totalMatches(),
+            summary.elapsedMs(),
+            escapeJson(summary.outputDir())
+        );
+
+        Files.writeString(summaryPath, json, StandardCharsets.UTF_8);
+    }
+
+    private static String escapeJson(String value) {
+        return value.replace("\\", "\\\\").replace("\"", "\\\"");
+    }
+}

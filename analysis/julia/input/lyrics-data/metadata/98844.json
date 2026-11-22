@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98844,
+    "metadata": {
+      "title": "Ruas Perigosas",
+      "artists": [
+        "Yung Nobre",
+        "Flacko"
+      ],
+      "album": "Ruas Perigosas",
+      "releaseDate": "2022-04-29",
+      "durationMs": 195000,
+      "genres": [],
+      "isrc": "BXZYA2200005",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/fae4843203b6903e9f9d132bff25d9ea/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1729127827"
+      }
+    },
+    "lyricPath": "/lyrics/98844.txt"
+  }
+]

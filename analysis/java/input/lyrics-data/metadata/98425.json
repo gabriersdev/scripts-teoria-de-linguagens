@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98425,
+    "metadata": {
+      "title": "Envelheço na cidade",
+      "artists": [
+        "Ira!"
+      ],
+      "album": "Warner 25 Anos: Ira!",
+      "releaseDate": "2012-02-29",
+      "durationMs": 194453,
+      "genres": [],
+      "isrc": "BRWMB9701830",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/242462a7fa8cc74818373a4bd4eb8132/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/d4f20dc9-39eb-4399-be57-6fd6c99bdedf",
+        "deezer": "https://www.deezer.com/track/17135946"
+      }
+    },
+    "lyricPath": "/lyrics/98425.txt"
+  }
+]

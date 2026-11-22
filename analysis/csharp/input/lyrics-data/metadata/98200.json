@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98200,
+    "metadata": {
+      "title": "Bagulho Louco",
+      "artists": [
+        "Mc Paiva ZS",
+        "Kotim"
+      ],
+      "album": "Bagulho Louco",
+      "releaseDate": "2022-01-25",
+      "durationMs": 124000,
+      "genres": [],
+      "isrc": "BXKG22200041",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d24f318484fdb4b6c3ec0740dcec9cea/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1628554172"
+      }
+    },
+    "lyricPath": "/lyrics/98200.txt"
+  }
+]

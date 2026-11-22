@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98366,
+    "metadata": {
+      "title": "Como Deus É Bom",
+      "artists": [
+        "Kawe",
+        "NOG",
+        "André Nine"
+      ],
+      "album": "7 Dígitos",
+      "releaseDate": "2021-07-07",
+      "durationMs": 167000,
+      "genres": [],
+      "isrc": "BCENK2100050",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/665efa133907adb300e0247ffde606d4/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/1420110872"
+      }
+    },
+    "lyricPath": "/lyrics/98366.txt"
+  }
+]

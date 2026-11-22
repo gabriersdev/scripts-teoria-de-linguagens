@@ -1,0 +1,26 @@
+[
+  {
+    "id": 98680,
+    "metadata": {
+      "title": "Agora / Um Sonho Louco / Não Posso Ter Medo de Amar",
+      "artists": [
+        "Panda",
+        "Ícaro e Gilmar & Fred & Fabrício"
+      ],
+      "album": "Panda Sem Moderação (Ao Vivo)",
+      "releaseDate": "2024-12-19",
+      "durationMs": 382615,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "QZTPX2471665",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/19/fc/a119fc8b-3dd4-9673-efb8-e3367da967a1/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/b3522259-7947-4715-b091-dba881b95177",
+        "itunes": "https://music.apple.com/us/album/agora-um-sonho-louco-n%C3%A3o-posso-ter-medo-de-amar/1766813899?i=1766813900&uo=4",
+        "deezer": "https://www.deezer.com/track/2981523121"
+      }
+    },
+    "lyricPath": "/lyrics/98680.txt"
+  }
+]

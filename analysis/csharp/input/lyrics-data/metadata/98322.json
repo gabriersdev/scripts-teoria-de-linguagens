@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98322,
+    "metadata": {
+      "title": "Vida Loka, Pt. 1",
+      "artists": [
+        "Racionais MC's"
+      ],
+      "album": "Racionais Mc's",
+      "releaseDate": "2013-10-07",
+      "durationMs": 303560,
+      "genres": [],
+      "isrc": "US7VG1334632",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/9d4fbbdf2a8b0d19bfec592cae764b3b/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e095ceba-4770-4384-beb5-7902d968a091",
+        "deezer": "https://www.deezer.com/track/75846794"
+      }
+    },
+    "lyricPath": "/lyrics/98322.txt"
+  }
+]

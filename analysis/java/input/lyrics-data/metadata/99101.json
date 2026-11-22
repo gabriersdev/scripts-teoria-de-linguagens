@@ -1,0 +1,27 @@
+[
+  {
+    "id": 99101,
+    "metadata": {
+      "title": "PINHEIRO",
+      "artists": [
+        "RIEY",
+        "Baby T",
+        "BARBOSA",
+        "137 Records"
+      ],
+      "album": "PINHEIRO",
+      "releaseDate": "2026-06-12",
+      "durationMs": 132000,
+      "genres": [
+        "Trap",
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "deezer": "https://www.deezer.com/track/4079427631"
+      }
+    },
+    "lyricPath": "/lyrics/99101.txt"
+  }
+]

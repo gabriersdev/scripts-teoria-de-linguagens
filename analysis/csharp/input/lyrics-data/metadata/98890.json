@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98890,
+    "metadata": {
+      "title": "Contas",
+      "artists": [
+        "Sidoka"
+      ],
+      "album": "Doka Language",
+      "releaseDate": "2019-07-07",
+      "durationMs": 185000,
+      "genres": [],
+      "isrc": "QZFZ31924492",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/6638635fb2b11e898f797b935b9fa447/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/bd5638af-8dfa-4937-91d1-6f7c5a81d141",
+        "deezer": "https://www.deezer.com/track/1844112967"
+      }
+    },
+    "lyricPath": "/lyrics/98890.txt"
+  }
+]

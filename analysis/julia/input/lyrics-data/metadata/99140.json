@@ -1,0 +1,23 @@
+[
+  {
+    "id": 99140,
+    "metadata": {
+      "title": "Igual Corolla",
+      "artists": [
+        "Duzz",
+        "Killua",
+        "Ecologyk"
+      ],
+      "album": "offduzz, vol. 2",
+      "releaseDate": "2023-12-21",
+      "durationMs": 118000,
+      "genres": [],
+      "isrc": "QZW9M2319605",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3159cc3ed77943e651149c756c8f2130/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2589999482"
+      }
+    },
+    "lyricPath": "/lyrics/99140.txt"
+  }
+]

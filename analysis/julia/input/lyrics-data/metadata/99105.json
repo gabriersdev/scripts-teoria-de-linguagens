@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99105,
+    "metadata": {
+      "title": "Não Me Sinto Mal Mais",
+      "artists": [
+        "Sidoka"
+      ],
+      "album": "Não Me Sinto Mal Mais",
+      "releaseDate": "2019-10-18",
+      "durationMs": 265000,
+      "genres": [],
+      "isrc": "QZHN81985352",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/2c6b033b310bbf28edbbf2983f189606/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/38fc986a-18de-4dbe-8448-16d99f654f26",
+        "deezer": "https://www.deezer.com/track/1851531777"
+      }
+    },
+    "lyricPath": "/lyrics/99105.txt"
+  }
+]

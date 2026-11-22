@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98021,
+    "metadata": {
+      "title": "2026",
+      "artists": [
+        "Jhow",
+        "Leejack",
+        "GP DA ZL",
+        "Dj Alexia"
+      ],
+      "album": "2026",
+      "releaseDate": "2025-11-20",
+      "durationMs": 124000,
+      "genres": [],
+      "isrc": "BKNU22500492",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0d7d77a0dcf46ede4d97d87dc56eba65/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3640259902"
+      }
+    },
+    "lyricPath": "/lyrics/98021.txt"
+  }
+]

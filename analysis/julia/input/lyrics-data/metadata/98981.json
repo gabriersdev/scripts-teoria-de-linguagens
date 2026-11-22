@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98981,
+    "metadata": {
+      "title": "Amiri",
+      "artists": [
+        "Yunk Vino",
+        "Veigh"
+      ],
+      "album": "MR.",
+      "releaseDate": "2026-03-26",
+      "durationMs": 167000,
+      "genres": [],
+      "isrc": "BK89A2600008",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/79e2622ecea8a45f55368f533950af42/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3909787211"
+      }
+    },
+    "lyricPath": "/lyrics/98981.txt"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98966,
+    "metadata": {
+      "title": "FÉRIAS",
+      "artists": [
+        "Ryu, the Runner",
+        "6ee"
+      ],
+      "album": "ADULTO IDEAL VOL.2",
+      "releaseDate": "2026-04-23",
+      "durationMs": 166000,
+      "genres": [],
+      "isrc": "BRRGE2600526",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/75f957fc7c42730db1ed2b6486986ded/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3957770781"
+      }
+    },
+    "lyricPath": "/lyrics/98966.txt"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 99104,
+    "metadata": {
+      "title": "Doutora 3",
+      "artists": [
+        "Mc Kevin",
+        "Perera DJ"
+      ],
+      "album": "Funk é Nóis GR6 3.1, Vol. 1",
+      "releaseDate": "2021-03-31T12:00:00Z",
+      "durationMs": 157088,
+      "genres": [
+        "Baile Funk"
+      ],
+      "isrc": "BXGR62100280",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/91/8e/c8/918ec8f1-d0a4-0851-aea3-c19df53528f7/192641704208_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/doutora-3/1560794405?i=1560794771&uo=4",
+        "deezer": "https://www.deezer.com/track/1297207922"
+      }
+    },
+    "lyricPath": "/lyrics/99104.txt"
+  }
+]

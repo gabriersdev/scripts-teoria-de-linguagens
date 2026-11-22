@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98718,
+    "metadata": {
+      "title": "Anti-Amor - Ao Vivo",
+      "artists": [
+        "Gustavo Mioto",
+        "Jorge & Mateus"
+      ],
+      "album": "Anti-Amor (feat. Jorge & Mateus) [Ao Vivo] - Single",
+      "releaseDate": "2017-11-17T12:00:00Z",
+      "durationMs": 165360,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BXGU21700003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/10/86/59/1086595b-66ed-9d56-30cf-9cd5e73af68c/0.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/anti-amor-feat-jorge-mateus-ao-vivo/1312954113?i=1312954808&uo=4",
+        "deezer": "https://www.deezer.com/track/428540342"
+      }
+    },
+    "lyricPath": "/lyrics/98718.txt"
+  }
+]

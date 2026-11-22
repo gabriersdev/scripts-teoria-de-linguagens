@@ -1,0 +1,22 @@
+[
+  {
+    "id": 98069,
+    "metadata": {
+      "title": "Toma Gostosona",
+      "artists": [
+        "Mc Lele JP",
+        "DJ Guh Mix"
+      ],
+      "album": "Toma Gostosona",
+      "releaseDate": "2025-04-28",
+      "durationMs": 156000,
+      "genres": [],
+      "isrc": "BC3PG2501522",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/2437937cb88192e280ce485c35091c20/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3340700091"
+      }
+    },
+    "lyricPath": "/lyrics/98069.txt"
+  }
+]

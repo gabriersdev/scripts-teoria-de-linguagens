@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99100,
+    "metadata": {
+      "title": "Cada Momento",
+      "artists": [
+        "RIEY"
+      ],
+      "album": "Cada Momento",
+      "releaseDate": "2024-07-07",
+      "durationMs": 168000,
+      "genres": [],
+      "isrc": "QZPLR2476871",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/580e8a8a44cb8bc469c059f150af6d5f/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3966652331"
+      }
+    },
+    "lyricPath": "/lyrics/99100.txt"
+  }
+]

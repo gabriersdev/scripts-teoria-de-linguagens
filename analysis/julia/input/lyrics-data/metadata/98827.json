@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98827,
+    "metadata": {
+      "title": "MOVIBE",
+      "artists": [
+        "Alee",
+        "NADAMAL",
+        "saboya",
+        "Dexter"
+      ],
+      "album": "DIAS ANTES DO CAOS",
+      "releaseDate": "2024-02-29",
+      "durationMs": 145000,
+      "genres": [],
+      "isrc": "BKNDN2400017",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d630545501528d92d0431a405f0f30f2/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2675770122"
+      }
+    },
+    "lyricPath": "/lyrics/98827.txt"
+  }
+]

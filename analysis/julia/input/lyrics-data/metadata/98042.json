@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98042,
+    "metadata": {
+      "title": "BEBIDA DROGA E SEXO",
+      "artists": [
+        "Mc Neguinho do Morro",
+        "MC Donzela",
+        "DJ NDM",
+        "MITOS ENTRETENIMENTO"
+      ],
+      "album": "BEBIDA DROGA E SEXO",
+      "releaseDate": "2025-05-05",
+      "durationMs": 162000,
+      "genres": [],
+      "isrc": "AEA3A2532313",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/dd11f30010d8f6b54a60231ae059d336/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3333540051"
+      }
+    },
+    "lyricPath": "/lyrics/98042.txt"
+  }
+]

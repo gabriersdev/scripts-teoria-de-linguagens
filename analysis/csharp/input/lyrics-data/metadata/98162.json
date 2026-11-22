@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98162,
+    "metadata": {
+      "title": "Os Mlk É Liso",
+      "artists": [
+        "MC Rodolfinho"
+      ],
+      "album": "Os mlk é liso (ACX Edit)",
+      "releaseDate": "2015-03-09",
+      "durationMs": 192000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0ff3079b-75d8-491b-add4-cb4196e67f73"
+      }
+    },
+    "lyricPath": "/lyrics/98162.txt"
+  }
+]

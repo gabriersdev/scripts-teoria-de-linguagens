@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98305,
+    "metadata": {
+      "title": "Respeito É pra Quem Tem",
+      "artists": [
+        "Sabotage"
+      ],
+      "album": "Rap É Compromisso",
+      "releaseDate": "2001",
+      "durationMs": 327000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1455262",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/ea/09/bbea09b3-1cae-5bd6-39c1-13046493ceca/702730616994_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/3e44786b-b1c5-4cb6-8847-9320ff829ee1",
+        "itunes": "https://music.apple.com/us/album/respeito-%C3%A9-pra-quem-tem/1510761195?i=1510761212&uo=4",
+        "deezer": "https://www.deezer.com/track/945986102"
+      }
+    },
+    "lyricPath": "/lyrics/98305.txt"
+  }
+]

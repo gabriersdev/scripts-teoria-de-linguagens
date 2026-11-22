@@ -25,7 +25,8 @@ import {
   sanitizeTitle,
   matchArtist,
   isTitleSimilar,
-  isPortugueseLyrics
+  isPortugueseLyrics,
+  sanitizeLyrics
 } from './text-sanitizer.js';
 
 export interface LyricsResult {
@@ -112,7 +113,7 @@ export class LyricsService {
           if (diffMs > 15000) continue;
         }
         
-        const rawText = item.plainLyrics ?? item.syncedLyrics!.replace(/^\[\d{2}:\d{2}(?:\.\d{2,3})?\]\s*/gm, "");
+        const rawText = sanitizeLyrics(item.plainLyrics ?? item.syncedLyrics!);
         const cleanLyrics = rawText.trim();
         if (!cleanLyrics || !isPortugueseLyrics(cleanLyrics)) {
           continue;

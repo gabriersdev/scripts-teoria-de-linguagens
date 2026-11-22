@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98212,
+    "metadata": {
+      "title": "Ms. Finesse",
+      "artists": [
+        "Costa Gold"
+      ],
+      "album": "Posfácio",
+      "releaseDate": "2014-11-20",
+      "durationMs": 258000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1579771",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/fc/b87bfcc5-33fa-6f68-bc7f-ac8eb8cb1693/646809667718.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/adced678-61d2-49aa-83be-719c497e59cf",
+        "itunes": "https://music.apple.com/us/album/ms-finesse/1832639302?i=1832639308&uo=4",
+        "deezer": "https://www.deezer.com/track/3491740121"
+      }
+    },
+    "lyricPath": "/lyrics/98212.txt"
+  }
+]

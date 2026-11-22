@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98647,
+    "metadata": {
+      "title": "Novo Eu",
+      "artists": [
+        "Henrique & Juliano"
+      ],
+      "album": "Manifesto Musical 2 (Ao Vivo)",
+      "releaseDate": "2025-06-27T12:00:00Z",
+      "durationMs": 186648,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BCVDD2500003",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/0f/fd/680ffdcb-d476-a130-f096-ef7372582a50/00602478597497_Cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/novo-eu-ao-vivo/1881634308?i=1881635431&uo=4",
+        "deezer": "https://www.deezer.com/track/3876592331"
+      }
+    },
+    "lyricPath": "/lyrics/98647.txt"
+  }
+]

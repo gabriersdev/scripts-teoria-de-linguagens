@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98758,
+    "metadata": {
+      "title": "Mudou O Texto",
+      "artists": [
+        "Danilo e Davi"
+      ],
+      "album": "Iniciando Os Trabalhos - Vol. 1 - Single",
+      "releaseDate": "2018-01-01T12:00:00Z",
+      "durationMs": 163456,
+      "genres": [
+        "Sertanejo"
+      ],
+      "isrc": "BC9T42500004",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/f8/5e/23f85ead-892b-0cb2-1ad5-c3ab9c262cba/196873271682.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/mudou-o-texto/1818653443?i=1818653447&uo=4",
+        "deezer": "https://www.deezer.com/track/3399862621"
+      }
+    },
+    "lyricPath": "/lyrics/98758.txt"
+  }
+]

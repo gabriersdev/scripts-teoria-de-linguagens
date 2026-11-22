@@ -1,0 +1,23 @@
+[
+  {
+    "id": 98847,
+    "metadata": {
+      "title": "MEU MUNDO",
+      "artists": [
+        "Alee",
+        "NADAMAL",
+        "peppnx"
+      ],
+      "album": "DIAS ANTES DO CAOS",
+      "releaseDate": "2024-02-29",
+      "durationMs": 174000,
+      "genres": [],
+      "isrc": "BKNDN2400019",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/d630545501528d92d0431a405f0f30f2/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2675770142"
+      }
+    },
+    "lyricPath": "/lyrics/98847.txt"
+  }
+]

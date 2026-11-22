@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98149,
+    "metadata": {
+      "title": "Xia Pia Brota",
+      "artists": [
+        "MC Rick"
+      ],
+      "album": "Xia Pia Brota",
+      "releaseDate": "2019-05-10",
+      "durationMs": 180000,
+      "genres": [],
+      "isrc": "QZGLS1971680",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/0452c1bb20c4cf9e728b3beeac9bb34a/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/679013342"
+      }
+    },
+    "lyricPath": "/lyrics/98149.txt"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 98065,
+    "metadata": {
+      "title": "Gauchinha",
+      "artists": [
+        "DJ Japa NK",
+        "MC Meno K",
+        "MC Ryan SP",
+        "Mc Brinquedo",
+        "MC LUUKY"
+      ],
+      "album": "Gauchinha (Delicinha) [feat. DJ Japa NK] - Single",
+      "releaseDate": "2026-04-02T12:00:00Z",
+      "durationMs": 162567,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/74/0b/12740bb1-3659-d997-48e9-1a283410f9db/5026854950600.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/gauchinha-delicinha-feat-dj-japa-nk/1887365223?i=1887365224&uo=4"
+      }
+    },
+    "lyricPath": "/lyrics/98065.txt"
+  }
+]

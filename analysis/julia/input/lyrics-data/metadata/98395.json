@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98395,
+    "metadata": {
+      "title": "Gatinha",
+      "artists": [
+        "Marcynho Sensação"
+      ],
+      "album": "Junho 2K21",
+      "releaseDate": "2021-06-20T12:00:00Z",
+      "durationMs": 192601,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "QZEQU2128717",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b8/71/c0/b871c042-34f5-8104-7589-c5acaa5d86c8/677937513547_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/gatinha/1636357190?i=1636357645&uo=4",
+        "deezer": "https://www.deezer.com/track/1777672517"
+      }
+    },
+    "lyricPath": "/lyrics/98395.txt"
+  }
+]

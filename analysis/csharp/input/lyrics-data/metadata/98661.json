@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98661,
+    "metadata": {
+      "title": "É Que Eu Não Te Esqueci",
+      "artists": [
+        "Ana Castela"
+      ],
+      "album": "Fire Arena",
+      "releaseDate": "2026-05-28",
+      "durationMs": 163723,
+      "genres": [
+        "Latin"
+      ],
+      "isrc": "BKBM62600025",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/09/67/02096771-6e9d-6ae3-1284-8994ddb03a9f/7901055901157.jpg/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/87b7e18e-f172-40a1-90b9-14edefde61b1",
+        "itunes": "https://music.apple.com/us/album/%C3%A9-que-eu-n%C3%A3o-te-esqueci/6769797332?i=6769797333&uo=4",
+        "deezer": "https://www.deezer.com/track/4020319821"
+      }
+    },
+    "lyricPath": "/lyrics/98661.txt"
+  }
+]

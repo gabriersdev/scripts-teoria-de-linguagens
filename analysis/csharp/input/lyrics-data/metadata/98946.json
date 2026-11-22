@@ -1,0 +1,24 @@
+[
+  {
+    "id": 98946,
+    "metadata": {
+      "title": "Segredo",
+      "artists": [
+        "Ark King"
+      ],
+      "album": "Ark Tape #1 - EP",
+      "releaseDate": "2022-10-25T12:00:00Z",
+      "durationMs": 85004,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "QZW9L2209360",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/88/10/5e/88105e63-94ed-8d6d-538d-d88a0ec5369b/761862566706_cover.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/segredo/1657505852?i=1657505858&uo=4",
+        "deezer": "https://www.deezer.com/track/2046582177"
+      }
+    },
+    "lyricPath": "/lyrics/98946.txt"
+  }
+]

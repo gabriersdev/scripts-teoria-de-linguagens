@@ -7,30 +7,11 @@
  * de extrair linhas contextuais e calcular taxas de difusao e frequencia.
  */
 
-import * as fs from 'fs/promises';
-import * as path from 'path';
 import {fileURLToPath} from 'url';
+import {LyricsCorpus, TrackInfo} from '../lib/lyrics-corpus.js';
+import {buildElasticWordPattern} from './text-sanitizer.js';
 
-interface LyricItem {
-  id: number | string;
-  name: string;
-  artists?: string;
-  complete?: boolean | number;
-}
-
-interface LyricsListFile {
-  complete: boolean;
-  id: string;
-  source: string[];
-  lyrics: LyricItem[];
-}
-
-export interface TrackInfo {
-  id: number | string;
-  name: string;
-  artists: string;
-  genre: string;
-}
+export type {TrackInfo};
 
 export interface LineMatch {
   lineNumber: number;
@@ -67,63 +48,36 @@ export interface SearchOptions {
   genreFilter?: string;
   caseSensitive?: boolean;
   wholeWord?: boolean;
+  elastic?: boolean;
   limit?: number;
   summaryOnly?: boolean;
   outputJson?: boolean;
 }
 
 export class LyricsRegexSearch {
-  private listDir: string;
-  private lyricsDir: string;
-  
-  constructor() {
-    const baseDir = path.dirname(fileURLToPath(import.meta.url));
-    this.listDir = path.resolve(baseDir, '../lyrics-list');
-    this.lyricsDir = path.resolve(baseDir, '../lyrics-data/lyrics');
+  private readonly corpus: LyricsCorpus;
+
+  constructor(corpus = new LyricsCorpus()) {
+    this.corpus = corpus;
   }
-  
+
   public async loadTrackIndex(): Promise<Map<string, TrackInfo>> {
-    const files = (await fs.readdir(this.listDir))
-      .filter(f => f.endsWith('.json'))
-      .sort();
-    
-    const trackMap = new Map<string, TrackInfo>();
-    
-    for (const file of files) {
-      const genre = file.replace('-list.json', '').replace('.json', '');
-      const filePath = path.join(this.listDir, file);
-      const raw = await fs.readFile(filePath, 'utf-8');
-      const data: LyricsListFile[] = JSON.parse(raw);
-      
-      for (const group of data) {
-        if (!group.lyrics || !Array.isArray(group.lyrics)) continue;
-        
-        for (const item of group.lyrics) {
-          if (item.id !== undefined && item.id !== null) {
-            trackMap.set(String(item.id), {
-              id: item.id,
-              name: item.name || `Faixa #${item.id}`,
-              artists: item.artists || 'Sem Artista',
-              genre
-            });
-          }
-        }
-      }
-    }
-    
-    return trackMap;
+    return this.corpus.loadTrackIndex();
   }
   
   public parsePattern(rawInput: string, options: SearchOptions): RegExp {
     let pattern = rawInput.trim();
     let flags = options.caseSensitive ? 'g' : 'gi';
+    let isLiteralRegex = false;
     
     // Tratamento para Git Bash / MSYS no Windows:
     // O Git Bash converte argumentos iniciados com barra (ex: "/\btermo\b/") para "//btermo/b/"
     if (pattern.startsWith('//b') && pattern.endsWith('/b/')) {
       pattern = `\\b${pattern.slice(3, -3)}\\b`;
+      isLiteralRegex = true;
     } else if (pattern.startsWith('/b') && pattern.endsWith('/b/')) {
       pattern = `\\b${pattern.slice(2, -3)}\\b`;
+      isLiteralRegex = true;
     } else if (pattern.startsWith('/') && pattern.lastIndexOf('/') > 0) {
       // Suporte a sintaxe literal de expressao regular: /padrao/flags
       const lastSlashIdx = pattern.lastIndexOf('/');
@@ -135,9 +89,17 @@ export class LyricsRegexSearch {
         // Garante a presenca da flag global para contabilizacao completa
         flags = extractedFlags.includes('g') ? extractedFlags : `${extractedFlags}g`;
       }
+      isLiteralRegex = true;
     }
     
-    if (options.wholeWord) {
+    if (options.elastic && !isLiteralRegex) {
+      const words = pattern.split(/\s+/).filter(Boolean);
+      const elasticPatterns = words.map(word => buildElasticWordPattern(word));
+      const combined = elasticPatterns.length > 1
+        ? `(?:${elasticPatterns.join('|')})`
+        : elasticPatterns[0];
+      pattern = `\\b(?:${combined})\\b`;
+    } else if (options.wholeWord) {
       pattern = `\\b(?:${pattern})\\b`;
     }
     
@@ -150,55 +112,21 @@ export class LyricsRegexSearch {
   
   public async search(patternInput: string, options: SearchOptions = {}): Promise<SearchReport> {
     const regex = this.parsePattern(patternInput, options);
-    const trackIndex = await this.loadTrackIndex();
-    
-    let lyricFiles: string[] = [];
-    try {
-      lyricFiles = (await fs.readdir(this.lyricsDir))
-        .filter(f => f.endsWith('.txt'))
-        .sort();
-    } catch {
-      throw new Error(`Diretorio de letras nao encontrado em: ${this.lyricsDir}`);
-    }
-    
+
     const genreStatsMap = new Map<string, { totalWithLyrics: number; matchingTracks: number; occurrences: number }>();
     const results: TrackSearchResult[] = [];
     let totalAnalyzed = 0;
     let totalOccurrences = 0;
-    
-    const knownGenres = new Set(Array.from(trackIndex.values()).map(t => t.genre.toLowerCase()));
-    const normalizedFilter = options.genreFilter?.trim().toLowerCase();
-    const isExactGenre = normalizedFilter ? knownGenres.has(normalizedFilter) : false;
-    
-    for (const file of lyricFiles) {
-      const id = file.replace('.txt', '');
-      const track = trackIndex.get(id) || {
-        id,
-        name: `Faixa #${id}`,
-        artists: 'Desconhecido',
-        genre: 'desconhecido'
-      };
-      
-      if (normalizedFilter) {
-        const trackGenre = track.genre.toLowerCase();
-        const matches = isExactGenre
-          ? trackGenre === normalizedFilter
-          : trackGenre.includes(normalizedFilter);
-        if (!matches) {
-          continue;
-        }
-      }
-      
+
+    for await (const {track, content} of this.corpus.iterateLyrics({genreFilter: options.genreFilter})) {
       totalAnalyzed++;
-      
+
       if (!genreStatsMap.has(track.genre)) {
         genreStatsMap.set(track.genre, {totalWithLyrics: 0, matchingTracks: 0, occurrences: 0});
       }
       const genreStat = genreStatsMap.get(track.genre)!;
       genreStat.totalWithLyrics++;
-      
-      const filePath = path.join(this.lyricsDir, file);
-      const content = await fs.readFile(filePath, 'utf-8');
+
       const lines = content.split(/\r?\n/);
       
       let trackOccurrences = 0;
@@ -354,12 +282,14 @@ export class LyricsRegexSearch {
 
 function showHelp(): void {
   console.info('Uso:');
-  console.info('  npm run search:lyrics "<padrao-ou-palavra>" [genero] [all] [summary] [word]');
+  console.info('  npm run search:lyrics "<padrao-ou-palavra>" [genero] [all] [summary] [word] [elastic]');
   console.info('  npm run search:lyrics \'--\' "<padrao-ou-palavra>" [opcoes com --]');
   console.info();
   console.info('Exemplos (Sem necessidade de flags -- ou aspas especiais):');
   console.info('  npm run search:lyrics "/\\bputa\\b/" trap-extra all');
   console.info('  npm run search:lyrics "puta" trap-extra word all');
+  console.info('  npm run search:lyrics "puta" trap-extra elastic all');
+  console.info('  npm run search:lyrics "vadia" elastic summary');
   console.info('  npm run search:lyrics "amor" sertanejo');
   console.info('  npm run search:lyrics "/(?:dinheiro|grana)/i" rap all');
   console.info('  npm run search:lyrics "favela" all summary');
@@ -367,6 +297,7 @@ function showHelp(): void {
   console.info('Opcoes via flag (quando usar \'--\'):');
   console.info('  --genre=<nome>, -g    Filtra a busca por um genero especifico (funk, rock, rap, sertanejo, etc.)');
   console.info('  --word, -w            Garante correspondencia de palavra inteira (adiciona delimitadores \\b)');
+  console.info('  --elastic, -e         Expande cada letra para repeticoes infinitas (c+) e suporta "s" plural no final');
   console.info('  --case-sensitive, -c  Diferencia maiusculas de minusculas (padrao: case-insensitive)');
   console.info('  --limit=<N>, -l       Limite de faixas detalhadas a exibir (padrao: 20)');
   console.info('  --all, -a             Exibe todas as faixas sem limite');
@@ -398,6 +329,8 @@ if (isCLI) {
       options.genreFilter = arg.replace('-g=', '');
     } else if (arg === '--word' || arg === '-w') {
       options.wholeWord = true;
+    } else if (arg === '--elastic' || arg === '-e') {
+      options.elastic = true;
     } else if (arg === '--case-sensitive' || arg === '-c') {
       options.caseSensitive = true;
     } else if (arg === '--summary' || arg === '--summary-only') {
@@ -420,6 +353,8 @@ if (isCLI) {
         options.summaryOnly = true;
       } else if (lower === 'word') {
         options.wholeWord = true;
+      } else if (lower === 'elastic') {
+        options.elastic = true;
       } else if (!options.genreFilter) {
         options.genreFilter = arg;
       }

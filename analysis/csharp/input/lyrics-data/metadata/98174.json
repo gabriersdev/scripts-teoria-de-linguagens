@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98174,
+    "metadata": {
+      "title": "Amar Amei",
+      "artists": [
+        "MC Don Juan"
+      ],
+      "album": "Eu Sei Que Tu é Puta",
+      "releaseDate": "2019-05-04",
+      "durationMs": 122000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/e36af404-208f-41eb-b9b1-1807760ba7be"
+      }
+    },
+    "lyricPath": "/lyrics/98174.txt"
+  }
+]

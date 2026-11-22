@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98204,
+    "metadata": {
+      "title": "A Ilha",
+      "artists": [
+        "Costa Gold"
+      ],
+      "album": "Posfácio",
+      "releaseDate": "2014-11-20",
+      "durationMs": 257000,
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "isrc": "US7VG1579767",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/fc/b87bfcc5-33fa-6f68-bc7f-ac8eb8cb1693/646809667718.png/1000x1000bb.jpg",
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/aff2bdec-20ef-4b58-8f1e-187f7fc0d334",
+        "itunes": "https://music.apple.com/us/album/a-ilha/1832639302?i=1832639304&uo=4",
+        "deezer": "https://www.deezer.com/track/3491740081"
+      }
+    },
+    "lyricPath": "/lyrics/98204.txt"
+  }
+]

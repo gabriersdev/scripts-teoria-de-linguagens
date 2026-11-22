@@ -1,0 +1,30 @@
+[
+  {
+    "id": 98173,
+    "metadata": {
+      "title": "Favela",
+      "artists": [
+        "MC Ryan SP",
+        "MC Cebezinho",
+        "Mc Paiva ZS",
+        "Love Funk",
+        "MC Neguinho do Kaxeta",
+        "Mc Kadu",
+        "Mc IG"
+      ],
+      "album": "Feliz no Simples 🍀",
+      "releaseDate": "2025-05-13T07:00:00Z",
+      "durationMs": 366829,
+      "genres": [
+        "Brazilian"
+      ],
+      "isrc": "BXKG22200798",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/7a/31/f47a31c2-c021-abd4-16f7-52873259a4c5/5021732801074.jpg/1000x1000bb.jpg",
+      "sources": {
+        "itunes": "https://music.apple.com/us/album/bailarina-da-favela-feat-mc-cebezinho-dj-oreia/1813128208?i=1813128449&uo=4",
+        "deezer": "https://www.deezer.com/track/1843044597"
+      }
+    },
+    "lyricPath": "/lyrics/98173.txt"
+  }
+]

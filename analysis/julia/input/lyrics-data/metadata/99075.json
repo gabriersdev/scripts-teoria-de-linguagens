@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99075,
+    "metadata": {
+      "title": "7 Novinha Pra 2 MLK",
+      "artists": [
+        "Derek"
+      ],
+      "album": "7 NOVINHA PRA 2 MLK",
+      "releaseDate": "2023-10-06",
+      "durationMs": 180000,
+      "genres": [],
+      "isrc": "BRUM72301354",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/c508f9fda92ac840fd049381103b6a5d/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2477260151"
+      }
+    },
+    "lyricPath": "/lyrics/99075.txt"
+  }
+]

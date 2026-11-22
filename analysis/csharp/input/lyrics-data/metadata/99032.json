@@ -1,0 +1,21 @@
+[
+  {
+    "id": 99032,
+    "metadata": {
+      "title": "Joias Cravejadas",
+      "artists": [
+        "NGC Daddy"
+      ],
+      "album": "Joias Cravejadas",
+      "releaseDate": "2023-02-07",
+      "durationMs": 148000,
+      "genres": [],
+      "isrc": "US7VG2370547",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/7cfee6396950e0e3ca2609f310be7908/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2124078877"
+      }
+    },
+    "lyricPath": "/lyrics/99032.txt"
+  }
+]

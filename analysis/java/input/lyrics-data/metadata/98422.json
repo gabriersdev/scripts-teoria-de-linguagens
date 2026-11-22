@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98422,
+    "metadata": {
+      "title": "Anna Júlia",
+      "artists": [
+        "Los Hermanos"
+      ],
+      "album": "Luau MTV",
+      "releaseDate": "2002",
+      "durationMs": 175106,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/cebcf0c3-7425-4e22-a979-9ab08b5a2aee"
+      }
+    },
+    "lyricPath": "/lyrics/98422.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98406,
+    "metadata": {
+      "title": "Tempo Perdido",
+      "artists": [
+        "Legião Urbana"
+      ],
+      "album": "As 20 mais",
+      "releaseDate": null,
+      "durationMs": 252746,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/0b7bcdab-83d4-444f-b678-199dcca55087"
+      }
+    },
+    "lyricPath": "/lyrics/98406.txt"
+  }
+]

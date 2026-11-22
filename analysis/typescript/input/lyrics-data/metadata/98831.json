@@ -1,0 +1,25 @@
+[
+  {
+    "id": 98831,
+    "metadata": {
+      "title": "DESCULPA GARDENIA",
+      "artists": [
+        "ohayomatsu",
+        "mixx!"
+      ],
+      "album": "FEELINGS & DREAMS",
+      "releaseDate": "2023-11-17",
+      "durationMs": 111000,
+      "genres": [
+        "Trap",
+        "Hip-Hop/Rap"
+      ],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "deezer": "https://www.deezer.com/track/3077111971"
+      }
+    },
+    "lyricPath": "/lyrics/98831.txt"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 99136,
+    "metadata": {
+      "title": "Só de Tênis (Tipo o Sonic)",
+      "artists": [
+        "Duzz",
+        "AçúK",
+        "Ecologyk"
+      ],
+      "album": "offduzz, vol. 2",
+      "releaseDate": "2023-12-21",
+      "durationMs": 137000,
+      "genres": [],
+      "isrc": "QZW9M2319600",
+      "coverUrl": "https://cdn-images.dzcdn.net/images/cover/3159cc3ed77943e651149c756c8f2130/1000x1000-000000-80-0-0.jpg",
+      "sources": {
+        "deezer": "https://www.deezer.com/track/2589999432"
+      }
+    },
+    "lyricPath": "/lyrics/99136.txt"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 98505,
+    "metadata": {
+      "title": "Pé Na Porta, Soco Na Cara",
+      "artists": [
+        "Matanza"
+      ],
+      "album": "MTV Apresenta: Matanza",
+      "releaseDate": "2008-04",
+      "durationMs": 252000,
+      "genres": [],
+      "isrc": null,
+      "coverUrl": null,
+      "sources": {
+        "musicbrainz": "https://musicbrainz.org/recording/9a0b3607-fd32-4b42-ae1c-d039b5697d66"
+      }
+    },
+    "lyricPath": "/lyrics/98505.txt"
+  }
+]
