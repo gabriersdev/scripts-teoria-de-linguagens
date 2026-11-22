@@ -5,7 +5,8 @@ namespace SwearWordMasker;
 
 /// <summary>
 /// Dynamically constructs Unicode-aware, case-insensitive regular expressions
-/// for swear word detection from a catalog of base terms.
+/// for swear word detection from a catalog of base terms, using prefix-trie
+/// factoring to minimize backtracking and compilation overhead.
 /// </summary>
 public static class SwearWordRegexBuilder
 {
@@ -42,6 +43,13 @@ public static class SwearWordRegexBuilder
             ["ç"] = "[cç]"
         };
 
+    private sealed class PatternTrieNode
+    {
+        public Dictionary<string, PatternTrieNode> Children { get; } = new(StringComparer.Ordinal);
+        public bool IsTerminal { get; set; }
+        public string TerminalSuffix { get; set; } = string.Empty;
+    }
+
     /// <summary>
     /// Builds the dynamic regex fragment for a single swear word.
     /// </summary>
@@ -49,74 +57,137 @@ public static class SwearWordRegexBuilder
     /// <returns>The generated pattern string, or <c>null</c> when the input is blank.</returns>
     public static string? BuildWordPattern(string rawWord)
     {
-        IReadOnlyList<string> tokens = TokenizeSwearWord(rawWord);
-        if (tokens.Count == 0)
+        IReadOnlyList<string> tokenPatterns = BuildWordTokenPatterns(rawWord, out string pluralSuffix);
+        if (tokenPatterns.Count == 0)
         {
             return null;
         }
 
-        var builder = new StringBuilder();
-        for (int index = 0; index < tokens.Count; index++)
-        {
-            string token = tokens[index];
-            string basePattern = BuildTokenPattern(token);
-
-            if (index == 1 && token != "-")
-            {
-                builder.Append("(?:")
-                    .Append(basePattern)
-                    .Append('|')
-                    .Append(CensoredSecondLetterPattern)
-                    .Append(')');
-            }
-            else
-            {
-                builder.Append(basePattern);
-            }
-        }
-
-        string lastToken = tokens[^1];
-        if (lastToken != "s")
-        {
-            builder.Append("s*");
-        }
-
-        return builder.ToString();
+        return $"{string.Concat(tokenPatterns)}{pluralSuffix}";
     }
 
     /// <summary>
-    /// Compiles a single case-insensitive Unicode regex combining all swear words.
+    /// Compiles a single case-insensitive Unicode regex combining all swear words
+    /// into a left-factored prefix trie for fast matching.
     /// </summary>
     /// <param name="words">Collection of swear words loaded from the catalog.</param>
     /// <returns>Compiled <see cref="Regex"/> instance.</returns>
     public static Regex BuildCombinedRegex(IEnumerable<string> words)
     {
-        List<string> sortedWords = words
-            .Where(word => !string.IsNullOrWhiteSpace(word))
-            .Select(word => word.Trim())
-            .OrderByDescending(word => TokenizeSwearWord(word).Count)
-            .ThenBy(word => word, StringComparer.Ordinal)
-            .ToList();
+        var root = new PatternTrieNode();
+        int insertedCount = 0;
 
-        var seen = new HashSet<string>(StringComparer.Ordinal);
-        var uniquePatterns = new List<string>();
-
-        foreach (string word in sortedWords)
+        foreach (string rawWord in words)
         {
-            string? pattern = BuildWordPattern(word);
-            if (pattern is not null && seen.Add(pattern))
+            if (string.IsNullOrWhiteSpace(rawWord))
             {
-                uniquePatterns.Add(pattern);
+                continue;
             }
+
+            IReadOnlyList<string> tokenPatterns = BuildWordTokenPatterns(rawWord, out string pluralSuffix);
+            if (tokenPatterns.Count == 0)
+            {
+                continue;
+            }
+
+            InsertIntoTrie(root, tokenPatterns, pluralSuffix);
+            insertedCount++;
         }
 
-        if (uniquePatterns.Count == 0)
+        if (insertedCount == 0)
         {
             throw new InvalidOperationException("No valid swear word patterns were generated.");
         }
 
-        string combined = $"{WordBoundaryStart}(?:{string.Join("|", uniquePatterns)}){WordBoundaryEnd}";
-        return new Regex(combined, RegexOptions.IgnoreCase | RegexOptions.Compiled);
+        string triePattern = SerializeTrieNode(root);
+        string combined = $"{WordBoundaryStart}(?:{triePattern}){WordBoundaryEnd}";
+
+        return new Regex(combined, RegexOptions.IgnoreCase | RegexOptions.CultureInvariant);
+    }
+
+    private static IReadOnlyList<string> BuildWordTokenPatterns(string rawWord, out string pluralSuffix)
+    {
+        IReadOnlyList<string> tokens = TokenizeSwearWord(rawWord);
+        if (tokens.Count == 0)
+        {
+            pluralSuffix = string.Empty;
+            return Array.Empty<string>();
+        }
+
+        var parts = new string[tokens.Count];
+        for (int index = 0; index < tokens.Count; index++)
+        {
+            string token = tokens[index];
+            string basePattern = BuildTokenPattern(token);
+
+            parts[index] = index == 1 && token != "-"
+                ? $"(?:{basePattern}|{CensoredSecondLetterPattern})"
+                : basePattern;
+        }
+
+        pluralSuffix = tokens[^1] == "s" ? string.Empty : "s*";
+        return parts;
+    }
+
+    private static void InsertIntoTrie(
+        PatternTrieNode root,
+        IReadOnlyList<string> tokenPatterns,
+        string pluralSuffix)
+    {
+        PatternTrieNode current = root;
+
+        foreach (string pattern in tokenPatterns)
+        {
+            if (!current.Children.TryGetValue(pattern, out PatternTrieNode? next))
+            {
+                next = new PatternTrieNode();
+                current.Children[pattern] = next;
+            }
+
+            current = next;
+        }
+
+        current.IsTerminal = true;
+        if (string.IsNullOrEmpty(current.TerminalSuffix))
+        {
+            current.TerminalSuffix = pluralSuffix;
+        }
+    }
+
+    private static string SerializeTrieNode(PatternTrieNode node)
+    {
+        var branches = new List<string>(node.Children.Count + 1);
+
+        foreach (KeyValuePair<string, PatternTrieNode> entry in node.Children.OrderBy(item => item.Key, StringComparer.Ordinal))
+        {
+            string childSuffix = SerializeTrieNode(entry.Value);
+            branches.Add($"{entry.Key}{childSuffix}");
+        }
+
+        if (node.IsTerminal)
+        {
+            if (branches.Count == 0)
+            {
+                return node.TerminalSuffix;
+            }
+
+            if (string.IsNullOrEmpty(node.TerminalSuffix))
+            {
+                string childGroup = branches.Count == 1
+                    ? $"(?:{branches[0]})?"
+                    : $"(?:{string.Join("|", branches)})?";
+                return childGroup;
+            }
+
+            branches.Add(node.TerminalSuffix);
+        }
+
+        if (branches.Count == 1)
+        {
+            return branches[0];
+        }
+
+        return $"(?:{string.Join("|", branches)})";
     }
 
     private static IReadOnlyList<string> TokenizeSwearWord(string rawWord)

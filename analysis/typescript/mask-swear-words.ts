@@ -45,6 +45,17 @@ interface SwearWordsFile {
   'swear-words'?: unknown;
 }
 
+interface PatternTrieNode {
+  readonly children: Map<string, PatternTrieNode>;
+  isTerminal: boolean;
+  terminalSuffix: string;
+}
+
+interface WordPatternParts {
+  readonly tokenPatterns: ReadonlyArray<string>;
+  readonly pluralSuffix: string;
+}
+
 interface MaskResult {
   readonly maskedText: string;
   readonly matchCount: number;
@@ -111,13 +122,13 @@ function buildTokenPattern(token: string): string {
   return `${escapeRegexChar(token)}+`;
 }
 
-export function buildSwearWordPattern(rawWord: string): string | null {
+function buildWordTokenPatterns(rawWord: string): WordPatternParts {
   const tokens = tokenizeSwearWord(rawWord);
   if (tokens.length === 0) {
-    return null;
+    return { tokenPatterns: [], pluralSuffix: '' };
   }
 
-  const parts = tokens.map((token, index) => {
+  const tokenPatterns = tokens.map((token, index) => {
     const basePattern = buildTokenPattern(token);
     const shouldAllowCensoredSecondChar = index === 1 && token !== '-';
 
@@ -131,31 +142,99 @@ export function buildSwearWordPattern(rawWord: string): string | null {
   const lastToken = tokens[tokens.length - 1];
   const pluralSuffix = lastToken === 's' ? '' : 's*';
 
-  return `${parts.join('')}${pluralSuffix}`;
+  return { tokenPatterns, pluralSuffix };
+}
+
+function createTrieNode(): PatternTrieNode {
+  return {
+    children: new Map<string, PatternTrieNode>(),
+    isTerminal: false,
+    terminalSuffix: '',
+  };
+}
+
+function insertIntoTrie(root: PatternTrieNode, parts: WordPatternParts): void {
+  let current = root;
+
+  for (const tokenPattern of parts.tokenPatterns) {
+    let next = current.children.get(tokenPattern);
+    if (!next) {
+      next = createTrieNode();
+      current.children.set(tokenPattern, next);
+    }
+    current = next;
+  }
+
+  current.isTerminal = true;
+  if (!current.terminalSuffix) {
+    current.terminalSuffix = parts.pluralSuffix;
+  }
+}
+
+function serializeTrieNode(node: PatternTrieNode): string {
+  const sortedEntries = [...node.children.entries()].sort(([left], [right]) =>
+    left.localeCompare(right)
+  );
+
+  const branches = sortedEntries.map(
+    ([tokenPattern, childNode]) => `${tokenPattern}${serializeTrieNode(childNode)}`
+  );
+
+  if (node.isTerminal) {
+    if (branches.length === 0) {
+      return node.terminalSuffix;
+    }
+
+    if (!node.terminalSuffix) {
+      return branches.length === 1
+        ? `(?:${branches[0]})?`
+        : `(?:${branches.join('|')})?`;
+    }
+
+    branches.push(node.terminalSuffix);
+  }
+
+  if (branches.length === 1) {
+    return branches[0];
+  }
+
+  return `(?:${branches.join('|')})`;
+}
+
+export function buildSwearWordPattern(rawWord: string): string | null {
+  const parts = buildWordTokenPatterns(rawWord);
+  if (parts.tokenPatterns.length === 0) {
+    return null;
+  }
+
+  return `${parts.tokenPatterns.join('')}${parts.pluralSuffix}`;
 }
 
 export function buildSwearWordsRegex(words: ReadonlyArray<string>): RegExp {
-  const sortedWords = [...words]
-    .map((word) => word.trim())
-    .filter((word) => word.length > 0)
-    .sort((left, right) => {
-      const lengthDiff = tokenizeSwearWord(right).length - tokenizeSwearWord(left).length;
-      return lengthDiff !== 0 ? lengthDiff : left.localeCompare(right);
-    });
+  const root = createTrieNode();
+  let insertedCount = 0;
 
-  const uniquePatterns = Array.from(
-    new Set(
-      sortedWords
-        .map((word) => buildSwearWordPattern(word))
-        .filter((pattern): pattern is string => pattern !== null)
-    )
-  );
+  for (const rawWord of words) {
+    const trimmed = rawWord.trim();
+    if (!trimmed) {
+      continue;
+    }
 
-  if (uniquePatterns.length === 0) {
+    const parts = buildWordTokenPatterns(trimmed);
+    if (parts.tokenPatterns.length === 0) {
+      continue;
+    }
+
+    insertIntoTrie(root, parts);
+    insertedCount += 1;
+  }
+
+  if (insertedCount === 0) {
     throw new Error('No valid swear word patterns were generated.');
   }
 
-  const combinedPattern = `${WORD_BOUNDARY_START}(?:${uniquePatterns.join('|')})${WORD_BOUNDARY_END}`;
+  const triePattern = serializeTrieNode(root);
+  const combinedPattern = `${WORD_BOUNDARY_START}(?:${triePattern})${WORD_BOUNDARY_END}`;
   return new RegExp(combinedPattern, 'giu');
 }
 

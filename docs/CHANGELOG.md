@@ -8,10 +8,15 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 - Diretrizes de codificação para C# em `docs/CODING-GUIDELINES-CSHARP.md` baseadas nas convenções oficiais da Microsoft.
 - Scripts de identificação e mascaramento de palavrões (A05 / F2) com geração dinâmica de expressões regulares a partir de `lib/swear-words.json`:
   - `analysis/typescript/mask-swear-words.ts` (TypeScript)
-  - `analysis/julia/mask_swear_words.jl` (Julia)
+  - `analysis/julia/maskSwearWords.jl` (Julia)
   - `analysis/java/SwearWordMasker.java` (Java)
   - `analysis/csharp/SwearWordMasker.csproj`, `SwearWordRegexBuilder.cs`, `SwearWordMaskerService.cs` e `Program.cs` (C# / .NET 8)
 - Suporte unificado nas 4 linguagens para repetição positiva (`+`), plural opcional (`s*`), censura da 2ª letra (`*`/`#`), acentuação opcional, marcador `[X]` (`[ao]+`), flag case-insensitive, fronteiras Unicode de palavra e mascaramento a partir da 2ª letra (`puta` -> `p***`), com saída em `output/lyrics/` e métricas em `output/summary.json`.
+- Otimização de desempenho nas 4 linguagens com fatoração à esquerda por Trie de prefixos (reduzindo 161 alternâncias no topo para ramos agrupados por inicial) mantendo 0 divergências MD5 nos 1.150 arquivos:
+  - Julia (`analysis/julia/maskSwearWords.jl`): Trie de prefixos e remoção de alocação intermediária em `maskterm` (~748 ms -> ~547 ms).
+  - Java (`analysis/java/SwearWordMasker.java`): Trie de prefixos e escape seletivo de metacaracteres no lugar de `Pattern.quote` (~1661 ms -> ~627 ms).
+  - TypeScript (`analysis/typescript/mask-swear-words.ts`): Trie de prefixos (~1072 ms -> ~728 ms).
+  - C# (`analysis/csharp/SwearWordRegexBuilder.cs` e `SwearWordMaskerService.cs`): Trie de prefixos, `RegexOptions.CultureInvariant`, remoção de `RegexOptions.Compiled` para lote curto e reutilização de `UTF8Encoding` (~4082 ms -> ~904 ms).
 
 ### Modificado
 - `docs/ARCHITECTURE.md` e `docs/BUSINESS-RULES.md`:

@@ -39,6 +39,17 @@ const ACCENT_EQUIVALENTS = Dict{String, String}(
 )
 
 """
+Prefix trie node used to left-factor swear word regex patterns.
+"""
+mutable struct PatternTrieNode
+    children::Dict{String, PatternTrieNode}
+    isterminal::Bool
+    terminalsuffix::String
+end
+
+PatternTrieNode() = PatternTrieNode(Dict{String, PatternTrieNode}(), false, "")
+
+"""
 Result of masking a single lyric text.
 """
 struct MaskResult
@@ -117,50 +128,119 @@ function buildtokenpattern(token::AbstractString)
 end
 
 """
-Builds the dynamic regex pattern for a single swear word.
+Builds the ordered token regex fragments and plural suffix for a single swear word.
 """
-function buildwordpattern(rawword::AbstractString)
+function buildwordtokenpatterns(rawword::AbstractString)
     tokens = tokenizeswearword(rawword)
     if isempty(tokens)
-        return nothing
+        return (String[], "")
     end
 
-    parts = String[]
+    parts = Vector{String}(undef, length(tokens))
     for (index, token) in enumerate(tokens)
         basepattern = buildtokenpattern(token)
         if index == 2 && token != "-"
-            push!(parts, "(?:$(basepattern)|$(CENSORED_SECOND_LETTER_PATTERN))")
+            parts[index] = "(?:$(basepattern)|$(CENSORED_SECOND_LETTER_PATTERN))"
         else
-            push!(parts, basepattern)
+            parts[index] = basepattern
         end
     end
 
     pluralsuffix = tokens[end] == "s" ? "" : "s*"
+    return (parts, pluralsuffix)
+end
+
+"""
+Inserts a tokenized swear word pattern into the prefix trie.
+"""
+function inserttrie!(root::PatternTrieNode, tokenpatterns::AbstractVector{<:AbstractString}, pluralsuffix::AbstractString)
+    current = root
+    for pattern in tokenpatterns
+        if !haskey(current.children, pattern)
+            current.children[pattern] = PatternTrieNode()
+        end
+        current = current.children[pattern]
+    end
+
+    current.isterminal = true
+    if isempty(current.terminalsuffix)
+        current.terminalsuffix = String(pluralsuffix)
+    end
+end
+
+"""
+Serializes a prefix trie node into a left-factored regex string.
+"""
+function serializetrie(node::PatternTrieNode)
+    keys_sorted = sort!(collect(keys(node.children)))
+    branches = String[]
+    sizehint!(branches, length(keys_sorted) + 1)
+
+    for key in keys_sorted
+        childsuffix = serializetrie(node.children[key])
+        push!(branches, key * childsuffix)
+    end
+
+    if node.isterminal
+        if isempty(branches)
+            return node.terminalsuffix
+        end
+
+        if isempty(node.terminalsuffix)
+            return length(branches) == 1 ? "(?:$(branches[1]))?" : "(?:$(join(branches, "|")))?"
+        end
+
+        push!(branches, node.terminalsuffix)
+    end
+
+    if length(branches) == 1
+        return branches[1]
+    end
+
+    return "(?:$(join(branches, "|")))"
+end
+
+"""
+Builds the dynamic regex pattern for a single swear word.
+"""
+function buildwordpattern(rawword::AbstractString)
+    parts, pluralsuffix = buildwordtokenpatterns(rawword)
+    if isempty(parts)
+        return nothing
+    end
+
     return join(parts) * pluralsuffix
 end
 
 """
-Compiles a single case-insensitive Unicode regex combining all swear words.
+Compiles a single case-insensitive Unicode regex combining all swear words
+into a left-factored prefix trie.
 """
 function buildswearregex(words::AbstractVector{<:AbstractString})
-    cleaned = [strip(word) for word in words if !isempty(strip(word))]
-    sort!(cleaned; by = word -> (-length(tokenizeswearword(word)), word))
+    root = PatternTrieNode()
+    insertedcount = 0
 
-    seen = Set{String}()
-    patterns = String[]
-    for word in cleaned
-        pattern = buildwordpattern(word)
-        if pattern !== nothing && !(pattern in seen)
-            push!(seen, pattern)
-            push!(patterns, pattern)
+    for word in words
+        trimmed = strip(word)
+        if isempty(trimmed)
+            continue
         end
+
+        parts, pluralsuffix = buildwordtokenpatterns(trimmed)
+        if isempty(parts)
+            continue
+        end
+
+        inserttrie!(root, parts, pluralsuffix)
+        insertedcount += 1
     end
 
-    if isempty(patterns)
+    if insertedcount == 0
         error("No valid swear word patterns were generated.")
     end
 
-    combined = "$(WORD_BOUNDARY_START)(?:$(join(patterns, "|")))$(WORD_BOUNDARY_END)"
+    triepattern = serializetrie(root)
+    combined = "$(WORD_BOUNDARY_START)(?:$(triepattern))$(WORD_BOUNDARY_END)"
     return Regex(combined, "i")
 end
 
@@ -168,12 +248,12 @@ end
 Masks a matched swear word keeping its first character and replacing the rest with `*`.
 """
 function maskterm(term::AbstractString)
-    chars = collect(term)
-    if length(chars) <= 1
+    charcount = length(term)
+    if charcount <= 1
         return String(term)
     end
 
-    return string(chars[1]) * repeat(string(MASK_CHAR), length(chars) - 1)
+    return string(first(term)) * repeat(string(MASK_CHAR), charcount - 1)
 end
 
 """

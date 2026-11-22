@@ -4,11 +4,10 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Comparator;
-import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
-import java.util.Set;
+import java.util.TreeMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Stream;
@@ -70,6 +69,15 @@ public final class SwearWordMasker {
         double elapsedMs,
         String outputDir
     ) {
+    }
+
+    private static final class PatternTrieNode {
+        private final Map<String, PatternTrieNode> children = new TreeMap<>();
+        private boolean terminal;
+        private String terminalSuffix = "";
+    }
+
+    private record WordPatternParts(List<String> tokenPatterns, String pluralSuffix) {
     }
 
     private SwearWordMasker() {
@@ -154,65 +162,111 @@ public final class SwearWordMasker {
      * @return regex pattern string, or {@code null} if blank
      */
     public static String buildWordPattern(String rawWord) {
-        List<String> tokens = tokenizeSwearWord(rawWord);
-        if (tokens.isEmpty()) {
+        WordPatternParts parts = buildWordTokenPatterns(rawWord);
+        if (parts.tokenPatterns().isEmpty()) {
             return null;
         }
 
-        StringBuilder builder = new StringBuilder();
-        for (int index = 0; index < tokens.size(); index++) {
-            String token = tokens.get(index);
-            String basePattern = buildTokenPattern(token);
-
-            if (index == 1 && !"-".equals(token)) {
-                builder.append("(?:").append(basePattern).append('|').append(CENSORED_SECOND_LETTER_PATTERN).append(')');
-            } else {
-                builder.append(basePattern);
-            }
-        }
-
-        String lastToken = tokens.get(tokens.size() - 1);
-        if (!"s".equals(lastToken)) {
-            builder.append("s*");
-        }
-
-        return builder.toString();
+        return String.join("", parts.tokenPatterns()) + parts.pluralSuffix();
     }
 
     /**
-     * Compiles a single Unicode-aware, case-insensitive pattern for all swear words.
+     * Compiles a single Unicode-aware, case-insensitive pattern combining all swear words
+     * into a left-factored prefix trie to minimize NFA backtracking.
      *
      * @param words catalog of swear words
      * @return compiled {@link Pattern}
      */
     public static Pattern buildSwearWordsPattern(List<String> words) {
-        List<String> sortedWords = new ArrayList<>();
+        PatternTrieNode root = new PatternTrieNode();
+        int insertedCount = 0;
+
         for (String word : words) {
-            if (word != null && !word.trim().isEmpty()) {
-                sortedWords.add(word.trim());
+            if (word == null || word.trim().isEmpty()) {
+                continue;
             }
+
+            WordPatternParts parts = buildWordTokenPatterns(word);
+            if (parts.tokenPatterns().isEmpty()) {
+                continue;
+            }
+
+            insertIntoTrie(root, parts);
+            insertedCount++;
         }
 
-        sortedWords.sort(
-            Comparator.comparingInt((String word) -> tokenizeSwearWord(word).size())
-                .reversed()
-                .thenComparing(Comparator.naturalOrder())
-        );
-
-        Set<String> uniquePatterns = new LinkedHashSet<>();
-        for (String word : sortedWords) {
-            String pattern = buildWordPattern(word);
-            if (pattern != null) {
-                uniquePatterns.add(pattern);
-            }
-        }
-
-        if (uniquePatterns.isEmpty()) {
+        if (insertedCount == 0) {
             throw new IllegalStateException("No valid swear word patterns were generated.");
         }
 
-        String combined = WORD_BOUNDARY_START + "(?:" + String.join("|", uniquePatterns) + ")" + WORD_BOUNDARY_END;
+        String triePattern = serializeTrieNode(root);
+        String combined = WORD_BOUNDARY_START + "(?:" + triePattern + ")" + WORD_BOUNDARY_END;
         return Pattern.compile(combined, Pattern.CASE_INSENSITIVE | Pattern.UNICODE_CASE | Pattern.UNICODE_CHARACTER_CLASS);
+    }
+
+    private static WordPatternParts buildWordTokenPatterns(String rawWord) {
+        List<String> tokens = tokenizeSwearWord(rawWord);
+        if (tokens.isEmpty()) {
+            return new WordPatternParts(List.of(), "");
+        }
+
+        List<String> tokenPatterns = new ArrayList<>(tokens.size());
+        for (int index = 0; index < tokens.size(); index++) {
+            String token = tokens.get(index);
+            String basePattern = buildTokenPattern(token);
+
+            if (index == 1 && !"-".equals(token)) {
+                tokenPatterns.add("(?:" + basePattern + "|" + CENSORED_SECOND_LETTER_PATTERN + ")");
+            } else {
+                tokenPatterns.add(basePattern);
+            }
+        }
+
+        String lastToken = tokens.get(tokens.size() - 1);
+        String pluralSuffix = "s".equals(lastToken) ? "" : "s*";
+        return new WordPatternParts(tokenPatterns, pluralSuffix);
+    }
+
+    private static void insertIntoTrie(PatternTrieNode root, WordPatternParts parts) {
+        PatternTrieNode current = root;
+
+        for (String tokenPattern : parts.tokenPatterns()) {
+            current = current.children.computeIfAbsent(tokenPattern, ignored -> new PatternTrieNode());
+        }
+
+        current.terminal = true;
+        if (current.terminalSuffix.isEmpty()) {
+            current.terminalSuffix = parts.pluralSuffix();
+        }
+    }
+
+    private static String serializeTrieNode(PatternTrieNode node) {
+        List<String> branches = new ArrayList<>(node.children.size() + 1);
+
+        for (Map.Entry<String, PatternTrieNode> entry : node.children.entrySet()) {
+            String childSuffix = serializeTrieNode(entry.getValue());
+            branches.add(entry.getKey() + childSuffix);
+        }
+
+        if (node.terminal) {
+            if (branches.isEmpty()) {
+                return node.terminalSuffix;
+            }
+
+            if (node.terminalSuffix.isEmpty()) {
+                return branches.size() == 1
+                    ? "(?:" + branches.get(0) + ")?"
+                    : "(?:" + String.join("|", branches) + ")?";
+            }
+
+            branches.add(node.terminalSuffix);
+        }
+
+        if (branches.size() == 1) {
+            return branches.get(0);
+        }
+
+        return "(?:" + String.join("|", branches) + ")";
     }
 
     /**
@@ -305,8 +359,13 @@ public final class SwearWordMasker {
         return escapeRegexChar(token) + "+";
     }
 
+    private static final String REGEX_META_CHARS = ".*+?^${}()|[]\\";
+
     private static String escapeRegexChar(String value) {
-        return Pattern.quote(value);
+        if (value.length() == 1 && REGEX_META_CHARS.indexOf(value.charAt(0)) >= 0) {
+            return "\\" + value;
+        }
+        return value;
     }
 
     private static List<String> loadSwearWords(Path filePath) throws IOException {

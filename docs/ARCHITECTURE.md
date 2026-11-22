@@ -4,9 +4,9 @@
 
 - **`/analysis`**: Scripts de análise e mascaramento de palavrões (atividade A05 / F2) implementados nas quatro linguagens escolhidas, cada qual com subdiretórios próprios `/input/lyrics-data` (entrada) e `/output/lyrics` + `/output/summary.json` (saída mascarada e métricas), consumindo dinamicamente `/lib/swear-words.json`:
   - `analysis/typescript/mask-swear-words.ts`: Implementação em TypeScript (`RegExp` com flags `giu`).
-  - `analysis/julia/mask_swear_words.jl`: Implementação em Julia (`SwearWordMasker`, PCRE2 com flag `i`).
+  - `analysis/julia/maskSwearWords.jl`: Implementação em Julia (`SwearWordMasker`, PCRE2 com flag `i`).
   - `analysis/java/SwearWordMasker.java`: Implementação em Java (`Pattern` com `CASE_INSENSITIVE | UNICODE_CASE | UNICODE_CHARACTER_CLASS`).
-  - `analysis/csharp/`: Projeto .NET 8 em C# (`SwearWordMasker.csproj`, `SwearWordRegexBuilder.cs`, `SwearWordMaskerService.cs`, `Program.cs`) utilizando `RegexOptions.IgnoreCase | RegexOptions.Compiled`.
+  - `analysis/csharp/`: Projeto .NET 8 em C# (`SwearWordMasker.csproj`, `SwearWordRegexBuilder.cs`, `SwearWordMaskerService.cs`, `Program.cs`) utilizando `RegexOptions.IgnoreCase | RegexOptions.CultureInvariant`.
 - **`/docs`**: Documentação oficial (guias de código incluindo JS/TS, Java, Julia e C#, contratos de dados em `DATA-SCHEMA.md`, regras de negócio, changelogs e arquitetura). Atualize a cada mudança estrutural.
 - **`/lib`**: Bibliotecas e clientes base reutilizados pelo sistema.
   - `spotify-api-client.ts`: Motor orientado a objetos para lidar com requisições HTTP à API do Spotify (via endpoint xwolf).

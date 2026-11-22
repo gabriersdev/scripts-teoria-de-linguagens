@@ -30,6 +30,7 @@ public sealed record ExecutionSummary(
 public sealed class SwearWordMaskerService
 {
     private const char MaskChar = '*';
+    private static readonly Encoding Utf8NoBom = new UTF8Encoding(encoderShouldEmitUTF8Identifier: false);
 
     private static readonly JsonSerializerOptions JsonOptions = new()
     {
@@ -145,7 +146,7 @@ public sealed class SwearWordMaskerService
             }
 
             string outputFile = Path.Combine(outputDir, Path.GetFileName(inputFile));
-            File.WriteAllText(outputFile, result.MaskedText, new UTF8Encoding(encoderShouldEmitUTF8Identifier: false));
+            File.WriteAllText(outputFile, result.MaskedText, Utf8NoBom);
         }
 
         stopwatch.Stop();
@@ -167,7 +168,7 @@ public sealed class SwearWordMaskerService
         }
 
         string summaryJson = JsonSerializer.Serialize(summary, JsonOptions);
-        File.WriteAllText(summaryPath, $"{summaryJson}{Environment.NewLine}", new UTF8Encoding(encoderShouldEmitUTF8Identifier: false));
+        File.WriteAllText(summaryPath, $"{summaryJson}{Environment.NewLine}", Utf8NoBom);
 
         return summary;
     }
