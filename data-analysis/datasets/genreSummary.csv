@@ -1,0 +1,7 @@
+genre,total_tracks,tracks_with_swear,tracks_with_swear_pct,total_swears,share_of_corpus_swears_pct,avg_swears_per_track,avg_swears_per_swear_track,total_characters,swear_density_per_1k_chars,raw_tokens,filtered_tokens,unique_words
+funk,200,151,75.5,2237,42.66,11.19,14.81,414400,5.3982,69935,38913,5433
+trap,200,161,80.5,1138,21.7,5.69,7.07,416495,2.7323,70877,38021,7701
+trap-extra,150,128,85.33,857,16.34,5.71,6.7,335301,2.5559,57820,31534,6366
+rap,200,144,72.0,698,13.31,3.49,4.85,598946,1.1654,101731,54047,11301
+rock,200,31,15.5,168,3.2,0.84,5.42,229626,0.7316,38512,19256,4368
+sertanejo,200,21,10.5,146,2.78,0.73,6.95,286958,0.5088,49212,23043,3382

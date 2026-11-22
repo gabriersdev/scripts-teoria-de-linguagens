@@ -1,0 +1,19 @@
+{
+  "language": "C#",
+  "swearWordsLoaded": 159,
+  "filesProcessed": 1150,
+  "filesWithMatches": 636,
+  "totalMatches": 5244,
+  "totalCharacters": 2281726,
+  "totalBytes": 2346003,
+  "regexCompileMs": 11.7141,
+  "matchingTimeMs": 325.5,
+  "matchingTimeNs": 325500000,
+  "elapsedMs": 1071.73,
+  "nsPerChar": 142.66,
+  "charsPerMs": 7009.91,
+  "throughputMBs": 7.21,
+  "pearsonCorrelationR": 0.6668,
+  "rSquared": 0.4446,
+  "outputDir": "C:\\projects\\scripts-teoria-de-linguagens\\analysis\\csharp\\output\\lyrics"
+}

@@ -1,9 +1,19 @@
 {
   "language": "Julia",
-  "swearWordsLoaded": 161,
+  "swearWordsLoaded": 159,
   "filesProcessed": 1150,
-  "filesWithMatches": 639,
-  "totalMatches": 5286,
-  "elapsedMs": 747.92,
+  "filesWithMatches": 636,
+  "totalMatches": 5244,
+  "totalCharacters": 2281726,
+  "totalBytes": 2346003,
+  "regexCompileMs": 1.2802,
+  "matchingTimeMs": 31.31,
+  "matchingTimeNs": 31307900,
+  "elapsedMs": 666.07,
+  "nsPerChar": 13.72,
+  "charsPerMs": 72880.2,
+  "throughputMBs": 74.93,
+  "pearsonCorrelationR": 0.8837,
+  "rSquared": 0.7809,
   "outputDir": "C:\\projects\\scripts-teoria-de-linguagens\\analysis\\julia\\output\\lyrics"
 }

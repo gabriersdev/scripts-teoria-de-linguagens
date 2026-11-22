@@ -1,0 +1,7285 @@
+{
+  "genreFilter": null,
+  "includeStopwords": false,
+  "normalizeAccents": false,
+  "keepSectionTags": false,
+  "minLength": 2,
+  "swearMode": "highlight",
+  "customIgnoredWords": [],
+  "totalTracksAnalyzed": 1150,
+  "totalRawTokens": 388087,
+  "totalFilteredTokens": 204814,
+  "uniqueWordsCount": 20592,
+  "totalSwearOccurrences": 4684,
+  "swearSharePercent": "2.3%",
+  "genreSummaries": [
+    {
+      "genre": "rap",
+      "totalTracks": 200,
+      "rawTokenCount": 101731,
+      "filteredTokenCount": 54047,
+      "uniqueWordCount": 11301,
+      "swearOccurrences": 593,
+      "swearSharePercent": "1.1%",
+      "topWords": [
+        {
+          "rank": 1,
+          "word": "sei",
+          "occurrences": 372,
+          "trackCount": 112,
+          "trackCoveragePercent": "56.0%",
+          "sharePercent": "0.69%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 2,
+          "word": "yeah",
+          "occurrences": 364,
+          "trackCount": 59,
+          "trackCoveragePercent": "29.5%",
+          "sharePercent": "0.67%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 3,
+          "word": "quer",
+          "occurrences": 332,
+          "trackCount": 108,
+          "trackCoveragePercent": "54.0%",
+          "sharePercent": "0.61%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 4,
+          "word": "vida",
+          "occurrences": 319,
+          "trackCount": 127,
+          "trackCoveragePercent": "63.5%",
+          "sharePercent": "0.59%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 5,
+          "word": "quero",
+          "occurrences": 278,
+          "trackCount": 104,
+          "trackCoveragePercent": "52.0%",
+          "sharePercent": "0.51%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 6,
+          "word": "hoje",
+          "occurrences": 260,
+          "trackCount": 106,
+          "trackCoveragePercent": "53.0%",
+          "sharePercent": "0.48%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 7,
+          "word": "sempre",
+          "occurrences": 247,
+          "trackCount": 110,
+          "trackCoveragePercent": "55.0%",
+          "sharePercent": "0.46%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 8,
+          "word": "faz",
+          "occurrences": 238,
+          "trackCount": 104,
+          "trackCoveragePercent": "52.0%",
+          "sharePercent": "0.44%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 9,
+          "word": "ver",
+          "occurrences": 231,
+          "trackCount": 97,
+          "trackCoveragePercent": "48.5%",
+          "sharePercent": "0.43%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 10,
+          "word": "amor",
+          "occurrences": 210,
+          "trackCount": 66,
+          "trackCoveragePercent": "33.0%",
+          "sharePercent": "0.39%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 11,
+          "word": "vem",
+          "occurrences": 208,
+          "trackCount": 100,
+          "trackCoveragePercent": "50.0%",
+          "sharePercent": "0.38%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 12,
+          "word": "nunca",
+          "occurrences": 205,
+          "trackCount": 96,
+          "trackCoveragePercent": "48.0%",
+          "sharePercent": "0.38%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 13,
+          "word": "deus",
+          "occurrences": 204,
+          "trackCount": 75,
+          "trackCoveragePercent": "37.5%",
+          "sharePercent": "0.38%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 14,
+          "word": "mano",
+          "occurrences": 200,
+          "trackCount": 67,
+          "trackCoveragePercent": "33.5%",
+          "sharePercent": "0.37%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 15,
+          "word": "tempo",
+          "occurrences": 197,
+          "trackCount": 88,
+          "trackCoveragePercent": "44.0%",
+          "sharePercent": "0.36%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 16,
+          "word": "mundo",
+          "occurrences": 190,
+          "trackCount": 83,
+          "trackCoveragePercent": "41.5%",
+          "sharePercent": "0.35%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 17,
+          "word": "rap",
+          "occurrences": 173,
+          "trackCount": 60,
+          "trackCoveragePercent": "30.0%",
+          "sharePercent": "0.32%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 18,
+          "word": "sabe",
+          "occurrences": 172,
+          "trackCount": 83,
+          "trackCoveragePercent": "41.5%",
+          "sharePercent": "0.32%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 19,
+          "word": "fazer",
+          "occurrences": 169,
+          "trackCount": 72,
+          "trackCoveragePercent": "36.0%",
+          "sharePercent": "0.31%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 20,
+          "word": "agora",
+          "occurrences": 168,
+          "trackCount": 84,
+          "trackCoveragePercent": "42.0%",
+          "sharePercent": "0.31%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 21,
+          "word": "tipo",
+          "occurrences": 164,
+          "trackCount": 88,
+          "trackCoveragePercent": "44.0%",
+          "sharePercent": "0.30%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 22,
+          "word": "cara",
+          "occurrences": 160,
+          "trackCount": 80,
+          "trackCoveragePercent": "40.0%",
+          "sharePercent": "0.30%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 23,
+          "word": "bom",
+          "occurrences": 160,
+          "trackCount": 59,
+          "trackCoveragePercent": "29.5%",
+          "sharePercent": "0.30%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 24,
+          "word": "melhor",
+          "occurrences": 158,
+          "trackCount": 62,
+          "trackCoveragePercent": "31.0%",
+          "sharePercent": "0.29%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 25,
+          "word": "gente",
+          "occurrences": 156,
+          "trackCount": 67,
+          "trackCoveragePercent": "33.5%",
+          "sharePercent": "0.29%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 26,
+          "word": "igual",
+          "occurrences": 154,
+          "trackCount": 74,
+          "trackCoveragePercent": "37.0%",
+          "sharePercent": "0.28%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 27,
+          "word": "baby",
+          "occurrences": 148,
+          "trackCount": 45,
+          "trackCoveragePercent": "22.5%",
+          "sharePercent": "0.27%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 28,
+          "word": "dia",
+          "occurrences": 144,
+          "trackCount": 72,
+          "trackCoveragePercent": "36.0%",
+          "sharePercent": "0.27%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 29,
+          "word": "fala",
+          "occurrences": 142,
+          "trackCount": 75,
+          "trackCoveragePercent": "37.5%",
+          "sharePercent": "0.26%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 30,
+          "word": "pode",
+          "occurrences": 135,
+          "trackCount": 73,
+          "trackCoveragePercent": "36.5%",
+          "sharePercent": "0.25%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 31,
+          "word": "dá",
+          "occurrences": 131,
+          "trackCount": 72,
+          "trackCoveragePercent": "36.0%",
+          "sharePercent": "0.24%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 32,
+          "word": "deixa",
+          "occurrences": 124,
+          "trackCount": 66,
+          "trackCoveragePercent": "33.0%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 33,
+          "word": "diz",
+          "occurrences": 124,
+          "trackCount": 65,
+          "trackCoveragePercent": "32.5%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 34,
+          "word": "vi",
+          "occurrences": 123,
+          "trackCount": 68,
+          "trackCoveragePercent": "34.0%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 35,
+          "word": "ah",
+          "occurrences": 122,
+          "trackCount": 44,
+          "trackCoveragePercent": "22.0%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 36,
+          "word": "uh",
+          "occurrences": 122,
+          "trackCount": 24,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 37,
+          "word": "falar",
+          "occurrences": 117,
+          "trackCount": 67,
+          "trackCoveragePercent": "33.5%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 38,
+          "word": "dinheiro",
+          "occurrences": 116,
+          "trackCount": 56,
+          "trackCoveragePercent": "28.0%",
+          "sharePercent": "0.21%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 39,
+          "word": "casa",
+          "occurrences": 113,
+          "trackCount": 67,
+          "trackCoveragePercent": "33.5%",
+          "sharePercent": "0.21%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 40,
+          "word": "faço",
+          "occurrences": 111,
+          "trackCount": 59,
+          "trackCoveragePercent": "29.5%",
+          "sharePercent": "0.21%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 41,
+          "word": "dar",
+          "occurrences": 109,
+          "trackCount": 62,
+          "trackCoveragePercent": "31.0%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 42,
+          "word": "ahn",
+          "occurrences": 108,
+          "trackCount": 30,
+          "trackCoveragePercent": "15.0%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 43,
+          "word": "oh",
+          "occurrences": 106,
+          "trackCount": 34,
+          "trackCoveragePercent": "17.0%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 44,
+          "word": "som",
+          "occurrences": 103,
+          "trackCount": 53,
+          "trackCoveragePercent": "26.5%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 45,
+          "word": "noite",
+          "occurrences": 102,
+          "trackCount": 45,
+          "trackCoveragePercent": "22.5%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 46,
+          "word": "mente",
+          "occurrences": 97,
+          "trackCount": 65,
+          "trackCoveragePercent": "32.5%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 47,
+          "word": "fica",
+          "occurrences": 95,
+          "trackCount": 55,
+          "trackCoveragePercent": "27.5%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 48,
+          "word": "fim",
+          "occurrences": 95,
+          "trackCount": 53,
+          "trackCoveragePercent": "26.5%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 49,
+          "word": "ai",
+          "occurrences": 95,
+          "trackCount": 23,
+          "trackCoveragePercent": "11.5%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 50,
+          "word": "fé",
+          "occurrences": 94,
+          "trackCount": 56,
+          "trackCoveragePercent": "28.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 51,
+          "word": "vez",
+          "occurrences": 94,
+          "trackCount": 43,
+          "trackCoveragePercent": "21.5%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 52,
+          "word": "foda",
+          "occurrences": 93,
+          "trackCount": 48,
+          "trackCoveragePercent": "24.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 53,
+          "word": "jogo",
+          "occurrences": 92,
+          "trackCount": 57,
+          "trackCoveragePercent": "28.5%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 54,
+          "word": "paz",
+          "occurrences": 92,
+          "trackCount": 48,
+          "trackCoveragePercent": "24.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 55,
+          "word": "vejo",
+          "occurrences": 91,
+          "trackCount": 46,
+          "trackCoveragePercent": "23.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 56,
+          "word": "olha",
+          "occurrences": 90,
+          "trackCount": 52,
+          "trackCoveragePercent": "26.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 57,
+          "word": "fiz",
+          "occurrences": 89,
+          "trackCount": 46,
+          "trackCoveragePercent": "23.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 58,
+          "word": "irmão",
+          "occurrences": 89,
+          "trackCount": 39,
+          "trackCoveragePercent": "19.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 59,
+          "word": "rua",
+          "occurrences": 88,
+          "trackCount": 55,
+          "trackCoveragePercent": "27.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 60,
+          "word": "posso",
+          "occurrences": 88,
+          "trackCount": 40,
+          "trackCoveragePercent": "20.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 61,
+          "word": "ei",
+          "occurrences": 88,
+          "trackCount": 29,
+          "trackCoveragePercent": "14.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 62,
+          "word": "novo",
+          "occurrences": 87,
+          "trackCount": 47,
+          "trackCoveragePercent": "23.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 63,
+          "word": "ficar",
+          "occurrences": 83,
+          "trackCount": 41,
+          "trackCoveragePercent": "20.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 64,
+          "word": "sangue",
+          "occurrences": 82,
+          "trackCount": 37,
+          "trackCoveragePercent": "18.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 65,
+          "word": "pa",
+          "occurrences": 82,
+          "trackCount": 12,
+          "trackCoveragePercent": "6.0%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 66,
+          "word": "lado",
+          "occurrences": 81,
+          "trackCount": 43,
+          "trackCoveragePercent": "21.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 67,
+          "word": "viver",
+          "occurrences": 77,
+          "trackCount": 50,
+          "trackCoveragePercent": "25.0%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 68,
+          "word": "zona",
+          "occurrences": 77,
+          "trackCount": 21,
+          "trackCoveragePercent": "10.5%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 69,
+          "word": "porra",
+          "occurrences": 76,
+          "trackCount": 47,
+          "trackCoveragePercent": "23.5%",
+          "sharePercent": "0.14%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 70,
+          "word": "jeito",
+          "occurrences": 75,
+          "trackCount": 43,
+          "trackCoveragePercent": "21.5%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 71,
+          "word": "coração",
+          "occurrences": 73,
+          "trackCount": 45,
+          "trackCoveragePercent": "22.5%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 72,
+          "word": "luz",
+          "occurrences": 73,
+          "trackCount": 23,
+          "trackCoveragePercent": "11.5%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 73,
+          "word": "disse",
+          "occurrences": 72,
+          "trackCount": 47,
+          "trackCoveragePercent": "23.5%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 74,
+          "word": "louco",
+          "occurrences": 72,
+          "trackCount": 47,
+          "trackCoveragePercent": "23.5%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 75,
+          "word": "mão",
+          "occurrences": 72,
+          "trackCount": 43,
+          "trackCoveragePercent": "21.5%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 76,
+          "word": "parar",
+          "occurrences": 72,
+          "trackCount": 28,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 77,
+          "word": "wow",
+          "occurrences": 72,
+          "trackCount": 19,
+          "trackCoveragePercent": "9.5%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 78,
+          "word": "vim",
+          "occurrences": 70,
+          "trackCount": 44,
+          "trackCoveragePercent": "22.0%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 79,
+          "word": "grana",
+          "occurrences": 70,
+          "trackCount": 43,
+          "trackCoveragePercent": "21.5%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 80,
+          "word": "fez",
+          "occurrences": 70,
+          "trackCount": 40,
+          "trackCoveragePercent": "20.0%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 81,
+          "word": "chama",
+          "occurrences": 70,
+          "trackCount": 37,
+          "trackCoveragePercent": "18.5%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 82,
+          "word": "liga",
+          "occurrences": 70,
+          "trackCount": 37,
+          "trackCoveragePercent": "18.5%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 83,
+          "word": "corre",
+          "occurrences": 69,
+          "trackCount": 34,
+          "trackCoveragePercent": "17.0%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 84,
+          "word": "mãe",
+          "occurrences": 68,
+          "trackCount": 47,
+          "trackCoveragePercent": "23.5%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 85,
+          "word": "vê",
+          "occurrences": 67,
+          "trackCount": 45,
+          "trackCoveragePercent": "22.5%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 86,
+          "word": "saber",
+          "occurrences": 67,
+          "trackCount": 41,
+          "trackCoveragePercent": "20.5%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 87,
+          "word": "bunda",
+          "occurrences": 67,
+          "trackCount": 33,
+          "trackCoveragePercent": "16.5%",
+          "sharePercent": "0.12%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 88,
+          "word": "dois",
+          "occurrences": 66,
+          "trackCount": 38,
+          "trackCoveragePercent": "19.0%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 89,
+          "word": "vezes",
+          "occurrences": 66,
+          "trackCount": 38,
+          "trackCoveragePercent": "19.0%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 90,
+          "word": "sul",
+          "occurrences": 66,
+          "trackCount": 19,
+          "trackCoveragePercent": "9.5%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 91,
+          "word": "homem",
+          "occurrences": 65,
+          "trackCount": 43,
+          "trackCoveragePercent": "21.5%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 92,
+          "word": "sinto",
+          "occurrences": 65,
+          "trackCount": 36,
+          "trackCoveragePercent": "18.0%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 93,
+          "word": "atrás",
+          "occurrences": 64,
+          "trackCount": 37,
+          "trackCoveragePercent": "18.5%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 94,
+          "word": "mina",
+          "occurrences": 63,
+          "trackCount": 41,
+          "trackCoveragePercent": "20.5%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 95,
+          "word": "rima",
+          "occurrences": 63,
+          "trackCount": 41,
+          "trackCoveragePercent": "20.5%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 96,
+          "word": "pai",
+          "occurrences": 63,
+          "trackCount": 37,
+          "trackCoveragePercent": "18.5%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 97,
+          "word": "gosta",
+          "occurrences": 63,
+          "trackCount": 28,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 98,
+          "word": "dizer",
+          "occurrences": 63,
+          "trackCount": 27,
+          "trackCoveragePercent": "13.5%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 99,
+          "word": "joga",
+          "occurrences": 62,
+          "trackCount": 27,
+          "trackCoveragePercent": "13.5%",
+          "sharePercent": "0.11%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 100,
+          "word": "flow",
+          "occurrences": 61,
+          "trackCount": 35,
+          "trackCoveragePercent": "17.5%",
+          "sharePercent": "0.11%",
+          "isSwearWord": false
+        }
+      ]
+    },
+    {
+      "genre": "funk",
+      "totalTracks": 200,
+      "rawTokenCount": 69935,
+      "filteredTokenCount": 38913,
+      "uniqueWordCount": 5433,
+      "swearOccurrences": 2034,
+      "swearSharePercent": "5.2%",
+      "topWords": [
+        {
+          "rank": 1,
+          "word": "toma",
+          "occurrences": 629,
+          "trackCount": 38,
+          "trackCoveragePercent": "19.0%",
+          "sharePercent": "1.62%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 2,
+          "word": "vem",
+          "occurrences": 536,
+          "trackCount": 91,
+          "trackCoveragePercent": "45.5%",
+          "sharePercent": "1.38%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 3,
+          "word": "senta",
+          "occurrences": 363,
+          "trackCount": 42,
+          "trackCoveragePercent": "21.0%",
+          "sharePercent": "0.93%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 4,
+          "word": "puta",
+          "occurrences": 315,
+          "trackCount": 43,
+          "trackCoveragePercent": "21.5%",
+          "sharePercent": "0.81%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 5,
+          "word": "hoje",
+          "occurrences": 285,
+          "trackCount": 78,
+          "trackCoveragePercent": "39.0%",
+          "sharePercent": "0.73%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 6,
+          "word": "bum",
+          "occurrences": 274,
+          "trackCount": 2,
+          "trackCoveragePercent": "1.0%",
+          "sharePercent": "0.70%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 7,
+          "word": "quer",
+          "occurrences": 259,
+          "trackCount": 67,
+          "trackCoveragePercent": "33.5%",
+          "sharePercent": "0.67%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 8,
+          "word": "joga",
+          "occurrences": 252,
+          "trackCount": 52,
+          "trackCoveragePercent": "26.0%",
+          "sharePercent": "0.65%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 9,
+          "word": "bota",
+          "occurrences": 229,
+          "trackCount": 26,
+          "trackCoveragePercent": "13.0%",
+          "sharePercent": "0.59%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 10,
+          "word": "cara",
+          "occurrences": 198,
+          "trackCount": 47,
+          "trackCoveragePercent": "23.5%",
+          "sharePercent": "0.51%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 11,
+          "word": "faz",
+          "occurrences": 197,
+          "trackCount": 60,
+          "trackCoveragePercent": "30.0%",
+          "sharePercent": "0.51%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 12,
+          "word": "vida",
+          "occurrences": 190,
+          "trackCount": 55,
+          "trackCoveragePercent": "27.5%",
+          "sharePercent": "0.49%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 13,
+          "word": "deixa",
+          "occurrences": 187,
+          "trackCount": 47,
+          "trackCoveragePercent": "23.5%",
+          "sharePercent": "0.48%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 14,
+          "word": "amiga",
+          "occurrences": 187,
+          "trackCount": 42,
+          "trackCoveragePercent": "21.0%",
+          "sharePercent": "0.48%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 15,
+          "word": "ver",
+          "occurrences": 178,
+          "trackCount": 56,
+          "trackCoveragePercent": "28.0%",
+          "sharePercent": "0.46%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 16,
+          "word": "sentar",
+          "occurrences": 177,
+          "trackCount": 26,
+          "trackCoveragePercent": "13.0%",
+          "sharePercent": "0.45%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 17,
+          "word": "dj",
+          "occurrences": 169,
+          "trackCount": 72,
+          "trackCoveragePercent": "36.0%",
+          "sharePercent": "0.43%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 18,
+          "word": "fica",
+          "occurrences": 159,
+          "trackCount": 44,
+          "trackCoveragePercent": "22.0%",
+          "sharePercent": "0.41%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 19,
+          "word": "dá",
+          "occurrences": 155,
+          "trackCount": 36,
+          "trackCoveragePercent": "18.0%",
+          "sharePercent": "0.40%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 20,
+          "word": "ai",
+          "occurrences": 152,
+          "trackCount": 26,
+          "trackCoveragePercent": "13.0%",
+          "sharePercent": "0.39%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 21,
+          "word": "quero",
+          "occurrences": 149,
+          "trackCount": 48,
+          "trackCoveragePercent": "24.0%",
+          "sharePercent": "0.38%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 22,
+          "word": "gostosa",
+          "occurrences": 148,
+          "trackCount": 32,
+          "trackCoveragePercent": "16.0%",
+          "sharePercent": "0.38%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 23,
+          "word": "dar",
+          "occurrences": 143,
+          "trackCount": 42,
+          "trackCoveragePercent": "21.0%",
+          "sharePercent": "0.37%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 24,
+          "word": "olha",
+          "occurrences": 142,
+          "trackCount": 46,
+          "trackCoveragePercent": "23.0%",
+          "sharePercent": "0.36%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 25,
+          "word": "boca",
+          "occurrences": 140,
+          "trackCount": 29,
+          "trackCoveragePercent": "14.5%",
+          "sharePercent": "0.36%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 26,
+          "word": "amor",
+          "occurrences": 128,
+          "trackCount": 33,
+          "trackCoveragePercent": "16.5%",
+          "sharePercent": "0.33%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 27,
+          "word": "quica",
+          "occurrences": 127,
+          "trackCount": 10,
+          "trackCoveragePercent": "5.0%",
+          "sharePercent": "0.33%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 28,
+          "word": "novinha",
+          "occurrences": 125,
+          "trackCount": 40,
+          "trackCoveragePercent": "20.0%",
+          "sharePercent": "0.32%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 29,
+          "word": "baile",
+          "occurrences": 124,
+          "trackCount": 41,
+          "trackCoveragePercent": "20.5%",
+          "sharePercent": "0.32%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 30,
+          "word": "sarra",
+          "occurrences": 117,
+          "trackCount": 8,
+          "trackCoveragePercent": "4.0%",
+          "sharePercent": "0.30%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 31,
+          "word": "ah",
+          "occurrences": 116,
+          "trackCount": 26,
+          "trackCoveragePercent": "13.0%",
+          "sharePercent": "0.30%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 32,
+          "word": "sabe",
+          "occurrences": 114,
+          "trackCount": 46,
+          "trackCoveragePercent": "23.0%",
+          "sharePercent": "0.29%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 33,
+          "word": "bunda",
+          "occurrences": 112,
+          "trackCount": 32,
+          "trackCoveragePercent": "16.0%",
+          "sharePercent": "0.29%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 34,
+          "word": "sempre",
+          "occurrences": 106,
+          "trackCount": 49,
+          "trackCoveragePercent": "24.5%",
+          "sharePercent": "0.27%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 35,
+          "word": "bebê",
+          "occurrences": 105,
+          "trackCount": 34,
+          "trackCoveragePercent": "17.0%",
+          "sharePercent": "0.27%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 36,
+          "word": "chama",
+          "occurrences": 102,
+          "trackCount": 19,
+          "trackCoveragePercent": "9.5%",
+          "sharePercent": "0.26%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 37,
+          "word": "mão",
+          "occurrences": 101,
+          "trackCount": 30,
+          "trackCoveragePercent": "15.0%",
+          "sharePercent": "0.26%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 38,
+          "word": "agora",
+          "occurrences": 97,
+          "trackCount": 39,
+          "trackCoveragePercent": "19.5%",
+          "sharePercent": "0.25%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 39,
+          "word": "novo",
+          "occurrences": 97,
+          "trackCount": 28,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.25%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 40,
+          "word": "gosta",
+          "occurrences": 96,
+          "trackCount": 40,
+          "trackCoveragePercent": "20.0%",
+          "sharePercent": "0.25%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 41,
+          "word": "noite",
+          "occurrences": 96,
+          "trackCount": 40,
+          "trackCoveragePercent": "20.0%",
+          "sharePercent": "0.25%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 42,
+          "word": "bate",
+          "occurrences": 96,
+          "trackCount": 19,
+          "trackCoveragePercent": "9.5%",
+          "sharePercent": "0.25%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 43,
+          "word": "desce",
+          "occurrences": 94,
+          "trackCount": 24,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.24%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 44,
+          "word": "balança",
+          "occurrences": 94,
+          "trackCount": 13,
+          "trackCoveragePercent": "6.5%",
+          "sharePercent": "0.24%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 45,
+          "word": "pode",
+          "occurrences": 93,
+          "trackCount": 42,
+          "trackCoveragePercent": "21.0%",
+          "sharePercent": "0.24%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 46,
+          "word": "buceta",
+          "occurrences": 90,
+          "trackCount": 17,
+          "trackCoveragePercent": "8.5%",
+          "sharePercent": "0.23%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 47,
+          "word": "tomando",
+          "occurrences": 90,
+          "trackCount": 16,
+          "trackCoveragePercent": "8.0%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 48,
+          "word": "dia",
+          "occurrences": 87,
+          "trackCount": 38,
+          "trackCoveragePercent": "19.0%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 49,
+          "word": "casa",
+          "occurrences": 86,
+          "trackCount": 31,
+          "trackCoveragePercent": "15.5%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 50,
+          "word": "tropa",
+          "occurrences": 86,
+          "trackCount": 27,
+          "trackCoveragePercent": "13.5%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 51,
+          "word": "mama",
+          "occurrences": 85,
+          "trackCount": 9,
+          "trackCoveragePercent": "4.5%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 52,
+          "word": "né",
+          "occurrences": 84,
+          "trackCount": 37,
+          "trackCoveragePercent": "18.5%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 53,
+          "word": "caralho",
+          "occurrences": 84,
+          "trackCount": 33,
+          "trackCoveragePercent": "16.5%",
+          "sharePercent": "0.22%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 54,
+          "word": "fazer",
+          "occurrences": 84,
+          "trackCount": 32,
+          "trackCoveragePercent": "16.0%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 55,
+          "word": "cima",
+          "occurrences": 84,
+          "trackCount": 23,
+          "trackCoveragePercent": "11.5%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 56,
+          "word": "sei",
+          "occurrences": 83,
+          "trackCount": 41,
+          "trackCoveragePercent": "20.5%",
+          "sharePercent": "0.21%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 57,
+          "word": "porra",
+          "occurrences": 82,
+          "trackCount": 33,
+          "trackCoveragePercent": "16.5%",
+          "sharePercent": "0.21%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 58,
+          "word": "oi",
+          "occurrences": 82,
+          "trackCount": 23,
+          "trackCoveragePercent": "11.5%",
+          "sharePercent": "0.21%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 59,
+          "word": "mulher",
+          "occurrences": 82,
+          "trackCount": 19,
+          "trackCoveragePercent": "9.5%",
+          "sharePercent": "0.21%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 60,
+          "word": "pau",
+          "occurrences": 80,
+          "trackCount": 20,
+          "trackCoveragePercent": "10.0%",
+          "sharePercent": "0.21%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 61,
+          "word": "ficar",
+          "occurrences": 79,
+          "trackCount": 39,
+          "trackCoveragePercent": "19.5%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 62,
+          "word": "fala",
+          "occurrences": 78,
+          "trackCount": 39,
+          "trackCoveragePercent": "19.5%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 63,
+          "word": "rua",
+          "occurrences": 77,
+          "trackCount": 30,
+          "trackCoveragePercent": "15.0%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 64,
+          "word": "tipo",
+          "occurrences": 77,
+          "trackCount": 25,
+          "trackCoveragePercent": "12.5%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 65,
+          "word": "bonde",
+          "occurrences": 77,
+          "trackCount": 16,
+          "trackCoveragePercent": "8.0%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 66,
+          "word": "piranha",
+          "occurrences": 76,
+          "trackCount": 27,
+          "trackCoveragePercent": "13.5%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 67,
+          "word": "nunca",
+          "occurrences": 75,
+          "trackCount": 30,
+          "trackCoveragePercent": "15.0%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 68,
+          "word": "lança",
+          "occurrences": 73,
+          "trackCount": 26,
+          "trackCoveragePercent": "13.0%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 69,
+          "word": "rabeta",
+          "occurrences": 72,
+          "trackCount": 1,
+          "trackCoveragePercent": "0.5%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 70,
+          "word": "mina",
+          "occurrences": 71,
+          "trackCount": 28,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 71,
+          "word": "dentro",
+          "occurrences": 71,
+          "trackCount": 24,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 72,
+          "word": "dois",
+          "occurrences": 71,
+          "trackCount": 18,
+          "trackCoveragePercent": "9.0%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 73,
+          "word": "foda",
+          "occurrences": 70,
+          "trackCount": 25,
+          "trackCoveragePercent": "12.5%",
+          "sharePercent": "0.18%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 74,
+          "word": "onda",
+          "occurrences": 69,
+          "trackCount": 24,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 75,
+          "word": "roça",
+          "occurrences": 69,
+          "trackCount": 2,
+          "trackCoveragePercent": "1.0%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 76,
+          "word": "pock",
+          "occurrences": 69,
+          "trackCount": 1,
+          "trackCoveragePercent": "0.5%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 77,
+          "word": "bala",
+          "occurrences": 68,
+          "trackCount": 17,
+          "trackCoveragePercent": "8.5%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 78,
+          "word": "coloca",
+          "occurrences": 68,
+          "trackCount": 5,
+          "trackCoveragePercent": "2.5%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 79,
+          "word": "menor",
+          "occurrences": 67,
+          "trackCount": 23,
+          "trackCoveragePercent": "11.5%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 80,
+          "word": "xota",
+          "occurrences": 67,
+          "trackCount": 18,
+          "trackCoveragePercent": "9.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 81,
+          "word": "piroca",
+          "occurrences": 66,
+          "trackCount": 13,
+          "trackCoveragePercent": "6.5%",
+          "sharePercent": "0.17%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 82,
+          "word": "beat",
+          "occurrences": 65,
+          "trackCount": 28,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 83,
+          "word": "passa",
+          "occurrences": 64,
+          "trackCount": 25,
+          "trackCoveragePercent": "12.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 84,
+          "word": "chão",
+          "occurrences": 64,
+          "trackCount": 15,
+          "trackCoveragePercent": "7.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 85,
+          "word": "moleque",
+          "occurrences": 63,
+          "trackCount": 27,
+          "trackCoveragePercent": "13.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 86,
+          "word": "ahn",
+          "occurrences": 63,
+          "trackCount": 20,
+          "trackCoveragePercent": "10.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 87,
+          "word": "comer",
+          "occurrences": 63,
+          "trackCount": 18,
+          "trackCoveragePercent": "9.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 88,
+          "word": "bumbum",
+          "occurrences": 62,
+          "trackCount": 9,
+          "trackCoveragePercent": "4.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 89,
+          "word": "toca",
+          "occurrences": 62,
+          "trackCount": 8,
+          "trackCoveragePercent": "4.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 90,
+          "word": "putaria",
+          "occurrences": 61,
+          "trackCount": 30,
+          "trackCoveragePercent": "15.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 91,
+          "word": "alto",
+          "occurrences": 61,
+          "trackCount": 16,
+          "trackCoveragePercent": "8.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 92,
+          "word": "perereca",
+          "occurrences": 61,
+          "trackCount": 6,
+          "trackCoveragePercent": "3.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 93,
+          "word": "favela",
+          "occurrences": 60,
+          "trackCount": 24,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 94,
+          "word": "pica",
+          "occurrences": 60,
+          "trackCount": 15,
+          "trackCoveragePercent": "7.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 95,
+          "word": "leitada",
+          "occurrences": 60,
+          "trackCount": 2,
+          "trackCoveragePercent": "1.0%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 96,
+          "word": "dando",
+          "occurrences": 59,
+          "trackCount": 7,
+          "trackCoveragePercent": "3.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 97,
+          "word": "coração",
+          "occurrences": 58,
+          "trackCount": 30,
+          "trackCoveragePercent": "15.0%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 98,
+          "word": "pai",
+          "occurrences": 58,
+          "trackCount": 26,
+          "trackCoveragePercent": "13.0%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 99,
+          "word": "mente",
+          "occurrences": 58,
+          "trackCount": 24,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 100,
+          "word": "quatro",
+          "occurrences": 58,
+          "trackCount": 22,
+          "trackCoveragePercent": "11.0%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        }
+      ]
+    },
+    {
+      "genre": "trap",
+      "totalTracks": 200,
+      "rawTokenCount": 70877,
+      "filteredTokenCount": 38021,
+      "uniqueWordCount": 7701,
+      "swearOccurrences": 1014,
+      "swearSharePercent": "2.7%",
+      "topWords": [
+        {
+          "rank": 1,
+          "word": "yeah",
+          "occurrences": 530,
+          "trackCount": 94,
+          "trackCoveragePercent": "47.0%",
+          "sharePercent": "1.39%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 2,
+          "word": "quer",
+          "occurrences": 291,
+          "trackCount": 104,
+          "trackCoveragePercent": "52.0%",
+          "sharePercent": "0.77%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 3,
+          "word": "mano",
+          "occurrences": 192,
+          "trackCount": 74,
+          "trackCoveragePercent": "37.0%",
+          "sharePercent": "0.50%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 4,
+          "word": "sei",
+          "occurrences": 182,
+          "trackCount": 75,
+          "trackCoveragePercent": "37.5%",
+          "sharePercent": "0.48%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 5,
+          "word": "vida",
+          "occurrences": 173,
+          "trackCount": 78,
+          "trackCoveragePercent": "39.0%",
+          "sharePercent": "0.46%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 6,
+          "word": "dinheiro",
+          "occurrences": 164,
+          "trackCount": 80,
+          "trackCoveragePercent": "40.0%",
+          "sharePercent": "0.43%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 7,
+          "word": "sempre",
+          "occurrences": 160,
+          "trackCount": 75,
+          "trackCoveragePercent": "37.5%",
+          "sharePercent": "0.42%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 8,
+          "word": "sabe",
+          "occurrences": 158,
+          "trackCount": 71,
+          "trackCoveragePercent": "35.5%",
+          "sharePercent": "0.42%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 9,
+          "word": "igual",
+          "occurrences": 156,
+          "trackCount": 74,
+          "trackCoveragePercent": "37.0%",
+          "sharePercent": "0.41%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 10,
+          "word": "quero",
+          "occurrences": 153,
+          "trackCount": 72,
+          "trackCoveragePercent": "36.0%",
+          "sharePercent": "0.40%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 11,
+          "word": "nunca",
+          "occurrences": 151,
+          "trackCount": 84,
+          "trackCoveragePercent": "42.0%",
+          "sharePercent": "0.40%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 12,
+          "word": "puta",
+          "occurrences": 150,
+          "trackCount": 46,
+          "trackCoveragePercent": "23.0%",
+          "sharePercent": "0.39%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 13,
+          "word": "ahn",
+          "occurrences": 131,
+          "trackCount": 38,
+          "trackCoveragePercent": "19.0%",
+          "sharePercent": "0.34%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 14,
+          "word": "cara",
+          "occurrences": 125,
+          "trackCount": 61,
+          "trackCoveragePercent": "30.5%",
+          "sharePercent": "0.33%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 15,
+          "word": "baby",
+          "occurrences": 123,
+          "trackCount": 31,
+          "trackCoveragePercent": "15.5%",
+          "sharePercent": "0.32%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 16,
+          "word": "fala",
+          "occurrences": 120,
+          "trackCount": 60,
+          "trackCoveragePercent": "30.0%",
+          "sharePercent": "0.32%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 17,
+          "word": "novo",
+          "occurrences": 118,
+          "trackCount": 47,
+          "trackCoveragePercent": "23.5%",
+          "sharePercent": "0.31%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 18,
+          "word": "uh",
+          "occurrences": 118,
+          "trackCount": 29,
+          "trackCoveragePercent": "14.5%",
+          "sharePercent": "0.31%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 19,
+          "word": "ah",
+          "occurrences": 117,
+          "trackCount": 46,
+          "trackCoveragePercent": "23.0%",
+          "sharePercent": "0.31%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 20,
+          "word": "hoje",
+          "occurrences": 111,
+          "trackCount": 58,
+          "trackCoveragePercent": "29.0%",
+          "sharePercent": "0.29%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 21,
+          "word": "oh",
+          "occurrences": 110,
+          "trackCount": 40,
+          "trackCoveragePercent": "20.0%",
+          "sharePercent": "0.29%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 22,
+          "word": "faz",
+          "occurrences": 109,
+          "trackCount": 67,
+          "trackCoveragePercent": "33.5%",
+          "sharePercent": "0.29%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 23,
+          "word": "grana",
+          "occurrences": 109,
+          "trackCount": 61,
+          "trackCoveragePercent": "30.5%",
+          "sharePercent": "0.29%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 24,
+          "word": "deixa",
+          "occurrences": 109,
+          "trackCount": 48,
+          "trackCoveragePercent": "24.0%",
+          "sharePercent": "0.29%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 25,
+          "word": "gang",
+          "occurrences": 108,
+          "trackCount": 20,
+          "trackCoveragePercent": "10.0%",
+          "sharePercent": "0.28%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 26,
+          "word": "ver",
+          "occurrences": 107,
+          "trackCount": 56,
+          "trackCoveragePercent": "28.0%",
+          "sharePercent": "0.28%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 27,
+          "word": "dia",
+          "occurrences": 105,
+          "trackCount": 60,
+          "trackCoveragePercent": "30.0%",
+          "sharePercent": "0.28%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 28,
+          "word": "faço",
+          "occurrences": 102,
+          "trackCount": 61,
+          "trackCoveragePercent": "30.5%",
+          "sharePercent": "0.27%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 29,
+          "word": "fazer",
+          "occurrences": 98,
+          "trackCount": 62,
+          "trackCoveragePercent": "31.0%",
+          "sharePercent": "0.26%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 30,
+          "word": "vem",
+          "occurrences": 97,
+          "trackCount": 55,
+          "trackCoveragePercent": "27.5%",
+          "sharePercent": "0.26%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 31,
+          "word": "dois",
+          "occurrences": 97,
+          "trackCount": 49,
+          "trackCoveragePercent": "24.5%",
+          "sharePercent": "0.26%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 32,
+          "word": "tempo",
+          "occurrences": 97,
+          "trackCount": 47,
+          "trackCoveragePercent": "23.5%",
+          "sharePercent": "0.26%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 33,
+          "word": "bala",
+          "occurrences": 95,
+          "trackCount": 44,
+          "trackCoveragePercent": "22.0%",
+          "sharePercent": "0.25%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 34,
+          "word": "agora",
+          "occurrences": 94,
+          "trackCount": 52,
+          "trackCoveragePercent": "26.0%",
+          "sharePercent": "0.25%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 35,
+          "word": "tipo",
+          "occurrences": 94,
+          "trackCount": 52,
+          "trackCoveragePercent": "26.0%",
+          "sharePercent": "0.25%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 36,
+          "word": "dentro",
+          "occurrences": 89,
+          "trackCount": 48,
+          "trackCoveragePercent": "24.0%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 37,
+          "word": "sinto",
+          "occurrences": 86,
+          "trackCount": 40,
+          "trackCoveragePercent": "20.0%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 38,
+          "word": "casa",
+          "occurrences": 85,
+          "trackCount": 52,
+          "trackCoveragePercent": "26.0%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 39,
+          "word": "olha",
+          "occurrences": 82,
+          "trackCount": 45,
+          "trackCoveragePercent": "22.5%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 40,
+          "word": "amor",
+          "occurrences": 82,
+          "trackCount": 35,
+          "trackCoveragePercent": "17.5%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 41,
+          "word": "pode",
+          "occurrences": 79,
+          "trackCount": 47,
+          "trackCoveragePercent": "23.5%",
+          "sharePercent": "0.21%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 42,
+          "word": "posso",
+          "occurrences": 78,
+          "trackCount": 37,
+          "trackCoveragePercent": "18.5%",
+          "sharePercent": "0.21%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 43,
+          "word": "porra",
+          "occurrences": 77,
+          "trackCount": 43,
+          "trackCoveragePercent": "21.5%",
+          "sharePercent": "0.20%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 44,
+          "word": "nome",
+          "occurrences": 76,
+          "trackCount": 34,
+          "trackCoveragePercent": "17.0%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 45,
+          "word": "nego",
+          "occurrences": 76,
+          "trackCount": 33,
+          "trackCoveragePercent": "16.5%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 46,
+          "word": "fiz",
+          "occurrences": 75,
+          "trackCount": 47,
+          "trackCoveragePercent": "23.5%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 47,
+          "word": "fica",
+          "occurrences": 75,
+          "trackCount": 45,
+          "trackCoveragePercent": "22.5%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 48,
+          "word": "carro",
+          "occurrences": 75,
+          "trackCount": 34,
+          "trackCoveragePercent": "17.0%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 49,
+          "word": "falar",
+          "occurrences": 75,
+          "trackCount": 34,
+          "trackCoveragePercent": "17.0%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 50,
+          "word": "fazendo",
+          "occurrences": 74,
+          "trackCount": 48,
+          "trackCoveragePercent": "24.0%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 51,
+          "word": "bunda",
+          "occurrences": 74,
+          "trackCount": 42,
+          "trackCoveragePercent": "21.0%",
+          "sharePercent": "0.19%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 52,
+          "word": "joga",
+          "occurrences": 74,
+          "trackCount": 33,
+          "trackCoveragePercent": "16.5%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 53,
+          "word": "melhor",
+          "occurrences": 73,
+          "trackCount": 40,
+          "trackCoveragePercent": "20.0%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 54,
+          "word": "ficar",
+          "occurrences": 71,
+          "trackCount": 39,
+          "trackCoveragePercent": "19.5%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 55,
+          "word": "gente",
+          "occurrences": 69,
+          "trackCount": 28,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 56,
+          "word": "bitch",
+          "occurrences": 68,
+          "trackCount": 25,
+          "trackCoveragePercent": "12.5%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 57,
+          "word": "lado",
+          "occurrences": 67,
+          "trackCount": 42,
+          "trackCoveragePercent": "21.0%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 58,
+          "word": "dá",
+          "occurrences": 66,
+          "trackCount": 40,
+          "trackCoveragePercent": "20.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 59,
+          "word": "gozei",
+          "occurrences": 66,
+          "trackCount": 8,
+          "trackCoveragePercent": "4.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 60,
+          "word": "mina",
+          "occurrences": 65,
+          "trackCount": 33,
+          "trackCoveragePercent": "16.5%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 61,
+          "word": "gosta",
+          "occurrences": 64,
+          "trackCount": 28,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 62,
+          "word": "mundo",
+          "occurrences": 63,
+          "trackCount": 38,
+          "trackCoveragePercent": "19.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 63,
+          "word": "mente",
+          "occurrences": 63,
+          "trackCount": 36,
+          "trackCoveragePercent": "18.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 64,
+          "word": "pede",
+          "occurrences": 63,
+          "trackCount": 25,
+          "trackCoveragePercent": "12.5%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 65,
+          "word": "querem",
+          "occurrences": 62,
+          "trackCount": 26,
+          "trackCoveragePercent": "13.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 66,
+          "word": "alto",
+          "occurrences": 61,
+          "trackCount": 21,
+          "trackCoveragePercent": "10.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 67,
+          "word": "wow",
+          "occurrences": 60,
+          "trackCount": 15,
+          "trackCoveragePercent": "7.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 68,
+          "word": "willy",
+          "occurrences": 60,
+          "trackCount": 1,
+          "trackCoveragePercent": "0.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 69,
+          "word": "frente",
+          "occurrences": 58,
+          "trackCount": 32,
+          "trackCoveragePercent": "16.0%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 70,
+          "word": "vê",
+          "occurrences": 57,
+          "trackCount": 35,
+          "trackCoveragePercent": "17.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 71,
+          "word": "ouro",
+          "occurrences": 57,
+          "trackCount": 29,
+          "trackCoveragePercent": "14.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 72,
+          "word": "vez",
+          "occurrences": 57,
+          "trackCount": 27,
+          "trackCoveragePercent": "13.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 73,
+          "word": "cria",
+          "occurrences": 57,
+          "trackCount": 25,
+          "trackCoveragePercent": "12.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 74,
+          "word": "pego",
+          "occurrences": 57,
+          "trackCount": 20,
+          "trackCoveragePercent": "10.0%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 75,
+          "word": "olhando",
+          "occurrences": 57,
+          "trackCount": 16,
+          "trackCoveragePercent": "8.0%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 76,
+          "word": "deixo",
+          "occurrences": 55,
+          "trackCount": 26,
+          "trackCoveragePercent": "13.0%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 77,
+          "word": "deus",
+          "occurrences": 52,
+          "trackCount": 37,
+          "trackCoveragePercent": "18.5%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 78,
+          "word": "vejo",
+          "occurrences": 52,
+          "trackCount": 33,
+          "trackCoveragePercent": "16.5%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 79,
+          "word": "piranha",
+          "occurrences": 52,
+          "trackCount": 23,
+          "trackCoveragePercent": "11.5%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 80,
+          "word": "jogo",
+          "occurrences": 51,
+          "trackCount": 41,
+          "trackCoveragePercent": "20.5%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 81,
+          "word": "droga",
+          "occurrences": 51,
+          "trackCount": 24,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 82,
+          "word": "amo",
+          "occurrences": 51,
+          "trackCount": 22,
+          "trackCoveragePercent": "11.0%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 83,
+          "word": "daddy",
+          "occurrences": 51,
+          "trackCount": 15,
+          "trackCoveragePercent": "7.5%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 84,
+          "word": "vi",
+          "occurrences": 50,
+          "trackCount": 32,
+          "trackCoveragePercent": "16.0%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 85,
+          "word": "tropa",
+          "occurrences": 50,
+          "trackCount": 19,
+          "trackCoveragePercent": "9.5%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 86,
+          "word": "chanel",
+          "occurrences": 50,
+          "trackCount": 2,
+          "trackCoveragePercent": "1.0%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 87,
+          "word": "viver",
+          "occurrences": 49,
+          "trackCount": 29,
+          "trackCoveragePercent": "14.5%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 88,
+          "word": "rico",
+          "occurrences": 49,
+          "trackCount": 26,
+          "trackCoveragePercent": "13.0%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 89,
+          "word": "conto",
+          "occurrences": 49,
+          "trackCount": 21,
+          "trackCoveragePercent": "10.5%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 90,
+          "word": "dez",
+          "occurrences": 49,
+          "trackCount": 18,
+          "trackCoveragePercent": "9.0%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 91,
+          "word": "bom",
+          "occurrences": 47,
+          "trackCount": 35,
+          "trackCoveragePercent": "17.5%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 92,
+          "word": "noite",
+          "occurrences": 47,
+          "trackCount": 30,
+          "trackCoveragePercent": "15.0%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 93,
+          "word": "passa",
+          "occurrences": 45,
+          "trackCount": 33,
+          "trackCoveragePercent": "16.5%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 94,
+          "word": "vadia",
+          "occurrences": 45,
+          "trackCount": 28,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.12%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 95,
+          "word": "pai",
+          "occurrences": 45,
+          "trackCount": 26,
+          "trackCoveragePercent": "13.0%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 96,
+          "word": "chama",
+          "occurrences": 45,
+          "trackCount": 24,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 97,
+          "word": "vendo",
+          "occurrences": 45,
+          "trackCount": 24,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 98,
+          "word": "atrás",
+          "occurrences": 45,
+          "trackCount": 19,
+          "trackCoveragePercent": "9.5%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 99,
+          "word": "cu",
+          "occurrences": 45,
+          "trackCount": 14,
+          "trackCoveragePercent": "7.0%",
+          "sharePercent": "0.12%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 100,
+          "word": "caça",
+          "occurrences": 45,
+          "trackCount": 8,
+          "trackCoveragePercent": "4.0%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        }
+      ]
+    },
+    {
+      "genre": "trap-extra",
+      "totalTracks": 150,
+      "rawTokenCount": 57820,
+      "filteredTokenCount": 31534,
+      "uniqueWordCount": 6366,
+      "swearOccurrences": 773,
+      "swearSharePercent": "2.5%",
+      "topWords": [
+        {
+          "rank": 1,
+          "word": "yeah",
+          "occurrences": 456,
+          "trackCount": 77,
+          "trackCoveragePercent": "51.3%",
+          "sharePercent": "1.45%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 2,
+          "word": "quer",
+          "occurrences": 374,
+          "trackCount": 95,
+          "trackCoveragePercent": "63.3%",
+          "sharePercent": "1.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 3,
+          "word": "mano",
+          "occurrences": 300,
+          "trackCount": 83,
+          "trackCoveragePercent": "55.3%",
+          "sharePercent": "0.95%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 4,
+          "word": "uh",
+          "occurrences": 236,
+          "trackCount": 41,
+          "trackCoveragePercent": "27.3%",
+          "sharePercent": "0.75%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 5,
+          "word": "sabe",
+          "occurrences": 230,
+          "trackCount": 75,
+          "trackCoveragePercent": "50.0%",
+          "sharePercent": "0.73%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 6,
+          "word": "nego",
+          "occurrences": 190,
+          "trackCount": 46,
+          "trackCoveragePercent": "30.7%",
+          "sharePercent": "0.60%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 7,
+          "word": "tipo",
+          "occurrences": 163,
+          "trackCount": 61,
+          "trackCoveragePercent": "40.7%",
+          "sharePercent": "0.52%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 8,
+          "word": "quero",
+          "occurrences": 163,
+          "trackCount": 58,
+          "trackCoveragePercent": "38.7%",
+          "sharePercent": "0.52%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 9,
+          "word": "olha",
+          "occurrences": 162,
+          "trackCount": 40,
+          "trackCoveragePercent": "26.7%",
+          "sharePercent": "0.51%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 10,
+          "word": "sei",
+          "occurrences": 161,
+          "trackCount": 64,
+          "trackCoveragePercent": "42.7%",
+          "sharePercent": "0.51%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 11,
+          "word": "nunca",
+          "occurrences": 149,
+          "trackCount": 67,
+          "trackCoveragePercent": "44.7%",
+          "sharePercent": "0.47%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 12,
+          "word": "cara",
+          "occurrences": 144,
+          "trackCount": 65,
+          "trackCoveragePercent": "43.3%",
+          "sharePercent": "0.46%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 13,
+          "word": "igual",
+          "occurrences": 142,
+          "trackCount": 65,
+          "trackCoveragePercent": "43.3%",
+          "sharePercent": "0.45%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 14,
+          "word": "sempre",
+          "occurrences": 135,
+          "trackCount": 62,
+          "trackCoveragePercent": "41.3%",
+          "sharePercent": "0.43%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 15,
+          "word": "ah",
+          "occurrences": 135,
+          "trackCount": 47,
+          "trackCoveragePercent": "31.3%",
+          "sharePercent": "0.43%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 16,
+          "word": "faço",
+          "occurrences": 133,
+          "trackCount": 51,
+          "trackCoveragePercent": "34.0%",
+          "sharePercent": "0.42%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 17,
+          "word": "ahn",
+          "occurrences": 133,
+          "trackCount": 36,
+          "trackCoveragePercent": "24.0%",
+          "sharePercent": "0.42%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 18,
+          "word": "dinheiro",
+          "occurrences": 129,
+          "trackCount": 58,
+          "trackCoveragePercent": "38.7%",
+          "sharePercent": "0.41%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 19,
+          "word": "fala",
+          "occurrences": 122,
+          "trackCount": 51,
+          "trackCoveragePercent": "34.0%",
+          "sharePercent": "0.39%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 20,
+          "word": "puta",
+          "occurrences": 115,
+          "trackCount": 49,
+          "trackCoveragePercent": "32.7%",
+          "sharePercent": "0.36%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 21,
+          "word": "mina",
+          "occurrences": 115,
+          "trackCount": 38,
+          "trackCoveragePercent": "25.3%",
+          "sharePercent": "0.36%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 22,
+          "word": "bitch",
+          "occurrences": 112,
+          "trackCount": 51,
+          "trackCoveragePercent": "34.0%",
+          "sharePercent": "0.36%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 23,
+          "word": "faz",
+          "occurrences": 110,
+          "trackCount": 52,
+          "trackCoveragePercent": "34.7%",
+          "sharePercent": "0.35%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 24,
+          "word": "vida",
+          "occurrences": 106,
+          "trackCount": 43,
+          "trackCoveragePercent": "28.7%",
+          "sharePercent": "0.34%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 25,
+          "word": "vem",
+          "occurrences": 103,
+          "trackCount": 45,
+          "trackCoveragePercent": "30.0%",
+          "sharePercent": "0.33%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 26,
+          "word": "dar",
+          "occurrences": 96,
+          "trackCount": 44,
+          "trackCoveragePercent": "29.3%",
+          "sharePercent": "0.30%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 27,
+          "word": "vadia",
+          "occurrences": 90,
+          "trackCount": 35,
+          "trackCoveragePercent": "23.3%",
+          "sharePercent": "0.29%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 28,
+          "word": "bala",
+          "occurrences": 89,
+          "trackCount": 49,
+          "trackCoveragePercent": "32.7%",
+          "sharePercent": "0.28%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 29,
+          "word": "fica",
+          "occurrences": 86,
+          "trackCount": 40,
+          "trackCoveragePercent": "26.7%",
+          "sharePercent": "0.27%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 30,
+          "word": "dentro",
+          "occurrences": 84,
+          "trackCount": 38,
+          "trackCoveragePercent": "25.3%",
+          "sharePercent": "0.27%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 31,
+          "word": "fato",
+          "occurrences": 83,
+          "trackCount": 25,
+          "trackCoveragePercent": "16.7%",
+          "sharePercent": "0.26%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 32,
+          "word": "fazendo",
+          "occurrences": 82,
+          "trackCount": 38,
+          "trackCoveragePercent": "25.3%",
+          "sharePercent": "0.26%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 33,
+          "word": "ver",
+          "occurrences": 80,
+          "trackCount": 43,
+          "trackCoveragePercent": "28.7%",
+          "sharePercent": "0.25%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 34,
+          "word": "beat",
+          "occurrences": 80,
+          "trackCount": 30,
+          "trackCoveragePercent": "20.0%",
+          "sharePercent": "0.25%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 35,
+          "word": "cash",
+          "occurrences": 78,
+          "trackCount": 32,
+          "trackCoveragePercent": "21.3%",
+          "sharePercent": "0.25%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 36,
+          "word": "deixa",
+          "occurrences": 76,
+          "trackCount": 34,
+          "trackCoveragePercent": "22.7%",
+          "sharePercent": "0.24%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 37,
+          "word": "novinha",
+          "occurrences": 76,
+          "trackCount": 27,
+          "trackCoveragePercent": "18.0%",
+          "sharePercent": "0.24%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 38,
+          "word": "fazer",
+          "occurrences": 74,
+          "trackCount": 44,
+          "trackCoveragePercent": "29.3%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 39,
+          "word": "fumando",
+          "occurrences": 73,
+          "trackCount": 34,
+          "trackCoveragePercent": "22.7%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 40,
+          "word": "acho",
+          "occurrences": 71,
+          "trackCount": 24,
+          "trackCoveragePercent": "16.0%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 41,
+          "word": "bunda",
+          "occurrences": 70,
+          "trackCount": 38,
+          "trackCoveragePercent": "25.3%",
+          "sharePercent": "0.22%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 42,
+          "word": "pede",
+          "occurrences": 69,
+          "trackCount": 26,
+          "trackCoveragePercent": "17.3%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 43,
+          "word": "grana",
+          "occurrences": 66,
+          "trackCount": 37,
+          "trackCoveragePercent": "24.7%",
+          "sharePercent": "0.21%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 44,
+          "word": "hoje",
+          "occurrences": 64,
+          "trackCount": 39,
+          "trackCoveragePercent": "26.0%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 45,
+          "word": "dia",
+          "occurrences": 64,
+          "trackCount": 29,
+          "trackCoveragePercent": "19.3%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 46,
+          "word": "gang",
+          "occurrences": 64,
+          "trackCount": 25,
+          "trackCoveragePercent": "16.7%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 47,
+          "word": "vendo",
+          "occurrences": 64,
+          "trackCount": 22,
+          "trackCoveragePercent": "14.7%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 48,
+          "word": "joga",
+          "occurrences": 63,
+          "trackCount": 26,
+          "trackCoveragePercent": "17.3%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 49,
+          "word": "querendo",
+          "occurrences": 63,
+          "trackCount": 21,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 50,
+          "word": "aham",
+          "occurrences": 63,
+          "trackCount": 8,
+          "trackCoveragePercent": "5.3%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 51,
+          "word": "foda",
+          "occurrences": 60,
+          "trackCount": 27,
+          "trackCoveragePercent": "18.0%",
+          "sharePercent": "0.19%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 52,
+          "word": "melhor",
+          "occurrences": 59,
+          "trackCount": 32,
+          "trackCoveragePercent": "21.3%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 53,
+          "word": "merda",
+          "occurrences": 59,
+          "trackCount": 31,
+          "trackCoveragePercent": "20.7%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 54,
+          "word": "manos",
+          "occurrences": 59,
+          "trackCount": 26,
+          "trackCoveragePercent": "17.3%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 55,
+          "word": "trap",
+          "occurrences": 59,
+          "trackCount": 24,
+          "trackCoveragePercent": "16.0%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 56,
+          "word": "novo",
+          "occurrences": 58,
+          "trackCount": 23,
+          "trackCoveragePercent": "15.3%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 57,
+          "word": "pode",
+          "occurrences": 57,
+          "trackCount": 37,
+          "trackCoveragePercent": "24.7%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 58,
+          "word": "sinto",
+          "occurrences": 57,
+          "trackCount": 34,
+          "trackCoveragePercent": "22.7%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 59,
+          "word": "dá",
+          "occurrences": 57,
+          "trackCount": 31,
+          "trackCoveragePercent": "20.7%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 60,
+          "word": "jaguar",
+          "occurrences": 57,
+          "trackCount": 3,
+          "trackCoveragePercent": "2.0%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 61,
+          "word": "nome",
+          "occurrences": 55,
+          "trackCount": 29,
+          "trackCoveragePercent": "19.3%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 62,
+          "word": "come",
+          "occurrences": 55,
+          "trackCount": 5,
+          "trackCoveragePercent": "3.3%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 63,
+          "word": "droga",
+          "occurrences": 54,
+          "trackCount": 36,
+          "trackCoveragePercent": "24.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 64,
+          "word": "agora",
+          "occurrences": 54,
+          "trackCount": 31,
+          "trackCoveragePercent": "20.7%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 65,
+          "word": "go",
+          "occurrences": 54,
+          "trackCount": 15,
+          "trackCoveragePercent": "10.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 66,
+          "word": "passa",
+          "occurrences": 53,
+          "trackCount": 28,
+          "trackCoveragePercent": "18.7%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 67,
+          "word": "pega",
+          "occurrences": 53,
+          "trackCount": 27,
+          "trackCoveragePercent": "18.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 68,
+          "word": "dois",
+          "occurrences": 53,
+          "trackCount": 25,
+          "trackCoveragePercent": "16.7%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 69,
+          "word": "gosta",
+          "occurrences": 52,
+          "trackCount": 26,
+          "trackCoveragePercent": "17.3%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 70,
+          "word": "conta",
+          "occurrences": 51,
+          "trackCount": 30,
+          "trackCoveragePercent": "20.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 71,
+          "word": "tempo",
+          "occurrences": 51,
+          "trackCount": 30,
+          "trackCoveragePercent": "20.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 72,
+          "word": "porra",
+          "occurrences": 51,
+          "trackCount": 27,
+          "trackCoveragePercent": "18.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 73,
+          "word": "lado",
+          "occurrences": 50,
+          "trackCount": 33,
+          "trackCoveragePercent": "22.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 74,
+          "word": "ficar",
+          "occurrences": 49,
+          "trackCount": 31,
+          "trackCoveragePercent": "20.7%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 75,
+          "word": "baby",
+          "occurrences": 49,
+          "trackCount": 21,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 76,
+          "word": "vista",
+          "occurrences": 49,
+          "trackCount": 12,
+          "trackCoveragePercent": "8.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 77,
+          "word": "noite",
+          "occurrences": 48,
+          "trackCount": 28,
+          "trackCoveragePercent": "18.7%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 78,
+          "word": "bolso",
+          "occurrences": 46,
+          "trackCount": 26,
+          "trackCoveragePercent": "17.3%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 79,
+          "word": "mente",
+          "occurrences": 46,
+          "trackCount": 25,
+          "trackCoveragePercent": "16.7%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 80,
+          "word": "beck",
+          "occurrences": 46,
+          "trackCount": 21,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 81,
+          "word": "pego",
+          "occurrences": 46,
+          "trackCount": 19,
+          "trackCoveragePercent": "12.7%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 82,
+          "word": "parece",
+          "occurrences": 45,
+          "trackCount": 21,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 83,
+          "word": "dando",
+          "occurrences": 45,
+          "trackCount": 19,
+          "trackCoveragePercent": "12.7%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 84,
+          "word": "let's",
+          "occurrences": 45,
+          "trackCount": 11,
+          "trackCoveragePercent": "7.3%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 85,
+          "word": "memo",
+          "occurrences": 44,
+          "trackCount": 23,
+          "trackCoveragePercent": "15.3%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 86,
+          "word": "the",
+          "occurrences": 44,
+          "trackCount": 19,
+          "trackCoveragePercent": "12.7%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 87,
+          "word": "toma",
+          "occurrences": 43,
+          "trackCount": 24,
+          "trackCoveragePercent": "16.0%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 88,
+          "word": "gente",
+          "occurrences": 43,
+          "trackCount": 21,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 89,
+          "word": "oh",
+          "occurrences": 42,
+          "trackCount": 18,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 90,
+          "word": "doka",
+          "occurrences": 42,
+          "trackCount": 16,
+          "trackCoveragePercent": "10.7%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 91,
+          "word": "viciada",
+          "occurrences": 42,
+          "trackCount": 3,
+          "trackCoveragePercent": "2.0%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 92,
+          "word": "amor",
+          "occurrences": 41,
+          "trackCount": 21,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 93,
+          "word": "it",
+          "occurrences": 41,
+          "trackCount": 15,
+          "trackCoveragePercent": "10.0%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 94,
+          "word": "nightlife",
+          "occurrences": 41,
+          "trackCount": 1,
+          "trackCoveragePercent": "0.7%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 95,
+          "word": "falando",
+          "occurrences": 40,
+          "trackCount": 21,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 96,
+          "word": "fode",
+          "occurrences": 40,
+          "trackCount": 20,
+          "trackCoveragePercent": "13.3%",
+          "sharePercent": "0.13%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 97,
+          "word": "ópio",
+          "occurrences": 40,
+          "trackCount": 1,
+          "trackCoveragePercent": "0.7%",
+          "sharePercent": "0.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 98,
+          "word": "fiz",
+          "occurrences": 39,
+          "trackCount": 25,
+          "trackCoveragePercent": "16.7%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 99,
+          "word": "casa",
+          "occurrences": 39,
+          "trackCount": 23,
+          "trackCoveragePercent": "15.3%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 100,
+          "word": "hey",
+          "occurrences": 39,
+          "trackCount": 16,
+          "trackCoveragePercent": "10.7%",
+          "sharePercent": "0.12%",
+          "isSwearWord": false
+        }
+      ]
+    },
+    {
+      "genre": "sertanejo",
+      "totalTracks": 200,
+      "rawTokenCount": 49212,
+      "filteredTokenCount": 23043,
+      "uniqueWordCount": 3382,
+      "swearOccurrences": 140,
+      "swearSharePercent": "0.6%",
+      "topWords": [
+        {
+          "rank": 1,
+          "word": "amor",
+          "occurrences": 364,
+          "trackCount": 89,
+          "trackCoveragePercent": "44.5%",
+          "sharePercent": "1.58%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 2,
+          "word": "gente",
+          "occurrences": 260,
+          "trackCount": 81,
+          "trackCoveragePercent": "40.5%",
+          "sharePercent": "1.13%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 3,
+          "word": "faz",
+          "occurrences": 198,
+          "trackCount": 54,
+          "trackCoveragePercent": "27.0%",
+          "sharePercent": "0.86%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 4,
+          "word": "saudade",
+          "occurrences": 174,
+          "trackCount": 51,
+          "trackCoveragePercent": "25.5%",
+          "sharePercent": "0.76%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 5,
+          "word": "ai",
+          "occurrences": 174,
+          "trackCount": 28,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.76%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 6,
+          "word": "coração",
+          "occurrences": 173,
+          "trackCount": 57,
+          "trackCoveragePercent": "28.5%",
+          "sharePercent": "0.75%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 7,
+          "word": "vida",
+          "occurrences": 156,
+          "trackCount": 50,
+          "trackCoveragePercent": "25.0%",
+          "sharePercent": "0.68%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 8,
+          "word": "agora",
+          "occurrences": 150,
+          "trackCount": 55,
+          "trackCoveragePercent": "27.5%",
+          "sharePercent": "0.65%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 9,
+          "word": "sei",
+          "occurrences": 150,
+          "trackCount": 49,
+          "trackCoveragePercent": "24.5%",
+          "sharePercent": "0.65%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 10,
+          "word": "vem",
+          "occurrences": 138,
+          "trackCount": 56,
+          "trackCoveragePercent": "28.0%",
+          "sharePercent": "0.60%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 11,
+          "word": "boca",
+          "occurrences": 135,
+          "trackCount": 39,
+          "trackCoveragePercent": "19.5%",
+          "sharePercent": "0.59%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 12,
+          "word": "hoje",
+          "occurrences": 127,
+          "trackCount": 39,
+          "trackCoveragePercent": "19.5%",
+          "sharePercent": "0.55%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 13,
+          "word": "quero",
+          "occurrences": 118,
+          "trackCount": 42,
+          "trackCoveragePercent": "21.0%",
+          "sharePercent": "0.51%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 14,
+          "word": "quer",
+          "occurrences": 115,
+          "trackCount": 34,
+          "trackCoveragePercent": "17.0%",
+          "sharePercent": "0.50%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 15,
+          "word": "ver",
+          "occurrences": 114,
+          "trackCount": 49,
+          "trackCoveragePercent": "24.5%",
+          "sharePercent": "0.49%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 16,
+          "word": "cara",
+          "occurrences": 109,
+          "trackCount": 39,
+          "trackCoveragePercent": "19.5%",
+          "sharePercent": "0.47%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 17,
+          "word": "fazer",
+          "occurrences": 109,
+          "trackCount": 38,
+          "trackCoveragePercent": "19.0%",
+          "sharePercent": "0.47%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 18,
+          "word": "sabe",
+          "occurrences": 106,
+          "trackCount": 43,
+          "trackCoveragePercent": "21.5%",
+          "sharePercent": "0.46%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 19,
+          "word": "beijo",
+          "occurrences": 97,
+          "trackCount": 39,
+          "trackCoveragePercent": "19.5%",
+          "sharePercent": "0.42%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 20,
+          "word": "sempre",
+          "occurrences": 97,
+          "trackCount": 34,
+          "trackCoveragePercent": "17.0%",
+          "sharePercent": "0.42%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 21,
+          "word": "hora",
+          "occurrences": 96,
+          "trackCount": 34,
+          "trackCoveragePercent": "17.0%",
+          "sharePercent": "0.42%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 22,
+          "word": "volta",
+          "occurrences": 95,
+          "trackCount": 21,
+          "trackCoveragePercent": "10.5%",
+          "sharePercent": "0.41%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 23,
+          "word": "nunca",
+          "occurrences": 90,
+          "trackCount": 29,
+          "trackCoveragePercent": "14.5%",
+          "sharePercent": "0.39%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 24,
+          "word": "tempo",
+          "occurrences": 89,
+          "trackCount": 34,
+          "trackCoveragePercent": "17.0%",
+          "sharePercent": "0.39%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 25,
+          "word": "vez",
+          "occurrences": 86,
+          "trackCount": 29,
+          "trackCoveragePercent": "14.5%",
+          "sharePercent": "0.37%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 26,
+          "word": "fala",
+          "occurrences": 83,
+          "trackCount": 25,
+          "trackCoveragePercent": "12.5%",
+          "sharePercent": "0.36%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 27,
+          "word": "fez",
+          "occurrences": 83,
+          "trackCount": 25,
+          "trackCoveragePercent": "12.5%",
+          "sharePercent": "0.36%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 28,
+          "word": "tchê",
+          "occurrences": 81,
+          "trackCount": 2,
+          "trackCoveragePercent": "1.0%",
+          "sharePercent": "0.35%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 29,
+          "word": "deixa",
+          "occurrences": 74,
+          "trackCount": 24,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.32%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 30,
+          "word": "dia",
+          "occurrences": 72,
+          "trackCount": 31,
+          "trackCoveragePercent": "15.5%",
+          "sharePercent": "0.31%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 31,
+          "word": "casa",
+          "occurrences": 71,
+          "trackCount": 25,
+          "trackCoveragePercent": "12.5%",
+          "sharePercent": "0.31%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 32,
+          "word": "mundo",
+          "occurrences": 71,
+          "trackCount": 20,
+          "trackCoveragePercent": "10.0%",
+          "sharePercent": "0.31%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 33,
+          "word": "noite",
+          "occurrences": 69,
+          "trackCount": 30,
+          "trackCoveragePercent": "15.0%",
+          "sharePercent": "0.30%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 34,
+          "word": "ficar",
+          "occurrences": 68,
+          "trackCount": 27,
+          "trackCoveragePercent": "13.5%",
+          "sharePercent": "0.30%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 35,
+          "word": "amar",
+          "occurrences": 68,
+          "trackCount": 22,
+          "trackCoveragePercent": "11.0%",
+          "sharePercent": "0.30%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 36,
+          "word": "deu",
+          "occurrences": 67,
+          "trackCount": 28,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.29%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 37,
+          "word": "novo",
+          "occurrences": 67,
+          "trackCount": 24,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.29%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 38,
+          "word": "bom",
+          "occurrences": 66,
+          "trackCount": 27,
+          "trackCoveragePercent": "13.5%",
+          "sharePercent": "0.29%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 39,
+          "word": "fora",
+          "occurrences": 66,
+          "trackCount": 24,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.29%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 40,
+          "word": "melhor",
+          "occurrences": 65,
+          "trackCount": 22,
+          "trackCoveragePercent": "11.0%",
+          "sharePercent": "0.28%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 41,
+          "word": "jeito",
+          "occurrences": 64,
+          "trackCount": 23,
+          "trackCoveragePercent": "11.5%",
+          "sharePercent": "0.28%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 42,
+          "word": "esquecer",
+          "occurrences": 63,
+          "trackCount": 24,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.27%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 43,
+          "word": "sofrer",
+          "occurrences": 63,
+          "trackCount": 14,
+          "trackCoveragePercent": "7.0%",
+          "sharePercent": "0.27%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 44,
+          "word": "dar",
+          "occurrences": 62,
+          "trackCount": 26,
+          "trackCoveragePercent": "13.0%",
+          "sharePercent": "0.27%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 45,
+          "word": "ah",
+          "occurrences": 62,
+          "trackCount": 22,
+          "trackCoveragePercent": "11.0%",
+          "sharePercent": "0.27%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 46,
+          "word": "cama",
+          "occurrences": 61,
+          "trackCount": 24,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.26%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 47,
+          "word": "senta",
+          "occurrences": 60,
+          "trackCount": 5,
+          "trackCoveragePercent": "2.5%",
+          "sharePercent": "0.26%",
+          "isSwearWord": true
+        },
+        {
+          "rank": 48,
+          "word": "amo",
+          "occurrences": 59,
+          "trackCount": 21,
+          "trackCoveragePercent": "10.5%",
+          "sharePercent": "0.26%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 49,
+          "word": "oh",
+          "occurrences": 59,
+          "trackCount": 17,
+          "trackCoveragePercent": "8.5%",
+          "sharePercent": "0.26%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 50,
+          "word": "dá",
+          "occurrences": 58,
+          "trackCount": 25,
+          "trackCoveragePercent": "12.5%",
+          "sharePercent": "0.25%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 51,
+          "word": "voltar",
+          "occurrences": 57,
+          "trackCount": 22,
+          "trackCoveragePercent": "11.0%",
+          "sharePercent": "0.25%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 52,
+          "word": "saber",
+          "occurrences": 55,
+          "trackCount": 19,
+          "trackCoveragePercent": "9.5%",
+          "sharePercent": "0.24%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 53,
+          "word": "diz",
+          "occurrences": 54,
+          "trackCount": 24,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 54,
+          "word": "pode",
+          "occurrences": 54,
+          "trackCount": 24,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 55,
+          "word": "dois",
+          "occurrences": 54,
+          "trackCount": 20,
+          "trackCoveragePercent": "10.0%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 56,
+          "word": "olha",
+          "occurrences": 52,
+          "trackCount": 21,
+          "trackCoveragePercent": "10.5%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 57,
+          "word": "queria",
+          "occurrences": 52,
+          "trackCount": 20,
+          "trackCoveragePercent": "10.0%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 58,
+          "word": "pena",
+          "occurrences": 51,
+          "trackCount": 11,
+          "trackCoveragePercent": "5.5%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 59,
+          "word": "viu",
+          "occurrences": 50,
+          "trackCount": 28,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 60,
+          "word": "ama",
+          "occurrences": 50,
+          "trackCount": 21,
+          "trackCoveragePercent": "10.5%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 61,
+          "word": "frente",
+          "occurrences": 50,
+          "trackCount": 20,
+          "trackCoveragePercent": "10.0%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 62,
+          "word": "fim",
+          "occurrences": 46,
+          "trackCount": 16,
+          "trackCoveragePercent": "8.0%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 63,
+          "word": "lado",
+          "occurrences": 45,
+          "trackCount": 18,
+          "trackCoveragePercent": "9.0%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 64,
+          "word": "sentimento",
+          "occurrences": 44,
+          "trackCount": 20,
+          "trackCoveragePercent": "10.0%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 65,
+          "word": "feliz",
+          "occurrences": 44,
+          "trackCount": 18,
+          "trackCoveragePercent": "9.0%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 66,
+          "word": "beija",
+          "occurrences": 43,
+          "trackCount": 10,
+          "trackCoveragePercent": "5.0%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 67,
+          "word": "briga",
+          "occurrences": 43,
+          "trackCount": 10,
+          "trackCoveragePercent": "5.0%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 68,
+          "word": "falar",
+          "occurrences": 42,
+          "trackCount": 23,
+          "trackCoveragePercent": "11.5%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 69,
+          "word": "acabou",
+          "occurrences": 41,
+          "trackCount": 16,
+          "trackCoveragePercent": "8.0%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 70,
+          "word": "chorar",
+          "occurrences": 41,
+          "trackCount": 13,
+          "trackCoveragePercent": "6.5%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 71,
+          "word": "cadê",
+          "occurrences": 41,
+          "trackCount": 7,
+          "trackCoveragePercent": "3.5%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 72,
+          "word": "sentar",
+          "occurrences": 41,
+          "trackCount": 5,
+          "trackCoveragePercent": "2.5%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 73,
+          "word": "fica",
+          "occurrences": 40,
+          "trackCount": 18,
+          "trackCoveragePercent": "9.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 74,
+          "word": "beijar",
+          "occurrences": 40,
+          "trackCount": 13,
+          "trackCoveragePercent": "6.5%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 75,
+          "word": "voz",
+          "occurrences": 40,
+          "trackCount": 13,
+          "trackCoveragePercent": "6.5%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 76,
+          "word": "dizer",
+          "occurrences": 39,
+          "trackCount": 15,
+          "trackCoveragePercent": "7.5%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 77,
+          "word": "pai",
+          "occurrences": 39,
+          "trackCount": 2,
+          "trackCoveragePercent": "1.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 78,
+          "word": "dó",
+          "occurrences": 38,
+          "trackCount": 3,
+          "trackCoveragePercent": "1.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 79,
+          "word": "sorriso",
+          "occurrences": 37,
+          "trackCount": 18,
+          "trackCoveragePercent": "9.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 80,
+          "word": "rua",
+          "occurrences": 37,
+          "trackCount": 15,
+          "trackCoveragePercent": "7.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 81,
+          "word": "perfeito",
+          "occurrences": 37,
+          "trackCount": 12,
+          "trackCoveragePercent": "6.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 82,
+          "word": "namora",
+          "occurrences": 37,
+          "trackCount": 5,
+          "trackCoveragePercent": "2.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 83,
+          "word": "junto",
+          "occurrences": 36,
+          "trackCount": 12,
+          "trackCoveragePercent": "6.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 84,
+          "word": "mulher",
+          "occurrences": 36,
+          "trackCount": 11,
+          "trackCoveragePercent": "5.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 85,
+          "word": "ex",
+          "occurrences": 36,
+          "trackCount": 9,
+          "trackCoveragePercent": "4.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 86,
+          "word": "mão",
+          "occurrences": 35,
+          "trackCount": 18,
+          "trackCoveragePercent": "9.0%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 87,
+          "word": "cerveja",
+          "occurrences": 35,
+          "trackCount": 15,
+          "trackCoveragePercent": "7.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 88,
+          "word": "falando",
+          "occurrences": 35,
+          "trackCount": 12,
+          "trackCoveragePercent": "6.0%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 89,
+          "word": "choro",
+          "occurrences": 35,
+          "trackCount": 11,
+          "trackCoveragePercent": "5.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 90,
+          "word": "meio",
+          "occurrences": 34,
+          "trackCount": 15,
+          "trackCoveragePercent": "7.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 91,
+          "word": "quê",
+          "occurrences": 34,
+          "trackCount": 14,
+          "trackCoveragePercent": "7.0%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 92,
+          "word": "copo",
+          "occurrences": 34,
+          "trackCount": 13,
+          "trackCoveragePercent": "6.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 93,
+          "word": "boa",
+          "occurrences": 33,
+          "trackCount": 17,
+          "trackCoveragePercent": "8.5%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 94,
+          "word": "falta",
+          "occurrences": 33,
+          "trackCount": 11,
+          "trackCoveragePercent": "5.5%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 95,
+          "word": "esqueceu",
+          "occurrences": 33,
+          "trackCount": 10,
+          "trackCoveragePercent": "5.0%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 96,
+          "word": "corpo",
+          "occurrences": 33,
+          "trackCount": 9,
+          "trackCoveragePercent": "4.5%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 97,
+          "word": "coisa",
+          "occurrences": 32,
+          "trackCount": 23,
+          "trackCoveragePercent": "11.5%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 98,
+          "word": "roupa",
+          "occurrences": 32,
+          "trackCount": 16,
+          "trackCoveragePercent": "8.0%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 99,
+          "word": "beber",
+          "occurrences": 32,
+          "trackCount": 13,
+          "trackCoveragePercent": "6.5%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 100,
+          "word": "cabelo",
+          "occurrences": 32,
+          "trackCount": 13,
+          "trackCoveragePercent": "6.5%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        }
+      ]
+    },
+    {
+      "genre": "rock",
+      "totalTracks": 200,
+      "rawTokenCount": 38512,
+      "filteredTokenCount": 19256,
+      "uniqueWordCount": 4368,
+      "swearOccurrences": 130,
+      "swearSharePercent": "0.7%",
+      "topWords": [
+        {
+          "rank": 1,
+          "word": "quero",
+          "occurrences": 182,
+          "trackCount": 49,
+          "trackCoveragePercent": "24.5%",
+          "sharePercent": "0.95%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 2,
+          "word": "amor",
+          "occurrences": 165,
+          "trackCount": 45,
+          "trackCoveragePercent": "22.5%",
+          "sharePercent": "0.86%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 3,
+          "word": "sei",
+          "occurrences": 147,
+          "trackCount": 47,
+          "trackCoveragePercent": "23.5%",
+          "sharePercent": "0.76%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 4,
+          "word": "gente",
+          "occurrences": 133,
+          "trackCount": 43,
+          "trackCoveragePercent": "21.5%",
+          "sharePercent": "0.69%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 5,
+          "word": "vem",
+          "occurrences": 121,
+          "trackCount": 34,
+          "trackCoveragePercent": "17.0%",
+          "sharePercent": "0.63%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 6,
+          "word": "vida",
+          "occurrences": 119,
+          "trackCount": 53,
+          "trackCoveragePercent": "26.5%",
+          "sharePercent": "0.62%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 7,
+          "word": "dia",
+          "occurrences": 114,
+          "trackCount": 51,
+          "trackCoveragePercent": "25.5%",
+          "sharePercent": "0.59%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 8,
+          "word": "yo",
+          "occurrences": 101,
+          "trackCount": 1,
+          "trackCoveragePercent": "0.5%",
+          "sharePercent": "0.52%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 9,
+          "word": "nunca",
+          "occurrences": 99,
+          "trackCount": 39,
+          "trackCoveragePercent": "19.5%",
+          "sharePercent": "0.51%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 10,
+          "word": "agora",
+          "occurrences": 95,
+          "trackCount": 47,
+          "trackCoveragePercent": "23.5%",
+          "sharePercent": "0.49%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 11,
+          "word": "mundo",
+          "occurrences": 93,
+          "trackCount": 44,
+          "trackCoveragePercent": "22.0%",
+          "sharePercent": "0.48%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 12,
+          "word": "faz",
+          "occurrences": 89,
+          "trackCount": 38,
+          "trackCoveragePercent": "19.0%",
+          "sharePercent": "0.46%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 13,
+          "word": "fazer",
+          "occurrences": 89,
+          "trackCount": 32,
+          "trackCoveragePercent": "16.0%",
+          "sharePercent": "0.46%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 14,
+          "word": "viver",
+          "occurrences": 88,
+          "trackCount": 22,
+          "trackCoveragePercent": "11.0%",
+          "sharePercent": "0.46%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 15,
+          "word": "sempre",
+          "occurrences": 85,
+          "trackCount": 38,
+          "trackCoveragePercent": "19.0%",
+          "sharePercent": "0.44%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 16,
+          "word": "tempo",
+          "occurrences": 83,
+          "trackCount": 28,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.43%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 17,
+          "word": "oh",
+          "occurrences": 80,
+          "trackCount": 20,
+          "trackCoveragePercent": "10.0%",
+          "sharePercent": "0.42%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 18,
+          "word": "quer",
+          "occurrences": 79,
+          "trackCount": 32,
+          "trackCoveragePercent": "16.0%",
+          "sharePercent": "0.41%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 19,
+          "word": "dinheiro",
+          "occurrences": 77,
+          "trackCount": 12,
+          "trackCoveragePercent": "6.0%",
+          "sharePercent": "0.40%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 20,
+          "word": "feliz",
+          "occurrences": 76,
+          "trackCount": 18,
+          "trackCoveragePercent": "9.0%",
+          "sharePercent": "0.39%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 21,
+          "word": "dá",
+          "occurrences": 74,
+          "trackCount": 32,
+          "trackCoveragePercent": "16.0%",
+          "sharePercent": "0.38%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 22,
+          "word": "sol",
+          "occurrences": 72,
+          "trackCount": 27,
+          "trackCoveragePercent": "13.5%",
+          "sharePercent": "0.37%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 23,
+          "word": "lugar",
+          "occurrences": 70,
+          "trackCount": 31,
+          "trackCoveragePercent": "15.5%",
+          "sharePercent": "0.36%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 24,
+          "word": "posso",
+          "occurrences": 68,
+          "trackCount": 22,
+          "trackCoveragePercent": "11.0%",
+          "sharePercent": "0.35%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 25,
+          "word": "saber",
+          "occurrences": 66,
+          "trackCount": 30,
+          "trackCoveragePercent": "15.0%",
+          "sharePercent": "0.34%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 26,
+          "word": "ah",
+          "occurrences": 66,
+          "trackCount": 15,
+          "trackCoveragePercent": "7.5%",
+          "sharePercent": "0.34%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 27,
+          "word": "mulher",
+          "occurrences": 64,
+          "trackCount": 16,
+          "trackCoveragePercent": "8.0%",
+          "sharePercent": "0.33%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 28,
+          "word": "it",
+          "occurrences": 64,
+          "trackCount": 1,
+          "trackCoveragePercent": "0.5%",
+          "sharePercent": "0.33%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 29,
+          "word": "pick",
+          "occurrences": 64,
+          "trackCount": 1,
+          "trackCoveragePercent": "0.5%",
+          "sharePercent": "0.33%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 30,
+          "word": "up",
+          "occurrences": 64,
+          "trackCount": 1,
+          "trackCoveragePercent": "0.5%",
+          "sharePercent": "0.33%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 31,
+          "word": "hoje",
+          "occurrences": 62,
+          "trackCount": 23,
+          "trackCoveragePercent": "11.5%",
+          "sharePercent": "0.32%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 32,
+          "word": "melhor",
+          "occurrences": 61,
+          "trackCount": 33,
+          "trackCoveragePercent": "16.5%",
+          "sharePercent": "0.32%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 33,
+          "word": "ver",
+          "occurrences": 60,
+          "trackCount": 31,
+          "trackCoveragePercent": "15.5%",
+          "sharePercent": "0.31%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 34,
+          "word": "ficar",
+          "occurrences": 60,
+          "trackCount": 28,
+          "trackCoveragePercent": "14.0%",
+          "sharePercent": "0.31%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 35,
+          "word": "sabe",
+          "occurrences": 59,
+          "trackCount": 27,
+          "trackCoveragePercent": "13.5%",
+          "sharePercent": "0.31%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 36,
+          "word": "noite",
+          "occurrences": 59,
+          "trackCount": 25,
+          "trackCoveragePercent": "12.5%",
+          "sharePercent": "0.31%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 37,
+          "word": "yeah",
+          "occurrences": 57,
+          "trackCount": 9,
+          "trackCoveragePercent": "4.5%",
+          "sharePercent": "0.30%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 38,
+          "word": "dando",
+          "occurrences": 57,
+          "trackCount": 6,
+          "trackCoveragePercent": "3.0%",
+          "sharePercent": "0.30%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 39,
+          "word": "deus",
+          "occurrences": 53,
+          "trackCount": 23,
+          "trackCoveragePercent": "11.5%",
+          "sharePercent": "0.28%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 40,
+          "word": "bom",
+          "occurrences": 52,
+          "trackCount": 31,
+          "trackCoveragePercent": "15.5%",
+          "sharePercent": "0.27%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 41,
+          "word": "dizer",
+          "occurrences": 50,
+          "trackCount": 27,
+          "trackCoveragePercent": "13.5%",
+          "sharePercent": "0.26%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 42,
+          "word": "paz",
+          "occurrences": 50,
+          "trackCount": 15,
+          "trackCoveragePercent": "7.5%",
+          "sharePercent": "0.26%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 43,
+          "word": "baby",
+          "occurrences": 50,
+          "trackCount": 7,
+          "trackCoveragePercent": "3.5%",
+          "sharePercent": "0.26%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 44,
+          "word": "mão",
+          "occurrences": 48,
+          "trackCount": 19,
+          "trackCoveragePercent": "9.5%",
+          "sharePercent": "0.25%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 45,
+          "word": "deixa",
+          "occurrences": 46,
+          "trackCount": 17,
+          "trackCoveragePercent": "8.5%",
+          "sharePercent": "0.24%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 46,
+          "word": "menina",
+          "occurrences": 46,
+          "trackCount": 11,
+          "trackCoveragePercent": "5.5%",
+          "sharePercent": "0.24%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 47,
+          "word": "diz",
+          "occurrences": 45,
+          "trackCount": 20,
+          "trackCoveragePercent": "10.0%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 48,
+          "word": "preciso",
+          "occurrences": 45,
+          "trackCount": 8,
+          "trackCoveragePercent": "4.0%",
+          "sharePercent": "0.23%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 49,
+          "word": "pode",
+          "occurrences": 43,
+          "trackCount": 24,
+          "trackCoveragePercent": "12.0%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 50,
+          "word": "homem",
+          "occurrences": 42,
+          "trackCount": 14,
+          "trackCoveragePercent": "7.0%",
+          "sharePercent": "0.22%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 51,
+          "word": "fim",
+          "occurrences": 41,
+          "trackCount": 18,
+          "trackCoveragePercent": "9.0%",
+          "sharePercent": "0.21%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 52,
+          "word": "queria",
+          "occurrences": 40,
+          "trackCount": 13,
+          "trackCoveragePercent": "6.5%",
+          "sharePercent": "0.21%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 53,
+          "word": "aruanda",
+          "occurrences": 40,
+          "trackCount": 1,
+          "trackCoveragePercent": "0.5%",
+          "sharePercent": "0.21%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 54,
+          "word": "dentro",
+          "occurrences": 39,
+          "trackCount": 13,
+          "trackCoveragePercent": "6.5%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 55,
+          "word": "pensar",
+          "occurrences": 38,
+          "trackCount": 13,
+          "trackCoveragePercent": "6.5%",
+          "sharePercent": "0.20%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 56,
+          "word": "vejo",
+          "occurrences": 37,
+          "trackCount": 16,
+          "trackCoveragePercent": "8.0%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 57,
+          "word": "ano",
+          "occurrences": 37,
+          "trackCount": 8,
+          "trackCoveragePercent": "4.0%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 58,
+          "word": "deixe",
+          "occurrences": 37,
+          "trackCount": 6,
+          "trackCoveragePercent": "3.0%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 59,
+          "word": "praia",
+          "occurrences": 37,
+          "trackCount": 5,
+          "trackCoveragePercent": "2.5%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 60,
+          "word": "hora",
+          "occurrences": 36,
+          "trackCount": 23,
+          "trackCoveragePercent": "11.5%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 61,
+          "word": "olhos",
+          "occurrences": 36,
+          "trackCount": 20,
+          "trackCoveragePercent": "10.0%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 62,
+          "word": "dois",
+          "occurrences": 36,
+          "trackCount": 19,
+          "trackCoveragePercent": "9.5%",
+          "sharePercent": "0.19%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 63,
+          "word": "vez",
+          "occurrences": 34,
+          "trackCount": 20,
+          "trackCoveragePercent": "10.0%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 64,
+          "word": "olhar",
+          "occurrences": 34,
+          "trackCount": 18,
+          "trackCoveragePercent": "9.0%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 65,
+          "word": "dar",
+          "occurrences": 34,
+          "trackCount": 15,
+          "trackCoveragePercent": "7.5%",
+          "sharePercent": "0.18%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 66,
+          "word": "medo",
+          "occurrences": 33,
+          "trackCount": 19,
+          "trackCoveragePercent": "9.5%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 67,
+          "word": "cara",
+          "occurrences": 33,
+          "trackCount": 18,
+          "trackCoveragePercent": "9.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 68,
+          "word": "acho",
+          "occurrences": 33,
+          "trackCount": 16,
+          "trackCoveragePercent": "8.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 69,
+          "word": "oi",
+          "occurrences": 33,
+          "trackCount": 2,
+          "trackCoveragePercent": "1.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 70,
+          "word": "disse",
+          "occurrences": 32,
+          "trackCount": 16,
+          "trackCoveragePercent": "8.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 71,
+          "word": "jeito",
+          "occurrences": 32,
+          "trackCount": 14,
+          "trackCoveragePercent": "7.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 72,
+          "word": "poder",
+          "occurrences": 32,
+          "trackCount": 14,
+          "trackCoveragePercent": "7.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 73,
+          "word": "filho",
+          "occurrences": 32,
+          "trackCount": 13,
+          "trackCoveragePercent": "6.5%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 74,
+          "word": "vezes",
+          "occurrences": 32,
+          "trackCount": 12,
+          "trackCoveragePercent": "6.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 75,
+          "word": "esperar",
+          "occurrences": 32,
+          "trackCount": 10,
+          "trackCoveragePercent": "5.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 76,
+          "word": "guerra",
+          "occurrences": 32,
+          "trackCount": 5,
+          "trackCoveragePercent": "2.5%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 77,
+          "word": "inútil",
+          "occurrences": 32,
+          "trackCount": 2,
+          "trackCoveragePercent": "1.0%",
+          "sharePercent": "0.17%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 78,
+          "word": "lado",
+          "occurrences": 31,
+          "trackCount": 19,
+          "trackCoveragePercent": "9.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 79,
+          "word": "sinto",
+          "occurrences": 31,
+          "trackCount": 13,
+          "trackCoveragePercent": "6.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 80,
+          "word": "money",
+          "occurrences": 31,
+          "trackCount": 2,
+          "trackCoveragePercent": "1.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 81,
+          "word": "casa",
+          "occurrences": 30,
+          "trackCount": 19,
+          "trackCoveragePercent": "9.5%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 82,
+          "word": "cidade",
+          "occurrences": 30,
+          "trackCount": 12,
+          "trackCoveragePercent": "6.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 83,
+          "word": "quis",
+          "occurrences": 30,
+          "trackCount": 12,
+          "trackCoveragePercent": "6.0%",
+          "sharePercent": "0.16%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 84,
+          "word": "vê",
+          "occurrences": 29,
+          "trackCount": 15,
+          "trackCoveragePercent": "7.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 85,
+          "word": "amigo",
+          "occurrences": 29,
+          "trackCount": 9,
+          "trackCoveragePercent": "4.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 86,
+          "word": "pessoas",
+          "occurrences": 29,
+          "trackCount": 9,
+          "trackCoveragePercent": "4.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 87,
+          "word": "mama",
+          "occurrences": 28,
+          "trackCount": 1,
+          "trackCoveragePercent": "0.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 88,
+          "word": "papa",
+          "occurrences": 28,
+          "trackCount": 1,
+          "trackCoveragePercent": "0.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 89,
+          "word": "suco",
+          "occurrences": 28,
+          "trackCount": 1,
+          "trackCoveragePercent": "0.5%",
+          "sharePercent": "0.15%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 90,
+          "word": "novo",
+          "occurrences": 27,
+          "trackCount": 16,
+          "trackCoveragePercent": "8.0%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 91,
+          "word": "vi",
+          "occurrences": 27,
+          "trackCount": 12,
+          "trackCoveragePercent": "6.0%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 92,
+          "word": "gosto",
+          "occurrences": 27,
+          "trackCount": 10,
+          "trackCoveragePercent": "5.0%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 93,
+          "word": "prá",
+          "occurrences": 27,
+          "trackCount": 6,
+          "trackCoveragePercent": "3.0%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 94,
+          "word": "velha",
+          "occurrences": 27,
+          "trackCount": 4,
+          "trackCoveragePercent": "2.0%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 95,
+          "word": "faço",
+          "occurrences": 26,
+          "trackCount": 17,
+          "trackCoveragePercent": "8.5%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 96,
+          "word": "sai",
+          "occurrences": 26,
+          "trackCount": 8,
+          "trackCoveragePercent": "4.0%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 97,
+          "word": "sonho",
+          "occurrences": 26,
+          "trackCount": 6,
+          "trackCoveragePercent": "3.0%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 98,
+          "word": "roda",
+          "occurrences": 26,
+          "trackCount": 5,
+          "trackCoveragePercent": "2.5%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 99,
+          "word": "oooh",
+          "occurrences": 26,
+          "trackCount": 3,
+          "trackCoveragePercent": "1.5%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        },
+        {
+          "rank": 100,
+          "word": "duvidar",
+          "occurrences": 26,
+          "trackCount": 2,
+          "trackCoveragePercent": "1.0%",
+          "sharePercent": "0.14%",
+          "isSwearWord": false
+        }
+      ]
+    }
+  ],
+  "topWords": [
+    {
+      "rank": 1,
+      "word": "quer",
+      "occurrences": 1450,
+      "trackCount": 440,
+      "trackCoveragePercent": "38.3%",
+      "sharePercent": "0.71%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 2,
+      "word": "yeah",
+      "occurrences": 1424,
+      "trackCount": 247,
+      "trackCoveragePercent": "21.5%",
+      "sharePercent": "0.70%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 3,
+      "word": "vem",
+      "occurrences": 1203,
+      "trackCount": 381,
+      "trackCoveragePercent": "33.1%",
+      "sharePercent": "0.59%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 4,
+      "word": "sei",
+      "occurrences": 1095,
+      "trackCount": 388,
+      "trackCoveragePercent": "33.7%",
+      "sharePercent": "0.53%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 5,
+      "word": "vida",
+      "occurrences": 1063,
+      "trackCount": 406,
+      "trackCoveragePercent": "35.3%",
+      "sharePercent": "0.52%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 6,
+      "word": "quero",
+      "occurrences": 1043,
+      "trackCount": 373,
+      "trackCoveragePercent": "32.4%",
+      "sharePercent": "0.51%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 7,
+      "word": "amor",
+      "occurrences": 990,
+      "trackCount": 289,
+      "trackCoveragePercent": "25.1%",
+      "sharePercent": "0.48%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 8,
+      "word": "faz",
+      "occurrences": 941,
+      "trackCount": 375,
+      "trackCoveragePercent": "32.6%",
+      "sharePercent": "0.46%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 9,
+      "word": "hoje",
+      "occurrences": 909,
+      "trackCount": 343,
+      "trackCoveragePercent": "29.8%",
+      "sharePercent": "0.44%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 10,
+      "word": "sabe",
+      "occurrences": 839,
+      "trackCount": 345,
+      "trackCoveragePercent": "30.0%",
+      "sharePercent": "0.41%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 11,
+      "word": "sempre",
+      "occurrences": 830,
+      "trackCount": 368,
+      "trackCoveragePercent": "32.0%",
+      "sharePercent": "0.41%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 12,
+      "word": "ver",
+      "occurrences": 770,
+      "trackCount": 332,
+      "trackCoveragePercent": "28.9%",
+      "sharePercent": "0.38%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 13,
+      "word": "nunca",
+      "occurrences": 769,
+      "trackCount": 345,
+      "trackCoveragePercent": "30.0%",
+      "sharePercent": "0.38%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 14,
+      "word": "cara",
+      "occurrences": 769,
+      "trackCount": 310,
+      "trackCoveragePercent": "27.0%",
+      "sharePercent": "0.38%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 15,
+      "word": "toma",
+      "occurrences": 737,
+      "trackCount": 94,
+      "trackCoveragePercent": "8.2%",
+      "sharePercent": "0.36%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 16,
+      "word": "mano",
+      "occurrences": 735,
+      "trackCount": 246,
+      "trackCoveragePercent": "21.4%",
+      "sharePercent": "0.36%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 17,
+      "word": "gente",
+      "occurrences": 712,
+      "trackCount": 259,
+      "trackCoveragePercent": "22.5%",
+      "sharePercent": "0.35%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 18,
+      "word": "agora",
+      "occurrences": 658,
+      "trackCount": 308,
+      "trackCoveragePercent": "26.8%",
+      "sharePercent": "0.32%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 19,
+      "word": "puta",
+      "occurrences": 653,
+      "trackCount": 177,
+      "trackCoveragePercent": "15.4%",
+      "sharePercent": "0.32%",
+      "isSwearWord": true
+    },
+    {
+      "rank": 20,
+      "word": "fazer",
+      "occurrences": 623,
+      "trackCount": 280,
+      "trackCoveragePercent": "24.3%",
+      "sharePercent": "0.30%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 21,
+      "word": "ah",
+      "occurrences": 618,
+      "trackCount": 200,
+      "trackCoveragePercent": "17.4%",
+      "sharePercent": "0.30%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 22,
+      "word": "deixa",
+      "occurrences": 616,
+      "trackCount": 236,
+      "trackCoveragePercent": "20.5%",
+      "sharePercent": "0.30%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 23,
+      "word": "dia",
+      "occurrences": 586,
+      "trackCount": 281,
+      "trackCoveragePercent": "24.4%",
+      "sharePercent": "0.29%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 24,
+      "word": "uh",
+      "occurrences": 560,
+      "trackCount": 115,
+      "trackCoveragePercent": "10.0%",
+      "sharePercent": "0.27%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 25,
+      "word": "tempo",
+      "occurrences": 559,
+      "trackCount": 250,
+      "trackCoveragePercent": "21.7%",
+      "sharePercent": "0.27%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 26,
+      "word": "senta",
+      "occurrences": 559,
+      "trackCount": 100,
+      "trackCoveragePercent": "8.7%",
+      "sharePercent": "0.27%",
+      "isSwearWord": true
+    },
+    {
+      "rank": 27,
+      "word": "fala",
+      "occurrences": 555,
+      "trackCount": 255,
+      "trackCoveragePercent": "22.2%",
+      "sharePercent": "0.27%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 28,
+      "word": "olha",
+      "occurrences": 542,
+      "trackCount": 215,
+      "trackCoveragePercent": "18.7%",
+      "sharePercent": "0.26%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 29,
+      "word": "dá",
+      "occurrences": 541,
+      "trackCount": 236,
+      "trackCoveragePercent": "20.5%",
+      "sharePercent": "0.26%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 30,
+      "word": "igual",
+      "occurrences": 527,
+      "trackCount": 252,
+      "trackCoveragePercent": "21.9%",
+      "sharePercent": "0.26%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 31,
+      "word": "tipo",
+      "occurrences": 527,
+      "trackCount": 236,
+      "trackCoveragePercent": "20.5%",
+      "sharePercent": "0.26%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 32,
+      "word": "dinheiro",
+      "occurrences": 524,
+      "trackCount": 226,
+      "trackCoveragePercent": "19.7%",
+      "sharePercent": "0.26%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 33,
+      "word": "ai",
+      "occurrences": 503,
+      "trackCount": 107,
+      "trackCoveragePercent": "9.3%",
+      "sharePercent": "0.25%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 34,
+      "word": "mundo",
+      "occurrences": 497,
+      "trackCount": 228,
+      "trackCoveragePercent": "19.8%",
+      "sharePercent": "0.24%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 35,
+      "word": "dar",
+      "occurrences": 483,
+      "trackCount": 215,
+      "trackCoveragePercent": "18.7%",
+      "sharePercent": "0.24%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 36,
+      "word": "joga",
+      "occurrences": 477,
+      "trackCount": 155,
+      "trackCoveragePercent": "13.5%",
+      "sharePercent": "0.23%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 37,
+      "word": "fica",
+      "occurrences": 471,
+      "trackCount": 215,
+      "trackCoveragePercent": "18.7%",
+      "sharePercent": "0.23%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 38,
+      "word": "melhor",
+      "occurrences": 468,
+      "trackCount": 215,
+      "trackCoveragePercent": "18.7%",
+      "sharePercent": "0.23%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 39,
+      "word": "pode",
+      "occurrences": 461,
+      "trackCount": 247,
+      "trackCoveragePercent": "21.5%",
+      "sharePercent": "0.23%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 40,
+      "word": "novo",
+      "occurrences": 454,
+      "trackCount": 185,
+      "trackCoveragePercent": "16.1%",
+      "sharePercent": "0.22%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 41,
+      "word": "ahn",
+      "occurrences": 438,
+      "trackCount": 126,
+      "trackCoveragePercent": "11.0%",
+      "sharePercent": "0.21%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 42,
+      "word": "oh",
+      "occurrences": 425,
+      "trackCount": 143,
+      "trackCoveragePercent": "12.4%",
+      "sharePercent": "0.21%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 43,
+      "word": "casa",
+      "occurrences": 424,
+      "trackCount": 217,
+      "trackCoveragePercent": "18.9%",
+      "sharePercent": "0.21%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 44,
+      "word": "noite",
+      "occurrences": 421,
+      "trackCount": 198,
+      "trackCoveragePercent": "17.2%",
+      "sharePercent": "0.21%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 45,
+      "word": "bom",
+      "occurrences": 417,
+      "trackCount": 206,
+      "trackCoveragePercent": "17.9%",
+      "sharePercent": "0.20%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 46,
+      "word": "ficar",
+      "occurrences": 410,
+      "trackCount": 205,
+      "trackCoveragePercent": "17.8%",
+      "sharePercent": "0.20%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 47,
+      "word": "boca",
+      "occurrences": 408,
+      "trackCount": 149,
+      "trackCoveragePercent": "13.0%",
+      "sharePercent": "0.20%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 48,
+      "word": "faço",
+      "occurrences": 405,
+      "trackCount": 205,
+      "trackCoveragePercent": "17.8%",
+      "sharePercent": "0.20%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 49,
+      "word": "baby",
+      "occurrences": 393,
+      "trackCount": 111,
+      "trackCoveragePercent": "9.7%",
+      "sharePercent": "0.19%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 50,
+      "word": "coração",
+      "occurrences": 392,
+      "trackCount": 187,
+      "trackCoveragePercent": "16.3%",
+      "sharePercent": "0.19%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 51,
+      "word": "deus",
+      "occurrences": 392,
+      "trackCount": 177,
+      "trackCoveragePercent": "15.4%",
+      "sharePercent": "0.19%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 52,
+      "word": "dois",
+      "occurrences": 377,
+      "trackCount": 169,
+      "trackCoveragePercent": "14.7%",
+      "sharePercent": "0.18%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 53,
+      "word": "dentro",
+      "occurrences": 360,
+      "trackCount": 172,
+      "trackCoveragePercent": "15.0%",
+      "sharePercent": "0.18%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 54,
+      "word": "vez",
+      "occurrences": 356,
+      "trackCount": 158,
+      "trackCoveragePercent": "13.7%",
+      "sharePercent": "0.17%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 55,
+      "word": "bunda",
+      "occurrences": 331,
+      "trackCount": 148,
+      "trackCoveragePercent": "12.9%",
+      "sharePercent": "0.16%",
+      "isSwearWord": true
+    },
+    {
+      "rank": 56,
+      "word": "bota",
+      "occurrences": 331,
+      "trackCount": 85,
+      "trackCoveragePercent": "7.4%",
+      "sharePercent": "0.16%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 57,
+      "word": "nego",
+      "occurrences": 329,
+      "trackCount": 114,
+      "trackCoveragePercent": "9.9%",
+      "sharePercent": "0.16%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 58,
+      "word": "mão",
+      "occurrences": 328,
+      "trackCount": 154,
+      "trackCoveragePercent": "13.4%",
+      "sharePercent": "0.16%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 59,
+      "word": "gosta",
+      "occurrences": 322,
+      "trackCount": 141,
+      "trackCoveragePercent": "12.3%",
+      "sharePercent": "0.16%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 60,
+      "word": "falar",
+      "occurrences": 320,
+      "trackCount": 181,
+      "trackCoveragePercent": "15.7%",
+      "sharePercent": "0.16%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 61,
+      "word": "mina",
+      "occurrences": 315,
+      "trackCount": 141,
+      "trackCoveragePercent": "12.3%",
+      "sharePercent": "0.15%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 62,
+      "word": "mente",
+      "occurrences": 311,
+      "trackCount": 166,
+      "trackCoveragePercent": "14.4%",
+      "sharePercent": "0.15%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 63,
+      "word": "lado",
+      "occurrences": 307,
+      "trackCount": 174,
+      "trackCoveragePercent": "15.1%",
+      "sharePercent": "0.15%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 64,
+      "word": "porra",
+      "occurrences": 304,
+      "trackCount": 158,
+      "trackCoveragePercent": "13.7%",
+      "sharePercent": "0.15%",
+      "isSwearWord": true
+    },
+    {
+      "rank": 65,
+      "word": "viver",
+      "occurrences": 297,
+      "trackCount": 138,
+      "trackCoveragePercent": "12.0%",
+      "sharePercent": "0.15%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 66,
+      "word": "posso",
+      "occurrences": 297,
+      "trackCount": 130,
+      "trackCoveragePercent": "11.3%",
+      "sharePercent": "0.15%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 67,
+      "word": "bala",
+      "occurrences": 294,
+      "trackCount": 140,
+      "trackCoveragePercent": "12.2%",
+      "sharePercent": "0.14%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 68,
+      "word": "diz",
+      "occurrences": 293,
+      "trackCount": 158,
+      "trackCoveragePercent": "13.7%",
+      "sharePercent": "0.14%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 69,
+      "word": "chama",
+      "occurrences": 288,
+      "trackCount": 121,
+      "trackCoveragePercent": "10.5%",
+      "sharePercent": "0.14%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 70,
+      "word": "mulher",
+      "occurrences": 286,
+      "trackCount": 104,
+      "trackCoveragePercent": "9.0%",
+      "sharePercent": "0.14%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 71,
+      "word": "rua",
+      "occurrences": 282,
+      "trackCount": 147,
+      "trackCoveragePercent": "12.8%",
+      "sharePercent": "0.14%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 72,
+      "word": "amiga",
+      "occurrences": 281,
+      "trackCount": 93,
+      "trackCoveragePercent": "8.1%",
+      "sharePercent": "0.14%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 73,
+      "word": "hora",
+      "occurrences": 278,
+      "trackCount": 148,
+      "trackCoveragePercent": "12.9%",
+      "sharePercent": "0.14%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 74,
+      "word": "bum",
+      "occurrences": 277,
+      "trackCount": 4,
+      "trackCoveragePercent": "0.3%",
+      "sharePercent": "0.14%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 75,
+      "word": "fazendo",
+      "occurrences": 276,
+      "trackCount": 151,
+      "trackCoveragePercent": "13.1%",
+      "sharePercent": "0.13%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 76,
+      "word": "saber",
+      "occurrences": 276,
+      "trackCount": 146,
+      "trackCoveragePercent": "12.7%",
+      "sharePercent": "0.13%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 77,
+      "word": "vi",
+      "occurrences": 275,
+      "trackCount": 157,
+      "trackCoveragePercent": "13.7%",
+      "sharePercent": "0.13%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 78,
+      "word": "sinto",
+      "occurrences": 272,
+      "trackCount": 140,
+      "trackCoveragePercent": "12.2%",
+      "sharePercent": "0.13%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 79,
+      "word": "foda",
+      "occurrences": 272,
+      "trackCount": 131,
+      "trackCoveragePercent": "11.4%",
+      "sharePercent": "0.13%",
+      "isSwearWord": true
+    },
+    {
+      "rank": 80,
+      "word": "jeito",
+      "occurrences": 265,
+      "trackCount": 144,
+      "trackCoveragePercent": "12.5%",
+      "sharePercent": "0.13%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 81,
+      "word": "sentar",
+      "occurrences": 264,
+      "trackCount": 62,
+      "trackCoveragePercent": "5.4%",
+      "sharePercent": "0.13%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 82,
+      "word": "grana",
+      "occurrences": 263,
+      "trackCount": 151,
+      "trackCoveragePercent": "13.1%",
+      "sharePercent": "0.13%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 83,
+      "word": "fez",
+      "occurrences": 263,
+      "trackCount": 131,
+      "trackCoveragePercent": "11.4%",
+      "sharePercent": "0.13%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 84,
+      "word": "saudade",
+      "occurrences": 262,
+      "trackCount": 102,
+      "trackCoveragePercent": "8.9%",
+      "sharePercent": "0.13%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 85,
+      "word": "volta",
+      "occurrences": 260,
+      "trackCount": 111,
+      "trackCoveragePercent": "9.7%",
+      "sharePercent": "0.13%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 86,
+      "word": "passa",
+      "occurrences": 259,
+      "trackCount": 144,
+      "trackCoveragePercent": "12.5%",
+      "sharePercent": "0.13%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 87,
+      "word": "vê",
+      "occurrences": 258,
+      "trackCount": 146,
+      "trackCoveragePercent": "12.7%",
+      "sharePercent": "0.13%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 88,
+      "word": "fim",
+      "occurrences": 257,
+      "trackCount": 132,
+      "trackCoveragePercent": "11.5%",
+      "sharePercent": "0.13%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 89,
+      "word": "lugar",
+      "occurrences": 250,
+      "trackCount": 119,
+      "trackCoveragePercent": "10.3%",
+      "sharePercent": "0.12%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 90,
+      "word": "novinha",
+      "occurrences": 250,
+      "trackCount": 89,
+      "trackCoveragePercent": "7.7%",
+      "sharePercent": "0.12%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 91,
+      "word": "pai",
+      "occurrences": 246,
+      "trackCount": 117,
+      "trackCoveragePercent": "10.2%",
+      "sharePercent": "0.12%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 92,
+      "word": "frente",
+      "occurrences": 242,
+      "trackCount": 145,
+      "trackCoveragePercent": "12.6%",
+      "sharePercent": "0.12%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 93,
+      "word": "fiz",
+      "occurrences": 242,
+      "trackCount": 139,
+      "trackCoveragePercent": "12.1%",
+      "sharePercent": "0.12%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 94,
+      "word": "baile",
+      "occurrences": 242,
+      "trackCount": 96,
+      "trackCoveragePercent": "8.3%",
+      "sharePercent": "0.12%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 95,
+      "word": "som",
+      "occurrences": 232,
+      "trackCount": 114,
+      "trackCoveragePercent": "9.9%",
+      "sharePercent": "0.11%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 96,
+      "word": "bitch",
+      "occurrences": 232,
+      "trackCount": 103,
+      "trackCoveragePercent": "9.0%",
+      "sharePercent": "0.11%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 97,
+      "word": "queria",
+      "occurrences": 231,
+      "trackCount": 98,
+      "trackCoveragePercent": "8.5%",
+      "sharePercent": "0.11%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 98,
+      "word": "cima",
+      "occurrences": 230,
+      "trackCount": 127,
+      "trackCoveragePercent": "11.0%",
+      "sharePercent": "0.11%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 99,
+      "word": "deu",
+      "occurrences": 228,
+      "trackCount": 131,
+      "trackCoveragePercent": "11.4%",
+      "sharePercent": "0.11%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 100,
+      "word": "voltar",
+      "occurrences": 227,
+      "trackCount": 109,
+      "trackCoveragePercent": "9.5%",
+      "sharePercent": "0.11%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 101,
+      "word": "amo",
+      "occurrences": 226,
+      "trackCount": 93,
+      "trackCoveragePercent": "8.1%",
+      "sharePercent": "0.11%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 102,
+      "word": "vejo",
+      "occurrences": 225,
+      "trackCount": 125,
+      "trackCoveragePercent": "10.9%",
+      "sharePercent": "0.11%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 103,
+      "word": "disse",
+      "occurrences": 224,
+      "trackCount": 129,
+      "trackCoveragePercent": "11.2%",
+      "sharePercent": "0.11%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 104,
+      "word": "parar",
+      "occurrences": 223,
+      "trackCount": 94,
+      "trackCoveragePercent": "8.2%",
+      "sharePercent": "0.11%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 105,
+      "word": "pede",
+      "occurrences": 222,
+      "trackCount": 97,
+      "trackCoveragePercent": "8.4%",
+      "sharePercent": "0.11%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 106,
+      "word": "nome",
+      "occurrences": 221,
+      "trackCount": 127,
+      "trackCoveragePercent": "11.0%",
+      "sharePercent": "0.11%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 107,
+      "word": "carro",
+      "occurrences": 219,
+      "trackCount": 122,
+      "trackCoveragePercent": "10.6%",
+      "sharePercent": "0.11%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 108,
+      "word": "ama",
+      "occurrences": 218,
+      "trackCount": 98,
+      "trackCoveragePercent": "8.5%",
+      "sharePercent": "0.11%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 109,
+      "word": "gostosa",
+      "occurrences": 218,
+      "trackCount": 82,
+      "trackCoveragePercent": "7.1%",
+      "sharePercent": "0.11%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 110,
+      "word": "alto",
+      "occurrences": 217,
+      "trackCount": 90,
+      "trackCoveragePercent": "7.8%",
+      "sharePercent": "0.11%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 111,
+      "word": "paz",
+      "occurrences": 215,
+      "trackCount": 103,
+      "trackCoveragePercent": "9.0%",
+      "sharePercent": "0.10%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 112,
+      "word": "acho",
+      "occurrences": 212,
+      "trackCount": 108,
+      "trackCoveragePercent": "9.4%",
+      "sharePercent": "0.10%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 113,
+      "word": "dj",
+      "occurrences": 209,
+      "trackCount": 92,
+      "trackCoveragePercent": "8.0%",
+      "sharePercent": "0.10%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 114,
+      "word": "sol",
+      "occurrences": 208,
+      "trackCount": 100,
+      "trackCoveragePercent": "8.7%",
+      "sharePercent": "0.10%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 115,
+      "word": "né",
+      "occurrences": 207,
+      "trackCount": 122,
+      "trackCoveragePercent": "10.6%",
+      "sharePercent": "0.10%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 116,
+      "word": "cama",
+      "occurrences": 203,
+      "trackCount": 110,
+      "trackCoveragePercent": "9.6%",
+      "sharePercent": "0.10%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 117,
+      "word": "dando",
+      "occurrences": 203,
+      "trackCount": 63,
+      "trackCoveragePercent": "5.5%",
+      "sharePercent": "0.10%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 118,
+      "word": "pega",
+      "occurrences": 202,
+      "trackCount": 107,
+      "trackCoveragePercent": "9.3%",
+      "sharePercent": "0.10%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 119,
+      "word": "beat",
+      "occurrences": 202,
+      "trackCount": 98,
+      "trackCoveragePercent": "8.5%",
+      "sharePercent": "0.10%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 120,
+      "word": "jogo",
+      "occurrences": 201,
+      "trackCount": 142,
+      "trackCoveragePercent": "12.3%",
+      "sharePercent": "0.10%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 121,
+      "word": "liga",
+      "occurrences": 201,
+      "trackCount": 96,
+      "trackCoveragePercent": "8.3%",
+      "sharePercent": "0.10%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 122,
+      "word": "querendo",
+      "occurrences": 199,
+      "trackCount": 101,
+      "trackCoveragePercent": "8.8%",
+      "sharePercent": "0.10%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 123,
+      "word": "fora",
+      "occurrences": 198,
+      "trackCount": 107,
+      "trackCoveragePercent": "9.3%",
+      "sharePercent": "0.10%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 124,
+      "word": "vim",
+      "occurrences": 197,
+      "trackCount": 114,
+      "trackCoveragePercent": "9.9%",
+      "sharePercent": "0.10%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 125,
+      "word": "bebê",
+      "occurrences": 194,
+      "trackCount": 85,
+      "trackCoveragePercent": "7.4%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 126,
+      "word": "rap",
+      "occurrences": 194,
+      "trackCount": 77,
+      "trackCoveragePercent": "6.7%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 127,
+      "word": "bate",
+      "occurrences": 194,
+      "trackCount": 67,
+      "trackCoveragePercent": "5.8%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 128,
+      "word": "dizer",
+      "occurrences": 191,
+      "trackCount": 98,
+      "trackCoveragePercent": "8.5%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 129,
+      "word": "pé",
+      "occurrences": 191,
+      "trackCount": 92,
+      "trackCoveragePercent": "8.0%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 130,
+      "word": "louco",
+      "occurrences": 190,
+      "trackCount": 107,
+      "trackCoveragePercent": "9.3%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 131,
+      "word": "vendo",
+      "occurrences": 190,
+      "trackCount": 93,
+      "trackCoveragePercent": "8.1%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 132,
+      "word": "viu",
+      "occurrences": 188,
+      "trackCount": 108,
+      "trackCoveragePercent": "9.4%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 133,
+      "word": "gang",
+      "occurrences": 188,
+      "trackCount": 53,
+      "trackCoveragePercent": "4.6%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 134,
+      "word": "pau",
+      "occurrences": 187,
+      "trackCount": 63,
+      "trackCoveragePercent": "5.5%",
+      "sharePercent": "0.09%",
+      "isSwearWord": true
+    },
+    {
+      "rank": 135,
+      "word": "tropa",
+      "occurrences": 184,
+      "trackCount": 72,
+      "trackCoveragePercent": "6.3%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 136,
+      "word": "verdade",
+      "occurrences": 183,
+      "trackCount": 102,
+      "trackCoveragePercent": "8.9%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 137,
+      "word": "sai",
+      "occurrences": 183,
+      "trackCount": 90,
+      "trackCoveragePercent": "7.8%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 138,
+      "word": "fumando",
+      "occurrences": 182,
+      "trackCount": 83,
+      "trackCoveragePercent": "7.2%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 139,
+      "word": "esquecer",
+      "occurrences": 181,
+      "trackCount": 73,
+      "trackCoveragePercent": "6.3%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 140,
+      "word": "mãe",
+      "occurrences": 180,
+      "trackCount": 107,
+      "trackCoveragePercent": "9.3%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 141,
+      "word": "desce",
+      "occurrences": 180,
+      "trackCount": 62,
+      "trackCoveragePercent": "5.4%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 142,
+      "word": "gosto",
+      "occurrences": 179,
+      "trackCount": 96,
+      "trackCoveragePercent": "8.3%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 143,
+      "word": "droga",
+      "occurrences": 179,
+      "trackCount": 89,
+      "trackCoveragePercent": "7.7%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 144,
+      "word": "oi",
+      "occurrences": 179,
+      "trackCount": 52,
+      "trackCoveragePercent": "4.5%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 145,
+      "word": "feliz",
+      "occurrences": 178,
+      "trackCount": 79,
+      "trackCoveragePercent": "6.9%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 146,
+      "word": "fé",
+      "occurrences": 177,
+      "trackCount": 103,
+      "trackCoveragePercent": "9.0%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 147,
+      "word": "homem",
+      "occurrences": 176,
+      "trackCount": 92,
+      "trackCoveragePercent": "8.0%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 148,
+      "word": "atrás",
+      "occurrences": 176,
+      "trackCount": 91,
+      "trackCoveragePercent": "7.9%",
+      "sharePercent": "0.09%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 149,
+      "word": "conta",
+      "occurrences": 174,
+      "trackCount": 98,
+      "trackCoveragePercent": "8.5%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 150,
+      "word": "ei",
+      "occurrences": 173,
+      "trackCount": 67,
+      "trackCoveragePercent": "5.8%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 151,
+      "word": "cabeça",
+      "occurrences": 172,
+      "trackCount": 100,
+      "trackCoveragePercent": "8.7%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 152,
+      "word": "vezes",
+      "occurrences": 172,
+      "trackCount": 97,
+      "trackCoveragePercent": "8.4%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 153,
+      "word": "forte",
+      "occurrences": 171,
+      "trackCount": 89,
+      "trackCoveragePercent": "7.7%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 154,
+      "word": "olho",
+      "occurrences": 170,
+      "trackCount": 93,
+      "trackCoveragePercent": "8.1%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 155,
+      "word": "parece",
+      "occurrences": 169,
+      "trackCount": 97,
+      "trackCoveragePercent": "8.4%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 156,
+      "word": "falando",
+      "occurrences": 169,
+      "trackCount": 95,
+      "trackCoveragePercent": "8.3%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 157,
+      "word": "wow",
+      "occurrences": 169,
+      "trackCount": 45,
+      "trackCoveragePercent": "3.9%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 158,
+      "word": "coisa",
+      "occurrences": 167,
+      "trackCount": 129,
+      "trackCoveragePercent": "11.2%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 159,
+      "word": "moleque",
+      "occurrences": 167,
+      "trackCount": 77,
+      "trackCoveragePercent": "6.7%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 160,
+      "word": "buceta",
+      "occurrences": 166,
+      "trackCount": 53,
+      "trackCoveragePercent": "4.6%",
+      "sharePercent": "0.08%",
+      "isSwearWord": true
+    },
+    {
+      "rank": 161,
+      "word": "medo",
+      "occurrences": 165,
+      "trackCount": 95,
+      "trackCoveragePercent": "8.3%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 162,
+      "word": "fácil",
+      "occurrences": 165,
+      "trackCount": 88,
+      "trackCoveragePercent": "7.7%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 163,
+      "word": "roupa",
+      "occurrences": 164,
+      "trackCount": 91,
+      "trackCoveragePercent": "7.9%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 164,
+      "word": "fico",
+      "occurrences": 163,
+      "trackCount": 97,
+      "trackCoveragePercent": "8.4%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 165,
+      "word": "deixar",
+      "occurrences": 162,
+      "trackCount": 91,
+      "trackCoveragePercent": "7.9%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 166,
+      "word": "linda",
+      "occurrences": 161,
+      "trackCount": 95,
+      "trackCoveragePercent": "8.3%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 167,
+      "word": "louca",
+      "occurrences": 161,
+      "trackCount": 79,
+      "trackCoveragePercent": "6.9%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 168,
+      "word": "vadia",
+      "occurrences": 161,
+      "trackCount": 73,
+      "trackCoveragePercent": "6.3%",
+      "sharePercent": "0.08%",
+      "isSwearWord": true
+    },
+    {
+      "rank": 169,
+      "word": "corpo",
+      "occurrences": 160,
+      "trackCount": 94,
+      "trackCoveragePercent": "8.2%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 170,
+      "word": "mó",
+      "occurrences": 160,
+      "trackCount": 87,
+      "trackCoveragePercent": "7.6%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 171,
+      "word": "copo",
+      "occurrences": 160,
+      "trackCount": 78,
+      "trackCoveragePercent": "6.8%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 172,
+      "word": "bonde",
+      "occurrences": 160,
+      "trackCount": 65,
+      "trackCoveragePercent": "5.7%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 173,
+      "word": "duas",
+      "occurrences": 159,
+      "trackCount": 90,
+      "trackCoveragePercent": "7.8%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 174,
+      "word": "onda",
+      "occurrences": 159,
+      "trackCount": 75,
+      "trackCoveragePercent": "6.5%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 175,
+      "word": "beijo",
+      "occurrences": 157,
+      "trackCount": 73,
+      "trackCoveragePercent": "6.3%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 176,
+      "word": "pego",
+      "occurrences": 157,
+      "trackCount": 71,
+      "trackCoveragePercent": "6.2%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 177,
+      "word": "quatro",
+      "occurrences": 156,
+      "trackCount": 87,
+      "trackCoveragePercent": "7.6%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 178,
+      "word": "meio",
+      "occurrences": 155,
+      "trackCount": 102,
+      "trackCoveragePercent": "8.9%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 179,
+      "word": "quiser",
+      "occurrences": 155,
+      "trackCount": 87,
+      "trackCoveragePercent": "7.6%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 180,
+      "word": "manda",
+      "occurrences": 155,
+      "trackCount": 84,
+      "trackCoveragePercent": "7.3%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 181,
+      "word": "ano",
+      "occurrences": 155,
+      "trackCount": 78,
+      "trackCoveragePercent": "6.8%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 182,
+      "word": "chão",
+      "occurrences": 155,
+      "trackCount": 73,
+      "trackCoveragePercent": "6.3%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 183,
+      "word": "menor",
+      "occurrences": 154,
+      "trackCount": 77,
+      "trackCoveragePercent": "6.7%",
+      "sharePercent": "0.08%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 184,
+      "word": "três",
+      "occurrences": 153,
+      "trackCount": 80,
+      "trackCoveragePercent": "7.0%",
+      "sharePercent": "0.07%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 185,
+      "word": "quis",
+      "occurrences": 153,
+      "trackCount": 76,
+      "trackCoveragePercent": "6.6%",
+      "sharePercent": "0.07%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 186,
+      "word": "história",
+      "occurrences": 152,
+      "trackCount": 90,
+      "trackCoveragePercent": "7.8%",
+      "sharePercent": "0.07%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 187,
+      "word": "passo",
+      "occurrences": 152,
+      "trackCount": 84,
+      "trackCoveragePercent": "7.3%",
+      "sharePercent": "0.07%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 188,
+      "word": "caralho",
+      "occurrences": 152,
+      "trackCount": 81,
+      "trackCoveragePercent": "7.0%",
+      "sharePercent": "0.07%",
+      "isSwearWord": true
+    },
+    {
+      "rank": 189,
+      "word": "tarde",
+      "occurrences": 152,
+      "trackCount": 77,
+      "trackCoveragePercent": "6.7%",
+      "sharePercent": "0.07%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 190,
+      "word": "preciso",
+      "occurrences": 152,
+      "trackCount": 73,
+      "trackCoveragePercent": "6.3%",
+      "sharePercent": "0.07%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 191,
+      "word": "yo",
+      "occurrences": 150,
+      "trackCount": 18,
+      "trackCoveragePercent": "1.6%",
+      "sharePercent": "0.07%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 192,
+      "word": "longe",
+      "occurrences": 149,
+      "trackCount": 94,
+      "trackCoveragePercent": "8.2%",
+      "sharePercent": "0.07%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 193,
+      "word": "luz",
+      "occurrences": 148,
+      "trackCount": 60,
+      "trackCoveragePercent": "5.2%",
+      "sharePercent": "0.07%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 194,
+      "word": "merda",
+      "occurrences": 143,
+      "trackCount": 84,
+      "trackCoveragePercent": "7.3%",
+      "sharePercent": "0.07%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 195,
+      "word": "irmão",
+      "occurrences": 143,
+      "trackCount": 71,
+      "trackCoveragePercent": "6.2%",
+      "sharePercent": "0.07%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 196,
+      "word": "favela",
+      "occurrences": 142,
+      "trackCount": 64,
+      "trackCoveragePercent": "5.6%",
+      "sharePercent": "0.07%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 197,
+      "word": "balança",
+      "occurrences": 142,
+      "trackCount": 32,
+      "trackCoveragePercent": "2.8%",
+      "sharePercent": "0.07%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 198,
+      "word": "olhar",
+      "occurrences": 141,
+      "trackCount": 87,
+      "trackCoveragePercent": "7.6%",
+      "sharePercent": "0.07%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 199,
+      "word": "família",
+      "occurrences": 141,
+      "trackCount": 80,
+      "trackCoveragePercent": "7.0%",
+      "sharePercent": "0.07%",
+      "isSwearWord": false
+    },
+    {
+      "rank": 200,
+      "word": "manos",
+      "occurrences": 141,
+      "trackCount": 70,
+      "trackCoveragePercent": "6.1%",
+      "sharePercent": "0.07%",
+      "isSwearWord": false
+    }
+  ]
+}

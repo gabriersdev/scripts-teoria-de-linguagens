@@ -19,22 +19,31 @@ public static class Program
             string inputDir = Path.GetFullPath(Path.Combine(baseDir, "input", "lyrics-data", "lyrics"));
             string outputDir = Path.GetFullPath(Path.Combine(baseDir, "output", "lyrics"));
             string summaryPath = Path.GetFullPath(Path.Combine(baseDir, "output", "summary.json"));
+            string linearityCsvPath = Path.GetFullPath(Path.Combine(baseDir, "output", "linearity-metrics.csv"));
 
             var service = new SwearWordMaskerService();
             ExecutionSummary summary = service.ProcessDirectory(
                 swearWordsPath,
                 inputDir,
                 outputDir,
-                summaryPath
+                summaryPath,
+                linearityCsvPath
             );
 
             Console.WriteLine("[C#] Swear word masking completed.");
-            Console.WriteLine($"  Swear words loaded : {summary.SwearWordsLoaded}");
-            Console.WriteLine($"  Files processed    : {summary.FilesProcessed}");
-            Console.WriteLine($"  Files with matches : {summary.FilesWithMatches}");
-            Console.WriteLine($"  Total matches      : {summary.TotalMatches}");
-            Console.WriteLine(string.Format(CultureInfo.InvariantCulture, "  Elapsed time (ms)  : {0:F2}", summary.ElapsedMs));
-            Console.WriteLine($"  Output directory   : {summary.OutputDir}");
+            Console.WriteLine($"  Swear words loaded  : {summary.SwearWordsLoaded}");
+            Console.WriteLine($"  Files processed     : {summary.FilesProcessed}");
+            Console.WriteLine($"  Files with matches  : {summary.FilesWithMatches}");
+            Console.WriteLine($"  Total matches       : {summary.TotalMatches}");
+            Console.WriteLine($"  Total characters    : {summary.TotalCharacters}");
+            Console.WriteLine(string.Format(CultureInfo.InvariantCulture, "  Regex compile (ms)  : {0:F4}", summary.RegexCompileMs));
+            Console.WriteLine(string.Format(CultureInfo.InvariantCulture, "  Pure matching (ms)  : {0:F2}", summary.MatchingTimeMs));
+            Console.WriteLine(string.Format(CultureInfo.InvariantCulture, "  Elapsed time (ms)   : {0:F2}", summary.ElapsedMs));
+            Console.WriteLine(string.Format(CultureInfo.InvariantCulture, "  Time/char (ns/char) : {0:F2}", summary.NsPerChar));
+            Console.WriteLine(string.Format(CultureInfo.InvariantCulture, "  Throughput (ch/ms)  : {0:F2}", summary.CharsPerMs));
+            Console.WriteLine(string.Format(CultureInfo.InvariantCulture, "  Throughput (MB/s)   : {0:F2}", summary.ThroughputMBs));
+            Console.WriteLine(string.Format(CultureInfo.InvariantCulture, "  Linearity r / R^2   : {0:F4} / {1:F4}", summary.PearsonCorrelationR, summary.RSquared));
+            Console.WriteLine($"  Output directory    : {summary.OutputDir}");
 
             return 0;
         }

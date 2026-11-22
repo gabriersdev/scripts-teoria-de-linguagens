@@ -1,9 +1,19 @@
 {
   "language": "TypeScript",
-  "swearWordsLoaded": 161,
+  "swearWordsLoaded": 159,
   "filesProcessed": 1150,
-  "filesWithMatches": 639,
-  "totalMatches": 5286,
-  "elapsedMs": 897.15,
+  "filesWithMatches": 636,
+  "totalMatches": 5244,
+  "totalCharacters": 2281726,
+  "totalBytes": 2346003,
+  "regexCompileMs": 10.6019,
+  "matchingTimeMs": 41.47,
+  "matchingTimeNs": 41473600,
+  "elapsedMs": 1080.99,
+  "nsPerChar": 18.18,
+  "charsPerMs": 55016.35,
+  "throughputMBs": 56.57,
+  "pearsonCorrelationR": 0.2671,
+  "rSquared": 0.0713,
   "outputDir": "C:\\projects\\scripts-teoria-de-linguagens\\analysis\\typescript\\output\\lyrics"
 }

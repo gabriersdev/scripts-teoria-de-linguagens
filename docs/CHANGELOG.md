@@ -8,14 +8,62 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 - Diretrizes de codificação para C# em `docs/CODING-GUIDELINES-CSHARP.md` baseadas nas convenções oficiais da Microsoft.
 - Scripts de identificação e mascaramento de palavrões (A05 / F2) com geração dinâmica de expressões regulares a partir de `lib/swear-words.json`:
   - `analysis/typescript/mask-swear-words.ts` (TypeScript)
-  - `analysis/julia/mask_swear_words.jl` (Julia)
+  - `analysis/julia/maskSwearWords.jl` (Julia)
   - `analysis/java/SwearWordMasker.java` (Java)
   - `analysis/csharp/SwearWordMasker.csproj`, `SwearWordRegexBuilder.cs`, `SwearWordMaskerService.cs` e `Program.cs` (C# / .NET 8)
 - Suporte unificado nas 4 linguagens para repetição positiva (`+`), plural opcional (`s*`), censura da 2ª letra (`*`/`#`), acentuação opcional, marcador `[X]` (`[ao]+`), flag case-insensitive, fronteiras Unicode de palavra e mascaramento a partir da 2ª letra (`puta` -> `p***`), com saída em `output/lyrics/` e métricas em `output/summary.json`.
+- Otimização de desempenho nas 4 linguagens com fatoração à esquerda por Trie de prefixos (reduzindo 161 alternâncias no topo para ramos agrupados por inicial) mantendo 0 divergências MD5 nos 1.150 arquivos:
+  - Julia (`analysis/julia/maskSwearWords.jl`): Trie de prefixos e remoção de alocação intermediária em `maskterm` (~748 ms -> ~547 ms).
+  - Java (`analysis/java/SwearWordMasker.java`): Trie de prefixos e escape seletivo de metacaracteres no lugar de `Pattern.quote` (~1661 ms -> ~627 ms).
+  - TypeScript (`analysis/typescript/mask-swear-words.ts`): Trie de prefixos (~1072 ms -> ~728 ms).
+  - C# (`analysis/csharp/SwearWordRegexBuilder.cs` e `SwearWordMaskerService.cs`): Trie de prefixos, `RegexOptions.CultureInvariant`, remoção de `RegexOptions.Compiled` para lote curto e reutilização de `UTF8Encoding` (~4082 ms -> ~904 ms).
 
 ### Modificado
 - `docs/ARCHITECTURE.md` e `docs/BUSINESS-RULES.md`:
   - Documentação da estrutura `/analysis` e da regra de negócio 12 para geração dinâmica de regex e mascaramento multilíngue.
+
+## [1.7.0] - 2026-11-21
+
+### Adicionado
+- Diretrizes de codificação para C# em `docs/CODING-GUIDELINES-CSHARP.md` baseadas nas convenções oficiais da Microsoft.
+- Scripts de identificação e mascaramento de palavrões (A05 / F2) com geração dinâmica de expressões regulares a partir de `lib/swear-words.json`:
+  - `analysis/typescript/mask-swear-words.ts` (TypeScript)
+  - `analysis/julia/maskSwearWords.jl` (Julia)
+  - `analysis/java/SwearWordMasker.java` (Java)
+  - `analysis/csharp/SwearWordMasker.csproj`, `SwearWordRegexBuilder.cs`, `SwearWordMaskerService.cs` e `Program.cs` (C# / .NET 8)
+- Suporte unificado nas 4 linguagens para repetição positiva (`+`), plural opcional (`s*`), censura da 2ª letra (`*`/`#`), acentuação opcional, marcador `[X]` (`[ao]+`), flag case-insensitive, fronteiras Unicode de palavra e mascaramento a partir da 2ª letra (`puta` -> `p***`), com saída em `output/lyrics/` e métricas em `output/summary.json`.
+- Otimização de desempenho nas 4 linguagens com fatoração à esquerda por Trie de prefixos (reduzindo 161 alternâncias no topo para ramos agrupados por inicial) mantendo 0 divergências MD5 nos 1.150 arquivos:
+  - Julia (`analysis/julia/maskSwearWords.jl`): Trie de prefixos e remoção de alocação intermediária em `maskterm`.
+  - Java (`analysis/java/SwearWordMasker.java`): Trie de prefixos e escape seletivo de metacaracteres no lugar de `Pattern.quote`.
+  - TypeScript (`analysis/typescript/mask-swear-words.ts`): Trie de prefixos.
+  - C# (`analysis/csharp/SwearWordRegexBuilder.cs` e `SwearWordMaskerService.cs`): Trie de prefixos, `RegexOptions.CultureInvariant`, remoção de `RegexOptions.Compiled` para lote curto e reutilização de `UTF8Encoding`.
+- Métricas experimentais de desempenho e linearidade $O(n)$ nos 4 scripts (`output/summary.json` e `output/linearity-metrics.csv`):
+  - Separação entre tempo de compilação da regex (`regexCompileMs`), tempo de matching puro (`matchingTimeNs` / `matchingTimeMs`) e tempo total com I/O (`elapsedMs`).
+  - Cálculo de custo por caractere (`nsPerChar`), throughput normalizado (`charsPerMs` e `throughputMBs`), correlação linear de Pearson (`pearsonCorrelationR`) e coeficiente de determinação (`rSquared`), com aquecimento prévio de JIT (50 iterações) antes do laço de medição para eliminar o ruído de cold start na série por faixa em CSV (`file,characters,bytes,matches,matching_us,ns_per_char`).
+
+### Modificado
+- `docs/ARCHITECTURE.md` e `docs/BUSINESS-RULES.md`:
+  - Documentação da estrutura `/analysis`, da regra de negócio 12 para geração dinâmica de regex/mascaramento multilíngue e das métricas experimentais de throughput e linearidade.
+
+## [1.7.0] - 2026-11-21
+
+### Adicionado
+- Diretrizes de codificação para C# em `docs/CODING-GUIDELINES-CSHARP.md` baseadas nas convenções oficiais da Microsoft.
+- Scripts de identificação e mascaramento de palavrões (A05 / F2) com geração dinâmica de expressões regulares a partir de `lib/swear-words.json`:
+  - `analysis/typescript/mask-swear-words.ts` (TypeScript)
+  - `analysis/julia/maskSwearWords.jl` (Julia, com flag `--export-analysis` para exportar `output/matches-catalog.csv`)
+  - `analysis/java/SwearWordMasker.java` (Java)
+  - `analysis/csharp/SwearWordMasker.csproj`, `SwearWordRegexBuilder.cs`, `SwearWordMaskerService.cs` e `Program.cs` (C# / .NET 8)
+- Otimização de desempenho nas 4 linguagens com fatoração à esquerda por Trie de prefixos (mantendo 0 divergências MD5 nos 1.150 arquivos).
+- Métricas experimentais de desempenho e linearidade $O(n)$ (`output/summary.json` e `output/linearity-metrics.csv`) nos 4 scripts com aquecimento prévio de JIT (`regexCompileMs`, `matchingTimeMs`, `elapsedMs`, `nsPerChar`, `charsPerMs`, `throughputMBs`, `pearsonCorrelationR`, `rSquared`).
+- Camada de análise de dados em `/data-analysis/` (arquivos padronizados em `camelCase`):
+  - `data-analysis/runAnalysisPipeline.py` (comando `npm run analyze:all`): orquestrador mestre que executa sequencialmente os 4 scripts de análise, valida paridade entre engines, atualiza `incidenceWordsReport.json`, reconstrói todos os datasets via `buildDatasets.py` e persiste as métricas consolidadas em `pipelineMetricsSnapshot.json` e `pipelineRunsHistory.json`.
+  - `data-analysis/buildDatasets.py` gerando 14 datasets estruturados em `data-analysis/datasets/` (benchmarks, linearidade, 1.150 faixas com metadados e década, ocorrências detalhadas, incidência/difusão/participação por termo, gênero, década, artista e saída do `incidence:words`).
+  - `data-analysis/swearWordsDataAnalysis.ipynb` (notebook Python com `pandas` e `matplotlib`, dicionário de métricas, tabelas e gráficos prontos).
+
+### Modificado
+- `docs/ARCHITECTURE.md`, `docs/BUSINESS-RULES.md` e `docs/DATA-SCHEMA.md`:
+  - Documentação das estruturas `/analysis` e `/data-analysis`, da regra de negócio 12 e do esquema detalhado dos 16 datasets analíticos em `/data-analysis/datasets/` (colunas e análises possíveis).
 
 ## [1.6.0] - 2026-11-21
 

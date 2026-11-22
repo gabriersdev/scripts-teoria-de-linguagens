@@ -2,11 +2,15 @@
 
 ## Estrutura de Diretórios
 
-- **`/analysis`**: Scripts de análise e mascaramento de palavrões (atividade A05 / F2) implementados nas quatro linguagens escolhidas, cada qual com subdiretórios próprios `/input/lyrics-data` (entrada) e `/output/lyrics` + `/output/summary.json` (saída mascarada e métricas), consumindo dinamicamente `/lib/swear-words.json`:
+- **`/analysis`**: Scripts de análise e mascaramento de palavrões (atividade A05 / F2) implementados nas quatro linguagens escolhidas, cada qual com subdiretórios próprios `/input/lyrics-data` (entrada) e `/output/lyrics`, `/output/summary.json` (métricas consolidadas de desempenho, throughput e linearidade) e `/output/linearity-metrics.csv` (série por faixa para dispersão $O(n)$), consumindo dinamicamente `/lib/swear-words.json`:
   - `analysis/typescript/mask-swear-words.ts`: Implementação em TypeScript (`RegExp` com flags `giu`).
-  - `analysis/julia/mask_swear_words.jl`: Implementação em Julia (`SwearWordMasker`, PCRE2 com flag `i`).
+  - `analysis/julia/maskSwearWords.jl`: Implementação em Julia (`SwearWordMasker`, PCRE2 com flag `i`), com flag opcional `--export-analysis` para exportar `output/matches-catalog.csv` mapeando cada ocorrência ao termo canônico.
   - `analysis/java/SwearWordMasker.java`: Implementação em Java (`Pattern` com `CASE_INSENSITIVE | UNICODE_CASE | UNICODE_CHARACTER_CLASS`).
-  - `analysis/csharp/`: Projeto .NET 8 em C# (`SwearWordMasker.csproj`, `SwearWordRegexBuilder.cs`, `SwearWordMaskerService.cs`, `Program.cs`) utilizando `RegexOptions.IgnoreCase | RegexOptions.Compiled`.
+  - `analysis/csharp/`: Projeto .NET 8 em C# (`SwearWordMasker.csproj`, `SwearWordRegexBuilder.cs`, `SwearWordMaskerService.cs`, `Program.cs`) utilizando `RegexOptions.IgnoreCase | RegexOptions.CultureInvariant`.
+- **`/data-analysis`**: Camada de consolidação e análise exploratória dos resultados experimentais:
+  - `data-analysis/runAnalysisPipeline.py` (atalho `npm run analyze:all`): Orquestrador único que executa sequencialmente os 4 scripts de análise (`Julia --export-analysis`, `TypeScript`, `Java` e `C# -c Release`), valida a paridade entre as engines, exporta o relatório JSON de `incidence:words`, reconstrói todos os CSVs via `buildDatasets.py` e persiste o snapshot/histórico consolidado das métricas em `data-analysis/datasets/pipelineMetricsSnapshot.json` e `pipelineRunsHistory.json`.
+  - `data-analysis/buildDatasets.py`: Gerador em Python (stdlib) que cruza os benchmarks das 4 linguagens, `analysis/julia/output/matches-catalog.csv`, `/lyrics-list/*.json`, `/lyrics-data/metadata/*.json` e o retorno JSON de `scripts/incidence-words.ts`, produzindo 14 datasets estruturados em `camelCase` em `data-analysis/datasets/`.
+  - `data-analysis/swearWordsDataAnalysis.ipynb`: Notebook Jupyter Python (`pandas` + `matplotlib`) com dicionário de métricas, tabelas comparativas e gráficos de benchmark, linearidade $O(n)$, incidência/difusão/participação por termo, gênero, década, artista e vocabulário geral (`incidence:words`).
 - **`/docs`**: Documentação oficial (guias de código incluindo JS/TS, Java, Julia e C#, contratos de dados em `DATA-SCHEMA.md`, regras de negócio, changelogs e arquitetura). Atualize a cada mudança estrutural.
 - **`/lib`**: Bibliotecas e clientes base reutilizados pelo sistema.
   - `spotify-api-client.ts`: Motor orientado a objetos para lidar com requisições HTTP à API do Spotify (via endpoint xwolf).
