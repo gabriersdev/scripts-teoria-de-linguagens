@@ -10,7 +10,7 @@
   "totalRawTokens": 388087,
   "totalFilteredTokens": 204814,
   "uniqueWordsCount": 20592,
-  "totalSwearOccurrences": 4714,
+  "totalSwearOccurrences": 4684,
   "swearSharePercent": "2.3%",
   "genreSummaries": [
     {
@@ -19,7 +19,7 @@
       "rawTokenCount": 101731,
       "filteredTokenCount": 54047,
       "uniqueWordCount": 11301,
-      "swearOccurrences": 621,
+      "swearOccurrences": 593,
       "swearSharePercent": "1.1%",
       "topWords": [
         {
@@ -1841,7 +1841,7 @@
       "rawTokenCount": 70877,
       "filteredTokenCount": 38021,
       "uniqueWordCount": 7701,
-      "swearOccurrences": 1011,
+      "swearOccurrences": 1014,
       "swearSharePercent": "2.7%",
       "topWords": [
         {
@@ -2752,7 +2752,7 @@
       "rawTokenCount": 57820,
       "filteredTokenCount": 31534,
       "uniqueWordCount": 6366,
-      "swearOccurrences": 774,
+      "swearOccurrences": 773,
       "swearSharePercent": "2.5%",
       "topWords": [
         {
@@ -4574,7 +4574,7 @@
       "rawTokenCount": 38512,
       "filteredTokenCount": 19256,
       "uniqueWordCount": 4368,
-      "swearOccurrences": 134,
+      "swearOccurrences": 130,
       "swearSharePercent": "0.7%",
       "topWords": [
         {

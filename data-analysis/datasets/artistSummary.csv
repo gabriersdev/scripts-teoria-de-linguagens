@@ -13,15 +13,15 @@ Mc Dena,2,2,100.0,217,108.5,funk
 Brenninho VJ,1,1,100.0,191,191.0,funk
 DJ Menor PR,1,1,100.0,191,191.0,funk
 Dj Daltin no Beat,1,1,100.0,191,191.0,funk
-Costa Gold,26,25,96.15,160,6.15,rap
-Slipmami,15,14,93.33,154,10.27,trap; trap-extra
+Costa Gold,26,25,96.15,158,6.08,rap
+Slipmami,15,14,93.33,155,10.33,trap; trap-extra
 Sidoka,33,27,81.82,145,4.39,rap; trap; trap-extra
 "Ryu, the Runner",18,18,100.0,138,7.67,trap; trap-extra
 Ark King,22,20,90.91,119,5.41,trap-extra
 Mc Negão Original,9,9,100.0,116,12.89,funk
 TTF,7,7,100.0,108,15.43,trap-extra
 Mc Jacaré,9,9,100.0,107,11.89,funk
-Borges,17,14,82.35,102,6.0,trap
+Borges,17,14,82.35,103,6.06,trap
 DJ JHOW BEATS,3,3,100.0,92,30.67,funk
 CACAU CHUU,3,3,100.0,90,30.0,funk
 Mc IG,9,7,77.78,88,9.78,funk; rap
@@ -37,15 +37,14 @@ D$ Luqi,14,11,78.57,83,5.93,trap-extra
 L7NNON,12,8,66.67,82,6.83,funk; rap; trap; trap-extra
 GP DA ZL,5,5,100.0,82,16.4,funk
 Mc Iguinho Ct,4,4,100.0,82,20.5,funk
+Duzz,24,20,83.33,81,3.38,rap; trap
 Oruam,12,9,75.0,81,6.75,funk; rap; trap
 Salve Crazy,11,10,90.91,81,7.36,trap; trap-extra
-Duzz,24,20,83.33,80,3.33,rap; trap
-Baco Exu do Blues,2,1,50.0,80,40.0,rap
 MC Leozinho ZS,3,3,100.0,78,26.0,funk
 Mc Pikachu,7,5,71.43,77,11.0,funk
-Matuê,32,23,71.88,76,2.38,rap; trap; trap-extra
 Alee,20,17,85.0,76,3.8,trap; trap-extra
 MC Kevin,2,1,50.0,76,38.0,funk
+Matuê,32,23,71.88,74,2.31,rap; trap; trap-extra
 MC Tuto,5,5,100.0,74,14.8,funk
 d.silvestre,3,3,100.0,74,24.67,funk
 Orochi,16,14,87.5,73,4.56,funk; rap; trap
@@ -58,8 +57,8 @@ NADAMAL,12,12,100.0,69,5.75,trap; trap-extra
 DJ Japa NK,8,8,100.0,69,8.62,funk
 MC Willian,4,4,100.0,68,17.0,funk
 Ugovhb,4,4,100.0,68,17.0,trap; trap-extra
+MC Cabelinho,12,11,91.67,67,5.58,funk; rap; trap
 Veigh,17,14,82.35,66,3.88,funk; rap; trap
-MC Cabelinho,12,11,91.67,66,5.5,funk; rap; trap
 MC LUUKY,6,6,100.0,66,11.0,funk
 DU'L,5,5,100.0,66,13.2,funk; trap
 Vulgo FK,11,9,81.82,64,5.82,funk; rap; trap
@@ -69,21 +68,22 @@ DJ Biel Divulga,1,1,100.0,64,64.0,funk
 DJ Dozabri,1,1,100.0,64,64.0,funk
 DJ Guh Mix,6,5,83.33,63,10.5,funk
 Mc Rodrigo do CN,6,6,100.0,62,10.33,funk
-Ultraje a Rigor,23,7,30.43,60,2.61,rock
+Ultraje a Rigor,23,7,30.43,59,2.57,rock
 DJ GORDINHO DA VF,2,2,100.0,59,29.5,funk
 MC LELE 011,2,2,100.0,59,29.5,funk
 DJ Ivis,6,2,33.33,58,9.67,sertanejo
 MC Nito,4,4,100.0,58,14.5,funk
 Xand Avião,3,2,66.67,58,19.33,sertanejo
-Yung Nobre,11,9,81.82,56,5.09,trap; trap-extra
+Yung Nobre,11,9,81.82,57,5.18,trap; trap-extra
+Baco Exu do Blues,2,1,50.0,56,28.0,rap
 Mc Danny,1,1,100.0,56,56.0,sertanejo
 Mc Paiva ZS,9,8,88.89,53,5.89,funk
 Mc Poze do Rodo,7,7,100.0,53,7.57,funk; rap; trap
 Pedro Lotto,9,9,100.0,52,5.78,rap; trap
 Neckklace,7,6,85.71,52,7.43,trap; trap-extra
-Sid,5,5,100.0,50,10.0,rap
 KayBlack,11,8,72.73,49,4.45,funk; rap; trap
 DJ Oreia,5,5,100.0,49,9.8,funk
+Sid,5,5,100.0,49,9.8,rap
 MC RN do Capão,3,3,100.0,48,16.0,funk
 DJ Patrick Original,1,1,100.0,48,48.0,funk
 Game Records,1,1,100.0,48,48.0,funk
@@ -109,10 +109,10 @@ Djonga,10,9,90.0,40,4.0,rap
 Tropa da W&S,3,3,100.0,40,13.33,funk
 Kyan,5,4,80.0,38,7.6,rap; trap; trap-extra
 KANT,3,3,100.0,37,12.33,rap
+Major RD,3,3,100.0,36,12.0,rap; trap
 Raimundos,16,7,43.75,35,2.19,rock
 Raffa Moreira,5,3,60.0,35,7.0,trap; trap-extra
 Bonde R300,3,3,100.0,35,11.67,funk
-Major RD,3,3,100.0,35,11.67,rap; trap
 DJ Jeeh FDC,1,1,100.0,35,35.0,funk
 Meno Saaint,1,1,100.0,35,35.0,funk
 Junim,9,9,100.0,34,3.78,trap-extra
@@ -169,6 +169,7 @@ Sant,4,4,100.0,27,6.75,rap
 Mu540,3,2,66.67,27,9.0,rap; trap; trap-extra
 Jay Kay,1,1,100.0,27,27.0,trap-extra
 dubbeatzz,2,1,50.0,26,13.0,rap
+meLLo,2,2,100.0,26,13.0,trap
 Drizzy,1,1,100.0,26,26.0,rap
 Iraqui ZL,1,1,100.0,26,26.0,funk
 Konddrake,1,1,100.0,26,26.0,funk
@@ -179,16 +180,15 @@ Caio Luccas,4,4,100.0,25,6.25,rap; trap
 Toledo,4,4,100.0,25,6.25,funk; trap
 Mc DR,3,2,66.67,25,8.33,funk
 Vidari,2,2,100.0,25,12.5,trap-extra
-meLLo,2,2,100.0,25,12.5,trap
 Azzy,3,3,100.0,24,8.0,rap; trap
 Dj GM,3,2,66.67,24,8.0,funk
 Mc Lipi,3,2,66.67,24,8.0,funk
 BlakkClout,2,2,100.0,24,12.0,trap
 MC Paulin da Capital,2,2,100.0,24,12.0,funk
+Rock Danger,2,2,100.0,24,12.0,rap; trap
 CABBRAU,1,1,100.0,24,24.0,funk
 Leandro e as Abusadas,1,1,100.0,24,24.0,funk
 MD Chefe,2,2,100.0,23,11.5,trap
-Rock Danger,2,2,100.0,23,11.5,rap; trap
 Stick,2,2,100.0,23,11.5,funk; rap
 MC Lustosa,1,1,100.0,23,23.0,funk
 Ecologyk,12,8,66.67,22,1.83,trap
@@ -199,7 +199,6 @@ MC Cebezinho,3,2,66.67,22,7.33,funk
 Gabb MC,2,2,100.0,22,11.0,funk
 Nilo,2,2,100.0,22,11.0,funk
 WIU,10,8,80.0,21,2.1,rap; trap
-NOG,4,4,100.0,21,5.25,rap
 MATHINVOKER,3,3,100.0,21,7.0,trap
 Dudu,2,2,100.0,21,10.5,rap
 MC Laranjinha,2,2,100.0,21,10.5,funk
@@ -209,10 +208,11 @@ A$HP,1,1,100.0,21,21.0,trap-extra
 Dfideliz,1,1,100.0,21,21.0,trap-extra
 Mc Daniel,1,1,100.0,21,21.0,funk
 Triz,1,1,100.0,21,21.0,funk
+Young Ganni,1,1,100.0,21,21.0,trap
 Dallass,10,5,50.0,20,2.0,rap; trap; trap-extra
 Leviano,7,7,100.0,20,2.86,trap; trap-extra
-Mamonas Assassinas,5,4,80.0,20,4.0,rock
 Mc Livinho,4,2,50.0,20,5.0,funk
+NOG,4,4,100.0,20,5.0,rap
 Duquesa,3,3,100.0,20,6.67,rap; trap; trap-extra
 Honaiser,3,3,100.0,20,6.67,funk; rap
 Tasha & Tracie,3,3,100.0,20,6.67,rap; trap
@@ -221,7 +221,6 @@ AR Baby,1,1,100.0,20,20.0,rap
 Dj Alanzin,1,1,100.0,20,20.0,funk
 MC Gustta,1,1,100.0,20,20.0,funk
 SHOTBYBZK,1,1,100.0,20,20.0,trap-extra
-Young Ganni,1,1,100.0,20,20.0,trap
 Medellin,8,5,62.5,19,2.38,rap
 Fepache,5,5,100.0,19,3.8,funk; rap
 Eric Lorran,3,3,100.0,19,6.33,trap-extra
@@ -245,6 +244,7 @@ Pedrin,1,1,100.0,18,18.0,trap
 Kizzy,4,4,100.0,17,4.25,rap; trap
 Spinardi,2,2,100.0,17,8.5,rap
 Mainstreet,7,7,100.0,16,2.29,funk; rap; trap
+Mamonas Assassinas,5,3,60.0,16,3.2,rock
 Portugal No Beat,4,4,100.0,16,4.0,rap; trap
 Bielzin,3,3,100.0,16,5.33,funk
 saboya,3,3,100.0,16,5.33,trap-extra
@@ -272,7 +272,6 @@ MC Du Red,1,1,100.0,15,15.0,funk
 Mc Bruninho da Praia & DJ Glenner,1,1,100.0,15,15.0,funk
 Mc Jvila,1,1,100.0,15,15.0,funk
 Mc Leozin,1,1,100.0,15,15.0,funk
-Slipmami & Mahai,1,1,100.0,15,15.0,trap
 Chefin,5,5,100.0,14,2.8,funk; rap; trap
 Bvga Beatz,4,4,100.0,14,3.5,rap; trap
 MC Davi,4,1,25.0,14,3.5,funk
@@ -315,6 +314,7 @@ Dj Caio Vieira,1,1,100.0,12,12.0,funk
 Fahel,1,1,100.0,12,12.0,rap
 Ouroempessoa,1,1,100.0,12,12.0,rap
 Rei Bxd,1,1,100.0,12,12.0,rap
+Slipmami & Mahai,1,1,100.0,12,12.0,trap
 Yamashita,1,1,100.0,12,12.0,trap-extra
 dudumzr,1,1,100.0,12,12.0,trap-extra
 izxx,1,1,100.0,12,12.0,trap-extra
@@ -354,8 +354,8 @@ Wall Hein,6,5,83.33,9,1.5,rap; trap
 Love Funk,4,4,100.0,9,2.25,funk
 MC PH,4,3,75.0,9,2.25,rap; trap
 DJ Biel do Furduncinho,3,2,66.67,9,3.0,funk
-André Nine,2,2,100.0,9,4.5,rap
 Cynthia Luz,2,2,100.0,9,4.5,rap
+L. Abner,2,2,100.0,9,4.5,trap
 Bob do Contra,1,1,100.0,9,9.0,rap
 Cesar Mc,1,1,100.0,9,9.0,rap
 DJ GUIZIN DA SERRA,1,1,100.0,9,9.0,funk
@@ -370,10 +370,10 @@ Kotim,3,3,100.0,8,2.67,funk
 Qualywav1,3,2,66.67,8,2.67,trap; trap-extra
 Tarcísio do Acordeon,3,1,33.33,8,2.67,sertanejo
 Ajaxx,2,1,50.0,8,4.0,trap
+André Nine,2,2,100.0,8,4.0,rap
 Ebony,2,2,100.0,8,4.0,rap
 Froid,2,2,100.0,8,4.0,rap
 Gorilla Concept Music,2,2,100.0,8,4.0,rap
-L. Abner,2,2,100.0,8,4.0,trap
 MC Pikachu,2,1,50.0,8,4.0,funk
 Mindu,2,2,100.0,8,4.0,trap
 WEY,2,2,100.0,8,4.0,rap; trap
@@ -415,7 +415,6 @@ Anderson Neiff,1,1,100.0,7,7.0,funk
 Baga Grau,1,1,100.0,7,7.0,funk
 Big Rush,1,1,100.0,7,7.0,trap-extra
 Braão,1,1,100.0,7,7.0,trap-extra
-Chiocki,1,1,100.0,7,7.0,rap
 DJ Noiskita,1,1,100.0,7,7.0,funk
 DJ Thseven7,1,1,100.0,7,7.0,funk
 Dj Aguilar,1,1,100.0,7,7.0,funk
@@ -442,6 +441,7 @@ SMOKEFUSION,2,2,100.0,6,3.0,trap
 B7 City,1,1,100.0,6,6.0,funk
 Biurifol,1,1,100.0,6,6.0,funk
 CASA 11,1,1,100.0,6,6.0,trap
+Chiocki,1,1,100.0,6,6.0,rap
 DJ C15 DA ZO,1,1,100.0,6,6.0,funk
 DJ Emige,1,1,100.0,6,6.0,funk
 DJ Giovanne Mandelão,1,1,100.0,6,6.0,funk
@@ -572,7 +572,6 @@ DESSIIIK,2,1,50.0,2,1.0,trap; trap-extra
 Delacruz,2,1,50.0,2,1.0,rap; trap
 Kawe,2,1,50.0,2,1.0,rap; trap
 Lucchini,2,2,100.0,2,1.0,trap
-Nação Zumbi,2,1,50.0,2,1.0,rock
 Perera DJ,2,1,50.0,2,1.0,funk; trap
 Rael,2,1,50.0,2,1.0,rap
 Azul Wynter,1,1,100.0,2,2.0,rap
@@ -583,7 +582,6 @@ Bryan Yepes,1,1,100.0,2,2.0,rap
 CJota,1,1,100.0,2,2.0,trap-extra
 Caio Passos,1,1,100.0,2,2.0,rap
 Camila Zasoul,1,1,100.0,2,2.0,rap
-Chico Science,1,1,100.0,2,2.0,rock
 Criolo,1,1,100.0,2,2.0,rap
 DJ AL4DDIN,1,1,100.0,2,2.0,funk
 DJ Caique,1,1,100.0,2,2.0,rap
@@ -749,6 +747,7 @@ Lulu Santos,2,0,0.0,0,0.0,rock
 MC Marcinho,2,0,0.0,0,0.0,funk
 Mc Davi,2,0,0.0,0,0.0,funk
 NX Zero,2,0,0.0,0,0.0,rock
+Nação Zumbi,2,0,0.0,0,0.0,rock
 Os Paralamas Do Sucesso,2,0,0.0,0,0.0,rock
 Rionegro & Solimões,2,0,0.0,0,0.0,sertanejo
 Rita Lee,2,0,0.0,0,0.0,rock
@@ -777,6 +776,7 @@ Camisa de Vênus,1,0,0.0,0,0.0,rock
 Casa Das Máquinas,1,0,0.0,0,0.0,rock
 Celo Dut,1,0,0.0,0,0.0,rap
 Celso Blues Boy,1,0,0.0,0,0.0,rock
+Chico Science,1,0,0.0,0,0.0,rock
 Chulo,1,0,0.0,0,0.0,trap
 Cidadão Quem,1,0,0.0,0,0.0,rock
 Clayton & Romário,1,0,0.0,0,0.0,sertanejo

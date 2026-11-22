@@ -62,8 +62,8 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
   - `data-analysis/swearWordsDataAnalysis.ipynb` (notebook Python com `pandas` e `matplotlib`, dicionário de métricas, tabelas e gráficos prontos).
 
 ### Modificado
-- `docs/ARCHITECTURE.md` e `docs/BUSINESS-RULES.md`:
-  - Documentação das estruturas `/analysis` e `/data-analysis` e da regra de negócio 12.
+- `docs/ARCHITECTURE.md`, `docs/BUSINESS-RULES.md` e `docs/DATA-SCHEMA.md`:
+  - Documentação das estruturas `/analysis` e `/data-analysis`, da regra de negócio 12 e do esquema detalhado dos 16 datasets analíticos em `/data-analysis/datasets/` (colunas e análises possíveis).
 
 ## [1.6.0] - 2026-11-21
 

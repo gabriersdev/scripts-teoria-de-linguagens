@@ -248,7 +248,7 @@ track_id,title,artists,primary_artist,genre,release_date,release_year,decade,cha
 98247,Isso é Sério,"Matuê, Brandão85",Matuê,rap,2024-09-09T12:00:00Z,2024,2020s,3433,3555,4,True,3,1.1652
 98248,NEM ERA PRA EU TÁ AQUI (Deus Que Me Escolheu),"TOKIODK, TerrorDosBeats",TOKIODK,rap,2026-02-08T12:00:00Z,2026,2020s,3172,3265,0,False,0,0.0
 98249,SOLTO,"Djonga, Hot, Coyote Beatz",Djonga,rap,2018-03-16T12:00:00Z,2018,2010s,2931,3012,3,True,3,1.0235
-98250,Kenny G,Matuê,Matuê,rap,2019-09-04,2019,2010s,2736,2834,12,True,7,4.386
+98250,Kenny G,Matuê,Matuê,rap,2019-09-04,2019,2010s,2736,2834,11,True,6,4.0205
 98251,Fuso,"Duquesa, Go Dassisti",Duquesa,rap,2025-09-08T12:00:00Z,2025,2020s,1468,1506,2,True,2,1.3624
 98252,Te Encontrar na Lapa,"2ZDinizz, Camila Zasoul, HHR",2ZDinizz,rap,2024-11-28,2024,2020s,2273,2323,2,True,2,0.8799
 98253,Acima De Mim Só Deus,"Filipe Ret, Mãolee, Maru2D",Filipe Ret,rap,2024-11-14T12:00:00Z,2024,2020s,1356,1410,1,True,1,0.7375
@@ -291,7 +291,7 @@ track_id,title,artists,primary_artist,genre,release_date,release_year,decade,cha
 98290,Amor Livre - Ao Vivo,Filipe Ret,Filipe Ret,rap,2023-12-15,2023,2020s,1172,1208,0,False,0,0.0
 98291,MEU CEMITÉRIO,Matuê,Matuê,rap,2025-12-08,2025,2020s,2494,2562,2,True,2,0.8019
 98292,Horas Iguais,"WIU, Oruam",WIU,rap,2022-10-05,2022,2020s,1902,1974,0,False,0,0.0
-98293,Te Amo Disgraça,Baco Exu do Blues,Baco Exu do Blues,rap,2017-09-04,2017,2010s,2856,2935,80,True,10,28.0112
+98293,Te Amo Disgraça,Baco Exu do Blues,Baco Exu do Blues,rap,2017-09-04,2017,2010s,2856,2935,56,True,9,19.6078
 98294,Poesia Acústica #11 Nada Mudou,"Pineapple StormTv, Azzy, MC Ryan SP, Chris MC, Xamã, Lourena, L7NNON, Cynthia Luz, Mc Poze do Rodo, Salve Malak",Pineapple StormTv,rap,2026-02-06,2026,2020s,6758,6933,5,True,4,0.7399
 98295,Good Vibe,"Filipe Ret, Caio Luccas, Dallass",Filipe Ret,rap,2022-06-16,2022,2020s,1535,1570,7,True,5,4.5603
 98296,Conexões de Máfia (feat. Rich The Kid),"Matuê, Rich The Kid",Matuê,rap,2023-04-30,2023,2020s,2760,2837,2,True,2,0.7246
@@ -312,7 +312,7 @@ track_id,title,artists,primary_artist,genre,release_date,release_year,decade,cha
 98311,Doce Veneno,Costa Gold,Costa Gold,rap,2015-08-20T12:00:00Z,2015,2010s,2411,2477,2,True,1,0.8295
 98312,The Cypher Deffect - Damassaclan,Costa Gold,Costa Gold,rap,2014-11-20T12:00:00Z,2014,2010s,4276,4391,12,True,9,2.8064
 98313,Nada Bom,Costa Gold,Costa Gold,rap,2014-11-20,2014,2010s,1872,1922,1,True,1,0.5342
-98314,Dás Arábia,Costa Gold,Costa Gold,rap,2015,2015,2010s,2732,2814,4,True,4,1.4641
+98314,Dás Arábia,Costa Gold,Costa Gold,rap,2015,2015,2010s,2732,2814,3,True,3,1.0981
 98315,Miss,"Cacife Gold, Cacife Clandestino, Costa Gold, Pedro Lotto",Cacife Gold,rap,2020-10-09,2020,2020s,3545,3611,4,True,2,1.1283
 98316,Se Essa Bunda,Costa Gold,Costa Gold,rap,2021-07-29T12:00:00Z,2021,2020s,3715,3808,19,True,3,5.1144
 98317,Vago,Costa Gold,Costa Gold,rap,2015,2015,2010s,2073,2138,3,True,3,1.4472
@@ -387,10 +387,10 @@ track_id,title,artists,primary_artist,genre,release_date,release_year,decade,cha
 98386,Que Nem o Meu Cachorro,Black Alien,Black Alien,rap,2019-04-12,2019,2010s,2697,2787,2,True,1,0.7416
 98387,Aniversário de Sobriedade,Black Alien,Black Alien,rap,2019-04-12,2019,2010s,1684,1732,1,True,1,0.5938
 98388,Isso Vale Minha Vida,"Sid, Sid & Tavin, Tavin",Sid,rap,2020-03-05T12:00:00Z,2020,2020s,2515,2559,2,True,2,0.7952
-98389,Sitio do Tio Harry,"Sid, NOG, André Nine, Chiocki",Sid,rap,2022-02-11,2022,2020s,4903,5057,7,True,5,1.4277
+98389,Sitio do Tio Harry,"Sid, NOG, André Nine, Chiocki",Sid,rap,2022-02-11,2022,2020s,4903,5057,6,True,4,1.2237
 98390,O Casamento,"Sid, Spinardi, Ugo Ludovico",Sid,rap,2024-03-05T12:00:00Z,2024,2020s,6118,6308,13,True,6,2.1249
 98391,Eu(S),Sid,Sid,rap,2022-06-03,2022,2020s,4166,4283,8,True,4,1.9203
-98392,The Cypher Deffect 2,Costa Gold,Costa Gold,rap,2014-11-20T12:00:00Z,2014,2010s,6476,6651,15,True,9,2.3162
+98392,The Cypher Deffect 2,Costa Gold,Costa Gold,rap,2014-11-20T12:00:00Z,2014,2010s,6476,6651,14,True,8,2.1618
 98393,Click Clack Bum,"Kant, Nog & Spinard",Kant,rap,2020-10-30T12:00:00Z,2020,2020s,4244,4351,16,True,11,3.77
 98394,LAMBO,"WillsBife, Filipe Carti, Dalua",WillsBife,rap,2020-12-14T12:00:00Z,2020,2020s,1374,1398,1,True,1,0.7278
 98395,Gatinha,Marcynho Sensação,Marcynho Sensação,rap,2021-06-20T12:00:00Z,2021,2020s,1203,1267,2,True,1,1.6625
@@ -461,7 +461,7 @@ track_id,title,artists,primary_artist,genre,release_date,release_year,decade,cha
 98460,Geração Coca-Cola,Legião Urbana,Legião Urbana,rock,2004-03-27,2004,2000s,1195,1254,0,False,0,0.0
 98461,Que Pais É Este,Legião Urbana,Legião Urbana,rock,2007-09-01,2007,2000s,704,737,0,False,0,0.0
 98462,Um Sonho,Nação Zumbi,Nação Zumbi,rock,2015-07-10,2015,2010s,1189,1203,0,False,0,0.0
-98463,Da Lama ao Caos,"Chico Science, Nação Zumbi",Chico Science,rock,2000,2000,2000s,2012,2046,2,True,1,0.994
+98463,Da Lama ao Caos,"Chico Science, Nação Zumbi",Chico Science,rock,2000,2000,2000s,2012,2046,0,False,0,0.0
 98464,Vambora,Adriana Calcanhotto,Adriana Calcanhotto,rock,2020-11-13,2020,2020s,936,954,0,False,0,0.0
 98465,Despedida,Selvagens à Procura de Lei,Selvagens à Procura de Lei,rock,2013-06-04,2013,2010s,1248,1291,0,False,0,0.0
 98466,Tempos Modernos,Lulu Santos,Lulu Santos,rock,2001,2001,2000s,996,1019,0,False,0,0.0
@@ -474,7 +474,7 @@ track_id,title,artists,primary_artist,genre,release_date,release_year,decade,cha
 98473,O Anjo Mais Velho (Ao Vivo),O Teatro Mágico,O Teatro Mágico,rock,2003-12-13,2003,2000s,1874,1929,0,False,0,0.0
 98474,Luz Dos Olhos,Nando Reis,Nando Reis,rock,2003,2003,2000s,1158,1197,0,False,0,0.0
 98475,Surfista Calhorda,Os Replicantes,Os Replicantes,rock,2006,2006,2000s,1372,1422,0,False,0,0.0
-98476,Mundo Animal,Mamonas Assassinas,Mamonas Assassinas,rock,2010,2010,2010s,1417,1450,3,True,3,2.1171
+98476,Mundo Animal,Mamonas Assassinas,Mamonas Assassinas,rock,2010,2010,2010s,1417,1450,2,True,2,1.4114
 98477,Dia especial,Cidadão Quem,Cidadão Quem,rock,2004-07-07T12:00:00Z,2004,2000s,1096,1117,0,False,0,0.0
 98478,Meu Sol,Vanguart,Vanguart,rock,2000-01-01T12:00:00Z,2000,2000s,852,888,0,False,0,0.0
 98479,Não Espero Mais,O Terno,O Terno,rock,2016-08-26T12:00:00Z,2016,2010s,914,940,0,False,0,0.0
@@ -566,7 +566,7 @@ track_id,title,artists,primary_artist,genre,release_date,release_year,decade,cha
 98565,Ponto de Ônibus - Ao Vivo,Ultraje a Rigor,Ultraje a Rigor,rock,2005-09-19T07:00:00Z,2005,2000s,1174,1228,1,True,1,0.8518
 98566,Agora É Tarde - Ao Vivo,Ultraje a Rigor,Ultraje a Rigor,rock,2005-09-19T07:00:00Z,2005,2000s,822,838,0,False,0,0.0
 98567,Eu Não Sei (Can't Explain) - Ao Vivo,Ultraje a Rigor,Ultraje a Rigor,rock,2005-09-19T07:00:00Z,2005,2000s,911,950,0,False,0,0.0
-98568,Nada a Declarar - Ao Vivo,Ultraje a Rigor,Ultraje a Rigor,rock,2005-09-19T07:00:00Z,2005,2000s,1886,1962,13,True,3,6.8929
+98568,Nada a Declarar - Ao Vivo,Ultraje a Rigor,Ultraje a Rigor,rock,2005-09-19T07:00:00Z,2005,2000s,1886,1962,12,True,2,6.3627
 98569,Eu Gosto de Mulher - Ao Vivo,Ultraje a Rigor,Ultraje a Rigor,rock,2005-09-19T07:00:00Z,2005,2000s,1639,1682,1,True,1,0.6101
 98570,Pelado - Ao Vivo,Ultraje a Rigor,Ultraje a Rigor,rock,2005-09-19T07:00:00Z,2005,2000s,1184,1218,0,False,0,0.0
 98571,Giselda - Ao Vivo,Ultraje a Rigor,Ultraje a Rigor,rock,2005-09-19T07:00:00Z,2005,2000s,1004,1037,1,True,1,0.996
@@ -574,10 +574,10 @@ track_id,title,artists,primary_artist,genre,release_date,release_year,decade,cha
 98573,O Mundo Não Para De Girar! (Por Isso Eu Estou Tonto!!),Garotos Podres,Garotos Podres,rock,1997-06-05T12:00:00Z,1997,1990s,1322,1343,0,False,0,0.0
 98574,Mancha,Garotos Podres,Garotos Podres,rock,1997-06-05,1997,1990s,1597,1610,28,True,2,17.5329
 98575,Apresento Mi Amigo!,Garotos Podres,Garotos Podres,rock,1993,1993,1990s,1821,1833,0,False,0,0.0
-98576,Pelados em Santos,Mamonas Assassinas,Mamonas Assassinas,rock,2009,2009,2000s,1097,1129,1,True,1,0.9116
+98576,Pelados em Santos,Mamonas Assassinas,Mamonas Assassinas,rock,2009,2009,2000s,1097,1129,0,False,0,0.0
 98577,Expulsos Do Bar,Garotos Podres,Garotos Podres,rock,1997,1997,1990s,384,390,0,False,0,0.0
 98578,Vira-Vira,Mamonas Assassinas,Mamonas Assassinas,rock,2009,2009,2000s,1643,1695,12,True,3,7.3037
-98579,1406,Mamonas Assassinas,Mamonas Assassinas,rock,1995-01-01T12:00:00Z,1995,1990s,1976,2061,4,True,2,2.0243
+98579,1406,Mamonas Assassinas,Mamonas Assassinas,rock,1995-01-01T12:00:00Z,1995,1990s,1976,2061,2,True,1,1.0121
 98580,Joelho,Mamonas Assassinas,Mamonas Assassinas,rock,2025-10-01,2025,2020s,842,862,0,False,0,0.0
 98581,Zé Ninguém,Biquini Cavadão,Biquini Cavadão,rock,2015-04-21T12:00:00Z,2015,2010s,1876,1939,0,False,0,0.0
 98582,Garoto Podre,Garotos Podres,Garotos Podres,rock,1995,1995,1990s,873,921,0,False,0,0.0
@@ -843,7 +843,7 @@ track_id,title,artists,primary_artist,genre,release_date,release_year,decade,cha
 98842,COMO ASSIM TU NÃO CONHECE?,"ohayomatsu, Junim",ohayomatsu,trap-extra,2023-11-17,2023,2020s,1779,1833,2,True,2,1.1242
 98843,Raluc4,"Ark King, NIKK, ohayomatsu",Ark King,trap-extra,2024-04-26,2024,2020s,1401,1444,10,True,6,7.1378
 98844,Ruas Perigosas,"Yung Nobre, Flacko",Yung Nobre,trap-extra,2022-04-29,2022,2020s,3089,3167,1,True,1,0.3237
-98845,REI TUÊ,Matuê,Matuê,trap-extra,2025-12-10,2025,2020s,1607,1655,2,True,2,1.2446
+98845,REI TUÊ,Matuê,Matuê,trap-extra,2025-12-10,2025,2020s,1607,1655,1,True,1,0.6223
 98846,QUERO TE VER,"ohayomatsu, Junim, DD Tápi, mixx!",ohayomatsu,trap-extra,2025-02-12,2025,2020s,2816,2889,3,True,1,1.0653
 98847,MEU MUNDO,"Alee, NADAMAL, peppnx",Alee,trap-extra,2024-02-29,2024,2020s,1515,1542,14,True,5,9.2409
 98848,SURF,"Alee, NADAMAL, saboya, Qualywav1, Dexter",Alee,trap-extra,2024-02-29,2024,2020s,1960,2001,5,True,2,2.551
@@ -986,7 +986,7 @@ track_id,title,artists,primary_artist,genre,release_date,release_year,decade,cha
 98985,LOBO MAU,"MC Cabelinho, Tz da Coronel, Mc Poze do Rodo, Oruam",MC Cabelinho,trap,2026-03-06,2026,2020s,2946,3029,5,True,5,1.6972
 98986,MÉNAGE,"Vulgo FK, KayBlack, Pedro Lotto",Vulgo FK,trap,2024-10-24,2024,2020s,1917,1963,22,True,6,11.4763
 98987,Real Underground,NGC Daddy,NGC Daddy,trap,2022-02-10,2022,2020s,2267,2329,15,True,12,6.6167
-98988,Só Rock 3,"Major RD, Borges, MC Cabelinho, Young Ganni, Rock Danger, meLLo",Major RD,trap,2025-02-25,2025,2020s,4504,4615,20,True,12,4.4405
+98988,Só Rock 3,"Major RD, Borges, MC Cabelinho, Young Ganni, Rock Danger, meLLo",Major RD,trap,2025-02-25,2025,2020s,4504,4615,21,True,13,4.6625
 98989,6X1,"Caio Luccas, Major RD, Ayo Th, Mozin, NADAMAL",Caio Luccas,trap,2025-12-19,2025,2020s,2590,2653,11,True,5,4.2471
 98990,THE BOX MEDLEY 12,"THE BOX, L7NNON, Orochi, AJULLIACOSTA, MD Chefe, DomLaike, Neo Beats, Victor WAO, ProdbyFp",THE BOX,trap,2024-04-18T12:00:00Z,2024,2020s,5506,5677,11,True,4,1.9978
 98991,REI DOS CAMAROTE,"LH CHUCRO, Drummond, DKmixx",LH CHUCRO,trap,2025-12-19,2025,2020s,2742,2846,14,True,5,5.1058
@@ -1083,10 +1083,10 @@ track_id,title,artists,primary_artist,genre,release_date,release_year,decade,cha
 99082,Poesia Acústica 15,"Pineapple StormTv, Salve Malak, Mc Poze do Rodo, Luiz Lins, MC Hariel, Azzy, JayA Luuck, Oruam, Slipmami, MC Cabelinho",Pineapple StormTv,trap,2023-07-20T12:00:00Z,2023,2020s,8734,8998,10,True,5,1.145
 99083,Oompa Loompa,Slipmami,Slipmami,trap,2022-06-22T12:00:00Z,2022,2020s,2333,2406,25,True,14,10.7158
 99084,Potranca,Slipmami,Slipmami,trap,2021-10-27,2021,2020s,2402,2495,22,True,10,9.159
-99085,8x5,"Slipmami, Yung Nobre",Slipmami,trap,2023-01-25,2023,2020s,2459,2523,18,True,9,7.32
+99085,8x5,"Slipmami, Yung Nobre",Slipmami,trap,2023-01-25,2023,2020s,2459,2523,19,True,10,7.7267
 99086,Malvadeza,Slipmami,Slipmami,trap,2021-07-07,2021,2020s,1594,1614,17,True,9,10.665
 99087,Economizando Sorriso,"Duzz, Vk Mac, MAIK sbkaos",Duzz,trap,2023-12-21,2023,2020s,814,835,2,True,1,2.457
-99088,SALA VERMELHA #31 - Slipmami,Slipmami & Mahai,Slipmami & Mahai,trap,2025-05-30T12:00:00Z,2025,2020s,1481,1507,15,True,6,10.1283
+99088,SALA VERMELHA #31 - Slipmami,Slipmami & Mahai,Slipmami & Mahai,trap,2025-05-30T12:00:00Z,2025,2020s,1481,1507,12,True,5,8.1026
 99089,PALHAÇADA,Slipmami,Slipmami,trap,2021-05-21,2021,2020s,1519,1562,14,True,6,9.2166
 99090,geada,Slipmami,Slipmami,trap,2021-03-30,2021,2020s,1990,2051,9,True,7,4.5226
 99091,"Vai, Slip",Slipmami,Slipmami,trap,2024-09-13,2024,2020s,1813,1871,4,True,1,2.2063
@@ -1106,7 +1106,7 @@ track_id,title,artists,primary_artist,genre,release_date,release_year,decade,cha
 99105,Não Me Sinto Mal Mais,Sidoka,Sidoka,trap,2019-10-18,2019,2010s,3728,3821,5,True,5,1.3412
 99106,Porsche,Jovem Dex,Jovem Dex,trap,2019-10-31T12:00:00Z,2019,2010s,1611,1621,1,True,1,0.6207
 99107,V V S,Raffa Moreira,Raffa Moreira,trap,2018-11-01T12:00:00Z,2018,2010s,1963,2001,4,True,4,2.0377
-99108,Aqua Di Giò,"Duzz, L. Abner",Duzz,trap,2023-12-21,2023,2020s,1870,1895,6,True,4,3.2086
+99108,Aqua Di Giò,"Duzz, L. Abner",Duzz,trap,2023-12-21,2023,2020s,1870,1895,7,True,5,3.7433
 99109,Docinho,"Duzz, Ecologyk",Duzz,trap,2023-12-21,2023,2020s,1389,1403,1,True,1,0.7199
 99110,Asfalto Rec,"Duzz, Ecologyk",Duzz,trap,2023-12-21,2023,2020s,1149,1178,5,True,5,4.3516
 99111,ClubHouse,"Duzz, OkGucciBoy, MATHINVOKER",Duzz,trap,2023-12-21,2023,2020s,1582,1610,11,True,9,6.9532
