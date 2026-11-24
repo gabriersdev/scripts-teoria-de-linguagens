@@ -1,6 +1,7 @@
 using Unicode
 
 print("Digite o ID da música que deseja censurar: ")
+flush(stdout)
 music_id = strip(readline())
 
 lyrics_directory = joinpath(@__DIR__, "input", "lyrics-data", "lyrics")
@@ -9,7 +10,6 @@ file_path = joinpath(lyrics_directory, file_name)
 
 if !isfile(file_path)
     println("Erro: o arquivo não foi encontrado em: ", file_path)
-    exit(1)
 end
 
 lyric = read(file_path, String)
@@ -43,5 +43,9 @@ function Censor_lyrics(lyric::AbstractString, banned_words::AbstractVector{<:Abs
 end
 
 censored_lyric = Censor_lyrics(lyric, banned_words)
+
+output_directory = joinpath(@__DIR__, "output_Censurador")
+mkpath(output_directory)
+write(joinpath(output_directory, "98001.txt"), censored_lyric)
 
 println(censored_lyric)
