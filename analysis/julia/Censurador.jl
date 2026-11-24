@@ -1,75 +1,18 @@
 using Unicode
-using DataStructures
 
-lyric = "Tudo puta, tudo puta, tudo, tudo, tudo puta
-Tudo puta, tudo puta, tudo, tudo, tudo puta
-(E aê, TC, Caio Passos? Já falei, tudo puta)
-Tudo puta, tudo puta, tudo, tudo, tudo puta
-Tudo puta, tudo puta, tudo, tudo, tudo puta
-Tudo puta, tudo puta, tudo, tudo, tudo puta
-Tudo puta, tudo puta, tudo, tudo, tudo puta
+print("Digite o ID da música que deseja censurar: ")
+music_id = strip(readline())
 
-Não nega não, não nega não
-Fala que é modelo, mas trombei no casarão
-Não nega não, não nega não
-Fala que é modelo, mas trombei no casarão
-Não nega não, não nega não
-Fala que é modelo, mas trombei no casarão
-Não nega não, não nega não
-Fala que é modelo, mas trombei no casarão
-Não quer assumir, acho que tem vergonha
-Não quer assumir, acho que tem vergonha
-Deve trampar no Caster ou então no Bahamas
-Deve trampar no Caster ou então no Bahamas
-Conheci na revoada uma mina muito gata
-Carinha de princesinha que tu não dava nada
-Me falou que estudava, que tudo dos pais ganhava
-Tentou me dibrar, mas de uma farsa não passava
-Eu não entendi, num apê de luxo ela morava
-E o dia inteiro ela não fazia nada
-Pra gringa viajava, pelo mundo ela atirava
-Essa conta não tá certa, me diz quem que te bancava
-Eu já sabia, só não tinha certeza
-Ultimamente todas elas tão lucrando com a buceta
-Sentaram no pau (De todas formas elas fizeram lucro), nenhuma cobrou um real
-Bitch, olha que eu sou o Pedrin, eu que tinha cobrar pr’ocê dar pra mim
-As maluca pra dar pra mim, mente pras amiga
-Até surta, é, todas elas são
+lyrics_directory = joinpath(@__DIR__, "input", "lyrics-data", "lyrics")
+file_name = endswith(music_id, ".txt") ? music_id : music_id * ".txt"
+file_path = joinpath(lyrics_directory, file_name)
 
-Tudo, tudo, tudo puta
-Tudo puta, tudo puta, tudo, tudo, tudo puta
-Tudo puta, tudo puta, tudo, tudo, tudo puta
+if !isfile(file_path)
+    println("Erro: o arquivo não foi encontrado em: ", file_path)
+    exit(1)
+end
 
-Piranha, putinha, vou dizer e geral vai ter que escutar
-Não adianta se esconder, o escândalo é sua segunda casa
-Ela é putinha, putona, putinha, putona
-Era melhor assumir que nós não tem nada contra
-Ela é putinha, putona, putinha, putona
-Ainda bem que eu ouvi o Ryan e não foi à toa
-Valeu, meu sócio, revoada
-Yeah, como diz uma das prima, vem pro loirinho que eu empurro a gringa
-Cuidado pra não sentar e depois se apaixonar que você vai se ferrar, vai sair iludida
-Me jurou que não era, mas puxei a capivara
-‘Cê chamava as amiga, as amiga não era nada
-Tudo que acontecia elas sempre me contava
-Elas mentia pra você pra sentar na minha vara
-Fefa liberou o sítio, foi só revoada
-Descobri que quase ela segue a van na estrada
-Olha que ela nem foi convidada
-Quem diria que uma puta ia ficar apegada?
-Pra mim todas elas são putas, pra mim todas elas são putas
-Pra mim todas elas são puta de segunda a segunda
-Pra mim todas elas são putas, pra mim todas elas são putas
-Pra mim todas elas são puta de segunda a segunda
-
-Quando você é garota de programa, isso vicia
-Porque quanto mais você ganha, mais você quer
-
-Tudo, tudo, tudo puta
-Tudo puta, tudo puta, tudo, tudo, tudo puta
-Tudo puta, tudo puta, tudo, tudo, tudo puta
-Tudo puta, tudo puta, tudo, tudo, tudo puta
-Tudo puta, tudo puta, tudo, tudo, tudo"
+lyric = read(file_path, String)
 
 banned_words = ["cu", "cuzao", "cuzaos", "cuzinho", "cuzinhos", "cuzoes", "cuzuda", "cuzudas", "cuzudo", "cuzudos","boceta",
 "bocetada", "bocetadas", "bocetao", "bocetaos", "bocetas", "bocetazinha", "bocetazinhas", "bocetazona", "bocetazonas",
@@ -87,18 +30,18 @@ banned_words = ["cu", "cuzao", "cuzaos", "cuzinho", "cuzinhos", "cuzoes", "cuzud
 "putadas", "putao", "putaos", "putaria", "putarias", "putas", "putinha", "putinhas", "puto", "putoes", "putos", "putazinha",
 "putazinhas", "putazona", "putazonas"]
 
-# Create a regex pattern to match banned words
-regex_pattern = "\\b(" * join(banned_words, "|") * ")\\b"
-regex = Regex(regex_pattern, "i")  # Case-insensitive matching
+function Censor_lyrics(lyric::AbstractString, banned_words::AbstractVector{<:AbstractString})
+    # Create a regex pattern to match banned words
+    regex_pattern = "\\b(" * join(banned_words, "|") * ")\\b"
+    regex = Regex(regex_pattern, "i")  # Case-insensitive matching
 
-function Censor_lyrics(lyric::AbstractString, banned_words::Vector{AbstractString})
     # Normalize the lyric to remove diacritics
     normalized_lyric = Unicode.normalize(lyric, stripmark=true)
     
     # Replace banned words with asterisks
-    censored_lyric = replace(normalized_lyric, regex => c -> "*" ^ length(c))
-    
-    return censored_lyric
+    return replace(normalized_lyric, regex => c -> "*" ^ length(c))
 end
+
+censored_lyric = Censor_lyrics(lyric, banned_words)
 
 println(censored_lyric)
