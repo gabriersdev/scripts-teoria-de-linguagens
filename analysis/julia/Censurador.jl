@@ -1,18 +1,27 @@
 using Unicode
 
-print("Digite o ID da música que deseja censurar: ")
+print("Digite a pasta das músicas que deseja censurar: ")
 flush(stdout)
-music_id = strip(readline())
+input_folder_name = strip(readline())
 
-lyrics_directory = joinpath(@__DIR__, "input", "lyrics-data", "lyrics")
-file_name = endswith(music_id, ".txt") ? music_id : music_id * ".txt"
-file_path = joinpath(lyrics_directory, file_name)
-
-if !isfile(file_path)
-    println("Erro: o arquivo não foi encontrado em: ", file_path)
+print("Digite a pasta das músicas que deseja colocar as músicas censuradas(ou enter para nome padrão): ")
+flush(stdout)
+output_folder_name = strip(readline())
+if isempty(output_folder_name)
+    output_folder_name = input_folder_name * "_censored"
 end
 
-lyric = read(file_path, String)
+input_base_directory = joinpath(@__DIR__, "input")
+output_base_directory = joinpath(@__DIR__, "output_Censurador")
+
+input_lyrics_folder = joinpath(input_base_directory, input_folder_name)
+output_lyrics_folder = joinpath(output_base_directory, output_folder_name)
+
+if !isdir(input_lyrics_folder)
+    println("Erro: A pasta não foi encontrado em: ", input_lyrics_folder)
+end
+
+mkpath(output_lyrics_folder)
 
 banned_words = ["cu", "cuzao", "cuzaos", "cuzinho", "cuzinhos", "cuzoes", "cuzuda", "cuzudas", "cuzudo", "cuzudos","boceta",
 "bocetada", "bocetadas", "bocetao", "bocetaos", "bocetas", "bocetazinha", "bocetazinhas", "bocetazona", "bocetazonas",
@@ -30,22 +39,31 @@ banned_words = ["cu", "cuzao", "cuzaos", "cuzinho", "cuzinhos", "cuzoes", "cuzud
 "putadas", "putao", "putaos", "putaria", "putarias", "putas", "putinha", "putinhas", "puto", "putoes", "putos", "putazinha",
 "putazinhas", "putazona", "putazonas"]
 
-function Censor_lyrics(lyric::AbstractString, banned_words::AbstractVector{<:AbstractString})
-    # Create a regex pattern to match banned words
-    regex_pattern = "\\b(" * join(banned_words, "|") * ")\\b"
-    regex = Regex(regex_pattern, "i")  # Case-insensitive matching
+function build_ban_regex(banned_words::AbstractVector{<:AbstractString})
+    ban_regex_pattern = "\\b(" * join(banned_words, "|") * ")\\b"
+    return Regex(ban_regex_pattern, "i")
+end
 
+function censor_lyrics(lyric::AbstractString, ban_regex::Regex)
     # Normalize the lyric to remove diacritics
     normalized_lyric = Unicode.normalize(lyric, stripmark=true)
     
     # Replace banned words with asterisks
-    return replace(normalized_lyric, regex => c -> "*" ^ length(c))
+    return replace(normalized_lyric, ban_regex => c -> "*" ^ length(c))
 end
 
-censored_lyric = Censor_lyrics(lyric, banned_words)
+ban_regex = build_ban_regex(banned_words)
 
-output_directory = joinpath(@__DIR__, "output_Censurador")
-mkpath(output_directory)
-write(joinpath(output_directory, "98001.txt"), censored_lyric)
+input_lyrics_files = filter(entry -> isfile(joinpath(input_lyrics_folder, entry)), readdir(input_lyrics_folder))
+println("Encontrados ", length(input_lyrics_files), " arquivos em '", input_lyrics_folder, "'.")
 
-println(censored_lyric)
+for file_name in input_lyrics_files
+    input_path = joinpath(input_lyrics_folder, file_name)
+    output_path = joinpath(output_lyrics_folder, file_name)
+
+    lyric = read(input_path, String)
+    censored_lyrics = censor_lyrics(lyric, ban_regex)
+    write(output_path, censored_lyrics)
+end
+
+println("Concluído! Arquivos salvos em: ", output_lyrics_folder)
