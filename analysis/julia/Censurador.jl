@@ -18,7 +18,7 @@ input_lyrics_folder = joinpath(input_base_directory, input_folder_name)
 output_lyrics_folder = joinpath(output_base_directory, output_folder_name)
 
 if !isdir(input_lyrics_folder)
-    println("Erro: A pasta não foi encontrado em: ", input_lyrics_folder)
+    error("Erro: A pasta não foi encontrado em: ", input_lyrics_folder)
 end
 
 mkpath(output_lyrics_folder)
@@ -30,7 +30,7 @@ banned_words = ["cu", "cuzao", "cuzaos", "cuzinho", "cuzinhos", "cuzoes", "cuzud
 "bucetinhas", "bucetoes", "bucetuda", "bucetudas", "bucetudo", "bucetudos","caralha", "caralhada", "caralhadas",
 "caralhao", "caralhaos", "caralhas", "caralhinha", "caralhinhas", "caralhinho", "caralhinhos", "caralho", "caralhoes",
 "caralhos", "caralhozao", "caralhozaos", "caralhozinho", "caralhozinhos", "caralhuda", "caralhudas", "caralhudo",
-"caralhudos","fodido", "fodidos", "fodida", "fodidas", "fodendo", "foda", "fodais", "fodam", "fodamo", "fodamos","fodas", "fode",
+"caralhudos","fodido", "fodidos", "fodida", "fodidas", "foda", "fodais", "fodam", "fodamo", "fodamos","fodas", "fode",
 "fodei", "fodeis", "fodem", "fodemo", "fodemos", "fodendo", "foder", "fodera", "foderam", "foderamo", "foderamos", "foderao",
 "foderas", "foderdes", "foderei", "fodereis", "foderem", "foderemos", "foderes", "foderia", "foderiam", "foderiamos", "foderias",
 "foderieis", "fodermo", "fodermos", "fodes", "fodesse", "fodesseis", "fodessem", "fodessemos", "fodesses", "fodeste", "fodestes",
