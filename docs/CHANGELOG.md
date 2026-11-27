@@ -22,6 +22,7 @@ Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 
 ### Adicionado
 - Criação de `docs/SETUP.md` contendo guia completo de instalação de Node.js, configuração de ambiente e rotinas de testes/auditoria do repositório.
+- Documento de planejamento técnico `docs/planning/NOTEBOOK-METRICS-EXPANSION.md` especificando 7 novos módulos de métricas e visualizações (nível de faixa, efeito feat, morfologia regex, curva de Pareto, riqueza lexical TTR, controle época vs gênero e percentis de latência do benchmark) para enriquecimento de `data-analysis/swearWordsDataAnalysis.ipynb`.
 
 ## [1.7.0] - 2026-11-21
 
