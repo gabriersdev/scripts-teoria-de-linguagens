@@ -122,7 +122,7 @@ npm run analyze:all
 julia analysis/julia/maskSwearWords.jl --export-analysis
 
 # Executa o utilitario pontual para uma faixa especifica
-julia analysis/julia/censorLyrics.jl 98001
+julia analysis/julia/terminalLyricsCensor.jl 98001
 ```
 
 ---

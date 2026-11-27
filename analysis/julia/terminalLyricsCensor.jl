@@ -1,5 +1,5 @@
 # ==============================================================================
-# censorLyrics.jl - Censurador de Letras Musicais (Julia)
+# terminalLyricsCensor.jl - Censurador de Letras Musicais no Terminal (Julia)
 #
 # Script utilitário em camelCase para mascarar termos chulos e palavrões em letras.
 # Padronizado de acordo com:
@@ -8,7 +8,7 @@
 #   - docs/ARCHITECTURE.md (Entrada em input/lyrics-data/lyrics)
 # ==============================================================================
 
-module CensorLyrics
+module TerminalLyricsCensor
 
 using Unicode
 
@@ -216,7 +216,7 @@ end
     main(args::Vector{String}=ARGS)
 
 Ponto de entrada principal para execução interativa ou via linha de comando.
-Uso via CLI: `julia censorLyrics.jl [ID_DA_MUSICA]`
+Uso via CLI: `julia terminalLyricsCensor.jl [ID_DA_MUSICA]`
 """
 function main(args::Vector{String}=ARGS)
     script_dir = @__DIR__
@@ -268,9 +268,9 @@ function main(args::Vector{String}=ARGS)
     return 0
 end
 
-end # module CensorLyrics
+end # module TerminalLyricsCensor
 
 # Executa se for chamado diretamente pelo interpretador Julia
 if abspath(PROGRAM_FILE) == @__FILE__
-    CensorLyrics.main()
+    TerminalLyricsCensor.main()
 end

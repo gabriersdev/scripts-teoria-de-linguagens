@@ -5,7 +5,7 @@ Baseadas no [Style Guide Oficial do Julia](https://docs.julialang.org/en/v1/manu
 ## Padrões de Nomenclatura
 
 - Módulos e Tipos: `CamelCase` (PascalCase). Ex: `module SparseArrays`, `struct UnitRange`.
-- Arquivos e Scripts: `camelCase` em inglês (US). Ex: `maskSwearWords.jl`, `censorLyrics.jl`.
+- Arquivos e Scripts: `camelCase` em inglês (US). Ex: `maskSwearWords.jl`, `terminalLyricsCensor.jl`.
 - Funções: Letras minúsculas ou `camelCase`. Junte palavras sem separadores se legível, ou use sublinhados (`_`) se estritamente necessário. Ex: `maximum`, `isequal`.
 - Funções Mutáveis (Convenção Bang): Adicione `!` às funções que modificam os próprios argumentos. Ex: `sort!(x)`.
 - Macros: Letras minúsculas com sublinhados. Ex: `@timeit_all`.
