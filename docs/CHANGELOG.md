@@ -2,6 +2,27 @@
 
 Todas as alterações relevantes deste projeto são documentadas neste arquivo.
 
+## [Não lançado]
+
+### Corrigido
+- Restauração da estrutura arquitetural de pastas em `analysis/julia/input/lyrics-data/lyrics/`, desfazendo o achatamento indevido de diretórios e restabelecendo a compatibilidade com `maskSwearWords.jl` e o pipeline global `data-analysis/runAnalysisPipeline.py`.
+- Remoção da pasta redundante e de artefatos commitados indevidamente em `analysis/julia/output_Censurador/`.
+- Restauração das métricas de referência e eliminação de caminhos absolutos locais de usuário em `analysis/julia/output/summary.json`.
+
+### Modificado
+- Refatoração, padronização e renomeação de `analysis/julia/terminalLyricsCensor.jl` (anteriormente `Censurador.jl` / `censorLyrics.jl`), adotando convenção `camelCase` alinhada a `maskSwearWords.jl`:
+  - Encapsulamento em módulo `TerminalLyricsCensor` e funções com docstrings completas conforme `docs/CODING-GUIDELINES-JULIA.md`.
+  - Leitura dinâmica de termos a partir de `lib/swear-words.json`.
+  - Preservação da acentuação e integridade textual original (sem `Unicode.normalize` destrutivo na letra inteira).
+  - Regra canônica de mascaramento (preserva 1º caractere e mascara os subsequentes com `*`).
+  - Suporte tanto a execução interativa por prompt quanto a argumentos de linha de comando (`julia terminalLyricsCensor.jl [ID]`).
+- Reestruturação de `README.md`: centralização dos índices de documentação técnica, inclusão de links diretos para todos os guias de codificação e remoção de poluição visual/emojis.
+- Atualização de `docs/ARCHITECTURE.md` para documentar o utilitário de terminal em Julia (`terminalLyricsCensor.jl`).
+- Atualização de `docs/CODING-GUIDELINES-JULIA.md` explicitando a convenção de arquivos de script em `camelCase`.
+
+### Adicionado
+- Criação de `docs/SETUP.md` contendo guia completo de instalação de Node.js, configuração de ambiente e rotinas de testes/auditoria do repositório.
+
 ## [1.7.0] - 2026-11-21
 
 ### Adicionado

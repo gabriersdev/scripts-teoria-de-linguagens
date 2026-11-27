@@ -5,6 +5,7 @@
 - **`/analysis`**: Scripts de análise e mascaramento de palavrões (atividade A05 / F2) implementados nas quatro linguagens escolhidas, cada qual com subdiretórios próprios `/input/lyrics-data` (entrada) e `/output/lyrics`, `/output/summary.json` (métricas consolidadas de desempenho, throughput e linearidade) e `/output/linearity-metrics.csv` (série por faixa para dispersão $O(n)$), consumindo dinamicamente `/lib/swear-words.json`:
   - `analysis/typescript/mask-swear-words.ts`: Implementação em TypeScript (`RegExp` com flags `giu`).
   - `analysis/julia/maskSwearWords.jl`: Implementação em Julia (`SwearWordMasker`, PCRE2 com flag `i`), com flag opcional `--export-analysis` para exportar `output/matches-catalog.csv` mapeando cada ocorrência ao termo canônico.
+  - `analysis/julia/terminalLyricsCensor.jl`: Utilitário interativo e via CLI (`terminalLyricsCensor.jl [ID]`) para consulta e mascaramento individual de faixas com relatório no console.
   - `analysis/java/SwearWordMasker.java`: Implementação em Java (`Pattern` com `CASE_INSENSITIVE | UNICODE_CASE | UNICODE_CHARACTER_CLASS`).
   - `analysis/csharp/`: Projeto .NET 8 em C# (`SwearWordMasker.csproj`, `SwearWordRegexBuilder.cs`, `SwearWordMaskerService.cs`, `Program.cs`) utilizando `RegexOptions.IgnoreCase | RegexOptions.CultureInvariant`.
 - **`/data-analysis`**: Camada de consolidação e análise exploratória dos resultados experimentais:

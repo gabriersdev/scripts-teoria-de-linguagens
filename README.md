@@ -1,99 +1,49 @@
 # Scripts para Teoria de Linguagens
 
-Repositório destinado à mineração, tratamento, curadoria e análise de dados (letras, metadados musicais e ISRC) para uso integrado em pesquisas de teoria de linguagens.
+Repositorio destinado a mineracao, tratamento, curadoria e analise de dados (letras, metadados musicais e ISRC) para uso integrado em pesquisas de teoria de linguagens.
 
 ---
 
-## 📚 Documentação do Projeto
+## Documentacao Tecnica
 
-O repositório é orientado por regras de negócio rígidas e contratos de dados estáticos para garantir reprodutibilidade sem dependência de planos pagos de APIs. Toda a documentação técnica reside em `/docs`:
+O projeto segue especificacoes de arquitetura, contratos estaticos de dados e diretrizes de desenvolvimento detalhadas no diretorio `/docs`:
 
-- [**Esquema de Dados e Atributos (`docs/DATA-SCHEMA.md`)**](docs/DATA-SCHEMA.md): Especificação completa dos atributos de listas (`/lyrics-list`), faixas musicais, ciclo de vida da flag `complete` e metadados gerados (`/lyrics-data`).
-- [**Arquitetura e Diretórios (`docs/ARCHITECTURE.md`)**](docs/ARCHITECTURE.md): Organização do ecossistema de pastas (`/lib`, `/scripts`, `/lyrics-list`, `/lyrics-data`) e fluxo do pipeline de dados.
-- [**Regras de Negócio (`docs/BUSINESS-RULES.md`)**](docs/BUSINESS-RULES.md): Critérios de integridade, token masking de nomes com vírgula, fallback em cascata, rate limits e semântica de flags.
-- [**Diretrizes de Código (`docs/CODING-GUIDELINES-JS.md`)**](docs/CODING-GUIDELINES-JS.md): Padrões de código para TypeScript/JavaScript (nomenclatura, funções puras, ES Modules e formatação).
-- [**Regras de Commit (`docs/COMMIT-RULES.md`)**](docs/COMMIT-RULES.md): Padrões e prefixos de mensagens para commits no Git.
-- [**Changelog do Projeto (`docs/CHANGELOG.md`)**](docs/CHANGELOG.md): Histórico de entregas, refatorações e adições de features.
+- [**Instalacao, Ambiente e Testes (`docs/SETUP.md`)**](docs/SETUP.md): Instrucoes detalhadas para instalacao do Node.js, configuracao de dependencias e execucao de testes e rotinas de auditoria.
+- [**Esquema de Dados e Atributos (`docs/DATA-SCHEMA.md`)**](docs/DATA-SCHEMA.md): Especificacao dos atributos das listas (`/lyrics-list`), faixas musicais, semantica da flag `complete` e metadados (`/lyrics-data`).
+- [**Arquitetura e Diretorios (`docs/ARCHITECTURE.md`)**](docs/ARCHITECTURE.md): Mapeamento dos diretorios (`/analysis`, `/data-analysis`, `/lib`, `/scripts`, `/lyrics-data`) e fluxo do pipeline.
+- [**Regras de Negocio (`docs/BUSINESS-RULES.md`)**](docs/BUSINESS-RULES.md): Criterios de integridade, mascaramento de colaboradores, fallback de APIs, limites de requisicao e regras de deteccao de termos.
+- [**Regras de Commit (`docs/COMMIT-RULES.md`)**](docs/COMMIT-RULES.md): Convencoes baseadas em Conventional Commits para mensagens de historico.
+- [**Changelog do Projeto (`docs/CHANGELOG.md`)**](docs/CHANGELOG.md): Registro cronologico de entregas, refatoracoes e correcoes.
 
----
+### Diretrizes de Codificacao por Linguagem
 
-## 🚀 Como Instalar o Node.js e Executar o Projeto
-
-Para executar os scripts em TypeScript (`.ts`) deste repositório, é necessário ter o ambiente de execução **Node.js** instalado no computador.
-
-### Passo 1: Download e Instalação do Node.js (Windows)
-
-#### Opção A: Pelo Instalador Oficial (Recomendado)
-1. Acesse o site oficial do Node.js: [https://nodejs.org/pt-br/download](https://nodejs.org/pt-br/download).
-2. Baixe a versão marcada como **LTS (Long Term Support)** para Windows (instalador `.msi` 64-bit).
-3. Execute o arquivo `.msi` baixado.
-4. Na tela de instalação, avance clicando em **Next**, aceite os termos de licença e mantenha os caminhos padrão.
-5. Na etapa de seleção de recursos, certifique-se de que a opção **"Add to PATH"** esteja selecionada (ativada por padrão).
-6. Conclua a instalação clicando em **Install** e depois em **Finish**.
-
-#### Opção B: Pelo Windows Terminal (Winget)
-Se preferir instalar via linha de comando, abra o PowerShell e execute:
-```powershell
-winget install OpenJS.NodeJS.LTS
-```
+- [**TypeScript / JavaScript (`docs/CODING-GUIDELINES-JS.md`)**](docs/CODING-GUIDELINES-JS.md)
+- [**Julia (`docs/CODING-GUIDELINES-JULIA.md`)**](docs/CODING-GUIDELINES-JULIA.md)
+- [**Python (`docs/CODING-GUIDELINES-PY.md`)**](docs/CODING-GUIDELINES-PY.md)
+- [**Java (`docs/CODING-GUIDELINES-JAVA.md`)**](docs/CODING-GUIDELINES-JAVA.md)
+- [**C# (`docs/CODING-GUIDELINES-CSHARP.md`)**](docs/CODING-GUIDELINES-CSHARP.md)
 
 ---
 
-### Passo 2: Verificar a Instalação
+## Inicio Rapido
 
-Abra uma nova janela do terminal (PowerShell, CMD ou Git Bash) e execute:
+Para o passo a passo completo de instalacao do Node.js e execucao dos testes e auditorias do sistema, consulte o guia dedicado em [**`docs/SETUP.md`**](docs/SETUP.md).
+
+### Comandos Principais
+
 ```bash
-node -v
-npm -v
-```
-Se a instalação ocorreu corretamente, as versões do Node.js (ex.: `v20.x` ou `v22.x`) e do npm serão exibidas.
-
----
-
-### Passo 3: Instalar as Dependências do Projeto
-
-No terminal, navegue até a pasta raiz do projeto e instale as dependências executando:
-```bash
+# Instalacao de dependencias
 npm install
+
+# Auditoria de completude do corpus
+npm run audit
+
+# Verificacao e deteccao de faixas duplicadas
+npm run duplicates
+
+# Teste por amostragem de extracao de letras
+npm run verify:lyrics -- 5
+
+# Execucao do pipeline multilingue de mascaramento e geracao de datasets
+npm run analyze:all
 ```
-
----
-
-### Passo 4: Executar os Scripts
-
-Os scripts TypeScript utilizam a ferramenta `tsx` para execução sob demanda (sem necessidade de compilar manualmente arquivos para JavaScript).
-
-#### 1. Executar o Pipeline Mestre de Extração (Metadados e Letras)
-Processa automaticamente as faixas pendentes nos arquivos de `/lyrics-list`:
-```bash
-npx tsx scripts/pipeline-extractor.ts
-```
-
-#### 2. Consultar Metadados de uma Música Específica
-Consulta e consolida ISRC, duração, ano e capa nos provedores (MusicBrainz, iTunes e Deezer):
-```bash
-npx tsx scripts/track-metadata-service.ts "A Minha Menina" "Os Mutantes"
-```
-
-#### 3. Consultar Letra de uma Música Específica
-Consulta LRCLIB, lyrics.ovh e Genius com filtros de idioma em português:
-```bash
-npx tsx scripts/lyrics-service.ts "A Minha Menina" "Os Mutantes"
-```
-
-#### 4. Inspecionar por Amostragem Aleatória de Letras
-Sorteia faixas das listas para testar a taxa de assertividade e os provedores:
-```bash
-# Sorteia 5 faixas de qualquer gênero
-npx tsx scripts/sample-lyrics-verifier.ts 5
-
-# Sorteia 10 faixas filtrando apenas listas de trap
-npx tsx scripts/sample-lyrics-verifier.ts 10 trap
-```
-
-#### 5. Assistente Interativo de Preenchimento Manual de Artistas
-Auxilia na curadoria humana com sugestões em tempo real do iTunes para artistas vazios:
-```bash
-npx tsx scripts/manual-artist-fill.ts
-```
-
